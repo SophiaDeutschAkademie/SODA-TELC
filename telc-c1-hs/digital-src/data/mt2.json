@@ -1,0 +1,1038 @@
+{
+ "id": 2,
+ "roman": "II",
+ "lesen": {
+  "t1": {
+   "instruction": "Lesen Sie den folgenden Text. Welche der Sätze a–h gehören in die Lücken 1–6? Es gibt jeweils nur eine richtige Lösung. Zwei Sätze können nicht zugeordnet werden. Markieren Sie Ihre Lösungen für die Aufgaben 1–6 auf dem Antwortbogen. Lücke (0) ist ein Beispiel.",
+   "intro": "Im Online-Magazin Ihrer Hochschule lesen Sie folgenden Beitrag:",
+   "title": "Was römischen Beton so haltbar macht",
+   "paragraphs": [
+    "Fast zweitausend Jahre nach ihrer Fertigstellung überspannt die Kuppel des Pantheons in Rom einen Raum von gut 43 Metern Durchmesser – ohne eine einzige Stahlstange. {{0}} Moderne Stahlbetonbauten dagegen zeigen oft schon nach wenigen Jahrzehnten Risse, weil eindringendes Wasser den Stahl rosten lässt.",
+    "Lange Zeit galt vor allem eine Zutat als Erklärung für die erstaunliche Haltbarkeit des römischen Betons. {{1}} Diese sogenannte Puzzolanerde reagiert mit Kalk und Wasser zu besonders beständigen Mineralen.",
+    "Besonders rätselhaft erschienen Forschenden die antiken Hafenanlagen, die seit zwei Jahrtausenden im Meer stehen. {{2}} Die Geologin Marie Jackson von der Universität Utah fand heraus, warum: Meerwasser sickert langsam in den Beton ein und lässt darin neue Kristalle wachsen. Statt das Gefüge zu zerstören, verdichtet das Salzwasser es also mit der Zeit.",
+    "Für die Haltbarkeit römischer Mauern an Land fehlte damit aber noch immer eine überzeugende Erklärung. {{3}} Im Mörtel vieler antiker Bauwerke finden sich nämlich kleine weiße Klümpchen aus Kalk, oft nur wenige Millimeter groß. Bis dahin sah man in ihnen ein Zeichen nachlässiger Arbeit: Die Römer hätten ihre Zutaten schlicht nicht gründlich genug vermischt.",
+    "Masic und seine Kollegen kamen zu einem anderen Schluss. {{4}} Dabei entsteht große Hitze, und ein Teil des Kalks bleibt in Klümpchen zurück. Dringt später Wasser durch einen feinen Riss ein, löst es Kalk aus diesen Klümpchen, der sich in der Spalte als Kalkstein ablagert und sie verschließt. Im Labor schlossen sich Risse in Proben nach diesem Rezept innerhalb von zwei Wochen von selbst, während sie in Vergleichsproben offen blieben.",
+    "Für die Bauindustrie ist das mehr als eine historische Kuriosität. {{5}} Ein Beton, der sich selbst repariert, müsste seltener erneuert werden und könnte diesen Anteil deutlich senken. {{6}} Ob sich das antike Rezept auf die Anforderungen moderner Bauwerke übertragen lässt, muss sich allerdings erst noch zeigen."
+   ],
+   "sentences": [
+    {
+     "letter": "a",
+     "text": "Ihrer Ansicht nach verwendeten die Römer ungelöschten Kalk und mischten ihn direkt mit Asche und Wasser."
+    },
+    {
+     "letter": "b",
+     "text": "Während moderner Beton im Salzwasser allmählich zerfällt, scheinen sie mit den Jahren sogar fester zu werden."
+    },
+    {
+     "letter": "c",
+     "text": "Bei der Herstellung von Zement entstehen weltweit rund acht Prozent aller Kohlendioxid-Emissionen."
+    },
+    {
+     "letter": "d",
+     "text": "Die Römer hielten ihre Bautechnik streng geheim, weshalb sich in keiner antiken Schrift ein Hinweis auf die verwendeten Materialien findet."
+    },
+    {
+     "letter": "e",
+     "text": "Schon der Baumeister Vitruv empfahl im ersten Jahrhundert vor Christus eine besondere Asche aus der Gegend um Pozzuoli bei Neapel."
+    },
+    {
+     "letter": "f",
+     "text": "Die Klümpchen bestehen demnach aus Asche, die bei der Verarbeitung nicht vollständig reagiert hat."
+    },
+    {
+     "letter": "g",
+     "text": "Erste Versuche mit modernen Mischungen, denen ungelöschter Kalk zugesetzt wurde, verliefen bereits vielversprechend."
+    },
+    {
+     "letter": "h",
+     "text": "Ein Team um den Materialforscher Admir Masic vom Massachusetts Institute of Technology hat sie 2023 möglicherweise gefunden."
+    }
+   ],
+   "example": {
+    "letter": "z",
+    "text": "Sie gilt bis heute als größte Kuppel der Welt aus unbewehrtem Beton."
+   },
+   "items": [
+    {
+     "no": "1",
+     "answer": "e"
+    },
+    {
+     "no": "2",
+     "answer": "b"
+    },
+    {
+     "no": "3",
+     "answer": "h"
+    },
+    {
+     "no": "4",
+     "answer": "a"
+    },
+    {
+     "no": "5",
+     "answer": "c"
+    },
+    {
+     "no": "6",
+     "answer": "g"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Lesen Sie den folgenden Text. In welchem Textabsatz a–e finden Sie die Antworten auf die Fragen 7–12? Es gibt jeweils nur eine richtige Lösung. Jeder Absatz kann Antworten auf mehrere Fragen enthalten. Markieren Sie Ihre Lösungen für die Aufgaben 7–12 auf dem Antwortbogen.",
+   "title": "Bezahlen ohne Bargeld – ein Fortschritt mit Risiken",
+   "sections": [
+    {
+     "letter": "a",
+     "text": "Kaum ein Land hing so sehr am Bargeld wie Deutschland. Noch vor gut zehn Jahren wurden hierzulande vier von fünf Einkäufen an der Ladenkasse mit Münzen und Scheinen beglichen, und „Nur Bares ist Wahres“ war mehr als ein Sprichwort. Inzwischen hat sich das spürbar verschoben: Nach Erhebungen der Bundesbank wird nur noch etwa jeder zweite Einkauf bar bezahlt, bei größeren Beträgen greifen die meisten längst zur Karte oder zum Smartphone. Verschwunden ist das Bargeld damit aber keineswegs; gerade bei kleinen Summen bleibt es für viele das Zahlungsmittel der Wahl. Wie es anders aussehen kann, zeigt Schweden. Dort zahlt nur noch eine kleine Minderheit bar, viele Geschäfte nehmen gar keine Scheine mehr an, und selbst die Kollekte in der Kirche wird per App eingesammelt. Ich halte es dennoch für einen Fehler, das Bargeld leichtfertig aufzugeben."
+    },
+    {
+     "letter": "b",
+     "text": "Dass so viele Menschen umsteigen, hat gute Gründe. Die Karte ist bequem, niemand muss nach passenden Münzen suchen, und wer sein Konto in einer App verwaltet, behält seine Ausgaben im Blick. An der Kasse geht es schneller voran, und im Ausland entfällt der lästige Umtausch. In der Pandemie kam ein weiteres Argument hinzu: Viele wollten keine Scheine mehr anfassen, die durch zahllose Hände gegangen waren, und Geschäfte baten ausdrücklich darum, kontaktlos zu zahlen. Auch für den Handel ist Bargeld weniger günstig, als es scheint. Es muss gezählt, im Tresor aufbewahrt, versichert und von Sicherheitsdiensten zur Bank gebracht werden, und jede Kasse, in der abends Geld liegt, lockt Einbrecher an. Wer nur auf die Gebühren der Kartenanbieter schaut, übersieht diese versteckten Kosten. Immer mehr Cafés nehmen deshalb nur noch Karten an."
+    },
+    {
+     "letter": "c",
+     "text": "Ich will nicht verschweigen, dass ich selbst längst zu den Kartenzahlern gehöre. In meinem Portemonnaie steckt selten mehr als ein Zwanzigeuroschein, und an manchen Tagen merke ich erst abends, dass ich überhaupt kein Bargeld ausgegeben habe. Auch die Kritiker des Bargelds haben in einem Punkt recht: Wer schwarzarbeitet oder Steuern hinterziehen will, tut das bevorzugt mit Scheinen, die keine Spuren hinterlassen. Ein Allheilmittel gegen solche Geschäfte wäre die Abschaffung des Bargelds allerdings nicht, denn Betrüger finden erfahrungsgemäß andere Wege. Ich verstehe auch, dass viele Jüngere, die mit dem Smartphone aufgewachsen sind, die ganze Debatte für nostalgisch halten. Für die meisten Menschen geht es beim Bezahlen ohnehin um etwas anderes: um Gewohnheit, um Kontrolle und um das Gefühl, selbst entscheiden zu können, wie sie mit ihrem Geld umgehen."
+    },
+    {
+     "letter": "d",
+     "text": "Genau diese Entscheidungsfreiheit sehe ich in Gefahr. Digitales Bezahlen ist nur möglich, solange Strom, Netz und Rechenzentren funktionieren. Vor wenigen Jahren fielen in Deutschland tagelang Tausende Kartenlesegeräte aus; in manchen Supermärkten konnte man nur noch mit Bargeld einkaufen. Bei einem großflächigen Stromausfall oder einem gezielten Cyberangriff wäre die Lage ungleich ernster: Wer dann kein Bargeld im Haus hat, steht im schlimmsten Fall ohne Zahlungsmittel da. Dazu kommt, dass ein großer Teil aller Kartenzahlungen über einige wenige Konzerne läuft, die meist nicht in Europa sitzen. Wer allein auf sie setzt, liefert sich ihren Preisen, ihren Regeln und ihrer Technik aus. Und schließlich hinterlässt jede digitale Zahlung Daten, aus denen sich ablesen lässt, wer wann wo was gekauft hat. Mit Münzen und Scheinen bleibt der Einkauf beim Bäcker dagegen eine Sache zwischen Kundin und Verkäufer."
+    },
+    {
+     "letter": "e",
+     "text": "Was also ist zu tun? Niemand muss das digitale Bezahlen bremsen; es kommt vielmehr darauf an, die Wahlfreiheit zu sichern. Geschäfte, die Waren des täglichen Bedarfs verkaufen, also Supermärkte, Apotheken oder Bäckereien, sollten gesetzlich verpflichtet werden, Bargeld anzunehmen. Banken und Gemeinden müssten dafür sorgen, dass auch auf dem Land ein Geldautomat in erreichbarer Nähe bleibt. Gerade ältere Menschen, die mit Apps wenig anfangen können, wären sonst von einem Teil des Alltags ausgeschlossen. Und Kinder lernen den Wert des Geldes vermutlich noch immer am besten, wenn sie Münzen in der Hand halten. Selbst in Schweden setzt sich die Zentralbank inzwischen dafür ein, dass man Lebensmittel und Medikamente weiterhin bar bezahlen kann. Wer das Bargeld hierzulande vorschnell abschreibt, wiederholt also einen Fehler, den andere gerade mühsam korrigieren."
+    }
+   ],
+   "exampleLead": "In welchem Abschnitt …",
+   "example": {
+    "stem": "nennt die Autorin ein Land, in dem nur noch wenige Menschen bar bezahlen?",
+    "answer": "a"
+   },
+   "itemsLead": "In welchem Abschnitt …",
+   "items": [
+    {
+     "no": "7",
+     "stem": "gibt die Autorin zu, dass sie selbst kaum noch mit Münzen und Scheinen bezahlt?",
+     "answer": "c"
+    },
+    {
+     "no": "8",
+     "stem": "fordert die Autorin, bestimmte Geschäfte zur Annahme von Bargeld zu verpflichten?",
+     "answer": "e"
+    },
+    {
+     "no": "9",
+     "stem": "erläutert die Autorin, warum Bargeld für Händler teurer ist, als viele glauben?",
+     "answer": "b"
+    },
+    {
+     "no": "10",
+     "stem": "sieht die Autorin eine Gefahr darin, dass nur wenige Firmen den Zahlungsverkehr beherrschen?",
+     "answer": "d"
+    },
+    {
+     "no": "11",
+     "stem": "nennt die Autorin einen gesundheitlichen Grund dafür, auf Bargeld zu verzichten?",
+     "answer": "b"
+    },
+    {
+     "no": "12",
+     "stem": "stellt die Autorin fest, dass Bargeld trotz aller Veränderungen noch häufig genutzt wird?",
+     "answer": "a"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Lesen Sie den folgenden Text und die Aussagen 13–23. Welche der Aussagen sind richtig (r), falsch (f) oder gar nicht im Text enthalten (–)? Es gibt jeweils nur eine richtige Lösung. Markieren Sie Ihre Lösungen für die Aufgaben 13–23 auf dem Antwortbogen.",
+   "title": "",
+   "paragraphs": [
+    "Wer in einer deutschen Großstadt nachts zum Himmel blickt, sieht mit etwas Glück ein paar Dutzend Sterne. In einer klaren Nacht fernab jeder Siedlung wären es mehrere Tausend, dazu das schimmernde Band der Milchstraße. Für einen großen Teil der Menschheit ist dieser Anblick inzwischen eine Seltenheit geworden. Einer viel beachteten Studie zufolge kann ein Drittel der Weltbevölkerung die Milchstraße nicht mehr mit bloßem Auge erkennen, in Europa sind es sogar rund sechzig Prozent. Wer jünger als dreißig ist und in einer Stadt aufwuchs, hat das Sternenband womöglich noch nie mit eigenen Augen gesehen.",
+    "Und die Nacht wird weiter heller. Satelliten erfassen zwar das Licht, das von der Erde nach oben abstrahlt, doch für den bläulichen Anteil moderner Leuchtdioden sind ihre Sensoren kaum empfindlich. Aufschlussreicher sind deshalb die Meldungen von Zehntausenden Menschen in aller Welt, die in regelmäßigen Abständen notieren, welche Sterne sie noch erkennen können. Ihre Beobachtungen legen nahe, dass die Helligkeit des Nachthimmels zwischen 2011 und 2022 um knapp zehn Prozent pro Jahr zugenommen hat – deutlich schneller, als die Satellitendaten vermuten ließen.",
+    "Ausgerechnet eine Technik, die als Fortschritt gefeiert wurde, hat diese Entwicklung beschleunigt. Leuchtdioden verbrauchen weit weniger Strom als die alten Natriumdampflampen, und viele Gemeinden haben ihre Straßenbeleuchtung in den vergangenen Jahren umgerüstet. Doch die Einsparung verleitet dazu, mehr und heller zu beleuchten: Parkplätze, Fassaden, Werbetafeln und Gärten werden nun die ganze Nacht angestrahlt, weil es kaum noch etwas kostet. Fachleute sprechen von einem Rebound-Effekt. Zudem enthält das Licht vieler Leuchtdioden einen hohen Blauanteil, der in der Atmosphäre stärker gestreut wird als gelbes Licht und den Himmel deshalb besonders aufhellt.",
+    "Genau genommen lassen sich dabei zwei Formen der Belastung unterscheiden. Da ist zum einen das direkte Licht einzelner Lampen, das blendet und in Räume fällt, in denen es nichts zu suchen hat. Zum anderen bildet sich über jeder Stadt eine sogenannte Lichtglocke: Licht, das nach oben entweicht, wird an Staub und Wassertröpfchen in der Luft gestreut und hellt den Himmel großflächig auf. Bei Bewölkung verstärkt sich der Effekt sogar, weil die Wolken das Licht zurückwerfen. Selbst Dörfer, die Dutzende Kilometer von einer Großstadt entfernt liegen, erleben deshalb kaum noch eine wirklich dunkle Nacht.",
+    "„Für viele Tiere ist künstliches Licht eine Falle“, sagt Lena Hartwig, die als Biologin an einer Universität die Folgen nächtlicher Beleuchtung erforscht. Nachtaktive Insekten orientieren sich am Mond und an den Sternen; eine Straßenlaterne lenkt sie von ihrem Kurs ab. Viele umkreisen die Lampe, bis sie erschöpft sind oder gefressen werden. Nach einer oft zitierten Schätzung sterben in Deutschland in einer einzigen Sommernacht rund eine Milliarde Insekten an künstlichen Lichtquellen. Das hat Folgen für Pflanzen, die auf nächtliche Bestäuber angewiesen sind: In einem Schweizer Experiment besuchten Insekten unter Straßenlaternen deutlich weniger Blüten, und die Pflanzen bildeten weniger Früchte als auf unbeleuchteten Vergleichsflächen.",
+    "Betroffen sind auch Vögel. Viele Arten ziehen nachts und nutzen dabei die Sterne als Kompass. Hell erleuchtete Gebäude locken sie an; manche kreisen stundenlang um hohe Türme, bis sie entkräftet zu Boden gehen, andere prallen gegen Glasfassaden.",
+    "In einigen Städten werden deshalb während der Hauptzugzeit nachts die Lichter an Hochhäusern gelöscht. Viele Fledermäuse wiederum meiden beleuchtete Bereiche und finden dadurch weniger Nahrung. An Küsten verlieren frisch geschlüpfte Meeresschildkröten die Orientierung, weil sie dem hellsten Horizont folgen, und der liegt heute oft nicht mehr über dem Meer, sondern über der Uferpromenade.",
+    "Und der Mensch? Unsere innere Uhr wird vor allem durch Licht gestellt. Am Abend schüttet der Körper das Hormon Melatonin aus, das uns müde macht; helles, besonders bläuliches Licht bremst diese Ausschüttung. Ob das Licht, das von der Straße ins Schlafzimmer fällt, tatsächlich krank macht, ist allerdings umstritten. Hartwig mahnt zur Vorsicht: „Es gibt Hinweise auf Zusammenhänge mit Schlafstörungen und Stoffwechselerkrankungen, aber die meisten Studien zeigen nur Korrelationen. Wer in einer hell erleuchteten Innenstadt wohnt, lebt meist auch sonst anders als jemand auf dem Land.“",
+    "Auch für die Wissenschaft selbst ist der helle Himmel ein Problem. Viele traditionsreiche Sternwarten in Europa liegen heute mitten in Städten und dienen fast nur noch der Lehre oder der Öffentlichkeitsarbeit. Für ihre Forschung weichen Astronominnen und Astronomen auf abgelegene Standorte aus; die Europäische Südsternwarte etwa betreibt ihre größten Teleskope in der chilenischen Atacamawüste, wo die Luft trocken ist und die nächste Großstadt weit entfernt liegt.",
+    "Dass es auch anders geht, zeigen die sogenannten Sternenparks. Als einer der ersten in Deutschland wurde 2014 das Westhavelland in Brandenburg anerkannt; weitere, etwa in der Rhön und in der Eifel, kamen hinzu. Die Gemeinden dort verpflichten sich, ihre Beleuchtung schrittweise anzupassen, ohne dass die Straßen deshalb dunkel bleiben müssten. Für den Tourismus ist das ein Gewinn: Hobbyastronomen nehmen lange Anfahrten in Kauf, um einmal einen Himmel ohne Lichtglocke zu erleben, und manche Pension wirbt inzwischen mit Sternführungen statt mit Wellnessangeboten.",
+    "Auch Städte können viel tun. Fulda wurde 2019 als erste deutsche „Sternenstadt“ ausgezeichnet. Neue Laternen strahlen dort nur noch nach unten, ihr Licht ist warmweiß statt bläulich, und in der zweiten Nachthälfte wird es gedimmt. „Entscheidend ist, Licht nur dort einzusetzen, wo es gebraucht wird, nur dann, wenn es gebraucht wird, und nicht heller als nötig“, sagt Hartwig. Viele Maßnahmen seien einfach umzusetzen: Abgeschirmte Leuchten verhindern, dass Licht zur Seite oder in den Himmel fällt, und Bewegungsmelder sorgen dafür, dass Wege nur beleuchtet sind, solange jemand sie benutzt.",
+    "Gesetzlich ist das Thema lange vernachlässigt worden. Seit 2021 verlangt das Bundesnaturschutzgesetz zwar, dass neue Beleuchtungsanlagen an Straßen und Wegen Insekten möglichst wenig schaden. Für private Grundstücke gibt es aber kaum Vorgaben, sodass jeder seinen Garten oder seine Hausfassade nach Belieben anstrahlen kann. Frankreich ist hier weiter: Dort müssen beleuchtete Schaufenster und Werbeanlagen schon seit Jahren in den Nachtstunden ausgeschaltet werden.",
+    "Hartwig sieht dennoch Grund zur Zuversicht, denn jeder Einzelne kann etwas beitragen. Gartenleuchten mit Zeitschaltuhr, warmweiße Lampen und Vorhänge, die das Licht im Haus halten, kosten wenig. „Niemand muss im Dunkeln stolpern“, betont sie. „Es geht nicht darum, auf Licht zu verzichten, sondern darum, es klüger zu nutzen. Anders als bei vielen Umweltproblemen verschwindet die Belastung in dem Moment, in dem man das Licht ausschaltet.“ Und sie fügt hinzu: „Wir müssen nur wieder lernen, dass zur Nacht auch die Dunkelheit gehört.“"
+   ],
+   "itemsLead": "Aussagen 13–23",
+   "items": [
+    {
+     "no": "13",
+     "text": "In Europa kann die Mehrheit der Menschen die Milchstraße nicht mehr sehen.",
+     "answer": "r"
+    },
+    {
+     "no": "14",
+     "text": "Satelliten erfassen das Licht moderner Leuchtdioden besonders zuverlässig.",
+     "answer": "f"
+    },
+    {
+     "no": "15",
+     "text": "Weil Leuchtdioden wenig Strom verbrauchen, wird heute mehr beleuchtet als früher.",
+     "answer": "r"
+    },
+    {
+     "no": "16",
+     "text": "Im Schweizer Versuch bildeten die Pflanzen unter den Laternen mehr Früchte.",
+     "answer": "f"
+    },
+    {
+     "no": "17",
+     "text": "Seit Hochhäuser nachts dunkel bleiben, sterben nur noch halb so viele Zugvögel.",
+     "answer": "n"
+    },
+    {
+     "no": "18",
+     "text": "Hartwig hält die gesundheitlichen Folgen nächtlicher Beleuchtung für ausreichend erforscht.",
+     "answer": "f"
+    },
+    {
+     "no": "19",
+     "text": "Die Zahl der Besucher in den Sternenparks hat sich seit ihrer Gründung verdoppelt.",
+     "answer": "n"
+    },
+    {
+     "no": "20",
+     "text": "Fulda hat für die Umrüstung seiner Laternen Fördergeld vom Bund erhalten.",
+     "answer": "n"
+    },
+    {
+     "no": "21",
+     "text": "Für private Grundstücke gelten in Deutschland strenge Regeln zur Beleuchtung.",
+     "answer": "f"
+    },
+    {
+     "no": "22",
+     "text": "Frankreich will seine Regeln demnächst auch auf private Gärten ausweiten.",
+     "answer": "n"
+    },
+    {
+     "no": "23",
+     "text": "Hartwig hält die Folgen künstlichen Lichts für schnell umkehrbar.",
+     "answer": "r"
+    }
+   ],
+   "headline": {
+    "instruction": "Welche der Überschriften a, b oder c trifft die Aussage des Textes am besten? Markieren Sie Ihre Lösung für die Aufgabe 24 auf dem Antwortbogen.",
+    "no": "24",
+    "options": {
+     "a": "Zu viel Licht bei Nacht – Folgen und Auswege",
+     "b": "Warum Leuchtdioden das Problem heller Nächte lösen",
+     "c": "Sternenparks als neues Reiseziel für Urlauber"
+    },
+    "answer": "a"
+   }
+  },
+  "sb": {
+   "instruction": "Lesen Sie den folgenden Text. Welche Lösung (a, b, c oder d) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 25–46 auf dem Antwortbogen. Lücke (0) ist ein Beispiel.",
+   "title": "Ein Garten für Kinder",
+   "paragraphs": [
+    "Kaum ein deutsches Wort hat eine so weite Reise {{0}} wie „Kindergarten“. In London, New York oder Sydney benutzt man es ganz selbstverständlich, meist ohne zu ahnen, {{25}} es aus dem Deutschen stammt. {{26}} hat es Friedrich Fröbel, ein Pädagoge aus Thüringen, {{27}} es sein Leben lang um eine Frage ging: Wie lernen kleine Kinder? Von {{28}} strenger Disziplin hielt er wenig. Kinder lernen seiner Überzeugung nach nicht durch Stillsitzen und Zuhören. {{29}} erkunden sie die Welt im Spiel, mit allen Sinnen und aus eigenem Antrieb.",
+    "1840 verwendete Fröbel das Wort {{30}} für eine Einrichtung im thüringischen Bad Blankenburg. Der Name war Programm: Kinder sollten dort {{31}} Pflanzen gepflegt werden, die man nicht in eine Form zwingt, sondern beim Wachsen unterstützt. Für das Spiel entwickelte Fröbel besondere Materialien, {{32}} er „Spielgaben“ nannte – einfache Körper wie Ball, Kugel, Walze und Würfel, {{33}} Kinder Formen, Zahlen und Gesetzmäßigkeiten entdecken sollten. Manche Holzbaukästen, mit denen Kinder {{34}} spielen, gehen auf diese Ideen zurück.",
+    "Nicht überall stieß Fröbel auf Zustimmung. 1851 {{35}} Preußen die Kindergärten, weil die Behörden fürchteten, dort würden Unglauben und Umsturz gelehrt. Auslöser war {{36}} Anschein nach eine Verwechslung: Ein Neffe Fröbels hatte Schriften verfasst, die als gefährlich {{37}}. Fröbel selbst erlebte das Ende des Verbots nicht mehr. Er starb 1852, acht Jahre bevor es {{38}} wurde.",
+    "Danach breitete sich die Idee umso rascher aus. Engagierte Frauen wie Bertha von Marenholtz-Bülow warben in ganz Europa {{39}} Fröbels Pädagogik, und deutsche Auswanderer brachten sie über den Atlantik. Schon 1856 hatte Margarethe Schurz in Wisconsin den ersten Kindergarten der Vereinigten Staaten eröffnet – zu einer Zeit, {{40}} dort noch kaum jemand an Bildung für Kleinkinder dachte.",
+    "Heute besucht in Deutschland fast jedes Kind vor der Einschulung eine Kita. Das Wort „Kindergarten“ hört man hierzulande zwar immer seltener, {{41}} im Englischen {{42}} es sich bis heute gehalten. Ob Fröbel das gefallen {{43}}? Gefreut hätte ihn {{44}}, dass Kinder nicht mehr als kleine Erwachsene gelten, {{45}} man möglichst früh das Stillsitzen beibringen muss. Sein Grundgedanke, dass Lernen im Spiel beginnt, ist {{46}} aktuell wie vor bald zweihundert Jahren."
+   ],
+   "example": {
+    "options": {
+     "a": "gefahren",
+     "b": "gegangen",
+     "c": "gemacht",
+     "d": "gereist"
+    },
+    "answer": "c"
+   },
+   "items": [
+    {
+     "no": "25",
+     "options": {
+      "a": "damit",
+      "b": "das",
+      "c": "dass",
+      "d": "weil"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "26",
+     "options": {
+      "a": "Geprägt",
+      "b": "Geprüft",
+      "c": "Gestempelt",
+      "d": "Gezeichnet"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "27",
+     "options": {
+      "a": "dem",
+      "b": "den",
+      "c": "der",
+      "d": "dessen"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "28",
+     "options": {
+      "a": "all zu",
+      "b": "allzu",
+      "c": "Allzu",
+      "d": "alzu"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "29",
+     "options": {
+      "a": "Andernfalls",
+      "b": "Ebenso",
+      "c": "Trotzdem",
+      "d": "Vielmehr"
+     },
+     "answer": "d"
+    },
+    {
+     "no": "30",
+     "options": {
+      "a": "zum ersten mal",
+      "b": "zum ersten Mal",
+      "c": "zum Ersten Mal",
+      "d": "zum erstenmal"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "31",
+     "options": {
+      "a": "als",
+      "b": "denn",
+      "c": "so",
+      "d": "wie"
+     },
+     "answer": "d"
+    },
+    {
+     "no": "32",
+     "options": {
+      "a": "das",
+      "b": "denen",
+      "c": "der",
+      "d": "die"
+     },
+     "answer": "d"
+    },
+    {
+     "no": "33",
+     "options": {
+      "a": "an dem",
+      "b": "an denen",
+      "c": "an deren",
+      "d": "an dessen"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "34",
+     "options": {
+      "a": "heut zutage",
+      "b": "heute zu Tage",
+      "c": "heutzutage",
+      "d": "Heutzutage"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "35",
+     "options": {
+      "a": "verbat",
+      "b": "verbietet",
+      "c": "verbot",
+      "d": "verboten"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "36",
+     "options": {
+      "a": "allem",
+      "b": "allemal",
+      "c": "allen",
+      "d": "aller"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "37",
+     "options": {
+      "a": "befanden",
+      "b": "gaben",
+      "c": "galt",
+      "d": "galten"
+     },
+     "answer": "d"
+    },
+    {
+     "no": "38",
+     "options": {
+      "a": "aufgehoben",
+      "b": "enthoben",
+      "c": "erhoben",
+      "d": "hervorgehoben"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "39",
+     "options": {
+      "a": "an",
+      "b": "auf",
+      "c": "für",
+      "d": "gegen"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "40",
+     "options": {
+      "a": "als",
+      "b": "ob",
+      "c": "wann",
+      "d": "wenn"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "41",
+     "options": {
+      "a": "denn",
+      "b": "doch",
+      "c": "oder",
+      "d": "sondern"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "42",
+     "options": {
+      "a": "hat",
+      "b": "ist",
+      "c": "wird",
+      "d": "würde"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "43",
+     "options": {
+      "a": "gehabt",
+      "b": "hatte",
+      "c": "hätte",
+      "d": "wäre"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "44",
+     "options": {
+      "a": "vermutend",
+      "b": "vermutet",
+      "c": "vermutlich",
+      "d": "Vermutungen"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "45",
+     "options": {
+      "a": "dem",
+      "b": "denen",
+      "c": "derjenigen",
+      "d": "die"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "46",
+     "options": {
+      "a": "als",
+      "b": "je",
+      "c": "noch",
+      "d": "so"
+     },
+     "answer": "d"
+    }
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören die Meinungen von acht Personen. Sie hören die Meinungen nur einmal. Entscheiden Sie beim Hören, welche Aussage (a–j) zu welcher Person (Sprecher/in 1–8) passt. Zwei Aussagen passen nicht. Markieren Sie Ihre Lösungen für die Aufgaben 47–54 auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aussagen a–j. Sie haben dazu eine Minute Zeit.",
+   "title": "Wohnen im Studium",
+   "statements": [
+    {
+     "letter": "a",
+     "text": "Bewerber aus dem Ausland haben es bei der Wohnungssuche besonders schwer."
+    },
+    {
+     "letter": "b",
+     "text": "Möblierte Kleinstapartments sind für Studienanfänger die beste Lösung."
+    },
+    {
+     "letter": "c",
+     "text": "Ein Wohnheim braucht Angebote, die die Bewohner miteinander ins Gespräch bringen."
+    },
+    {
+     "letter": "d",
+     "text": "Die Höhe der Mieten hat bei der Wahl meines Studienorts den Ausschlag gegeben."
+    },
+    {
+     "letter": "e",
+     "text": "Wer bei den Eltern wohnt, spart Geld, verpasst aber einen Teil des Studentenlebens."
+    },
+    {
+     "letter": "f",
+     "text": "Ein Zimmer gegen Hilfe im Alltag kann für beide Seiten ein Gewinn sein."
+    },
+    {
+     "letter": "g",
+     "text": "Alle Studienanfänger sollten im ersten Jahr in einem Wohnheim wohnen, damit sie leichter Anschluss finden."
+    },
+    {
+     "letter": "h",
+     "text": "Das Zusammenleben mit Fremden hat mir beigebracht, Kompromisse einzugehen."
+    },
+    {
+     "letter": "i",
+     "text": "Leer stehende Bürogebäude könnten zu Wohnraum für Studierende umgebaut werden."
+    },
+    {
+     "letter": "j",
+     "text": "Der Staat müsste deutlich mehr Geld in günstige Wohnheimplätze investieren."
+    }
+   ],
+   "items": [
+    {
+     "no": "47",
+     "label": "Sprecherin 1",
+     "answer": "h"
+    },
+    {
+     "no": "48",
+     "label": "Sprecher 2",
+     "answer": "e"
+    },
+    {
+     "no": "49",
+     "label": "Sprecherin 3",
+     "answer": "j"
+    },
+    {
+     "no": "50",
+     "label": "Sprecher 4",
+     "answer": "a"
+    },
+    {
+     "no": "51",
+     "label": "Sprecherin 5",
+     "answer": "f"
+    },
+    {
+     "no": "52",
+     "label": "Sprecher 6",
+     "answer": "d"
+    },
+    {
+     "no": "53",
+     "label": "Sprecherin 7",
+     "answer": "i"
+    },
+    {
+     "no": "54",
+     "label": "Sprecher 8",
+     "answer": "c"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören eine Radiosendung. Sie hören die Sendung nur einmal. Entscheiden Sie beim Hören, welche Aussage (a, b oder c) am besten passt. Markieren Sie Ihre Lösungen für die Aufgaben 55–64 auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 55–64. Sie haben dazu drei Minuten Zeit.",
+   "items": [
+    {
+     "no": "55",
+     "stem": "Zum Weltraumschrott zählen nach Frau Wendt",
+     "options": {
+      "a": "ausschließlich Teile, die größer als zehn Zentimeter sind.",
+      "b": "vor allem Satelliten, die noch in Betrieb sind.",
+      "c": "auch Gegenstände, die Astronauten verloren haben."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "56",
+     "stem": "Das Problem ist nach Frau Wendt vor allem, dass",
+     "options": {
+      "a": "sich der Schrott in bestimmten Umlaufbahnen ballt.",
+      "b": "sich die Teile gleichmäßig um die Erde verteilen.",
+      "c": "die meisten Teile zu klein sind, um Schaden anzurichten."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "57",
+     "stem": "Die Internationale Raumstation",
+     "options": {
+      "a": "ist durch ihre Hülle vor allen Trümmern geschützt.",
+      "b": "muss größeren Teilen regelmäßig ausweichen.",
+      "c": "ist 2009 mit einem Satelliten zusammengestoßen."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "58",
+     "stem": "Das sogenannte Kessler-Syndrom beschreibt",
+     "options": {
+      "a": "die Gefahr, die herabfallende Teile für Menschen darstellen.",
+      "b": "die rasche Zunahme der Satelliten privater Firmen.",
+      "c": "eine Kettenreaktion von Zusammenstößen."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "59",
+     "stem": "Wie lange ein Teil im All bleibt, hängt nach Frau Wendt vor allem",
+     "options": {
+      "a": "von der Höhe seiner Umlaufbahn ab.",
+      "b": "von seiner Geschwindigkeit ab.",
+      "c": "von dem Material ab, aus dem es besteht."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "60",
+     "stem": "Die internationalen Regeln gegen Weltraumschrott",
+     "options": {
+      "a": "sind seit Kurzem für alle Staaten der Welt verbindlich.",
+      "b": "haben bisher meist den Charakter von Empfehlungen.",
+      "c": "sehen bei Verstößen hohe Geldstrafen vor."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "61",
+     "stem": "Missionen, die Schrott einsammeln sollen,",
+     "options": {
+      "a": "sind bereits seit einigen Jahren erfolgreich im Einsatz.",
+      "b": "eignen sich vor allem für kleine Splitter.",
+      "c": "können jeweils nur einzelne große Teile bergen."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "62",
+     "stem": "Am wichtigsten ist nach Frau Wendt, dass",
+     "options": {
+      "a": "Satelliten nach ihrer Mission die Umlaufbahn verlassen.",
+      "b": "künftig deutlich weniger Raketen gestartet werden.",
+      "c": "Satelliten künftig robuster und besser gepanzert gebaut werden."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "63",
+     "stem": "Im Projekt an der Hochschule",
+     "options": {
+      "a": "beobachten Studierende Schrott mit einem eigenen Radar.",
+      "b": "haben Studierende ein Gerät zum Einfangen von Trümmern gebaut.",
+      "c": "erproben Studierende ein Segel, das Satelliten abbremst."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "64",
+     "stem": "Frau Wendt ist vorsichtig optimistisch, weil",
+     "options": {
+      "a": "die Zahl der Satelliten inzwischen wieder sinkt.",
+      "b": "auch die Betreiber saubere Umlaufbahnen brauchen.",
+      "c": "neue Technik den Schrott bald vollständig beseitigen wird."
+     },
+     "answer": "b"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören einen Vortrag. Sie hören den Vortrag nur einmal. Sie haben Handzettel mit den Folien der Präsentation erhalten. Schreiben Sie die fehlenden Informationen stichwortartig in die freien Zeilen 65–74 in der rechten Spalte.",
+   "exampleNote": "Die Lösung 0 ist ein Beispiel.",
+   "readNote": "Lesen Sie jetzt die Stichworte. Sie haben dazu eine Minute Zeit.",
+   "finalNote": "Sie haben jetzt fünf Minuten Zeit, Ihre Antworten zu den Aufgaben 65–74 auf den Antwortbogen zu übertragen.",
+   "exampleAnswer": "Technik und Gesellschaft",
+   "slides": [
+    {
+     "title": "Ringvorlesung",
+     "lines": [
+      {
+       "no": "0",
+       "bullet": false,
+       "dash": false,
+       "text": "„…“"
+      },
+      {
+       "no": "",
+       "bullet": false,
+       "dash": false,
+       "text": "Thema heute: Von der Ortszeit zur Weltzeit"
+      },
+      {
+       "no": "",
+       "bullet": false,
+       "dash": false,
+       "text": "Referentin: Dr. Katharina Vogel, Lehrstuhl für Technikgeschichte"
+      }
+     ]
+    },
+    {
+     "title": "Ortszeit",
+     "lines": [
+      {
+       "no": "",
+       "bullet": true,
+       "dash": false,
+       "text": "zwölf Uhr = höchster Sonnenstand"
+      },
+      {
+       "no": "65",
+       "bullet": true,
+       "dash": false,
+       "text": "Verschiebung je Längengrad: …"
+      },
+      {
+       "no": "",
+       "bullet": true,
+       "dash": false,
+       "text": "Berlin – Aachen: fast eine halbe Stunde"
+      }
+     ]
+    },
+    {
+     "title": "Eisenbahn",
+     "lines": [
+      {
+       "no": "66",
+       "bullet": true,
+       "dash": false,
+       "text": "Problem beim Umsteigen: …"
+      },
+      {
+       "no": "67",
+       "bullet": true,
+       "dash": false,
+       "text": "Großbritannien, 1840er-Jahre: alle Strecken nach …"
+      },
+      {
+       "no": "",
+       "bullet": true,
+       "dash": false,
+       "text": "USA 1883: Zeitzonen der Bahngesellschaften"
+      }
+     ]
+    },
+    {
+     "title": "Meridiankonferenz 1884",
+     "lines": [
+      {
+       "no": "",
+       "bullet": true,
+       "dash": false,
+       "text": "Washington, 25 Staaten"
+      },
+      {
+       "no": "68",
+       "bullet": true,
+       "dash": false,
+       "text": "Beschluss: …"
+      },
+      {
+       "no": "69",
+       "bullet": true,
+       "dash": false,
+       "text": "nicht einverstanden: …"
+      }
+     ]
+    },
+    {
+     "title": "Deutschland",
+     "lines": [
+      {
+       "no": "",
+       "bullet": true,
+       "dash": false,
+       "text": "um 1890: fünf verschiedene Bahnzeiten"
+      },
+      {
+       "no": "",
+       "bullet": true,
+       "dash": false,
+       "text": "Moltke 1891 im Reichstag"
+      },
+      {
+       "no": "70",
+       "bullet": true,
+       "dash": false,
+       "text": "Begründung: …"
+      },
+      {
+       "no": "71",
+       "bullet": true,
+       "dash": false,
+       "text": "1. April 1893: …"
+      }
+     ]
+    },
+    {
+     "title": "Zeit heute",
+     "lines": [
+      {
+       "no": "",
+       "bullet": true,
+       "dash": false,
+       "text": "Physikalisch-Technische Bundesanstalt, Braunschweig"
+      },
+      {
+       "no": "72",
+       "bullet": true,
+       "dash": false,
+       "text": "Taktgeber: …"
+      },
+      {
+       "no": "73",
+       "bullet": true,
+       "dash": false,
+       "text": "Verbreitung: …"
+      }
+     ]
+    },
+    {
+     "title": "Zeit als Politik",
+     "lines": [
+      {
+       "no": "",
+       "bullet": true,
+       "dash": false,
+       "text": "China: eine Landeszeit seit 1949"
+      },
+      {
+       "no": "74",
+       "bullet": true,
+       "dash": false,
+       "text": "Spanien seit 1940: …"
+      }
+     ]
+    }
+   ],
+   "items": [
+    {
+     "no": "65",
+     "solution": "vier Minuten"
+    },
+    {
+     "no": "66",
+     "solution": "jede Bahngesellschaft fuhr nach eigener Zeit → Anschlüsse schwer zu berechnen / Uhren mit verschiedenen Zeiten"
+    },
+    {
+     "no": "67",
+     "solution": "Londoner Zeit (Zeit der Sternwarte Greenwich)"
+    },
+    {
+     "no": "68",
+     "solution": "Nullmeridian durch Greenwich"
+    },
+    {
+     "no": "69",
+     "solution": "Frankreich (Enthaltung, Pariser Zeit bis 1911) („Frankreich“ genügt)"
+    },
+    {
+     "no": "70",
+     "solution": "militärische Gründe: Truppentransporte mit der Bahn im Kriegsfall"
+    },
+    {
+     "no": "71",
+     "solution": "Mitteleuropäische Zeit gilt im ganzen Reich (gesetzlich, für alle Lebensbereiche)"
+    },
+    {
+     "no": "72",
+     "solution": "Atomuhren"
+    },
+    {
+     "no": "73",
+     "solution": "Funksignal eines Langwellensenders (bei Frankfurt) für Funkuhren"
+    },
+    {
+     "no": "74",
+     "solution": "Mitteleuropäische Zeit trotz Lage westlich von Greenwich / gleiche Zeit wie Deutschland"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "instruction": "Wählen Sie eines der folgenden zwei Themen. Schreiben Sie einen Text, in dem Sie Ihren eigenen Standpunkt dazu erarbeiten und argumentativ darlegen. Ihr Text soll mindestens 350 Wörter umfassen. Sie haben 70 Minuten Zeit.",
+  "minWords": 350,
+  "minutes": 70,
+  "themes": [
+   {
+    "no": "1",
+    "paragraphs": [
+     "Die Studierendenvertretung Ihrer Hochschule schlägt vor, ehrenamtliches Engagement mit Leistungspunkten zu belohnen. In einem Seminar sollen Sie dazu Stellung nehmen.",
+     "Erörtern Sie Vor- und Nachteile dieses Vorschlags. Berücksichtigen Sie auch Ihre eigenen Erfahrungen und ziehen Sie am Schluss ein begründetes Fazit."
+    ],
+    "quoteLead": "Die folgenden Zitate geben Ihnen erste Ideen:",
+    "quotes": [
+     "„Wer sich für andere einsetzt, lernt dabei mehr als in manchem Seminar.“",
+     "„Ein Ehrenamt, das man für Punkte übernimmt, ist kein Ehrenamt mehr.“"
+    ],
+    "model": {
+     "title": "Leistungspunkte für das Ehrenamt – Anerkennung oder Widerspruch?",
+     "paragraphs": [
+      "Ob in der Nachhilfe für Schulkinder, im Sportverein oder bei der Tafel: Viele Studierende engagieren sich neben ihrem Studium ehrenamtlich. Die Studierendenvertretung unserer Hochschule schlägt nun vor, dieses Engagement mit Leistungspunkten anzuerkennen. Was auf den ersten Blick wie eine selbstverständliche Würdigung aussieht, wirft bei näherem Hinsehen grundsätzliche Fragen auf.",
+      "Für den Vorschlag spricht zunächst, dass im Ehrenamt tatsächlich gelernt wird. Wer eine Hausaufgabenhilfe organisiert oder in einem Verein Verantwortung übernimmt, trainiert genau die Fähigkeiten, die in Stellenanzeigen gefordert werden: Organisationsgeschick, Teamfähigkeit und den Umgang mit Konflikten. Zudem lernen Studierende dabei Menschen kennen, denen sie im Hörsaal kaum begegnen würden. Insofern trifft das erste Zitat einen wahren Kern. Hinzu kommt ein Gerechtigkeitsargument. Wer sich engagiert, hat weniger Zeit für das Studium und braucht unter Umständen länger bis zum Abschluss. Leistungspunkte könnten diesen Nachteil ausgleichen und gerade diejenigen ermutigen, die glauben, sich ein Ehrenamt neben dem Studium nicht leisten zu können.",
+      "Andererseits besteht die Gefahr, dass das Engagement seinen Charakter verändert. Ein Ehrenamt lebt davon, dass man es freiwillig und ohne Gegenleistung übernimmt. Würden Punkte vergeben, könnten manche nur noch dort helfen, wo es sich für den Lebenslauf lohnt; genau davor warnt das zweite Zitat. Offen ist außerdem die Frage der Bewertung: Wer soll prüfen, ob jemand in einem Verein tatsächlich etwas gelernt hat, und nach welchen Maßstäben? Ohne klare Kriterien würde die Vergabe der Punkte beliebig. Schließlich droht zusätzliche Bürokratie: Bescheinigungen, Stundenzettel und Nachweise würden ausgerechnet das belasten, was bisher ohne Formulare funktioniert.",
+      "Ich selbst habe zwei Jahre lang ehrenamtlich Deutschkurse für Geflüchtete gegeben. Leistungspunkte habe ich dafür nie vermisst. Gewünscht hätte ich mir allerdings, dass meine Hochschule diese Erfahrung überhaupt zur Kenntnis nimmt, etwa in Form eines Zertifikats, das ich einer Bewerbung beilegen kann. Was ich dort gelernt habe – Geduld, verständliches Erklären und den Umgang mit sehr unterschiedlichen Erwartungen –, hilft mir heute in jedem Referat.",
+      "Ich komme daher zu einem differenzierten Ergebnis. Eine pauschale Anrechnung jeder ehrenamtlichen Tätigkeit halte ich für falsch. Sinnvoll wäre es dagegen, das Engagement in einem begleitenden Modul anzuerkennen, in dem die Studierenden ihre Erfahrungen reflektieren und schriftlich auswerten. Ein solches Modul stünde allen offen, unabhängig davon, wo sie sich engagieren. Dann würden die Punkte nicht für das Helfen vergeben, sondern für das Lernen daraus, und das Ehrenamt bliebe, was es sein soll: freiwillig."
+     ],
+     "hint": "Aufbau: Einleitung mit Problemaufriss – Argumente dafür mit Bezug auf Zitat 1 – Argumente dagegen mit Bezug auf Zitat 2 – eigene Erfahrung – differenziertes Fazit mit Gegenvorschlag. Sprachliche Mittel: Konjunktiv II (könnten, würden, wäre), Relativsätze mit „wer“, Nominalisierungen (Würdigung, Anrechnung, Vergabe), Antithese im Schlusssatz (für das Helfen – für das Lernen daraus). Umfang: 378 Wörter."
+    }
+   },
+   {
+    "no": "2",
+    "paragraphs": [
+     "Ihre Hochschulzeitung fragt, ob der Staat einige wenige Spitzenuniversitäten besonders fördern sollte.",
+     "Legen Sie dar, was für eine solche gezielte Förderung und was für eine gleichmäßige Förderung aller Hochschulen spricht, und begründen Sie am Schluss Ihre Position."
+    ],
+    "quoteLead": "Die folgenden Zitate geben Ihnen erste Ideen:",
+    "quotes": [
+     "„Nur wer seine besten Hochschulen stärkt, kann international mithalten.“",
+     "„Gute Bildung braucht man nicht an wenigen Orten, sondern überall im Land.“"
+    ],
+    "model": {
+     "title": "Spitzenförderung oder gute Hochschulen für alle?",
+     "paragraphs": [
+      "Seit einigen Jahren fördern Bund und Länder im Rahmen der Exzellenzstrategie ausgewählte Universitäten mit zusätzlichen Mitteln. Unsere Hochschulzeitung fragt nun, ob dieser Weg der richtige ist. Die Antwort hängt davon ab, was man von einem Hochschulsystem erwartet: internationale Spitzenleistungen, eine gute Ausbildung für möglichst viele oder beides zugleich. Die Frage betrifft dabei nicht nur Politik und Hochschulleitungen, sondern auch uns Studierende ganz direkt.",
+      "Für eine gezielte Förderung spricht vor allem, dass Spitzenforschung teuer ist. Große Forschungsgeräte, international gefragte Wissenschaftlerinnen und Wissenschaftler und modern ausgestattete Labore lassen sich nicht an jeder Hochschule finanzieren. Wer die Mittel gleichmäßig verteilt, riskiert, dass am Ende keine einzige Universität mit Oxford, Stanford oder der ETH Zürich mithalten kann. Das erste Zitat bringt diese Sorge auf den Punkt. Außerdem kann der Wettbewerb um Fördergelder Hochschulen dazu anspornen, ihr Profil zu schärfen und Schwerpunkte zu setzen. Nicht zuletzt ziehen Spitzenuniversitäten talentierte Forschende aus dem Ausland an, von denen die gesamte Wissenschaft profitiert.",
+      "Andererseits studiert die große Mehrheit nicht an Exzellenzuniversitäten, sondern an Hochschulen, die von der Förderung kaum etwas haben. Dort sind Seminare oft überfüllt, Gebäude sanierungsbedürftig und viele Stellen befristet. Wenn sich Geld und Ansehen an wenigen Orten bündeln, wandern zudem die besten Lehrenden dorthin ab, und die Unterschiede zwischen den Regionen wachsen. Hinzu kommt, dass auch an kleineren Hochschulen herausragende Forschung entsteht, die ohne verlässliche Mittel gar nicht erst sichtbar wird. Das zweite Zitat erinnert zu Recht daran, dass gute Bildung kein Privileg einzelner Städte sein darf.",
+      "Ich habe meinen Bachelor an einer kleinen Universität gemacht, die in keinem internationalen Ranking auftaucht. Die Betreuung war hervorragend, gerade weil die Gruppen klein waren. Für den Master bin ich an eine große Exzellenzuniversität gewechselt und habe dort zwar beeindruckende Forschung erlebt, aber auch Vorlesungen mit fünfhundert Teilnehmenden, in denen niemand meinen Namen kannte. Beide Erfahrungen haben mir gezeigt, dass Exzellenz in der Forschung nicht automatisch gute Lehre bedeutet.",
+      "Ich halte deshalb beide Ziele für berechtigt, aber nicht für gleichrangig. Die Grundfinanzierung aller Hochschulen muss Vorrang haben, denn sie entscheidet über die Qualität der Ausbildung für die große Mehrheit. Zusätzliche Mittel für Spitzenforschung sind sinnvoll, allerdings nur, wenn sie nicht auf Kosten der Lehre gehen und auch kleineren Hochschulen mit starken Schwerpunkten offenstehen. Wer Spitze will, braucht eine breite Basis; sonst fehlt der Nachwuchs, aus dem die Spitze von morgen hervorgeht."
+     ],
+     "hint": "Aufbau: Einleitung mit Leitfrage – Argumente für Spitzenförderung mit Zitat 1 – Argumente für Breitenförderung mit Zitat 2 – eigene Erfahrung als Beleg – gewichtendes Fazit mit Bedingung. Sprachliche Mittel: Gegenüberstellung (Für … spricht – Andererseits), konditionale Einschränkung (allerdings nur, wenn), Passiversatz (lassen sich … finanzieren), Konzessivgefüge (zwar … aber). Umfang: 383 Wörter."
+    }
+   }
+  ]
+ },
+ "muendlich": {
+  "teil1": [
+   {
+    "who": "A",
+    "themes": [
+     "Beschreiben Sie eine Erfindung oder Entdeckung, die den Alltag der Menschen stark verändert hat. Welche Folgen hatte sie, und wie beurteilen Sie diese?",
+     "Sollte ein Auslandssemester für alle Studierenden verpflichtend sein? Welche Vorteile und welche Nachteile hätte eine solche Regelung? Begründen Sie Ihre Meinung."
+    ]
+   },
+   {
+    "who": "B",
+    "themes": [
+     "Stellen Sie ein Buch, einen Film oder eine Serie vor, die Sie zum Nachdenken gebracht hat. Worum geht es, und warum ist das Werk aus Ihrer Sicht wichtig?",
+     "Sollten Studierende ihre Lehrenden öffentlich und namentlich bewerten dürfen, zum Beispiel auf Online-Plattformen? Begründen Sie Ihre Meinung."
+    ]
+   },
+   {
+    "who": "C",
+    "themes": [
+     "Beschreiben Sie eine Forschungsfrage aus Ihrem Fach, die Sie besonders interessiert. Warum ist sie wichtig, und wie könnte man sie untersuchen?",
+     "Gruppenarbeit oder Einzelarbeit – welche Arbeitsform bringt im Studium mehr? Begründen Sie Ihre Meinung. Gibt es Gegenargumente?"
+    ]
+   }
+  ],
+  "teil2": [
+   {
+    "no": "1",
+    "text": "„Habe Mut, dich deines eigenen Verstandes zu bedienen!“",
+    "author": "Immanuel Kant, 1724–1804, Philosoph"
+   },
+   {
+    "no": "2",
+    "text": "„Ich kann freilich nicht sagen, ob es besser werden wird, wenn es anders wird; aber so viel kann ich sagen: Es muss anders werden, wenn es gut werden soll.“",
+    "author": "Georg Christoph Lichtenberg, 1742–1799, Physiker und Schriftsteller"
+   },
+   {
+    "no": "3",
+    "text": "„Wenn es einen Glauben gibt, der Berge versetzen kann, so ist es der Glaube an die eigene Kraft.“",
+    "author": "Marie von Ebner-Eschenbach, 1830–1916, Schriftstellerin"
+   }
+  ]
+ },
+ "notes": "",
+ "index": {
+  "short": "Was römischen Beton so haltbar macht · Bezahlen ohne Bargeld – ein Fortschritt mit Risiken · Ein Garten für Kinder",
+  "lesen": {
+   "t1": "Was römischen Beton so haltbar macht",
+   "t2": "Bezahlen ohne Bargeld – ein Fortschritt mit Risiken",
+   "t3": "Zu viel Licht bei Nacht – Folgen und Auswege",
+   "sb": "Ein Garten für Kinder"
+  },
+  "hoeren": {
+   "t1": "Wohnen im Studium",
+   "t2": "Weltraumschrott",
+   "t3": "Von der Ortszeit zur Weltzeit"
+  },
+  "schreiben": {
+   "t1": "Leistungspunkte für Ehrenamt",
+   "t2": "Spitzenuniversitäten fördern?"
+  },
+  "sprechen": {
+   "t1": [
+    {
+     "who": "A",
+     "topics": [
+      "Erfindung mit Folgen für den Alltag",
+      "Pflicht-Auslandssemester"
+     ]
+    },
+    {
+     "who": "B",
+     "topics": [
+      "Buch, Film oder Serie",
+      "Lehrende öffentlich bewerten"
+     ]
+    },
+    {
+     "who": "C",
+     "topics": [
+      "Forschungsfrage aus dem Fach",
+      "Gruppen- oder Einzelarbeit"
+     ]
+    }
+   ],
+   "t2": [
+    {
+     "no": "1",
+     "author": "Immanuel Kant"
+    },
+    {
+     "no": "2",
+     "author": "Georg Christoph Lichtenberg"
+    },
+    {
+     "no": "3",
+     "author": "Marie von Ebner-Eschenbach"
+    }
+   ]
+  }
+ }
+}

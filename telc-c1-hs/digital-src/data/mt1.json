@@ -1,0 +1,1049 @@
+{
+ "id": 1,
+ "roman": "I",
+ "lesen": {
+  "t1": {
+   "instruction": "Lesen Sie den folgenden Text. Welche der Sätze a–h gehören in die Lücken 1–6? Es gibt jeweils nur eine richtige Lösung. Zwei Sätze können nicht zugeordnet werden. Markieren Sie Ihre Lösungen für die Aufgaben 1–6 auf dem Antwortbogen. Lücke (0) ist ein Beispiel.",
+   "intro": "In der Wissenschaftsbeilage Ihrer Hochschulzeitung lesen Sie folgenden Artikel:",
+   "title": "Basisdemokratie im Bienenschwarm",
+   "paragraphs": [
+    "Wird ein Bienenvolk zu groß, teilt es sich: Die alte Königin verlässt mit einem großen Teil der Arbeiterinnen den Stock, und der Schwarm lässt sich zunächst an einem Ast in der Nähe nieder. {{0}} Diese Entscheidung ist für das Volk überlebenswichtig, denn ein schlecht gewählter Nistplatz – zu klein, zu feucht oder zu nah am Boden – kann bedeuten, dass es den nächsten Winter nicht übersteht.",
+    "Auf die Suche nach einer neuen Bleibe begeben sich allerdings nicht alle Bienen, sondern nur einige Hundert erfahrene Kundschafterinnen. {{1}} Kehrt eine von ihnen von einer vielversprechenden Höhle zurück, wirbt sie auf der Oberfläche der Traube mit einem Schwänzeltanz dafür. Winkel und Dauer der sogenannten Schwänzelphase verraten den anderen Bienen, in welcher Richtung und Entfernung der Ort liegt. {{2}} Ein hervorragender Standort gewinnt daher schneller neue Unterstützerinnen als ein mittelmäßiger; diese prüfen ihn ihrerseits und werben anschließend ebenfalls für ihn.",
+    "Bemerkenswert ist, dass keine einzelne Biene die verschiedenen Angebote miteinander vergleicht. {{3}} Mit jedem weiteren Besuch tanzt eine Kundschafterin weniger ausdauernd für ihren Favoriten, bis sie schließlich ganz damit aufhört. Im Rennen bleiben also nur Orte, die fortlaufend neue Fürsprecherinnen gewinnen. Hinzu kommt eine Art Einspruchsrecht: Bienen, die einen konkurrierenden Ort bevorzugen, stoßen Tänzerinnen mit dem Kopf an und senden dabei ein kurzes Vibrationssignal aus. {{4}}",
+    "Die eigentliche Entscheidung fällt jedoch nicht auf der Traube, sondern am Nistplatz selbst. {{5}} Ist diese Schwelle erreicht, kehren die Kundschafterinnen zurück und erzeugen einen hohen Pfeifton, der die übrigen Bienen veranlasst, ihre Flugmuskulatur aufzuwärmen. Kurz darauf erhebt sich der gesamte Schwarm. Den Weg zum neuen Zuhause weisen ihm die Kundschafterinnen, indem sie in schnellem Flug immer wieder durch die Wolke der Bienen schießen.",
+    "Der amerikanische Biologe Thomas Seeley, der Bienenschwärme seit den Siebzigerjahren erforscht und dafür unter anderem Nistkästen auf einer Insel vor der Küste von Maine aufgestellt hat, spricht deshalb von einer „Bienendemokratie“ und sieht darin ein Vorbild für menschliche Gremien. {{6}} Statt sich in endlosen Debatten zu verlieren, lassen sie zahlreiche voneinander unabhängige Prüfungen zu, bündeln deren Ergebnisse und legen im Voraus fest, ab wann genügend Zustimmung erreicht ist."
+   ],
+   "sentences": [
+    {
+     "letter": "a",
+     "text": "Auf diese Weise schwächen sich die rivalisierenden Lager gegenseitig, bis eines deutlich überwiegt."
+    },
+    {
+     "letter": "b",
+     "text": "Wie oft sie tanzt, hängt dagegen davon ab, wie sehr sie der Ort überzeugt hat."
+    },
+    {
+     "letter": "c",
+     "text": "Gut funktionierende Gruppen, so seine Beobachtung, gehen nämlich ganz ähnlich vor."
+    },
+    {
+     "letter": "d",
+     "text": "Der Schwänzeltanz verrät allerdings nichts über die Qualität eines Ortes, sondern ausschließlich etwas über dessen Richtung und Entfernung."
+    },
+    {
+     "letter": "e",
+     "text": "Sie schwärmen in alle Richtungen aus und inspizieren Baumhöhlen oder Mauerspalten, manchmal fast eine Stunde lang."
+    },
+    {
+     "letter": "f",
+     "text": "Dort bleibt er in der Regel mehrere Wochen, bis die Königin die Reise fortsetzt."
+    },
+    {
+     "letter": "g",
+     "text": "Vielmehr sorgt ein schlichter Mechanismus dafür, dass schwächere Vorschläge nach und nach von selbst verschwinden."
+    },
+    {
+     "letter": "h",
+     "text": "Halten sich dort etwa fünfzehn Kundschafterinnen gleichzeitig auf, gilt die Wahl als getroffen."
+    }
+   ],
+   "example": {
+    "letter": "z",
+    "text": "Dort hängt er als dichte Traube, bis feststeht, wo er sich dauerhaft niederlassen wird."
+   },
+   "items": [
+    {
+     "no": "1",
+     "answer": "e"
+    },
+    {
+     "no": "2",
+     "answer": "b"
+    },
+    {
+     "no": "3",
+     "answer": "g"
+    },
+    {
+     "no": "4",
+     "answer": "a"
+    },
+    {
+     "no": "5",
+     "answer": "h"
+    },
+    {
+     "no": "6",
+     "answer": "c"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Lesen Sie den folgenden Text. In welchem Textabsatz a–e finden Sie die Antworten auf die Fragen 7–12? Es gibt jeweils nur eine richtige Lösung. Jeder Absatz kann Antworten auf mehrere Fragen enthalten. Markieren Sie Ihre Lösungen für die Aufgaben 7–12 auf dem Antwortbogen.",
+   "title": "Englisch für alle – ein Gewinn mit Nebenwirkungen",
+   "sections": [
+    {
+     "letter": "a",
+     "text": "Die Wissenschaft hat schon mehrfach die Sprache gewechselt. Jahrhundertelang verständigten sich Gelehrte in ganz Europa auf Latein, bevor sich ab dem 17. Jahrhundert nach und nach die Landessprachen durchsetzten. Um 1900 war Deutsch eine der führenden Wissenschaftssprachen: Albert Einstein veröffentlichte seine bahnbrechenden Arbeiten 1905 in den Leipziger „Annalen der Physik“. Mathematiker und Mediziner publizierten je nach Herkunft auf Deutsch, Französisch oder Englisch, und wer mitreden wollte, las alle drei Sprachen. Dass sich das änderte, hatte zunächst wenig mit der Sprache selbst zu tun: Nach dem Ersten Weltkrieg wurden deutsche Forscher jahrelang von internationalen Kongressen ausgeschlossen, und in den Dreißigerjahren vertrieb das NS-Regime zahlreiche Wissenschaftlerinnen und Wissenschaftler ins Ausland, viele von ihnen in die USA. Heute erscheinen in den Naturwissenschaften Schätzungen zufolge weit über neunzig Prozent aller Fachaufsätze auf Englisch; in den Geistes- und Sozialwissenschaften ist der Anteil zwar geringer, wächst aber ebenfalls."
+    },
+    {
+     "letter": "b",
+     "text": "Die Vorzüge dieser Entwicklung lassen sich kaum bestreiten. Eine gemeinsame Sprache senkt die Hürden für die Zusammenarbeit erheblich: Eine Epidemiologin in Seoul kann die Daten ihrer Kollegen aus São Paulo noch am Tag der Veröffentlichung lesen, und internationale Forschungsteams wären ohne Englisch kaum denkbar. Einheitliche Begriffe beugen zudem Missverständnissen vor, die beim Übersetzen zwischen vielen Sprachen zwangsläufig entstünden, und Gutachterinnen und Gutachter lassen sich leichter finden, wenn sie nicht aus derselben Sprachgemeinschaft stammen müssen wie die Autorinnen und Autoren. Auch kleinere Länder profitieren: Ergebnisse aus Estland oder Slowenien finden eine weltweite Leserschaft, die ihnen in der jeweiligen Landessprache verschlossen bliebe, und für junge Forschende aus ärmeren Staaten kann die gemeinsame Sprache zur Eintrittskarte in die internationale Fachwelt werden. Wer das Englische als Wissenschaftssprache grundsätzlich ablehnt, verkennt also, wie viel Austausch es überhaupt erst ermöglicht hat. Es wäre deshalb naiv, die Uhr zurückdrehen zu wollen."
+    },
+    {
+     "letter": "c",
+     "text": "Weniger Beachtung findet dagegen die Frage, wer die Rechnung für diese Verständigung bezahlt. Befragungen unter Forschenden zeigen, dass Nichtmuttersprachler für die Lektüre eines Fachartikels deutlich mehr Zeit brauchen und für einen eigenen Aufsatz oft tagelang zusätzlich arbeiten – nicht selten auf eigene Kosten, wenn sie ein professionelles Lektorat beauftragen. Hinzu kommt, dass Gutachter ihre Manuskripte häufiger wegen sprachlicher Schwächen zurückschicken, selbst wenn die Ergebnisse überzeugen. Manche Nachwuchswissenschaftlerinnen und -wissenschaftler verzichten sogar darauf, auf internationalen Tagungen vorzutragen, weil sie fürchten, in der anschließenden Diskussion nicht schlagfertig genug zu sein. Wer für jeden Antrag, jedes Gutachten und jede E-Mail an Partner im Ausland länger braucht, hat am Ende weniger Zeit für das, worum es eigentlich gehen sollte: die Forschung. Ich halte es für ein Ärgernis, dass dieser Mehraufwand fast ausschließlich an den Einzelnen hängen bleibt, während Muttersprachler einen Vorsprung genießen, für den sie nichts getan haben."
+    },
+    {
+     "letter": "d",
+     "text": "Folgen hat die Einsprachigkeit aber nicht nur für die Forschenden, sondern auch für die Sprachen, die aus der Wissenschaft verdrängt werden. Linguisten sprechen von einem Domänenverlust: Wo neue Fachbegriffe nur noch auf Englisch entstehen, entwickelt das Deutsche keinen eigenen Wortschatz mehr für das, was in den Laboren gerade geschieht. Schon heute lernen viele Studierende zentrale Konzepte ausschließlich auf Englisch und stellen erst im Berufsleben fest, dass ihnen die deutschen Entsprechungen fehlen. Das mag zunächst wie ein Anliegen von Sprachpflegern klingen. Tatsächlich betrifft es aber alle, die auf eine verständliche Vermittlung angewiesen sind – Patientinnen, die ihre Diagnose verstehen wollen, Lehrkräfte, die neue Erkenntnisse in den Unterricht tragen, oder Abgeordnete, die über Forschungsgelder entscheiden. Können Fachleute ihr Wissen eines Tages nur noch in einer Sprache ausdrücken, die ein großer Teil der Bevölkerung nicht sicher beherrscht, droht sich die Wissenschaft von der Gesellschaft zu entfernen, die sie finanziert."
+    },
+    {
+     "letter": "e",
+     "text": "Die Lösung kann daher nicht in einer Rückkehr zu nationalen Wissenschaftssprachen liegen, wohl aber in einer bewusst gepflegten Mehrsprachigkeit. Fachaufsätze dürfen und sollen weiterhin auf Englisch erscheinen; Forschungsförderer könnten aber verlangen, dass zentrale Ergebnisse zusätzlich in allgemein verständlicher Form in der Landessprache veröffentlicht werden. Grundständige Studiengänge sollten in der Landessprache beginnen, damit sich Studierende die Begriffe ihres Faches zunächst in der Sprache aneignen, in der sie diese später auch erklären müssen. Hochschulen wiederum sollten mehrsprachige Lehrangebote nicht als Zugeständnis an ausländische Studierende betrachten, sondern als Bildungsziel für alle; wer in zwei Sprachen über sein Fach sprechen kann, versteht es in der Regel auch gründlicher. Große Hoffnungen setzen viele derzeit auf maschinelle Übersetzung, und tatsächlich leisten KI-gestützte Programme inzwischen Erstaunliches. Ob sie aber Fachbegriffe hervorbringen können, die es in der Zielsprache noch gar nicht gibt, darf bezweifelt werden. Übersetzen lässt sich nur, wofür eine Sprache Wörter hat – und die entstehen nicht von selbst."
+    }
+   ],
+   "exampleLead": "In welchem Abschnitt …",
+   "example": {
+    "stem": "nennt der Autor politische Ereignisse als Grund dafür, dass eine Sprache an Bedeutung verlor?",
+    "answer": "a"
+   },
+   "itemsLead": "In welchem Abschnitt …",
+   "items": [
+    {
+     "no": "7",
+     "stem": "beklagt der Autor, dass die Kosten einer Entwicklung vor allem Einzelne tragen?",
+     "answer": "c"
+    },
+    {
+     "no": "8",
+     "stem": "bezweifelt der Autor, dass Software fehlende Fachwörter einer Sprache erfinden kann?",
+     "answer": "e"
+    },
+    {
+     "no": "9",
+     "stem": "räumt der Autor ein, dass die Entwicklung manchen Ländern zu mehr Aufmerksamkeit verhilft?",
+     "answer": "b"
+    },
+    {
+     "no": "10",
+     "stem": "warnt der Autor vor einer wachsenden Kluft zwischen Forschung und Öffentlichkeit?",
+     "answer": "d"
+    },
+    {
+     "no": "11",
+     "stem": "wird erwähnt, dass manche aus Unsicherheit eine Gelegenheit zur Präsentation auslassen?",
+     "answer": "c"
+    },
+    {
+     "no": "12",
+     "stem": "stellt der Autor fest, dass eine Sprache nicht in allen Fächern gleich stark vorherrscht?",
+     "answer": "a"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Lesen Sie den folgenden Text und die Aussagen 13–23. Welche der Aussagen sind richtig (r), falsch (f) oder gar nicht im Text enthalten (–)? Es gibt jeweils nur eine richtige Lösung. Markieren Sie Ihre Lösungen für die Aufgaben 13–23 auf dem Antwortbogen.",
+   "title": "",
+   "paragraphs": [
+    "Die Hausarbeit ist in zehn Tagen fällig, die Literatur liegt bereit, der Laptop ist aufgeklappt. Und doch beginnt der Nachmittag nicht mit der Gliederung, sondern mit dem Entkalken der Kaffeemaschine, dem Sortieren alter Urlaubsfotos und einem kurzen Blick aufs Handy, aus dem eine Stunde wird. Kaum jemand, der je studiert hat, kennt diese Szene nicht. Was nach einer harmlosen Marotte klingt, beschäftigt die Psychologie seit Jahrzehnten – und hat für viele Betroffene durchaus ernste Folgen.",
+    "Fachleute sprechen von Prokrastination, wenn jemand eine Aufgabe, die er selbst für wichtig hält, freiwillig und ohne triftigen Grund verschiebt, obwohl er absehen kann, dass ihm daraus Nachteile entstehen. Nicht jedes Aufschieben fällt also darunter. Wer eine Präsentation zurückstellt, um sich zunächst auf eine dringendere Prüfung vorzubereiten, setzt sinnvolle Prioritäten. Und wer weiß, dass er unter leichtem Zeitdruck am konzentriertesten arbeitet, und sich die verbleibende Zeit realistisch einteilt, schiebt ebenfalls nicht im psychologischen Sinn auf. Entscheidend ist das Gefühl, eigentlich anders handeln zu wollen – und es trotzdem nicht zu tun.",
+    "Wie verbreitet das Phänomen ist, lässt sich nur schätzen, weil die einschlägigen Untersuchungen mit unterschiedlichen Definitionen arbeiten. Internationale Studien gehen davon aus, dass etwa jeder fünfte Erwachsene chronisch aufschiebt, also nicht nur gelegentlich, sondern dauerhaft und in vielen Lebensbereichen. Unter Studierenden liegen die Werte deutlich höher, was Fachleute unter anderem auf die großen Freiräume des Studiums zurückführen: Anders als in der Schule kontrolliert kaum jemand, ob man regelmäßig arbeitet. In einer Befragung an einer süddeutschen Universität gab knapp die Hälfte der Teilnehmenden an, wichtige Aufgaben so häufig hinauszuzögern, dass ihre Leistungen darunter litten. Besonders oft aufgeschoben werden demnach Aufgaben ohne klare Struktur, etwa umfangreiche Haus- und Abschlussarbeiten.",
+    "Lange galt Aufschieben als Zeichen von Faulheit oder mangelnder Selbstorganisation. Diese Sichtweise ist nicht nur ungenau, sondern auch wenig hilfreich, weil sie bei Betroffenen zusätzlich Schuldgefühle weckt. Die Forschung zeichnet inzwischen ein anderes Bild. „Wer prokrastiniert, hat in der Regel kein Zeitproblem, sondern ein Gefühlsproblem“, sagt die Psychologin Annika Brandauer, die an einer Hochschulambulanz Studierende berät. Aufgaben, die als eintönig, unübersichtlich oder bedrohlich erlebt werden, lösen unangenehme Empfindungen aus – Langeweile, Frust oder die Angst, den eigenen Ansprüchen nicht zu genügen. Indem man sich einer angenehmeren Tätigkeit zuwendet, verschafft man sich kurzfristig Erleichterung, und genau diese Erleichterung wirkt wie eine Belohnung, die das Verhalten verstärkt. Zeitmanagementkurse, die lediglich Wochenpläne und Prioritätenlisten vermitteln, greifen deshalb oft zu kurz.",
+    "Hinzu kommt eine Eigenheit unseres Denkens, die Verhaltensökonomen seit Langem als Gegenwartsverzerrung beschreiben: Belohnungen, die wir sofort erhalten, erscheinen uns wertvoller als solche, die erst in Wochen oder Monaten winken. Die gute Note am Semesterende kann mit der Entspannung, die ein Serienabend unmittelbar verschafft, kaum konkurrieren. Studien deuten zudem darauf hin, dass manche Menschen ihr zukünftiges Ich beinahe wie eine fremde Person wahrnehmen. Die Arbeit auf später zu verschieben, fühlt sich dann an, als würde man sie einem anderen überlassen.",
+    "Eine Rolle spielt häufig auch Perfektionismus. Wer an sich selbst den Anspruch stellt, eine Hausarbeit müsse auf Anhieb brillant werden, erlebt schon den ersten, unvermeidlich holprigen Entwurf als Kränkung – und fängt lieber gar nicht erst an. Brandauer rät in solchen Fällen zu einer bewusst unvollkommenen Rohfassung: „Einen schlechten Text kann man verbessern, einen ungeschriebenen nicht.“",
+    "Die Folgen reichen über verpasste Fristen hinaus. Chronisches Aufschieben ist mit mehr Stress, schlechterem Schlaf und häufigeren Infekten in Verbindung gebracht worden, wobei bislang offen ist, was dabei Ursache und was Wirkung ist. Außerdem drohen finanzielle Nachteile, wenn sich das Studium verlängert und Förderungen wie das BAföG auslaufen. Besonders tückisch ist ein Kreislauf, den Brandauer in ihrer Beratung immer wieder beobachtet: Wer eine Aufgabe zu lange liegen lässt, schämt sich, und weil auch Scham ein unangenehmes Gefühl ist, wird die Aufgabe erst recht gemieden. „Viele kommen erst zu uns, wenn sie bereits eine Prüfung nicht angetreten haben“, berichtet sie.",
+    "Ausgerechnet Nachsicht mit sich selbst kann aus diesem Kreislauf herausführen. In einer kanadischen Studie wurden Studierende vor zwei aufeinanderfolgenden Zwischenprüfungen befragt. Wer angab, sich das Aufschieben vor der ersten Prüfung verziehen zu haben, schob vor der zweiten deutlich weniger auf. Die Forschenden erklären das damit, dass Selbstvergebung die negativen Gefühle abschwächt, die mit der Aufgabe verknüpft sind. Harte Selbstkritik dagegen macht es nach ihrem Befund wahrscheinlicher, dass man beim nächsten Mal erneut ausweicht.",
+    "Für den Alltag empfehlen Fachleute vor allem, den Einstieg so leicht wie möglich zu machen. Statt sich vorzunehmen, „am Wochenende an der Hausarbeit zu schreiben“, hilft es, einen konkreten ersten Schritt festzulegen, etwa: „Wenn ich am Samstag gefrühstückt habe, lese ich zwanzig Minuten lang den ersten Aufsatz.“ Solche Wenn-dann-Pläne entlasten, weil sie die Entscheidung vorwegnehmen, wann und womit man anfängt. Wer gar nicht weiß, wo er ansetzen soll, kann die Aufgabe zudem in so kleine Schritte zerlegen, dass jeder einzelne beinahe lächerlich leicht erscheint. Bewährt hat sich auch, in festen Zeitblöcken von etwa 25 Minuten zu arbeiten und dazwischen kurze Pausen einzulegen. Wichtig sei dabei weniger die genaue Dauer als das Signal, so Brandauer: Diese Zeit gehört der Aufgabe und nichts anderem.",
+    "Auch äußere Strukturen können helfen. In einem Experiment mit Studierenden schnitten diejenigen am besten ab, denen für eine Reihe von Aufgaben gleichmäßig verteilte Abgabetermine vorgegeben wurden; wer sich die Fristen selbst setzen durfte, landete im Mittelfeld, und am schlechtesten erging es jenen, für die nur ein einziger Abgabetermin am Semesterende galt. Viele Hochschulen bieten deshalb Schreibgruppen an, in denen Studierende zu festen Zeiten gemeinsam arbeiten. Einmal im Jahr laden zahlreiche Schreibzentren außerdem zu einer „Langen Nacht der aufgeschobenen Hausarbeiten“ ein, bei der bis in die frühen Morgenstunden geschrieben, beraten und gemeinsam durchgehalten wird.",
+    "Und das Smartphone? Dass ständig verfügbare Ablenkung das Aufschieben erleichtert, bestreitet niemand. Brandauer warnt jedoch davor, die Technik zum Hauptschuldigen zu erklären. „Das Handy ist nicht die Ursache, sondern nur der bequemste Notausgang“, sagt sie. Wer es beim Lernen in einen anderen Raum legt, gewinnt zwar Ruhe; das unangenehme Gefühl, vor dem man flieht, bleibt jedoch bestehen und sucht sich notfalls einen anderen Ausweg – etwa einen plötzlich unaufschiebbaren Wohnungsputz. Apps, die das Telefon für eine bestimmte Zeit sperren, können den Einstieg erleichtern, lösen das Grundproblem aber nicht.",
+    "Wann sollte man sich Unterstützung holen? Gelegentliches Aufschieben ist kein Grund zur Sorge.",
+    "Führt es aber dazu, dass man Prüfungen wiederholt verschiebt, Fristen verstreichen lässt oder das Studium insgesamt infrage stellt, raten Fachleute zu einem Gespräch in der psychologischen Beratungsstelle der Hochschule. Dort lässt sich auch klären, ob hinter dem Verhalten andere Belastungen stecken, etwa eine depressive Verstimmung, die einer eigenen Behandlung bedarf. Viele Beratungsstellen bieten dafür offene Sprechstunden an, teilweise auch online.",
+    "Ein Patentrezept gegen das Aufschieben gibt es nicht, und vermutlich wird kaum jemand es je ganz ablegen. Ziel sei es vielmehr, so Brandauer, das eigene Ausweichen früher zu bemerken und zu verstehen, welches Gefühl man gerade zu vermeiden versucht. „Wer weiß, wovor er davonläuft, kann sich auch dafür entscheiden, stehen zu bleiben.“"
+   ],
+   "itemsLead": "Aussagen 13–23",
+   "items": [
+    {
+     "no": "13",
+     "text": "Auch wer unter Zeitdruck besonders gut arbeitet und realistisch plant, prokrastiniert im Sinne der Fachleute.",
+     "answer": "f"
+    },
+    {
+     "no": "14",
+     "text": "Wie viele Menschen betroffen sind, ist auch wegen unterschiedlicher Definitionen schwer zu bestimmen.",
+     "answer": "r"
+    },
+    {
+     "no": "15",
+     "text": "An der süddeutschen Universität wurden ausschließlich Studierende im ersten Semester befragt.",
+     "answer": "n"
+    },
+    {
+     "no": "16",
+     "text": "Brandauer zufolge steckt hinter dem Aufschieben meist der Wunsch, unangenehmen Gefühlen auszuweichen.",
+     "answer": "r"
+    },
+    {
+     "no": "17",
+     "text": "Studien zeigen, dass Menschen ihr künftiges Ich als besonders vertraut erleben.",
+     "answer": "f"
+    },
+    {
+     "no": "18",
+     "text": "Dass chronisches Aufschieben krank macht, gilt inzwischen als erwiesen.",
+     "answer": "f"
+    },
+    {
+     "no": "19",
+     "text": "Die kanadische Studie wurde später an anderen Hochschulen mit gleichem Ergebnis wiederholt.",
+     "answer": "n"
+    },
+    {
+     "no": "20",
+     "text": "Wenn-dann-Pläne legen im Voraus fest, wann und womit man beginnt.",
+     "answer": "r"
+    },
+    {
+     "no": "21",
+     "text": "Wer sich die Abgabetermine selbst setzen durfte, schnitt im Experiment am besten ab.",
+     "answer": "f"
+    },
+    {
+     "no": "22",
+     "text": "Die „Lange Nacht der aufgeschobenen Hausarbeiten“ geht auf eine Idee von Studierenden zurück.",
+     "answer": "n"
+    },
+    {
+     "no": "23",
+     "text": "Gelegentliches Aufschieben ist aus fachlicher Sicht kein Anlass zur Beunruhigung.",
+     "answer": "r"
+    }
+   ],
+   "headline": {
+    "instruction": "Welche der Überschriften a, b oder c trifft die Aussage des Textes am besten? Markieren Sie Ihre Lösung für die Aufgabe 24 auf dem Antwortbogen.",
+    "no": "24",
+    "options": {
+     "a": "Smartphones als Hauptursache des Aufschiebens",
+     "b": "Warum wir aufschieben und was dagegen hilft",
+     "c": "Neue Beratungsangebote für Studierende"
+    },
+    "answer": "b"
+   }
+  },
+  "sb": {
+   "instruction": "Lesen Sie den folgenden Text. Welche Lösung (a, b, c oder d) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 25–46 auf dem Antwortbogen. Lücke (0) ist ein Beispiel.",
+   "title": "Wie die deutsche Rechtschreibung einheitlich wurde",
+   "paragraphs": [
+    "Wer um 1870 einen Brief aus Bayern mit einem aus Preußen verglich, stieß auf erstaunliche Unterschiede. Wie man ein Wort schrieb, hing {{0}} davon ab, in welcher Region man zur Schule gegangen war; mitunter schwankte die Schreibung sogar innerhalb eines einzigen Briefes. Einer, {{25}} sich mit diesem Durcheinander nicht abfinden wollte, war Konrad Duden. Der Gymnasialdirektor aus dem {{26}} Hersfeld veröffentlichte 1880 ein Wörterbuch von {{27}} 190 Seiten. Er erfand darin keine neuen Regeln, {{28}} stützte sich weitgehend auf Schreibweisen, die an preußischen Schulen bereits üblich waren. Gerade {{29}} wurde das Buch rasch zu einem Erfolg: Lehrer, Drucker und Verlage griffen gern darauf zurück.",
+    "Eine verbindliche Regelung {{30}} es jedoch erst 1901, als sich Vertreter der deutschen Einzelstaaten in Berlin auf ein gemeinsames Regelwerk einigten; Österreich und die Schweiz schlossen sich kurz darauf an. Dudens Wörterbuch, {{31}} Einträge rasch an die Beschlüsse angepasst wurden, entwickelte sich zum maßgeblichen Nachschlagewerk. 1955 wurde diese Stellung sogar amtlich bestätigt: Die Kultusminister der Bundesrepublik erklärten, in {{32}} sei der Duden verbindlich. Dieses Vorrecht behielt er gut vier Jahrzehnte lang, {{33}} die Rechtschreibreform von 1996 es ihm entzog. Seitdem entscheidet die Redaktion nicht mehr selbst, {{34}} als richtig gilt; über das amtliche Regelwerk wacht seit 2004 der Rat für deutsche Rechtschreibung.",
+    "{{35}} ist der Name Duden bis heute ein Synonym für korrektes Schreiben geblieben. Das Wörterbuch {{36}} inzwischen in seiner 29. Auflage vor, und mit jeder Ausgabe kommen Wörter hinzu, die sich im Sprachgebrauch {{37}} haben. Wie sie ausgewählt werden, ist {{38}} spektakulär, als man vermuten könnte: Die Redaktion wertet ein riesiges Textkorpus aus und prüft, wie häufig ein Wort in unterschiedlichen Textsorten vorkommt. Auf diese Weise gelangen jedes Mal einige Tausend Einträge neu ins Wörterbuch, {{39}} veraltete Wörter nur selten gestrichen werden, {{40}} auch ältere Texte sollen verständlich bleiben.",
+    "Kritiker {{41}} dem Werk vor, es stifte mehr Verwirrung, als es beseitige, weil es bei vielen Wörtern zwei Schreibweisen zulasse, {{42}} „Delfin“ und „Delphin“. Für {{43}} Fälle markiert die Redaktion ihre Empfehlung gelb. Wer sich {{44}} hält, schreibt {{45}} einheitlich, auch wenn die andere Variante ebenso korrekt wäre. Dass ein Familienname einmal {{46}} sorgfältiges Schreiben stehen würde, hätte Konrad Duden, der 1911 starb, wohl selbst überrascht."
+   ],
+   "example": {
+    "options": {
+     "a": "vor allem",
+     "b": "vor Allem",
+     "c": "vor allen",
+     "d": "vorallem"
+    },
+    "answer": "a"
+   },
+   "items": [
+    {
+     "no": "25",
+     "options": {
+      "a": "dem",
+      "b": "den",
+      "c": "denen",
+      "d": "der"
+     },
+     "answer": "d"
+    },
+    {
+     "no": "26",
+     "options": {
+      "a": "hesischen",
+      "b": "hessichen",
+      "c": "hessischen",
+      "d": "Hessischen"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "27",
+     "options": {
+      "a": "ringsum",
+      "b": "rund",
+      "c": "runde",
+      "d": "rundum"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "28",
+     "options": {
+      "a": "denn",
+      "b": "sondern",
+      "c": "sowohl",
+      "d": "stattdessen"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "29",
+     "options": {
+      "a": "allerdings",
+      "b": "dagegen",
+      "c": "deshalb",
+      "d": "trotzdem"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "30",
+     "options": {
+      "a": "gab",
+      "b": "gäbe",
+      "c": "gebe",
+      "d": "gegeben"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "31",
+     "options": {
+      "a": "denen",
+      "b": "deren",
+      "c": "dessen",
+      "d": "welchem"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "32",
+     "options": {
+      "a": "Zweifelfällen",
+      "b": "Zweifels-Fällen",
+      "c": "zweifelsfällen",
+      "d": "Zweifelsfällen"
+     },
+     "answer": "d"
+    },
+    {
+     "no": "33",
+     "options": {
+      "a": "als",
+      "b": "bis",
+      "c": "nachdem",
+      "d": "seit"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "34",
+     "options": {
+      "a": "das",
+      "b": "dass",
+      "c": "was",
+      "d": "welches"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "35",
+     "options": {
+      "a": "Daher",
+      "b": "Demnach",
+      "c": "Dennoch",
+      "d": "Deswegen"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "36",
+     "options": {
+      "a": "lässt",
+      "b": "legt",
+      "c": "liegt",
+      "d": "stellt"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "37",
+     "options": {
+      "a": "durchgesetzt",
+      "b": "durchsetzend",
+      "c": "durchsetzt",
+      "d": "durchzusetzen"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "38",
+     "options": {
+      "a": "am wenigsten",
+      "b": "wenig",
+      "c": "wenige",
+      "d": "weniger"
+     },
+     "answer": "d"
+    },
+    {
+     "no": "39",
+     "options": {
+      "a": "indem",
+      "b": "insofern",
+      "c": "sofern",
+      "d": "während"
+     },
+     "answer": "d"
+    },
+    {
+     "no": "40",
+     "options": {
+      "a": "dadurch",
+      "b": "dass",
+      "c": "denn",
+      "d": "weil"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "41",
+     "options": {
+      "a": "legen",
+      "b": "setzen",
+      "c": "stellen",
+      "d": "werfen"
+     },
+     "answer": "d"
+    },
+    {
+     "no": "42",
+     "options": {
+      "a": "etwa",
+      "b": "etwaig",
+      "c": "etwaige",
+      "d": "etwas"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "43",
+     "options": {
+      "a": "solche",
+      "b": "solchen",
+      "c": "solcher",
+      "d": "solches"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "44",
+     "options": {
+      "a": "damit",
+      "b": "daran",
+      "c": "darauf",
+      "d": "dazu"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "45",
+     "options": {
+      "a": "im wesentlichen",
+      "b": "im Wesentlichen",
+      "c": "Im Wesentlichen",
+      "d": "imwesentlichen"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "46",
+     "options": {
+      "a": "für",
+      "b": "nach",
+      "c": "um",
+      "d": "vor"
+     },
+     "answer": "a"
+    }
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören die Meinungen von acht Personen. Sie hören die Meinungen nur einmal. Entscheiden Sie beim Hören, welche Aussage (a–j) zu welcher Person (Sprecher/in 1–8) passt. Zwei Aussagen passen nicht. Markieren Sie Ihre Lösungen für die Aufgaben 47–54 auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aussagen a–j. Sie haben dazu eine Minute Zeit.",
+   "title": "KI-Werkzeuge im Studium",
+   "statements": [
+    {
+     "letter": "a",
+     "text": "Ähnliche Befürchtungen gab es schon bei früheren technischen Neuerungen."
+    },
+    {
+     "letter": "b",
+     "text": "Die Hochschule sollte die Kosten für bessere Programmversionen übernehmen."
+    },
+    {
+     "letter": "c",
+     "text": "Gerade sicher formulierte Antworten machen es schwer, Fehler zu erkennen."
+    },
+    {
+     "letter": "d",
+     "text": "KI verschafft mir Zeit, weil sie mir Nebensächliches abnimmt."
+    },
+    {
+     "letter": "e",
+     "text": "Wer keine KI-Kenntnisse hat, wird es später im Berufsleben deutlich schwerer haben."
+    },
+    {
+     "letter": "f",
+     "text": "Programme liefern mir nur einen Ausgangspunkt, die Angaben prüfe ich selbst."
+    },
+    {
+     "letter": "g",
+     "text": "Sprachliche Hilfen können einen Nachteil gegenüber Muttersprachlern ausgleichen."
+    },
+    {
+     "letter": "h",
+     "text": "Statt Hilfsmittel zu untersagen, sollten Hochschulen ihre Prüfungsformen ändern."
+    },
+    {
+     "letter": "i",
+     "text": "Was erlaubt ist, hängt derzeit von der einzelnen Lehrveranstaltung ab."
+    },
+    {
+     "letter": "j",
+     "text": "Wer sich das Formulieren abnehmen lässt, verpasst einen wichtigen Lernschritt."
+    }
+   ],
+   "items": [
+    {
+     "no": "47",
+     "label": "Sprecherin 1",
+     "answer": "f"
+    },
+    {
+     "no": "48",
+     "label": "Sprecher 2",
+     "answer": "h"
+    },
+    {
+     "no": "49",
+     "label": "Sprecherin 3",
+     "answer": "j"
+    },
+    {
+     "no": "50",
+     "label": "Sprecher 4",
+     "answer": "g"
+    },
+    {
+     "no": "51",
+     "label": "Sprecherin 5",
+     "answer": "i"
+    },
+    {
+     "no": "52",
+     "label": "Sprecher 6",
+     "answer": "c"
+    },
+    {
+     "no": "53",
+     "label": "Sprecherin 7",
+     "answer": "d"
+    },
+    {
+     "no": "54",
+     "label": "Sprecher 8",
+     "answer": "a"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören eine Radiosendung. Sie hören die Sendung nur einmal. Entscheiden Sie beim Hören, welche Aussage (a, b oder c) am besten passt. Markieren Sie Ihre Lösungen für die Aufgaben 55–64 auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 55–64. Sie haben dazu drei Minuten Zeit.",
+   "items": [
+    {
+     "no": "55",
+     "stem": "Frau Ostendorf hat die „Hitzewache“ ins Leben gerufen, weil",
+     "options": {
+      "a": "ihr für ein eigenes Messnetz die Mittel fehlten.",
+      "b": "die städtischen Stationen ungenau maßen.",
+      "c": "sie die Vogelzählungen der Verbände fortsetzen wollte."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "56",
+     "stem": "In der Testphase hat sich gezeigt, dass",
+     "options": {
+      "a": "die Sensoren häufig technische Mängel aufwiesen.",
+      "b": "Teilnehmende ihre Messwerte selbst überprüfen sollten.",
+      "c": "der Standort jedes Geräts kontrolliert werden muss."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "57",
+     "stem": "Unter den Freiwilligen sind vor allem",
+     "options": {
+      "a": "Menschen im Ruhestand mit viel freier Zeit.",
+      "b": "Personen mittleren Alters, häufig mit Familie.",
+      "c": "Studierende, die selbst in Dachwohnungen leben."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "58",
+     "stem": "Frau Ostendorf bedauert, dass",
+     "options": {
+      "a": "viele Teilnehmende nach kurzer Zeit wieder aufhören.",
+      "b": "wohlhabende Bewohner wenig Interesse zeigen.",
+      "c": "gerade in den heißesten Vierteln Messpunkte fehlen."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "59",
+     "stem": "Um neue Zielgruppen zu erreichen,",
+     "options": {
+      "a": "kooperiert das Projekt mit Einrichtungen im Stadtteil.",
+      "b": "zahlt das Team den Teilnehmenden eine kleine Entschädigung.",
+      "c": "wirbt die Universität mit Pressemitteilungen."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "60",
+     "stem": "Zur Genauigkeit der Daten sagt Frau Ostendorf, dass",
+     "options": {
+      "a": "einzelne Sensoren ebenso präzise messen wie Profistationen.",
+      "b": "erst die Menge der Geräte verlässliche Aussagen erlaubt.",
+      "c": "Laien ihre Werte häufig falsch in die Karten eintragen."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "61",
+     "stem": "Die städtischen Messstationen sind nach Frau Ostendorfs Ansicht",
+     "options": {
+      "a": "durch Messungen von Bürgern bald ersetzbar.",
+      "b": "besser für feine räumliche Unterschiede geeignet.",
+      "c": "als Vergleichsgrundlage weiterhin unverzichtbar."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "62",
+     "stem": "Die Messungen haben unter anderem gezeigt, dass",
+     "options": {
+      "a": "schon wenige Hundert Meter viel ausmachen können.",
+      "b": "sich Innenhöfe nachts stärker aufheizen als Kreuzungen.",
+      "c": "die Unterschiede tagsüber am größten sind."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "63",
+     "stem": "Dem Vorwurf, Freiwillige würden ausgenutzt, begegnet das Projekt, indem es",
+     "options": {
+      "a": "die Zahl der Messungen pro Person von vornherein begrenzt.",
+      "b": "die Teilnehmenden an den Fragestellungen beteiligt.",
+      "c": "den Freiwilligen eine Aufwandsentschädigung in Aussicht stellt."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "64",
+     "stem": "Den größten Gewinn des Projekts sieht Frau Ostendorf darin, dass",
+     "options": {
+      "a": "die Stadt inzwischen mehr Geld für neue Bäume ausgibt.",
+      "b": "es bald auf weitere Städte übertragen wird.",
+      "c": "die Ergebnisse für alle frei zugänglich sind."
+     },
+     "answer": "c"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören einen Vortrag. Sie hören den Vortrag nur einmal. Sie haben Handzettel mit den Folien der Präsentation erhalten. Schreiben Sie die fehlenden Informationen stichwortartig in die freien Zeilen 65–74 in der rechten Spalte.",
+   "exampleNote": "Die Lösung 0 ist ein Beispiel.",
+   "readNote": "Lesen Sie jetzt die Stichworte. Sie haben dazu eine Minute Zeit.",
+   "finalNote": "Sie haben jetzt fünf Minuten Zeit, Ihre Antworten zu den Aufgaben 65–74 auf den Antwortbogen zu übertragen.",
+   "exampleAnswer": "Medizin im Gespräch",
+   "slides": [
+    {
+     "title": "Ringvorlesung",
+     "lines": [
+      {
+       "no": "0",
+       "bullet": false,
+       "dash": false,
+       "text": "„…“"
+      },
+      {
+       "no": "",
+       "bullet": false,
+       "dash": false,
+       "text": "Thema heute: Placebo und Nocebo"
+      },
+      {
+       "no": "",
+       "bullet": false,
+       "dash": false,
+       "text": "Referent: Dr. Jakob Wenninger, Institut für Medizinische Psychologie"
+      }
+     ]
+    },
+    {
+     "title": "Der Begriff „Placebo“",
+     "lines": [
+      {
+       "no": "",
+       "bullet": true,
+       "dash": false,
+       "text": "lateinisch: „ich werde gefallen“"
+      },
+      {
+       "no": "65",
+       "bullet": true,
+       "dash": false,
+       "text": "18. Jahrhundert: Mittel, um Patienten …"
+      },
+      {
+       "no": "66",
+       "bullet": true,
+       "dash": false,
+       "text": "seit den 1950er-Jahren: …"
+      },
+      {
+       "no": "",
+       "bullet": true,
+       "dash": false,
+       "text": "Beecher 1955: „ein Drittel bessert sich“"
+      },
+      {
+       "no": "",
+       "bullet": false,
+       "dash": true,
+       "text": "Einwand: Spontanverlauf"
+      }
+     ]
+    },
+    {
+     "title": "Wie wirken Placebos?",
+     "lines": [
+      {
+       "no": "67",
+       "bullet": true,
+       "dash": false,
+       "text": "Erwartung → …"
+      },
+      {
+       "no": "68",
+       "bullet": true,
+       "dash": false,
+       "text": "… (vgl. pawlowscher Hund)"
+      }
+     ]
+    },
+    {
+     "title": "Äußerlichkeiten",
+     "lines": [
+      {
+       "no": "",
+       "bullet": true,
+       "dash": false,
+       "text": "Anzahl: zwei Tabletten > eine"
+      },
+      {
+       "no": "",
+       "bullet": true,
+       "dash": false,
+       "text": "Farbe: blau → beruhigend, rot → anregend"
+      },
+      {
+       "no": "69",
+       "bullet": true,
+       "dash": false,
+       "text": "weitere Faktoren: …, …"
+      }
+     ]
+    },
+    {
+     "title": "Offene Placebos",
+     "lines": [
+      {
+       "no": "",
+       "bullet": true,
+       "dash": false,
+       "text": "Patienten wissen: kein Wirkstoff"
+      },
+      {
+       "no": "",
+       "bullet": true,
+       "dash": false,
+       "text": "Studie in Boston: Reizdarm"
+      },
+      {
+       "no": "70",
+       "bullet": true,
+       "dash": false,
+       "text": "Ergebnis: …"
+      },
+      {
+       "no": "71",
+       "bullet": true,
+       "dash": false,
+       "text": "vermutete Erklärung: …"
+      }
+     ]
+    },
+    {
+     "title": "Nocebo („ich werde schaden“)",
+     "lines": [
+      {
+       "no": "72",
+       "bullet": true,
+       "dash": false,
+       "text": "Beispiel: …"
+      },
+      {
+       "no": "73",
+       "bullet": true,
+       "dash": false,
+       "text": "Problem für Studien: …"
+      },
+      {
+       "no": "",
+       "bullet": true,
+       "dash": false,
+       "text": "britische Studie zu Cholesterinsenkern: Muskelschmerzen erst nach Aufhebung der Verblindung häufiger"
+      }
+     ]
+    },
+    {
+     "title": "Folgerungen für die Praxis",
+     "lines": [
+      {
+       "no": "",
+       "bullet": true,
+       "dash": false,
+       "text": "Worte wirken: Framing („Neun von zehn …“)"
+      },
+      {
+       "no": "",
+       "bullet": true,
+       "dash": false,
+       "text": "Beziehung als Wirkfaktor; Placebo als Ergänzung, nicht als Ersatz"
+      },
+      {
+       "no": "74",
+       "bullet": true,
+       "dash": false,
+       "text": "klare Grenze: …"
+      }
+     ]
+    }
+   ],
+   "items": [
+    {
+     "no": "65",
+     "solution": "zufriedenzustellen / zu beruhigen (nicht: zu heilen)"
+    },
+    {
+     "no": "66",
+     "solution": "Vergleichsmittel / Kontrolle in klinischen Studien (Arzneimittelstudien)"
+    },
+    {
+     "no": "67",
+     "solution": "körpereigene Schmerzhemmung / Ausschüttung von Endorphinen"
+    },
+    {
+     "no": "68",
+     "solution": "Lernen / Konditionierung"
+    },
+    {
+     "no": "69",
+     "solution": "Größe · Preis · Darreichungsform (Spritze statt Tablette) (2 von 3 Lösungen erforderlich)"
+    },
+    {
+     "no": "70",
+     "solution": "Beschwerden gingen trotzdem (deutlich) zurück / stärker als ohne Behandlung"
+    },
+    {
+     "no": "71",
+     "solution": "Ritual der Behandlung (regelmäßige Einnahme, Zuwendung, aktiv etwas tun)"
+    },
+    {
+     "no": "72",
+     "solution": "Beipackzettel lesen → mehr (der dort genannten) Nebenwirkungen"
+    },
+    {
+     "no": "73",
+     "solution": "auch Placebogruppe klagt über Nebenwirkungen / bricht die Studie ab (auch: Nebenwirkungen hängen vom Wissen der Patienten ab)"
+    },
+    {
+     "no": "74",
+     "solution": "keine heimliche Gabe / Patienten nicht täuschen"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "instruction": "Wählen Sie eines der folgenden zwei Themen. Schreiben Sie einen Text, in dem Sie Ihren eigenen Standpunkt dazu erarbeiten und argumentativ darlegen. Ihr Text soll mindestens 350 Wörter umfassen. Sie haben 70 Minuten Zeit.",
+  "minWords": 350,
+  "minutes": 70,
+  "themes": [
+   {
+    "no": "1",
+    "paragraphs": [
+     "In einem hochschuldidaktischen Seminar sollen Sie Ihre Haltung zur Anwesenheitspflicht in Lehrveranstaltungen reflektieren.",
+     "Erörtern Sie, ob Studierende zur Teilnahme an Seminaren und Vorlesungen verpflichtet werden sollten. Berücksichtigen Sie auch Ihre eigenen Erfahrungen und ziehen Sie am Schluss ein begründetes Fazit."
+    ],
+    "quoteLead": "Die folgenden Zitate geben Ihnen erste Ideen:",
+    "quotes": [
+     "„Ein Seminar lebt vom Gespräch – wer fehlt, nimmt den anderen etwas weg.“",
+     "„Erwachsene Menschen entscheiden selbst, wie sie am besten lernen.“"
+    ],
+    "model": {
+     "title": "Anwesenheitspflicht – Bevormundung oder Voraussetzung für gute Lehre?",
+     "paragraphs": [
+      "Kaum eine Regelung an Hochschulen wird so häufig diskutiert wie die Anwesenheitspflicht. In manchen Bundesländern ist sie weitgehend abgeschafft, in anderen entscheiden die Lehrenden von Fall zu Fall. Die Frage, ob erwachsene Studierende zur Teilnahme an Lehrveranstaltungen verpflichtet werden dürfen, berührt dabei zwei Grundüberzeugungen, die sich nur schwer miteinander vereinbaren lassen.",
+      "Die Befürworter einer Pflicht verweisen zu Recht auf den Charakter vieler Lehrveranstaltungen. Ein Seminar ist kein Vortrag, den man ebenso gut nachlesen könnte, sondern ein Gespräch, das von der Beteiligung aller lebt. Fehlt die Hälfte der Gruppe, bleibt die Diskussion dünn, Referate werden vor leeren Stühlen gehalten, und die Lehrenden können ihre Planung kaum einhalten. Wer dem Seminar fernbleibt, schadet also nicht nur sich selbst, sondern nimmt den anderen tatsächlich etwas weg, wie es das erste Zitat formuliert. Hinzu kommt ein pädagogisches Argument: Gerade Studienanfängerinnen und -anfänger überschätzen häufig ihre Fähigkeit, Stoff eigenständig nachzuholen; eine verbindliche Struktur kann hier vor Fehlentscheidungen bewahren.",
+      "Dagegen steht die Auffassung, dass Erwachsene selbst entscheiden sollten, wie sie lernen. Studierende sind keine Schüler, und ein Studium soll sie nicht zuletzt zur Eigenverantwortung erziehen. Wer sich den Stoff einer Vorlesung besser mit dem Lehrbuch aneignet, nebenbei arbeiten muss oder ein Kind betreut, sollte nicht durch eine Unterschriftenliste diszipliniert werden. Zudem sagt bloße Anwesenheit wenig über den Lernerfolg aus: Wer unter Zwang im Hörsaal sitzt und auf sein Handy schaut, hat davon ebenso wenig wie die Veranstaltung selbst. Entscheidend sollte sein, ob jemand die Prüfung besteht, nicht, wie oft er einen Raum betreten hat.",
+      "Aus eigener Erfahrung neige ich zu einer Unterscheidung nach der Art der Veranstaltung. In meinem ersten Semester habe ich eine Vorlesung fast vollständig durch das Skript ersetzt – ohne Nachteil für die Klausur. Ein Seminar, in dem ich wegen eines Nebenjobs mehrfach fehlte, habe ich dagegen bis heute als verlorene Zeit in Erinnerung, und zwar nicht nur für mich: Als Referentin stand ich schließlich selbst vor halb leeren Reihen.",
+      "Mein Fazit lautet daher: Eine allgemeine Anwesenheitspflicht ist weder notwendig noch mit dem Selbstverständnis eines Studiums vereinbar. Für Veranstaltungen jedoch, deren Wert gerade im Austausch liegt – Seminare, Laborpraktika, Sprachkurse –, ist eine verbindliche Teilnahme gerechtfertigt, sofern sie begründet und maßvoll gehandhabt wird. Statt über Pflicht oder Freiheit zu streiten, sollten Hochschulen deshalb klar benennen, wo Anwesenheit einen Unterschied macht, und ihre Lehre so gestalten, dass sich die Frage im besten Fall gar nicht stellt."
+     ],
+     "hint": "Aufbau: Einleitung mit Problemaufriss – Position 1 (Pflicht) mit Bezug auf Zitat 1 – Position 2 (Freiheit) mit Bezug auf Zitat 2 – eigene Erfahrung – differenziertes Fazit. Sprachliche Mittel: Konditionalgefüge (uneingeleitet und mit „sofern“), Nominalisierungen (Beteiligung, Eigenverantwortung), Konjunktiv II, Doppelpunkt und Gedankenstrich als Gliederungsmittel. Umfang: 389 Wörter."
+    }
+   },
+   {
+    "no": "2",
+    "paragraphs": [
+     "Ihre Fachschaft sammelt für eine Broschüre Beiträge zu der Frage, ob man direkt nach der Schule studieren sollte.",
+     "Legen Sie Vor- und Nachteile eines sofortigen Studienbeginns und einer Zwischenphase (Praktikum, Ausbildung, Auslandsjahr) dar und begründen Sie am Schluss Ihre Position."
+    ],
+    "quoteLead": "Die folgenden Zitate geben Ihnen erste Ideen:",
+    "quotes": [
+     "„Wer nach der Schule ein Jahr pausiert, verliert den Anschluss und wertvolle Zeit.“",
+     "„Erst wer die Welt außerhalb des Klassenzimmers kennt, weiß, was er studieren will.“"
+    ],
+    "model": {
+     "title": "Studienbeginn: sofort oder nach einer Zwischenphase?",
+     "paragraphs": [
+      "Direkt studieren oder erst einmal etwas anderes tun? Diese Frage stellt sich fast jeder, der die Schule abschließt, und sie wird häufig so beantwortet, wie es Eltern, Freunde oder der Zufall nahelegen. Dabei lohnt es sich, beide Wege nüchtern gegeneinander abzuwägen.",
+      "Für einen sofortigen Studienbeginn spricht zunächst der Schwung. Wer gerade das Abitur hinter sich hat, ist das Lernen gewohnt, beherrscht die nötigen Techniken und muss sich nicht erst wieder auf Fristen und Prüfungen einstellen. Außerdem beginnen die meisten Mitschülerinnen und Mitschüler zur selben Zeit, sodass man den Übergang gemeinsam bewältigt. Nicht zuletzt ist ein früher Abschluss ein handfester Vorteil: Wer mit Anfang zwanzig ins Berufsleben eintritt, hat später noch Zeit für Umwege. Wer dagegen pausiert, so warnt das erste Zitat, verliere den Anschluss – und tatsächlich fällt manchen der Wiedereinstieg schwer, wenn sie ein Jahr lang keinen zusammenhängenden Text mehr geschrieben haben.",
+      "Doch auch für die Gegenposition gibt es gewichtige Argumente. Mit achtzehn weiß kaum jemand, was er wirklich will; die Studienfächer sind abstrakt, die Berufe dahinter unbekannt. Ein Praktikum, eine Ausbildung oder ein Jahr im Ausland verschaffen genau die Erfahrung, die das zweite Zitat meint: Man lernt, wie Arbeit sich anfühlt, welche Tätigkeiten einem liegen und welche nicht. Nicht wenige wechseln nach zwei Semestern das Fach oder brechen das Studium ab, weil sie es aus falschen Vorstellungen heraus begonnen haben. Ein Jahr, das solche Umwege erspart, ist keine verlorene Zeit, sondern eine Investition. Hinzu kommt die persönliche Reife: Wer einmal selbst Miete gezahlt und mit Kollegen Konflikte ausgetragen hat, tritt im Studium anders auf.",
+      "Ich selbst habe nach der Schule zwei Jahre in einem Krankenhaus gearbeitet, bevor ich mich für ein Studium entschieden habe. Der Wiedereinstieg war anstrengend, und ich habe meine jüngeren Kommilitonen zunächst um ihre Routine beneidet. Zugleich wusste ich jedoch genau, warum ich im Hörsaal saß, und dieses Wissen hat mich durch jede Durststrecke getragen.",
+      "Ich halte deshalb keinen der beiden Wege für grundsätzlich besser. Wer ein klares Ziel hat, sollte es nicht aufschieben; wer unsicher ist, gewinnt durch eine Zwischenphase mehr, als er an Zeit verliert. Entscheidend ist, dass die Pause einen Inhalt hat – ein Jahr, in dem man etwas ausprobiert, ist etwas anderes als ein Jahr, in dem man wartet. Schulen und Hochschulen könnten dabei helfen, indem sie beide Optionen gleichwertig vorstellen, statt den direkten Übergang als Normalfall zu behandeln."
+     ],
+     "hint": "Aufbau: Einleitung – Vorteile des sofortigen Beginns mit Zitat 1 – Vorteile der Zwischenphase mit Zitat 2 – eigene Erfahrung – abwägendes Fazit mit Bedingung. Sprachliche Mittel: Relativsätze mit „wer“, Konjunktiv I in der indirekten Rede (verliere), Einschub (so warnt das erste Zitat), Antithese (Investition statt verlorener Zeit). Umfang: 386 Wörter."
+    }
+   }
+  ]
+ },
+ "muendlich": {
+  "teil1": [
+   {
+    "who": "A",
+    "themes": [
+     "Beschreiben Sie das Prüfungssystem an Hochschulen in einem Land Ihrer Wahl (Prüfungsformen, Benotung, Wiederholungsmöglichkeiten). Was halten Sie davon?",
+     "Sollten Studierende neben dem Studium arbeiten? Welche Vorteile und welche Nachteile hat ein Nebenjob? Begründen Sie Ihre Meinung."
+    ]
+   },
+   {
+    "who": "B",
+    "themes": [
+     "Stellen Sie eine Persönlichkeit aus Wissenschaft oder Kultur vor, die Sie beeindruckt. Was macht sie aus Ihrer Sicht bedeutend, und was kann man von ihr lernen?",
+     "Sollte der Zugang zum Studium durch Zulassungsbeschränkungen (z. B. Notendurchschnitt, Aufnahmeprüfung) geregelt werden? Welche Alternativen gibt es? Begründen Sie Ihre Meinung."
+    ]
+   },
+   {
+    "who": "C",
+    "themes": [
+     "Beschreiben Sie, welche Rolle Sport und Bewegung im Alltag von Studierenden spielen und wie Hochschulen gesunde Gewohnheiten unterstützen könnten.",
+     "Große Vorlesungen oder kleine Seminare – welche Lehrform halten Sie für wirksamer? Begründen Sie Ihre Meinung. Gibt es Gegenargumente?"
+    ]
+   }
+  ],
+  "teil2": [
+   {
+    "no": "1",
+    "text": "„Man muss das Wahre immer wiederholen, weil auch der Irrtum um uns her immer wieder gepredigt wird.“",
+    "author": "Johann Wolfgang von Goethe, 1749–1832, Dichter"
+   },
+   {
+    "no": "2",
+    "text": "„Phantasie ist wichtiger als Wissen, denn Wissen ist begrenzt.“",
+    "author": "Albert Einstein, 1879–1955, Physiker"
+   },
+   {
+    "no": "3",
+    "text": "„Im Grunde sind es immer die Verbindungen mit Menschen, die dem Leben seinen Wert geben.“",
+    "author": "Wilhelm von Humboldt, 1767–1835, Gelehrter und Bildungsreformer"
+   }
+  ]
+ },
+ "notes": "",
+ "index": {
+  "short": "Basisdemokratie im Bienenschwarm · Englisch für alle – ein Gewinn mit Nebenwirkungen · Wie die deutsche Rechtschreibung einheitlich wurde",
+  "lesen": {
+   "t1": "Basisdemokratie im Bienenschwarm",
+   "t2": "Englisch für alle – ein Gewinn mit Nebenwirkungen",
+   "t3": "Warum wir aufschieben und was dagegen hilft",
+   "sb": "Wie die deutsche Rechtschreibung einheitlich wurde"
+  },
+  "hoeren": {
+   "t1": "KI-Werkzeuge im Studium",
+   "t2": "Bürgerwissenschaft: die „Hitzewache“",
+   "t3": "Placebo und Nocebo"
+  },
+  "schreiben": {
+   "t1": "Anwesenheitspflicht in Lehrveranstaltungen",
+   "t2": "Direkt nach der Schule studieren?"
+  },
+  "sprechen": {
+   "t1": [
+    {
+     "who": "A",
+     "topics": [
+      "Prüfungssystem an Hochschulen",
+      "Nebenjob neben dem Studium"
+     ]
+    },
+    {
+     "who": "B",
+     "topics": [
+      "Beeindruckende Persönlichkeit",
+      "Zulassungsbeschränkungen"
+     ]
+    },
+    {
+     "who": "C",
+     "topics": [
+      "Sport und Bewegung im Studium",
+      "Große Vorlesung oder kleines Seminar"
+     ]
+    }
+   ],
+   "t2": [
+    {
+     "no": "1",
+     "author": "Johann Wolfgang von Goethe"
+    },
+    {
+     "no": "2",
+     "author": "Albert Einstein"
+    },
+    {
+     "no": "3",
+     "author": "Wilhelm von Humboldt"
+    }
+   ]
+  }
+ }
+}

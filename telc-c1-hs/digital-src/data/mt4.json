@@ -1,0 +1,1022 @@
+{
+ "id": 4,
+ "roman": "IV",
+ "lesen": {
+  "t1": {
+   "instruction": "Lesen Sie den folgenden Text. Welche der Sätze a–h gehören in die Lücken 1–6? Es gibt jeweils nur eine richtige Lösung. Zwei Sätze können nicht zugeordnet werden. Markieren Sie Ihre Lösungen für die Aufgaben 1–6 auf dem Antwortbogen. Lücke (0) ist ein Beispiel.",
+   "intro": "In einer populärwissenschaftlichen Zeitschrift lesen Sie folgenden Beitrag:",
+   "title": "Wie die Hieroglyphen ihre Stimme zurückbekamen",
+   "paragraphs": [
+    "Mehr als vierzehn Jahrhunderte lang konnte niemand die Hieroglyphen an den Tempeln und in den Gräbern Ägyptens lesen. Die jüngste bekannte Inschrift dieser Art stammt aus dem Jahr 394 nach Christus. {{0}} Die Gelehrten der frühen Neuzeit hielten die Zeichen deshalb für eine Bilderschrift voller geheimer Symbole, deren Sinn sich nur Eingeweihten erschließe. Der Jesuit Athanasius Kircher etwa deutete im 17. Jahrhundert ganze Inschriften als religiöse Botschaften – durchweg falsch.",
+    "Die Wende brachte ein Zufallsfund. Im Juli 1799 stießen französische Soldaten bei Schanzarbeiten nahe der Stadt Rosette im Nildelta auf eine Steinplatte mit drei Inschriften. {{1}} Da man Griechisch lesen konnte, schien der Schlüssel zur Entzifferung plötzlich zum Greifen nah.",
+    "Doch die Hoffnung trog zunächst. Nach der Niederlage der Franzosen in Ägypten gelangte der Stein 1802 nach London, wo er bis heute im British Museum zu sehen ist. {{2}} Der englische Arzt und Physiker Thomas Young, der auch durch seine Versuche zur Natur des Lichts berühmt wurde, erkannte zwar, dass die ovalen Umrandungen, die sogenannten Kartuschen, die Namen von Herrschern enthielten. Ein System hinter den Zeichen fand er jedoch nicht, zumal er annahm, dass nur fremde Namen mit Lautzeichen geschrieben wurden.",
+    "Den Durchbruch schaffte schließlich der Franzose Jean-François Champollion. {{3}} Er verglich die Kartuschen mit den Namen Ptolemaios und Kleopatra, die er aus griechischen Inschriften kannte, und konnte so einzelnen Zeichen Laute zuordnen. {{4}} Am 14. September 1822 soll er in das Arbeitszimmer seines Bruders gestürmt sein, „Ich hab’s!“ gerufen haben und vor Aufregung ohnmächtig geworden sein.",
+    "Kurz darauf stellte er seine Ergebnisse in einem Brief an die Pariser Akademie vor. {{5}} Die Hieroglyphen waren also keine geheimnisvolle Symbolschrift, wie man jahrhundertelang geglaubt hatte. In den folgenden Jahren zeigte Champollion zudem, dass sich mit ihnen ganz alltägliche Wörter festhalten ließen. Sein 1824 erschienenes Hauptwerk über das System der Hieroglyphen gilt bis heute als Grundstein der Ägyptologie.",
+    "Champollion selbst hatte nur wenig Zeit, die Früchte seiner Arbeit zu ernten. 1828 reiste er zum ersten Mal nach Ägypten, wo er zahlreiche Inschriften vor Ort abschrieb und übersetzte, statt sich wie bisher auf ungenaue Kopien verlassen zu müssen. {{6}} Vollständig erschlossen wurde die Sprache erst von späteren Generationen, die auf seinen Grundlagen aufbauten."
+   ],
+   "sentences": [
+    {
+     "letter": "a",
+     "text": "Darin wies er nach, dass die Zeichen nicht nur für Begriffe standen, sondern häufig auch Laute wiedergaben."
+    },
+    {
+     "letter": "b",
+     "text": "Young hatte das System zu diesem Zeitpunkt bereits vollständig entschlüsselt, seine Ergebnisse aber nie veröffentlicht."
+    },
+    {
+     "letter": "c",
+     "text": "Abschriften verbreiteten sich jedoch rasch unter Europas Gelehrten, und ein regelrechter Wettlauf begann."
+    },
+    {
+     "letter": "d",
+     "text": "Schon 1832 starb er in Paris, gerade einmal einundvierzig Jahre alt."
+    },
+    {
+     "letter": "e",
+     "text": "Sie enthielt denselben Erlass dreimal: in Hieroglyphen, in demotischer Alltagsschrift und auf Griechisch."
+    },
+    {
+     "letter": "f",
+     "text": "Mit diesen Lautwerten las er bald auch Namen, die auf keiner zweisprachigen Inschrift standen, etwa Ramses."
+    },
+    {
+     "letter": "g",
+     "text": "Er beherrschte zahlreiche alte und orientalische Sprachen, darunter das Koptische, die späteste Form des Ägyptischen."
+    },
+    {
+     "letter": "h",
+     "text": "Der Stein wurde zunächst in Kairo ausgestellt, wo ihn der junge Champollion während seines Studiums mehrmals abzeichnete."
+    }
+   ],
+   "example": {
+    "letter": "z",
+    "text": "Mit den letzten Priestern, die sie noch beherrschten, ging auch das Wissen um ihre Bedeutung verloren."
+   },
+   "items": [
+    {
+     "no": "1",
+     "answer": "e"
+    },
+    {
+     "no": "2",
+     "answer": "c"
+    },
+    {
+     "no": "3",
+     "answer": "g"
+    },
+    {
+     "no": "4",
+     "answer": "f"
+    },
+    {
+     "no": "5",
+     "answer": "a"
+    },
+    {
+     "no": "6",
+     "answer": "d"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Lesen Sie den folgenden Text. In welchem Textabsatz a–e finden Sie die Antworten auf die Fragen 7–12? Es gibt jeweils nur eine richtige Lösung. Jeder Absatz kann Antworten auf mehrere Fragen enthalten. Markieren Sie Ihre Lösungen für die Aufgaben 7–12 auf dem Antwortbogen.",
+   "title": "Kleider ohne Wert",
+   "sections": [
+    {
+     "letter": "a",
+     "text": "Wer heute einen Kleiderschrank öffnet, findet darin oft mehr, als er jemals tragen wird. Zwischen 2000 und 2014 hat sich die weltweite Produktion von Kleidung ungefähr verdoppelt, und in Deutschland kauft jeder Mensch Schätzungen zufolge im Schnitt sechzig neue Teile im Jahr. Gleichzeitig bleiben Kleidungsstücke immer kürzer im Gebrauch. Manche tragen wir nur ein paar Mal, andere hängen noch mit Preisschild im Schrank, bis wir sie irgendwann aussortieren. Möglich gemacht hat diesen Wandel ein Geschäftsmodell, das unter dem Namen „Fast Fashion“ bekannt geworden ist: Große Ketten bringen nicht mehr zwei Kollektionen im Jahr heraus, sondern beinahe jede Woche neue Ware, und das zu Preisen, die kaum höher sind als die eines Mittagessens. Ich halte diese Entwicklung für einen der großen blinden Flecken unserer Konsumgesellschaft, über den erstaunlich wenig gesprochen wird."
+    },
+    {
+     "letter": "b",
+     "text": "Zugegeben: Die billige Mode hat nicht nur Schattenseiten. Für Familien mit kleinem Einkommen ist es eine Erleichterung, dass ein Wintermantel für Kinder nicht mehr ein halbes Monatsgehalt kostet. Auch Jugendliche, die mit ihrer Kleidung zeigen wollen, wer sie sind, können heute Trends folgen, die früher nur Wohlhabenden offenstanden. Mode ist dadurch gewissermaßen demokratischer geworden, und der Wunsch, sich schön zu kleiden, ist ohnehin nichts Verwerfliches. Zudem garantiert ein hoher Preis keineswegs, dass ein Kleidungsstück unter besseren Bedingungen entstanden ist; manche teure Marke lässt in denselben Fabriken nähen wie die Billigketten. Mir geht es daher nicht darum, Menschen für ihre Einkäufe zu verurteilen. Wer mit wenig Geld auskommen muss, kann sich die fair produzierte Jacke für zweihundert Euro schlicht nicht leisten. Mein Unbehagen gilt einem System, das darauf angelegt ist, dass wir möglichst schnell wieder kaufen."
+    },
+    {
+     "letter": "c",
+     "text": "Die Rechnung für dieses System zahlen andere. Für ein einziges Baumwoll-T-Shirt werden je nach Anbaugebiet mehrere Tausend Liter Wasser verbraucht, häufig in Regionen, in denen es ohnehin knapp ist. Beim Färben gelangen Chemikalien in Flüsse, und Synthetikkleidung verliert bei jeder Wäsche winzige Fasern, die Kläranlagen nur zum Teil zurückhalten; der Rest landet schließlich im Meer. Dazu kommen weite Transportwege, denn kaum ein Kleidungsstück, das hier verkauft wird, ist auch hier entstanden. Noch schwerer wiegen die Arbeitsbedingungen. Als 2013 in Bangladesch das Fabrikgebäude Rana Plaza einstürzte, starben mehr als 1100 Menschen, die meisten von ihnen Näherinnen. Danach versprachen viele Unternehmen Besserung, und manche Fabriken sind heute tatsächlich sicherer. An den niedrigen Löhnen hat sich jedoch wenig geändert. Es beschämt mich, wie schnell solche Katastrophen aus den Schlagzeilen verschwinden, während die Kleidung, die dort genäht wird, weiterhin in unseren Läden hängt."
+    },
+    {
+     "letter": "d",
+     "text": "Viele beruhigen ihr Gewissen, indem sie aussortierte Kleidung in den Altkleidercontainer werfen. Ich bezweifle allerdings, dass damit viel gewonnen ist. Nur ein kleiner Teil der gesammelten Ware wird hierzulande weiterverkauft; ein großer Teil geht ins Ausland, etwa nach Osteuropa oder Westafrika. Dort landet vieles auf Märkten, die längst mit Altkleidern überschwemmt sind, und was niemand kauft, endet auf Deponien oder an Stränden. Gemeinnützige Sammelstellen berichten zudem seit Jahren, dass die Qualität der abgegebenen Kleidung sinkt und immer weniger davon überhaupt noch tragbar ist. Auch das Recycling ist nicht so weit, wie die Werbung verspricht. Weil die meisten Kleidungsstücke aus Mischgeweben bestehen, lassen sich die Fasern kaum sortenrein trennen; weltweit wird weniger als ein Prozent des Materials wieder zu neuer Kleidung verarbeitet. Meist entstehen daraus allenfalls Putzlappen oder Dämmstoffe. Die Vorstellung, man könne unbesorgt weiter konsumieren, solange man nur ordentlich entsorgt, hält einer genaueren Prüfung nicht stand."
+    },
+    {
+     "letter": "e",
+     "text": "Was also ist zu tun? Mit Appellen an die Vernunft der Kundschaft allein wird es nicht gehen. Die Politik muss dafür sorgen, dass die tatsächlichen Kosten im Preis sichtbar werden. Die Europäische Union will Hersteller künftig für Sammlung und Verwertung ihrer Textilien zahlen lassen. Das ist ein Schritt in die richtige Richtung, der aber nur wirkt, wenn die Abgaben spürbar ausfallen. Wegen eines Betrags, den man an der Kasse kaum bemerkt, wird kein Konzern sein Geschäftsmodell ändern. Ebenso wichtig wären längere Garantiefristen und ein Recht auf Reparatur, damit es sich wieder lohnt, ein Kleidungsstück flicken zu lassen, statt es zu ersetzen. Und wir selbst? Wir könnten mit einer einfachen Frage beginnen: Würde ich dieses Teil mindestens dreißigmal tragen? Wer ehrlich antwortet, wird manches im Laden hängen lassen. Mode darf Freude machen – aber sie sollte nicht zum Wegwerfartikel werden."
+    }
+   ],
+   "exampleLead": "In welchem Abschnitt …",
+   "example": {
+    "stem": "erwähnt der Autor, wie oft große Modeketten neue Ware anbieten?",
+    "answer": "a"
+   },
+   "itemsLead": "In welchem Abschnitt …",
+   "items": [
+    {
+     "no": "7",
+     "stem": "stellt der Autor fest, dass viele Kleidungsstücke kaum benutzt werden?",
+     "answer": "a"
+    },
+    {
+     "no": "8",
+     "stem": "räumt der Autor ein, dass preiswerte Mode manchen Menschen mehr Möglichkeiten bietet?",
+     "answer": "b"
+    },
+    {
+     "no": "9",
+     "stem": "weist der Autor darauf hin, dass manche Kleidung beim Waschen Kunststoff abgibt?",
+     "answer": "c"
+    },
+    {
+     "no": "10",
+     "stem": "zweifelt der Autor am Nutzen von Kleiderspenden?",
+     "answer": "d"
+    },
+    {
+     "no": "11",
+     "stem": "fordert der Autor, dass die Preise die wahren Kosten der Mode zeigen?",
+     "answer": "e"
+    },
+    {
+     "no": "12",
+     "stem": "begründet der Autor, warum aus alter Kleidung nur selten neue entsteht?",
+     "answer": "d"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Lesen Sie den folgenden Text und die Aussagen 13–23. Welche der Aussagen sind richtig (r), falsch (f) oder gar nicht im Text enthalten (–)? Es gibt jeweils nur eine richtige Lösung. Markieren Sie Ihre Lösungen für die Aufgaben 13–23 auf dem Antwortbogen.",
+   "title": "",
+   "paragraphs": [
+    "Der Regionalzug hat zwanzig Minuten Verspätung, und auf dem Bahnsteig geschieht, was inzwischen fast überall geschieht: Kaum ist die Durchsage verklungen, greifen die Wartenden zu ihren Smartphones. Niemand schaut in die Landschaft, niemand hängt einfach seinen Gedanken nach. Ein Kind fragt, wie lange es noch dauert; die Mutter reicht ihm wortlos das Tablet. Die zwanzig Minuten werden gefüllt, bevor sie überhaupt leer werden können. Dabei hätte die Langeweile, der wir so eifrig ausweichen, womöglich mehr zu bieten, als wir ihr gemeinhin zutrauen.",
+    "„Langeweile ist ein unterschätztes Gefühl“, sagt Ines Kramer, die als Psychologin an einer Universität erforscht, wie Menschen mit ungenutzter Zeit umgehen. Mit Ruhe habe Langeweile wenig zu tun. Wer sich entspannt, möchte gerade nichts tun. Wer sich langweilt, möchte dagegen durchaus etwas tun, findet aber nichts, was ihn fesselt. Diese Kluft zwischen dem Wunsch nach Beschäftigung und dem Fehlen einer lohnenden Aufgabe empfinden die meisten als quälend – und zwar quälender, als man vermuten würde.",
+    "Wie unangenehm schon wenige Minuten ohne Ablenkung sein können, zeigte 2014 ein Experiment in den USA. Die Teilnehmenden sollten bis zu einer Viertelstunde allein in einem kargen Raum sitzen und sich mit ihren Gedanken beschäftigen. Zuvor hatten sie probeweise einen leichten Stromschlag erhalten, und viele gaben an, sie würden sogar Geld bezahlen, um ihn nicht noch einmal zu spüren. Selbst unter ihnen drückten zwei Drittel der Männer und ein Viertel der Frauen während dieser Zeit mindestens einmal auf den Knopf, der den Stromschlag auslöste. Offenbar war ihnen der kurze Schmerz lieber als die Leere.",
+    "Dass die Langeweile einen schlechten Ruf hat, ist nicht neu. Schon das deutsche Wort verrät, wie sie sich anfühlt: Die Weile, also die Zeit, wird lang. Der dänische Philosoph Søren Kierkegaard nannte die Langeweile 1843 gar die „Wurzel allen Übels“. In der Literatur des 19. Jahrhunderts erscheint sie häufig als Leiden reicher Adliger, die mit ihrer Zeit nichts anzufangen wissen. Erzieher und Moralisten sahen in ihr lange einen Charakterfehler, den man durch Fleiß und Pflichterfüllung austreiben müsse. Erst in den vergangenen zwei Jahrzehnten hat sich die Psychologie intensiver mit der Langeweile beschäftigt – und dabei manches Vorurteil korrigiert.",
+    "Kramer betrachtet die Langeweile heute als Signal, vergleichbar mit Hunger oder Schmerz. „Hunger sagt uns, dass wir essen sollten. Langeweile sagt uns, dass das, was wir gerade tun, uns nicht genügt“, erklärt sie. Das Gefühl dränge dazu, die Situation zu verändern: sich ein neues Ziel zu suchen, eine Tätigkeit abzubrechen oder eine andere Perspektive einzunehmen. In diesem Sinne sei Langeweile kein Defekt, sondern ein durchaus nützlicher Mechanismus, den die Evolution nicht ohne Grund hervorgebracht habe.",
+    "Dass Langeweile sogar kreativ machen kann, legt eine Studie aus Großbritannien nahe. Eine erste Gruppe musste zunächst eine Viertelstunde lang Nummern aus einem Telefonbuch abschreiben, eine zweite sollte die Nummern nur lesen, eine dritte begann ohne diese Vorübung. Anschließend sollten alle möglichst viele Verwendungsmöglichkeiten für zwei Plastikbecher finden. Die beiden gelangweilten Gruppen kamen auf deutlich mehr Einfälle als die dritte – am meisten diejenigen, die die Nummern bloß gelesen hatten.",
+    "„Wenn uns die Umgebung nichts bietet, beginnt der Geist, sich selbst zu beschäftigen“, sagt Kramer. Tagträume, in denen sich Gedanken frei verknüpfen, seien dafür ein idealer Nährboden.",
+    "Allerdings warnt Kramer davor, die Langeweile zu verklären. Wer sich dauerhaft langweilt, etwa weil der Alltag kaum Abwechslung oder Sinn bietet, ist häufig unzufrieden und neigt eher zu riskantem Verhalten. Die Forschung unterscheidet deshalb zwischen der vorübergehenden Langeweile, die jeder kennt, und einer dauerhaften Neigung, sich zu langweilen. Entscheidend sei, was man aus dem Gefühl mache. „Kurze Phasen der Langeweile können uns anregen. Chronische Langeweile dagegen ist ein Hinweis darauf, dass im Leben etwas Grundsätzliches nicht stimmt, und sollte ernst genommen werden.“",
+    "Gerade die kurzen Phasen aber kommen im Alltag vieler Menschen kaum noch vor. Wartezeiten an der Kasse, in der Bahn oder beim Arzt werden heute fast automatisch mit dem Smartphone überbrückt. Kramer vermutet, dass wir dadurch verlernen, Langeweile auszuhalten. Wirklich vertrieben werde sie durch das ständige Wischen ohnehin nicht. „Viele berichten, dass sie sich nach einer halben Stunde in sozialen Netzwerken leerer fühlen als vorher. Die Ablenkung füllt die Zeit, aber sie gibt uns nicht das Gefühl, etwas Sinnvolles getan zu haben.“",
+    "Auch in der Arbeitswelt ist Langeweile ein Thema, wenn auch eines, über das selten gesprochen wird. 2007 machten zwei Schweizer Unternehmensberater den Begriff „Boreout“ bekannt. Gemeint ist ein Zustand, in dem Beschäftigte dauerhaft unterfordert sind und ihre Tätigkeit als sinnlos erleben. Nach außen wirken die Betroffenen oft vielbeschäftigt: Sie strecken einfache Aufgaben über den ganzen Tag oder öffnen rasch ein Dokument, sobald jemand das Büro betritt. Denn wer zugibt, sich zu langweilen, fürchtet, als überflüssig zu gelten. Für die Gesundheit kann diese Unterforderung auf Dauer ähnlich belastend sein wie ständige Überforderung.",
+    "Bei Kindern sehen viele Eltern in der Langeweile ein Alarmsignal, auf das sie sofort reagieren müssen. Kaum klagt das Kind, ihm sei langweilig, wird ein Spiel, ein Ausflug oder ein Film angeboten. Kramer hält das für einen Fehler. „Kinder, die lernen, mit Langeweile umzugehen, entdecken eigene Interessen. Sie bauen aus Decken eine Höhle oder erfinden ein Spiel, auf das kein Erwachsener gekommen wäre.“ Eltern rät sie, die Klage gelassen hinzunehmen und dem Kind zuzutrauen, selbst eine Lösung zu finden. Ein Nachmittag ohne Programm sei für Kinder kein verlorener, sondern oft ein besonders wertvoller.",
+    "Und an der Hochschule? Dort gilt Langeweile vielen als sicheres Zeichen schlechter Lehre. Häufig ist zu lesen, die Aufmerksamkeit sinke in jeder Vorlesung nach zehn bis fünfzehn Minuten zwangsläufig ab. Kramer hält diese Regel für schlecht belegt: Die Studien, auf denen diese Annahme beruhe, seien klein und methodisch fragwürdig. Wie lange Studierende bei der Sache bleiben, hänge vielmehr davon ab, ob ein Thema sie berührt und ob sie selbst aktiv werden dürfen. Eine kurze Pause, eine Frage an das Publikum oder ein überraschendes Beispiel könne die Aufmerksamkeit jederzeit zurückholen.",
+    "Was also tun, wenn sich die Langeweile meldet? Kramer empfiehlt, das Gefühl zunächst wahrzunehmen, statt es sofort zu verdrängen. Hilfreich sei die Frage, was gerade fehlt: eine Herausforderung, ein Sinn oder schlicht eine Pause. Manchmal genüge es, die Gedanken eine Weile treiben zu lassen. Wer das regelmäßig übe, werde mit der Zeit gelassener. Wer dagegen bei jeder Regung zum Handy greife, nehme sich selbst die Chance, herauszufinden, was er eigentlich braucht. „Langeweile auszuhalten ist eine Fähigkeit, die man trainieren kann – ähnlich wie Geduld.“",
+    "Auf dem Bahnsteig hat sich inzwischen etwas verändert. Ein älterer Mann hat sein Telefon in die Jackentasche gesteckt und beobachtet die Krähen, die auf dem Nachbargleis nach Futter suchen.",
+    "Der Zug kommt in fünf Minuten, doch der Mann blickt nicht auf die Anzeigetafel. Vielleicht langweilt er sich. Vielleicht kommt ihm gerade eine Idee."
+   ],
+   "itemsLead": "Aussagen 13–23",
+   "items": [
+    {
+     "no": "13",
+     "text": "Kramer zufolge ist Langeweile eine Form der Entspannung.",
+     "answer": "f"
+    },
+    {
+     "no": "14",
+     "text": "Im amerikanischen Versuch nahmen einige Teilnehmende lieber einen kurzen Schmerz in Kauf, als nur nachzudenken.",
+     "answer": "r"
+    },
+    {
+     "no": "15",
+     "text": "Bei den Frauen war der Anteil derer, die den Stromschlag auslösten, höher als bei den Männern.",
+     "answer": "f"
+    },
+    {
+     "no": "16",
+     "text": "Kramer zufolge funktioniert Langeweile ähnlich wie Signale des Körpers.",
+     "answer": "r"
+    },
+    {
+     "no": "17",
+     "text": "In der britischen Studie schrieben einige Teilnehmende Nummern ab und hatten danach weniger Ideen als die Gruppe ohne Vorübung.",
+     "answer": "f"
+    },
+    {
+     "no": "18",
+     "text": "Kramer selbst verzichtet im Alltag weitgehend auf ihr Smartphone.",
+     "answer": "n"
+    },
+    {
+     "no": "19",
+     "text": "Bekannt gemacht wurde der Begriff „Boreout“ von zwei Fachleuten aus der Wirtschaftsberatung.",
+     "answer": "r"
+    },
+    {
+     "no": "20",
+     "text": "Unterforderte Angestellte sprechen meist offen über ihre Langeweile.",
+     "answer": "f"
+    },
+    {
+     "no": "21",
+     "text": "Jugendliche langweilen sich häufiger als Erwachsene.",
+     "answer": "n"
+    },
+    {
+     "no": "22",
+     "text": "Kramer bezweifelt, dass die Konzentration in Vorlesungen nach einer festen Zeit nachlässt.",
+     "answer": "r"
+    },
+    {
+     "no": "23",
+     "text": "Kramer bietet Kurse an, in denen man den Umgang mit Langeweile üben kann.",
+     "answer": "n"
+    }
+   ],
+   "headline": {
+    "instruction": "Welche der Überschriften a, b oder c trifft die Aussage des Textes am besten? Markieren Sie Ihre Lösung für die Aufgabe 24 auf dem Antwortbogen.",
+    "no": "24",
+    "options": {
+     "a": "Warum das Smartphone die Langeweile nicht vertreibt",
+     "b": "Langeweile – ein Zustand, den man meiden sollte",
+     "c": "Vom Nutzen eines unbeliebten Gefühls"
+    },
+    "answer": "c"
+   }
+  },
+  "sb": {
+   "instruction": "Lesen Sie den folgenden Text. Welche Lösung (a, b, c oder d) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 25–46 auf dem Antwortbogen. Lücke (0) ist ein Beispiel.",
+   "title": "Eine Erfindung aus dem Schulheft",
+   "paragraphs": [
+    "Kaffee gehörte um 1900 in Deutschland längst zum Alltag, doch seine Zubereitung {{0}} viele Hausfrauen vor ein Problem. Meist wurde das Pulver einfach mit heißem Wasser {{25}}, sodass beim Trinken Kaffeesatz {{26}} die Zunge geriet. Andere Verfahren, bei {{27}} man Stoffbeutel oder Metallsiebe benutzte, lieferten {{28}} einen klareren Kaffee, doch die Beutel und Siebe waren mühsam zu reinigen. Mancher griff deshalb lieber gleich zum Tee.",
+    "Die Dresdner Hausfrau Melitta Bentz wollte sich damit nicht {{29}}. Sie probierte zunächst verschiedene Stoffe aus, doch keiner hielt den Kaffeesatz zuverlässig zurück. Kurzerhand nahm sie einen Messingtopf, schlug mit Hammer und Nagel Löcher {{30}} den Boden und legte ein Blatt Löschpapier aus dem Schulheft ihres Sohnes hinein. Das Ergebnis überzeugte sie: Der Kaffee lief klar und ohne Krümel durch, und das Papier {{31}} nach Gebrauch einfach weggeworfen werden.",
+    "Am 20. Juni 1908 ließ sie ihre Erfindung beim Kaiserlichen Patentamt als Gebrauchsmuster {{32}}. Noch im selben Jahr gründete sie gemeinsam mit ihrem Mann eine Firma, {{33}} Startkapital aus wenigen Pfennigen bestand. Hergestellt {{34}} die ersten Filter in der Dresdner Wohnung der Familie, und auf der Leipziger Messe {{35}} sich die Neuheit bald großer Beliebtheit: 1909 wurden dort bereits mehr als tausend Filter verkauft.",
+    "Der Erfolg hatte {{36}} Gründe. Der Filter war preiswert, und er sparte Zeit, {{37}} man keine Tücher mehr auskochen musste. Während des {{38}} Weltkriegs kam die Produktion allerdings fast zum {{39}}, weil Papier knapp war. 1929 zog das Unternehmen nach Minden in Westfalen, wo es bis heute seinen Sitz hat. In den Dreißigerjahren folgte schließlich die kegelförmige Filtertüte, die bald in fast jeder Küche zu {{40}} war.",
+    "Melitta Bentz {{41}} die Leitung später ihren Söhnen und starb 1950. Ihr Name ist jedoch bis heute der {{42}} des Filterkaffees, denn er wurde zum Markennamen. Zwar haben inzwischen Kapselmaschinen und Vollautomaten {{43}} Markt erobert, doch greifen weltweit {{44}} immer Millionen Menschen zur Filtertüte. {{45}} aus einem Blatt Löschpapier einmal ein Weltunternehmen entstehen würde, hätte 1908 wohl niemand {{46}}. Für ihre Erfindung brauchte Melitta Bentz weder ein Labor noch ein Studium, sondern vor allem Hartnäckigkeit. Heute beschäftigt die Unternehmensgruppe mehrere Tausend Menschen und stellt längst nicht mehr nur Filter her."
+   ],
+   "example": {
+    "options": {
+     "a": "brachte",
+     "b": "setzte",
+     "c": "stellte",
+     "d": "verstellte"
+    },
+    "answer": "c"
+   },
+   "items": [
+    {
+     "no": "25",
+     "options": {
+      "a": "aufgebracht",
+      "b": "aufgebraucht",
+      "c": "aufgebrochen",
+      "d": "aufgebrüht"
+     },
+     "answer": "d"
+    },
+    {
+     "no": "26",
+     "options": {
+      "a": "auf",
+      "b": "bei",
+      "c": "in",
+      "d": "über"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "27",
+     "options": {
+      "a": "denen",
+      "b": "deren",
+      "c": "derer",
+      "d": "diejenigen"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "28",
+     "options": {
+      "a": "entweder",
+      "b": "sowohl",
+      "c": "weder",
+      "d": "zwar"
+     },
+     "answer": "d"
+    },
+    {
+     "no": "29",
+     "options": {
+      "a": "abfinden",
+      "b": "abgefunden",
+      "c": "befinden",
+      "d": "finden"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "30",
+     "options": {
+      "a": "an",
+      "b": "in",
+      "c": "über",
+      "d": "unter"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "31",
+     "options": {
+      "a": "gekonnt",
+      "b": "kann",
+      "c": "konnte",
+      "d": "konnten"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "32",
+     "options": {
+      "a": "beschützen",
+      "b": "schätzen",
+      "c": "schützen",
+      "d": "schützten"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "33",
+     "options": {
+      "a": "dem",
+      "b": "denen",
+      "c": "deren",
+      "d": "dessen"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "34",
+     "options": {
+      "a": "geworden",
+      "b": "hatten",
+      "c": "wurde",
+      "d": "wurden"
+     },
+     "answer": "d"
+    },
+    {
+     "no": "35",
+     "options": {
+      "a": "erfreute",
+      "b": "erfreuten",
+      "c": "freute",
+      "d": "vergnügte"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "36",
+     "options": {
+      "a": "mehrere",
+      "b": "mehreren",
+      "c": "mehrerer",
+      "d": "mehrfach"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "37",
+     "options": {
+      "a": "denn",
+      "b": "deshalb",
+      "c": "trotzdem",
+      "d": "weil"
+     },
+     "answer": "d"
+    },
+    {
+     "no": "38",
+     "options": {
+      "a": "erstem",
+      "b": "Erstem",
+      "c": "ersten",
+      "d": "Ersten"
+     },
+     "answer": "d"
+    },
+    {
+     "no": "39",
+     "options": {
+      "a": "erliegen",
+      "b": "Erliegen",
+      "c": "Erligen",
+      "d": "Erlliegen"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "40",
+     "options": {
+      "a": "finden",
+      "b": "findet",
+      "c": "fündig",
+      "d": "gefunden"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "41",
+     "options": {
+      "a": "begab",
+      "b": "ergab",
+      "c": "übergab",
+      "d": "übernahm"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "42",
+     "options": {
+      "a": "Imbegriff",
+      "b": "Inbegrif",
+      "c": "inbegriff",
+      "d": "Inbegriff"
+     },
+     "answer": "d"
+    },
+    {
+     "no": "43",
+     "options": {
+      "a": "dem",
+      "b": "den",
+      "c": "denen",
+      "d": "der"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "44",
+     "options": {
+      "a": "je",
+      "b": "noch",
+      "c": "nunmehr",
+      "d": "nur"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "45",
+     "options": {
+      "a": "Das",
+      "b": "Dass",
+      "c": "Ob",
+      "d": "Obwohl"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "46",
+     "options": {
+      "a": "dachte",
+      "b": "denken",
+      "c": "gedacht",
+      "d": "gedachte"
+     },
+     "answer": "c"
+    }
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören die Meinungen von acht Personen. Sie hören die Meinungen nur einmal. Entscheiden Sie beim Hören, welche Aussage (a–j) zu welcher Person (Sprecher/in 1–8) passt. Zwei Aussagen passen nicht. Markieren Sie Ihre Lösungen für die Aufgaben 47–54 auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aussagen a–j. Sie haben dazu eine Minute Zeit.",
+   "title": "Promovieren – lohnt sich der Doktortitel?",
+   "statements": [
+    {
+     "letter": "a",
+     "text": "Viele Menschen halten jemanden mit Doktortitel automatisch für besonders kompetent."
+    },
+    {
+     "letter": "b",
+     "text": "Wer sich nicht wirklich für sein Thema interessiert, sollte keine Doktorarbeit anfangen."
+    },
+    {
+     "letter": "c",
+     "text": "Mit einem Doktortitel verdient man in jedem Beruf deutlich mehr als ohne."
+    },
+    {
+     "letter": "d",
+     "text": "In meinem Fach ist der Doktortitel für den Berufseinstieg fast unverzichtbar."
+    },
+    {
+     "letter": "e",
+     "text": "Nach der Promotion steigen auffallend viele Frauen aus der Hochschulkarriere aus."
+    },
+    {
+     "letter": "f",
+     "text": "Ich bereue nicht, dass ich meine Promotion aufgegeben habe."
+    },
+    {
+     "letter": "g",
+     "text": "Arbeitgeber achten weniger auf den Titel als auf das, was man bei der Promotion gelernt hat."
+    },
+    {
+     "letter": "h",
+     "text": "Doktorarbeiten sollten an deutschen Hochschulen grundsätzlich nur noch auf Englisch verfasst werden."
+    },
+    {
+     "letter": "i",
+     "text": "Zeitverträge führen dazu, dass begabte Leute die Hochschule verlassen."
+    },
+    {
+     "letter": "j",
+     "text": "Bei der Wahl des Promotionsortes zählt gute Unterstützung mehr als ein großer Name."
+    }
+   ],
+   "items": [
+    {
+     "no": "47",
+     "label": "Sprecher 1",
+     "answer": "d"
+    },
+    {
+     "no": "48",
+     "label": "Sprecher 2",
+     "answer": "g"
+    },
+    {
+     "no": "49",
+     "label": "Sprecher 3",
+     "answer": "b"
+    },
+    {
+     "no": "50",
+     "label": "Sprecherin 4",
+     "answer": "f"
+    },
+    {
+     "no": "51",
+     "label": "Sprecher 5",
+     "answer": "i"
+    },
+    {
+     "no": "52",
+     "label": "Sprecherin 6",
+     "answer": "a"
+    },
+    {
+     "no": "53",
+     "label": "Sprecherin 7",
+     "answer": "j"
+    },
+    {
+     "no": "54",
+     "label": "Sprecherin 8",
+     "answer": "e"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören eine Radiosendung. Sie hören die Sendung nur einmal. Entscheiden Sie beim Hören, welche Aussage (a, b oder c) am besten passt. Markieren Sie Ihre Lösungen für die Aufgaben 55–64 auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 55–64. Sie haben dazu drei Minuten Zeit.",
+   "items": [
+    {
+     "no": "55",
+     "stem": "Für die Unterwasserarchäologie ist nach Dr. Maurer besonders wichtig,",
+     "options": {
+      "a": "die Lage aller Funde genau zu kennen.",
+      "b": "nach sehr wertvollen Stücken zu suchen.",
+      "c": "die Funde möglichst schnell an Land zu bringen."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "56",
+     "stem": "Die meisten Wracks werden heute entdeckt",
+     "options": {
+      "a": "durch Hinweise aus der Fischerei.",
+      "b": "durch Forschungstaucher der Universitäten.",
+      "c": "bei Vorarbeiten für Bauprojekte im Meer."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "57",
+     "stem": "Holzwracks bleiben in der Ostsee lange erhalten, weil",
+     "options": {
+      "a": "das salzige Wasser das Holz vor dem Zerfall schützt.",
+      "b": "ein bestimmter Schädling dort kaum vorkommt.",
+      "c": "die Wracks dort schnell im Sand versinken."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "58",
+     "stem": "Eine neue Gefahr für die Wracks in der Ostsee ist nach Dr. Maurer,",
+     "options": {
+      "a": "dass das Wasser immer weniger Salz enthält.",
+      "b": "dass Sporttaucher sie mit dem Sonar suchen.",
+      "c": "dass ein Schädling neue Gebiete erreicht."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "59",
+     "stem": "Die „Vasa“ ist für Dr. Maurer ein Beispiel dafür, dass",
+     "options": {
+      "a": "die Erhaltung gehobener Wracks sehr teuer ist.",
+      "b": "Schiffe früher oft bei der ersten Fahrt sanken.",
+      "c": "Holz an der Luft besser erhalten bleibt."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "60",
+     "stem": "Die dreidimensionalen Modelle",
+     "options": {
+      "a": "machen das Abdecken der Wracks überflüssig.",
+      "b": "erlauben Untersuchungen vom Schreibtisch aus.",
+      "c": "ersetzen die Arbeit unter Wasser inzwischen ganz."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "61",
+     "stem": "Die Funde aus den Pfahlbaudörfern sind gut erhalten, weil",
+     "options": {
+      "a": "die Häuser hoch über dem Wasser standen.",
+      "b": "die Dörfer schon damals unter Wasser lagen.",
+      "c": "sie keinen Luftkontakt mehr hatten."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "62",
+     "stem": "Mithilfe der Jahresringe kann man",
+     "options": {
+      "a": "Holz oft auf das Jahr genau datieren.",
+      "b": "auch das Alter von Stoffen und Netzen ermitteln.",
+      "c": "meist nur das ungefähre Jahrhundert angeben."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "63",
+     "stem": "Wer in der Unterwasserarchäologie arbeiten will,",
+     "options": {
+      "a": "fängt zunächst mit einem Archäologiestudium an.",
+      "b": "braucht vor allem eine gründliche Tauchausbildung.",
+      "c": "arbeitet später überwiegend unter Wasser."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "64",
+     "stem": "Dr. Maurer würde am liebsten",
+     "options": {
+      "a": "ein Wrack aus dem Mittelalter an Land holen.",
+      "b": "das Land unter der Nordsee erforschen.",
+      "c": "mit Fischern nach alten Werkzeugen suchen."
+     },
+     "answer": "b"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören einen Vortrag. Sie hören den Vortrag nur einmal. Sie haben Handzettel mit den Folien der Präsentation erhalten. Schreiben Sie die fehlenden Informationen stichwortartig in die freien Zeilen 65–74 in der rechten Spalte.",
+   "exampleNote": "Die Lösung 0 ist ein Beispiel.",
+   "readNote": "Lesen Sie jetzt die Stichworte. Sie haben dazu eine Minute Zeit.",
+   "finalNote": "Sie haben jetzt fünf Minuten Zeit, Ihre Antworten zu den Aufgaben 65–74 auf den Antwortbogen zu übertragen.",
+   "exampleAnswer": "Natur verstehen",
+   "slides": [
+    {
+     "title": "Ringvorlesung",
+     "lines": [
+      {
+       "no": "0",
+       "bullet": false,
+       "dash": false,
+       "text": "„…“"
+      },
+      {
+       "no": "",
+       "bullet": false,
+       "dash": false,
+       "text": "Thema heute: Das Netz unter unseren Füßen"
+      },
+      {
+       "no": "",
+       "bullet": false,
+       "dash": false,
+       "text": "Referentin: Dr. Julia Neumann, Institut für Waldökologie"
+      }
+     ]
+    },
+    {
+     "title": "Grundlagen",
+     "lines": [
+      {
+       "no": "",
+       "bullet": true,
+       "dash": false,
+       "text": "Pilzfäden im Boden, verbunden mit feinen Baumwurzeln"
+      },
+      {
+       "no": "65",
+       "bullet": true,
+       "dash": false,
+       "text": "Fachbegriff für diese Gemeinschaft: …"
+      },
+      {
+       "no": "66",
+       "bullet": true,
+       "dash": false,
+       "text": "Beitrag des Baumes: …"
+      },
+      {
+       "no": "67",
+       "bullet": true,
+       "dash": false,
+       "text": "Beitrag des Pilzes: …"
+      }
+     ]
+    },
+    {
+     "title": "Die Studie von 1997",
+     "lines": [
+      {
+       "no": "",
+       "bullet": true,
+       "dash": false,
+       "text": "Birken und Douglasien, markierter Kohlenstoff"
+      },
+      {
+       "no": "68",
+       "bullet": true,
+       "dash": false,
+       "text": "Ergebnis: …"
+      },
+      {
+       "no": "",
+       "bullet": true,
+       "dash": false,
+       "text": "Schlagwort: „Wood Wide Web“"
+      }
+     ]
+    },
+    {
+     "title": "Die Idee der Mutterbäume",
+     "lines": [
+      {
+       "no": "69",
+       "bullet": true,
+       "dash": false,
+       "text": "Annahme: …"
+      },
+      {
+       "no": "70",
+       "bullet": true,
+       "dash": false,
+       "text": "Empfehlung für die Forstwirtschaft: …"
+      }
+     ]
+    },
+    {
+     "title": "Überprüfung 2023",
+     "lines": [
+      {
+       "no": "",
+       "bullet": true,
+       "dash": false,
+       "text": "Auswertung der verfügbaren Feldstudien"
+      },
+      {
+       "no": "71",
+       "bullet": true,
+       "dash": false,
+       "text": "Ergebnis: …"
+      },
+      {
+       "no": "72",
+       "bullet": true,
+       "dash": false,
+       "text": "Grund für die Verbreitung des Mythos: …"
+      }
+     ]
+    },
+    {
+     "title": "Was gesichert ist",
+     "lines": [
+      {
+       "no": "73",
+       "bullet": true,
+       "dash": false,
+       "text": "Vorteil bei Trockenheit: …"
+      },
+      {
+       "no": "",
+       "bullet": true,
+       "dash": false,
+       "text": "Praxis: Pilze bei Aufforstungen mit einbringen"
+      }
+     ]
+    },
+    {
+     "title": "Fazit",
+     "lines": [
+      {
+       "no": "74",
+       "bullet": true,
+       "dash": false,
+       "text": "Rat an die Studierenden: …"
+      }
+     ]
+    }
+   ],
+   "items": [
+    {
+     "no": "65",
+     "solution": "Mykorrhiza"
+    },
+    {
+     "no": "66",
+     "solution": "gibt Zucker aus der Fotosynthese ab (bis zu einem Fünftel)"
+    },
+    {
+     "no": "67",
+     "solution": "liefert Wasser und Nährstoffe (v. a. Phosphor, Stickstoff)"
+    },
+    {
+     "no": "68",
+     "solution": "Kohlenstoff gelangt über die Pilzfäden von Birken zu Douglasien, v. a. wenn die Douglasien im Schatten stehen"
+    },
+    {
+     "no": "69",
+     "solution": "alte Bäume versorgen ihre Nachkommen über das Netz mit Nährstoffen"
+    },
+    {
+     "no": "70",
+     "solution": "alte Bäume beim Holzeinschlag stehen lassen"
+    },
+    {
+     "no": "71",
+     "solution": "kaum Belege: dauerhafte Verbindungen selten nachgewiesen / Nährstofftransport kaum belegt / kein Beleg für Mutterbäume (ein Teilergebnis genügt)"
+    },
+    {
+     "no": "72",
+     "solution": "positive Studien häufiger zitiert, Ergebnisse überzeichnet / man verließ sich auf Zusammenfassungen / Aussagen veränderten sich bei jeder Weitergabe (Stille Post) (ein Aspekt genügt)"
+    },
+    {
+     "no": "73",
+     "solution": "Bäume mit Pilzpartnern überstehen Trockenperioden leichter"
+    },
+    {
+     "no": "74",
+     "solution": "Originalstudien lesen, prüfen, was gemessen wurde und ob andere es bestätigt haben; sich nicht auf Zusammenfassungen oder Medien verlassen (ein Aspekt genügt)"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "instruction": "Wählen Sie eines der folgenden zwei Themen. Schreiben Sie einen Text, in dem Sie Ihren eigenen Standpunkt dazu erarbeiten und argumentativ darlegen. Ihr Text soll mindestens 350 Wörter umfassen. Sie haben 70 Minuten Zeit.",
+  "minWords": 350,
+  "minutes": 70,
+  "themes": [
+   {
+    "no": "1",
+    "paragraphs": [
+     "In einem Seminar wird diskutiert, ob Hochschulen enger mit Unternehmen zusammenarbeiten sollten, etwa bei gemeinsamen Forschungsprojekten.",
+     "Erörtern Sie Chancen und Risiken einer solchen Zusammenarbeit, greifen Sie die Zitate auf und beziehen Sie eigene Erfahrungen ein. Ziehen Sie ein begründetes Fazit."
+    ],
+    "quoteLead": "Die folgenden Zitate geben Ihnen erste Ideen:",
+    "quotes": [
+     "„Ohne Geld aus der Wirtschaft bliebe manche gute Idee in der Schublade.“",
+     "„Wer die Forschung bezahlt, bestimmt auch ihre Fragen.“"
+    ],
+    "model": {
+     "title": "Partner oder Auftraggeber? Hochschulen und Unternehmen",
+     "paragraphs": [
+      "Ob neue Medikamente, leichtere Werkstoffe oder sparsamere Motoren: Viele Innovationen entstehen heute in Projekten, an denen Hochschulen und Unternehmen gemeinsam arbeiten. Zugleich wächst die Sorge, die Wissenschaft könne dadurch ihre Unabhängigkeit verlieren. Vor diesem Hintergrund wird in unserem Seminar diskutiert, ob Hochschulen enger mit der Wirtschaft zusammenarbeiten sollten. Im Folgenden werden die Chancen und Risiken einer solchen Zusammenarbeit gegeneinander abgewogen.",
+      "Für eine engere Kooperation sprechen zunächst finanzielle Gründe. Die Grundfinanzierung vieler Hochschulen reicht kaum aus, um teure Geräte anzuschaffen oder zusätzliches Personal einzustellen. In diesem Punkt ist dem ersten Zitat zuzustimmen: Ohne Mittel aus der Wirtschaft bliebe manche gute Idee tatsächlich in der Schublade. Hinzu kommt, dass Studierende von gemeinsamen Projekten profitieren. Sie lernen, wie Forschungsergebnisse in der Praxis angewendet werden, und knüpfen Kontakte, die ihnen später den Berufseinstieg erleichtern. Nicht zuletzt fließen neue Erkenntnisse auf diesem Weg schneller in Produkte ein, die der ganzen Gesellschaft zugutekommen.",
+      "Ernst zu nehmen ist jedoch auch die Befürchtung, die im zweiten Zitat zum Ausdruck kommt. Wer ein Projekt finanziert, hat ein Interesse daran, welche Fragen gestellt werden – und mitunter auch daran, welche Antworten am Ende stehen. Problematisch wird es vor allem dann, wenn Unternehmen die Veröffentlichung unliebsamer Ergebnisse verzögern oder gar verhindern können. Zudem besteht die Gefahr, dass Fächer, deren Erkenntnisse sich nicht verkaufen lassen, gegenüber anwendungsnahen Disziplinen ins Hintertreffen geraten. Das betrifft etwa die Geisteswissenschaften, aber auch die Grundlagenforschung in den Naturwissenschaften.",
+      "Meine eigene Erfahrung bestätigt beides. Im Studium der Verfahrenstechnik habe ich an einem Projekt mitgearbeitet, das ein Chemieunternehmen finanziert hat. Die Ausstattung war hervorragend, und ich habe in einem Semester mehr gelernt als aus manchem Lehrbuch. Als wir unsere Ergebnisse jedoch auf einer Tagung vorstellen wollten, mussten wir monatelang auf die Zustimmung des Unternehmens warten, und einige Daten durften wir gar nicht zeigen. Diese Erfahrung hat mir gezeigt, wie schnell wirtschaftliche Interessen die Freiheit der Forschung einschränken können.",
+      "Insgesamt halte ich eine Zusammenarbeit von Hochschulen und Unternehmen für sinnvoll, allerdings nur unter klaren Bedingungen. Verträge sollten öffentlich einsehbar sein, und das Recht, Ergebnisse zu veröffentlichen, muss bei den Forschenden bleiben. Außerdem dürfen Mittel aus der Wirtschaft die staatliche Grundfinanzierung nur ergänzen, nicht ersetzen. Nur so lässt sich verhindern, dass am Ende tatsächlich derjenige die Fragen bestimmt, der zahlt. Denn eine Hochschule, die sich verkauft, verliert genau das, was sie für Unternehmen interessant macht: ihre Unabhängigkeit."
+     ],
+     "hint": "Textsorte Erörterung für ein Seminar. Aufbau: Einleitung mit Leitfrage – Chancen mit Bezug auf Zitat 1 – Risiken mit Bezug auf Zitat 2 – eigene Erfahrung, die beide Seiten stützt – Fazit mit Bedingungen. Sprachliche Mittel: überwiegend sachlicher, unpersönlicher Stil (Im Folgenden werden … abgewogen; ist … zuzustimmen), Ich-Form nur bei der eigenen Erfahrung und im Fazit, Nominalstil (Grundfinanzierung, Veröffentlichung), Konjunktiv I und II (könne, bliebe), Konnektoren der Abwägung (zunächst, hinzu kommt, nicht zuletzt, jedoch, zudem, insgesamt). Umfang: 385 Wörter."
+    }
+   },
+   {
+    "no": "2",
+    "paragraphs": [
+     "Ein Campusmagazin fragt, ob Studierende in den Hochschulgremien mehr mitbestimmen sollten, etwa bei Prüfungsordnungen.",
+     "Nehmen Sie persönlich Stellung: Legen Sie dar, was für und was gegen mehr Mitbestimmung spricht, beziehen Sie die Zitate ein und begründen Sie Ihre Meinung."
+    ],
+    "quoteLead": "Die folgenden Zitate geben Ihnen erste Ideen:",
+    "quotes": [
+     "„Niemand kennt die Schwächen eines Studiengangs besser als die Studierenden.“",
+     "„Wer nach drei Jahren geht, sollte nicht über die nächsten zwanzig entscheiden.“"
+    ],
+    "model": {
+     "title": "Mitreden, wo es uns betrifft",
+     "paragraphs": [
+      "Im letzten Wintersemester lagen in meinem Studiengang drei große Klausuren in derselben Woche. Viele von uns haben damals kaum geschlafen, und entsprechend viele sind durchgefallen. Geändert hat sich das erst, als zwei Studierende aus unserer Fachschaft das Problem in der Studienkommission ansprachen. Seitdem weiß ich, wie viel Mitbestimmung bewirken kann – und frage mich, warum wir Studierenden in den meisten Gremien nur eine kleine Minderheit stellen.",
+      "Für mehr Mitsprache spricht aus meiner Sicht vor allem unsere Erfahrung. Wir erleben jeden Tag, welche Lehrveranstaltungen überfüllt sind, wo sich Prüfungen häufen und welche Inhalte veraltet sind. Das erste Zitat trifft deshalb den Kern: Niemand kennt die Schwächen eines Studiengangs so gut wie diejenigen, die ihn studieren. Außerdem werden Entscheidungen eher akzeptiert, wenn die Betroffenen daran beteiligt waren. Eine Prüfungsordnung, an der Studierende mitgearbeitet haben, empfinden die meisten als fairer.",
+      "Gleichzeitig kann ich den Einwand im zweiten Zitat nachvollziehen. Die meisten von uns verlassen die Hochschule nach drei bis fünf Jahren wieder, während Professorinnen und Professoren oft Jahrzehnte bleiben. Bei der Auswahl neuer Lehrender fehlt uns zudem häufig das Fachwissen, um Bewerbungen wirklich beurteilen zu können. Hinzu kommt, dass sich nur wenige Studierende für die Arbeit in den Gremien interessieren. Bei Hochschulwahlen gibt oft nur ein kleiner Teil überhaupt seine Stimme ab.",
+      "Ich bin dennoch klar für mehr Mitbestimmung, allerdings nicht überall im gleichen Maß. In Fragen der Lehre, bei Prüfungsordnungen und Studienplänen sollten Studierende ebenso viel Gewicht haben wie die Lehrenden. Bei der Auswahl neuer Professorinnen und Professoren halte ich dagegen eine beratende Rolle für angemessen, etwa indem Studierende die Probevorlesungen bewerten. Gerade in kleinen Fächern, in denen eine einzige Berufung das Studium über Jahre prägt, wäre diese Rückmeldung wertvoll. Damit sich mehr Kommilitoninnen und Kommilitonen beteiligen, müsste die Hochschule außerdem besser über die Arbeit der Gremien informieren. Und wer sich engagiert, sollte nicht befürchten müssen, dadurch im Studium Zeit zu verlieren.",
+      "Die Woche mit den drei Klausuren gibt es in meinem Studiengang inzwischen nicht mehr. Für mich ist das der beste Beweis dafür, dass sich Mitreden lohnt. Mitbestimmung sollte deshalb kein Zugeständnis sein, sondern eine Selbstverständlichkeit. Eine Hochschule ist kein Unternehmen, in dem die Kundschaft nur Wünsche äußern darf, sondern eine Gemeinschaft von Lehrenden und Lernenden. Und in einer Gemeinschaft sollten alle mitreden können, die von den Entscheidungen betroffen sind."
+     ],
+     "hint": "Textsorte persönliche Stellungnahme für ein Magazin. Aufbau: persönlicher Einstieg mit einem Erlebnis – Argumente dafür mit Bezug auf Zitat 1 – Einwände mit Bezug auf Zitat 2 – eigene Position mit abgestuften Vorschlägen – Rückgriff auf den Einstieg im Schluss. Sprachliche Mittel: Ich-Perspektive und wertende Ausdrücke (aus meiner Sicht, Ich bin dennoch klar für …), Konjunktiv II für Vorschläge (müsste, sollten), Gegenüberstellung (gleichzeitig, dagegen). Umfang: 378 Wörter."
+    }
+   }
+  ]
+ },
+ "muendlich": {
+  "teil1": [
+   {
+    "who": "A",
+    "themes": [
+     "Beschreiben Sie einen Ort in Ihrem Heimatland, der für Sie eine besondere Bedeutung hat. Was verbinden Sie mit diesem Ort?",
+     "Sollte der öffentliche Nahverkehr in Städten kostenlos sein? Welche Vorteile und welche Nachteile hätte eine solche Regelung? Begründen Sie Ihre Meinung."
+    ]
+   },
+   {
+    "who": "B",
+    "themes": [
+     "Stellen Sie ein Fest aus Ihrem Heimatland vor. Woher stammt es, und wie wird es heute gefeiert?",
+     "Sollten Zoos abgeschafft werden? Begründen Sie Ihre Meinung."
+    ]
+   },
+   {
+    "who": "C",
+    "themes": [
+     "Beschreiben Sie, wie sich Ihr Heimatort in den letzten Jahren verändert hat. Was gefällt Ihnen an diesen Veränderungen, und was nicht?",
+     "Sollten Schulen auf Hausaufgaben verzichten? Begründen Sie Ihre Meinung und gehen Sie auch auf Gegenargumente ein."
+    ]
+   }
+  ],
+  "teil2": [
+   {
+    "no": "1",
+    "text": "„Wer gar zu viel bedenkt, wird wenig leisten.“",
+    "author": "Friedrich Schiller, 1759–1805, Dichter und Dramatiker"
+   },
+   {
+    "no": "2",
+    "text": "„Das Wissen allein ist nicht Zweck des Menschen auf der Erde.“",
+    "author": "Hermann von Helmholtz, 1821–1894, Physiker und Physiologe"
+   },
+   {
+    "no": "3",
+    "text": "„Man muss noch Chaos in sich haben, um einen tanzenden Stern gebären zu können.“",
+    "author": "Friedrich Nietzsche, 1844–1900, Philosoph"
+   }
+  ]
+ },
+ "notes": "",
+ "index": {
+  "short": "Wie die Hieroglyphen ihre Stimme zurückbekamen · Kleider ohne Wert · Eine Erfindung aus dem Schulheft",
+  "lesen": {
+   "t1": "Wie die Hieroglyphen ihre Stimme zurückbekamen",
+   "t2": "Kleider ohne Wert",
+   "t3": "Vom Nutzen eines unbeliebten Gefühls",
+   "sb": "Eine Erfindung aus dem Schulheft"
+  },
+  "hoeren": {
+   "t1": "Promovieren – lohnt sich der Doktortitel?",
+   "t2": "Unterwasserarchäologie",
+   "t3": "Das Netz unter unseren Füßen"
+  },
+  "schreiben": {
+   "t1": "Hochschulen und Unternehmen",
+   "t2": "Mitbestimmung in Hochschulgremien"
+  },
+  "sprechen": {
+   "t1": [
+    {
+     "who": "A",
+     "topics": [
+      "Ein besonderer Ort",
+      "Kostenloser Nahverkehr"
+     ]
+    },
+    {
+     "who": "B",
+     "topics": [
+      "Fest im Heimatland",
+      "Zoos abschaffen?"
+     ]
+    },
+    {
+     "who": "C",
+     "topics": [
+      "Wandel des Heimatorts",
+      "Schule ohne Hausaufgaben"
+     ]
+    }
+   ],
+   "t2": [
+    {
+     "no": "1",
+     "author": "Friedrich Schiller"
+    },
+    {
+     "no": "2",
+     "author": "Hermann von Helmholtz"
+    },
+    {
+     "no": "3",
+     "author": "Friedrich Nietzsche"
+    }
+   ]
+  }
+ }
+}

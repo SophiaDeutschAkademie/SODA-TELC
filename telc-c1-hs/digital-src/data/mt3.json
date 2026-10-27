@@ -1,0 +1,1034 @@
+{
+ "id": 3,
+ "roman": "III",
+ "lesen": {
+  "t1": {
+   "instruction": "Lesen Sie den folgenden Text. Welche der Sätze a–h gehören in die Lücken 1–6? Es gibt jeweils nur eine richtige Lösung. Zwei Sätze können nicht zugeordnet werden. Markieren Sie Ihre Lösungen für die Aufgaben 1–6 auf dem Antwortbogen. Lücke (0) ist ein Beispiel.",
+   "intro": "In einer populärwissenschaftlichen Zeitschrift lesen Sie folgenden Beitrag:",
+   "title": "Der Mann, der die Kontinente wandern ließ",
+   "paragraphs": [
+    "Wer eine Weltkarte aufmerksam betrachtet, dem fällt es fast zwangsläufig auf: Die Ostküste Südamerikas und die Westküste Afrikas passen zusammen wie die Teile eines Puzzles. {{0}} Der Meteorologe und Polarforscher Alfred Wegener dagegen nahm die Beobachtung ernst und zog daraus 1912 einen kühnen Schluss: Die Kontinente seien einst zu einer einzigen Landmasse vereint gewesen und hätten sich im Laufe von Jahrmillionen voneinander entfernt.",
+    "Dabei stützte sich Wegener keineswegs nur auf die Form der Küstenlinien. {{1}} So fand man Fossilien des Mesosaurus, eines kleinen Süßwasserreptils, sowohl in Brasilien als auch im Süden Afrikas – ein Tier, das niemals einen ganzen Ozean hätte durchqueren können. Auch Gesteinsschichten und Gebirgszüge setzten sich auf beiden Seiten des Atlantiks nahezu nahtlos fort. Zusammen ergaben diese Indizien ein Bild, das sich mit bloßem Zufall kaum erklären ließ.",
+    "Dennoch stieß seine Theorie in der Fachwelt überwiegend auf heftige Ablehnung. {{2}} Vor allem konnte Wegener nicht überzeugend erklären, welche Kraft ganze Kontinente über die Erdoberfläche schieben sollte. Seine Vermutung, dafür seien die Fliehkraft der Erddrehung und die Gezeiten verantwortlich, ließ sich rechnerisch leicht widerlegen: Beide Kräfte sind viel zu schwach.",
+    "Wegener selbst erlebte die Anerkennung seiner Idee nicht mehr. {{3}} Erst in den 1950er- und 1960er-Jahren lieferte die Erforschung der Ozeanböden die fehlenden Belege. Geologen entdeckten, dass entlang der mittelozeanischen Rücken ständig glutflüssiges Gestein aus dem Erdinneren aufsteigt, erkaltet und als neue Kruste zu beiden Seiten hin auseinandergedrückt wird. {{4}}",
+    "Am Meeresboden entstehen so Streifen mit wechselnder Magnetisierung, die beiderseits der Rücken spiegelbildlich verlaufen. Aus diesen und weiteren Befunden entwickelte sich die Theorie der Plattentektonik, die heute als Fundament der modernen Geowissenschaften gilt. {{5}}",
+    "Wegeners Grundgedanke, dass die Kontinente wandern, hat sich damit als richtig erwiesen, auch wenn er sich in der Frage nach dem Antrieb geirrt hatte. Heute lässt sich die Drift sogar direkt messen. {{6}} Das entspricht ungefähr dem Tempo, mit dem unsere Fingernägel wachsen. Ein großes Institut für Polar- und Meeresforschung in Bremerhaven trägt seinen Namen."
+   ],
+   "sentences": [
+    {
+     "letter": "a",
+     "text": "Nach ihr bewegen sich nicht die Kontinente allein, sondern riesige Platten, auf denen sie gewissermaßen mitreisen."
+    },
+    {
+     "letter": "b",
+     "text": "Diese Kräfte reichen nach heutigem Kenntnisstand völlig aus, um die Wanderung der Kontinente zu erklären."
+    },
+    {
+     "letter": "c",
+     "text": "Dass ausgerechnet ein Meteorologe die Geologie umkrempeln wollte, empfanden viele Fachleute als Anmaßung."
+    },
+    {
+     "letter": "d",
+     "text": "Satellitenmessungen zeigen, dass sich Europa und Nordamerika jedes Jahr um zwei bis drei Zentimeter voneinander entfernen."
+    },
+    {
+     "letter": "e",
+     "text": "Er kam im November 1930 bei einer Expedition auf dem grönländischen Inlandeis ums Leben, kurz nach seinem fünfzigsten Geburtstag."
+    },
+    {
+     "letter": "f",
+     "text": "Er trug vielmehr Belege aus ganz unterschiedlichen Fachgebieten zusammen, von der Paläontologie bis zur Klimageschichte."
+    },
+    {
+     "letter": "g",
+     "text": "Wegener hatte zuvor jahrzehntelang als Professor für Geologie an mehreren Universitäten gelehrt und galt deshalb als unbestrittene Autorität seines Fachs."
+    },
+    {
+     "letter": "h",
+     "text": "Dabei hält das erkaltende Gestein die Richtung des Erdmagnetfelds fest, das sich im Laufe der Erdgeschichte immer wieder umgepolt hat."
+    }
+   ],
+   "example": {
+    "letter": "z",
+    "text": "Lange sahen die meisten Gelehrten darin jedoch nicht mehr als einen Zufall."
+   },
+   "items": [
+    {
+     "no": "1",
+     "answer": "f"
+    },
+    {
+     "no": "2",
+     "answer": "c"
+    },
+    {
+     "no": "3",
+     "answer": "e"
+    },
+    {
+     "no": "4",
+     "answer": "h"
+    },
+    {
+     "no": "5",
+     "answer": "a"
+    },
+    {
+     "no": "6",
+     "answer": "d"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Lesen Sie den folgenden Text. In welchem Textabsatz a–e finden Sie die Antworten auf die Fragen 7–12? Es gibt jeweils nur eine richtige Lösung. Jeder Absatz kann Antworten auf mehrere Fragen enthalten. Markieren Sie Ihre Lösungen für die Aufgaben 7–12 auf dem Antwortbogen.",
+   "title": "Feierabend heißt Feierabend",
+   "sections": [
+    {
+     "letter": "a",
+     "text": "Das Smartphone liegt beim Abendessen neben dem Teller, es vibriert kurz, und schon ist man in Gedanken wieder im Büro. Für einen großen Teil der Berufstätigen gehört das längst zum Alltag: Umfragen zufolge ist die Mehrheit auch abends, am Wochenende und sogar im Urlaub für Vorgesetzte oder Kollegen erreichbar. Wo der Arbeitstag endet und das Privatleben beginnt, können viele kaum noch sagen. Manche empfinden das nicht einmal mehr als Belastung, sondern als selbstverständlichen Teil des Berufslebens. Einige Staaten haben darauf reagiert. In Frankreich müssen größere Unternehmen seit 2017 mit ihren Beschäftigten Regeln aushandeln, die ein ‚Recht auf Abschalten‘ sichern, und Portugal hat es Arbeitgebern inzwischen weitgehend untersagt, ihre Angestellten nach Dienstschluss zu kontaktieren. In Deutschland dagegen wird zwar viel über das Thema diskutiert, verbindliche Vorgaben gibt es jedoch kaum. Ich bin überzeugt, dass wir dringend klare Regeln brauchen – die Frage ist nur, wer sie aufstellen sollte."
+    },
+    {
+     "letter": "b",
+     "text": "Zugegeben: Die ständige Verbindung hat auch Vorzüge, und manche möchten sie nicht mehr missen. Wer kleine Kinder hat, kann nachmittags früher gehen und abends noch eine dringende Anfrage bearbeiten, statt bis sechs Uhr im Büro zu sitzen. Teams, die über mehrere Zeitzonen verteilt sind, könnten ohne ein gewisses Maß an Flexibilität kaum zusammenarbeiten. Auch ist nicht jede Nachricht nach Feierabend eine Zumutung: Eine kurze Rückfrage, die man in einer Minute beantworten kann, erspart einem Kollegen am nächsten Morgen womöglich einen halben Tag Arbeit. Viele Selbstständige schätzen es zudem, ihre Zeit frei einzuteilen und auch spätabends noch Aufträge anzunehmen. Und mancher Vorgesetzte ist schlicht dankbar, wenn eine wichtige Entscheidung nicht bis Montag warten muss. Es wäre also falsch, die Erreichbarkeit pauschal zu verteufeln. Ausschlaggebend ist vielmehr, ob sie freiwillig ist und die Ausnahme bleibt – oder ob sie stillschweigend erwartet wird."
+    },
+    {
+     "letter": "c",
+     "text": "Genau diese stille Erwartung ist das eigentliche Problem. Arbeitspsychologen wissen seit Langem, dass Erholung nur gelingt, wenn man auch gedanklich Abstand von der Arbeit gewinnt. Wer jederzeit mit einer Nachricht rechnen muss, findet diesen Abstand nie. Gefährdet sind dabei gerade die Engagierten, denen es ohnehin schwerfällt, Grenzen zu ziehen. Eine Untersuchung aus den USA kam zu dem Ergebnis, dass bereits die Erwartung, abends E-Mails lesen zu müssen, Anspannung und Ängste auslöst – unabhängig davon, wie viel Zeit man tatsächlich damit verbringt. Bemerkenswert ist ein weiterer Befund: Auch die Partnerinnen und Partner der Befragten waren mit ihrer Beziehung weniger zufrieden. Die Folgen betreffen also nicht nur den Einzelnen. Auf Dauer drohen Schlafstörungen und Erschöpfung, im schlimmsten Fall ein Burn-out, der Betroffene monatelang aus dem Berufsleben reißt. Dass die Unternehmen dabei am Ende mehr verlieren, als sie durch schnelle Antworten gewinnen, wird erstaunlich selten bedacht."
+    },
+    {
+     "letter": "d",
+     "text": "Muss also der Gesetzgeber eingreifen? Hier bin ich skeptisch. Das französische Gesetz verpflichtet die Unternehmen lediglich dazu, Vereinbarungen auszuhandeln; wie viel sich dadurch im Arbeitsalltag tatsächlich verändert hat, ist umstritten. Ein starres Verbot wiederum ließe sich in vielen Berufen kaum umsetzen; in einer Klinik oder bei der Feuerwehr wäre eine feste Sperrzeit schlicht undenkbar. Zudem birgt ein solches Verbot eine Gefahr: Wer abends keine Nachrichten mehr verschicken darf, erledigt die Arbeit womöglich trotzdem – nur eben unsichtbar, ohne dass sie irgendwo erfasst wird. Für Selbstständige, die niemandem Rechenschaft schulden, hilft ein Gesetz ohnehin nicht. Vor allem aber nützt ein Recht auf Unerreichbarkeit wenig, wenn sich niemand traut, es in Anspruch zu nehmen, weil er fürchtet, als weniger engagiert zu gelten. Eine Regel, die nur auf dem Papier steht, beruhigt allenfalls das Gewissen der Politik."
+    },
+    {
+     "letter": "e",
+     "text": "Entscheidend ist deshalb, was in den Betrieben selbst geschieht. Teams sollten offen darüber sprechen, wann eine schnelle Antwort wirklich nötig ist und wann eine Nachricht bis zum nächsten Morgen warten kann. Schon eine einfache Abmachung hilft: Wer abends schreibt, erwartet keine Antwort vor Arbeitsbeginn. Einige Unternehmen sind dabei bereits vor Jahren eigene Wege gegangen: Bei Volkswagen etwa leiten die Server für viele Beschäftigte nach Dienstschluss keine E-Mails mehr auf das Diensthandy weiter, und bei Daimler können Mails, die während des Urlaubs eintreffen, auf Wunsch automatisch gelöscht werden. Technik allein ändert allerdings wenig an der Haltung. Solange die Chefin selbst um Mitternacht Nachrichten verschickt, wird kaum jemand glauben, dass Abschalten tatsächlich erwünscht ist. Wer will, dass der Feierabend respektiert wird, muss ihn also zuerst selbst vorleben. Erreichbarkeit sollte die Ausnahme sein, auf die man sich für Notfälle verständigt – nicht eine Pflicht, die man stillschweigend erfüllt."
+    }
+   ],
+   "exampleLead": "In welchem Abschnitt …",
+   "example": {
+    "stem": "erwähnt der Autor ein Land, in dem Arbeitgeber ihre Angestellten nach Dienstschluss kaum noch kontaktieren dürfen?",
+    "answer": "a"
+   },
+   "itemsLead": "In welchem Abschnitt …",
+   "items": [
+    {
+     "no": "7",
+     "stem": "stellt der Autor fest, dass die meisten Beschäftigten auch außerhalb der Arbeitszeit erreichbar sind?",
+     "answer": "a"
+    },
+    {
+     "no": "8",
+     "stem": "bezweifelt der Autor, dass staatliche Vorschriften allein viel bewirken?",
+     "answer": "d"
+    },
+    {
+     "no": "9",
+     "stem": "weist der Autor darauf hin, dass auch das private Umfeld der Beschäftigten leidet?",
+     "answer": "c"
+    },
+    {
+     "no": "10",
+     "stem": "räumt der Autor ein, dass manche Menschen von der ständigen Verbindung profitieren?",
+     "answer": "b"
+    },
+    {
+     "no": "11",
+     "stem": "fordert der Autor, dass Vorgesetzte beim Abschalten mit gutem Beispiel vorangehen?",
+     "answer": "e"
+    },
+    {
+     "no": "12",
+     "stem": "erklärt der Autor, dass schon das Warten auf mögliche Nachrichten belastet?",
+     "answer": "c"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Lesen Sie den folgenden Text und die Aussagen 13–23. Welche der Aussagen sind richtig (r), falsch (f) oder gar nicht im Text enthalten (–)? Es gibt jeweils nur eine richtige Lösung. Markieren Sie Ihre Lösungen für die Aufgaben 13–23 auf dem Antwortbogen.",
+   "title": "",
+   "paragraphs": [
+    "Herr K. ist 86 Jahre alt und erkennt seine eigene Tochter nicht mehr. Wenn sie ihn im Pflegeheim besucht, begrüßt er sie höflich wie eine Fremde. Doch als im Aufenthaltsraum die ersten Takte eines alten Schlagers erklingen, hebt er den Kopf, bewegt die Lippen – und singt die zweite Strophe fehlerfrei mit. Pflegekräfte kennen solche Momente seit Langem. Die Forschung dagegen hat erst in den vergangenen Jahren begonnen, systematisch zu untersuchen, warum Melodien offenbar noch im Gedächtnis haften, wenn vieles andere längst verloren ist.",
+    "„Musikalische Erinnerungen sind erstaunlich widerstandsfähig“, sagt Jonas Berger, der als Musikpsychologe an einer Universität erforscht, wie das Gehirn Musik verarbeitet. Ein Grund dafür sei, dass ein Lied nicht an einer einzigen Stelle abgelegt werde. Beim Hören und Mitsingen arbeiten zahlreiche Hirnregionen zusammen: solche, die Klänge entschlüsseln, solche, die Bewegungen steuern, und solche, die für Gefühle zuständig sind. Fällt eine dieser Regionen aus, können andere einen Teil ihrer Aufgaben übernehmen. Das erklärt auch, warum manche Menschen nach einem Schlaganfall nicht mehr sprechen, wohl aber noch singen können. Eine Studie zeigte zudem, dass gerade jene Areale, die beim Wiedererkennen vertrauter Melodien aktiv sind, von der Alzheimer-Krankheit vergleichsweise spät angegriffen werden.",
+    "Hinzu kommt die Macht der Gefühle. Was uns bewegt, behalten wir besser – und kaum etwas bewegt uns so sehr wie die Musik unserer Jugend. Fragt man ältere Menschen nach ihren Lieblingsliedern, nennen sie auffallend häufig Titel, die sie zwischen dem zehnten und dem dreißigsten Lebensjahr kennengelernt haben. Psychologen sprechen vom ‚Erinnerungshügel‘: In diesem Lebensabschnitt bildet sich die Persönlichkeit heraus, erste enge Beziehungen entstehen, und die Musik, die diese Zeit begleitet, verknüpft sich mit besonders intensiven Erlebnissen. Der erste Tanz, das erste Konzert oder die Abschlussfeier bleiben deshalb oft ein Leben lang mit einem bestimmten Lied verbunden.",
+    "Wie eng Musik und Gefühl zusammenhängen, lässt sich im Gehirn sogar beobachten. Forschende in Kanada stellten fest, dass bei besonders ergreifenden Stellen eines Musikstücks der Botenstoff Dopamin ausgeschüttet wird – derselbe, der auch bei gutem Essen oder anderen Belohnungen eine Rolle spielt. Die Teilnehmenden hatten dafür Stücke mitgebracht, bei denen sie regelmäßig Gänsehaut bekamen. Bemerkenswert ist der Zeitpunkt: Die Ausschüttung beginnt bereits kurz vor dem Höhepunkt, also in dem Moment, in dem wir ihn erwarten. Die Vorfreude gehört offenbar zum Genuss dazu.",
+    "Genau hier setzt die Musiktherapie an. In immer mehr Pflegeheimen werden für die Bewohnerinnen und Bewohner persönliche Playlists zusammengestellt, die Lieder aus ihrer Vergangenheit enthalten. Erste Studien deuten darauf hin, dass solche Angebote Unruhe und Ängste lindern können und manche Betroffene sogar weniger Beruhigungsmittel benötigen. Pflegekräfte berichten zudem, dass sich einige Bewohnerinnen und Bewohner danach leichter waschen und anziehen lassen. Berger warnt allerdings vor überzogenen Erwartungen: „Musik bremst den Verlauf einer Demenz nicht. Aber sie kann Momente schaffen, in denen ein Mensch für kurze Zeit wieder er selbst ist – und in denen die Angehörigen ihn wiederfinden.“",
+    "Auch in der Neurologie wird die Wirkung von Musik genutzt.",
+    "Menschen mit Parkinson, die beim Gehen oft ins Stocken geraten, finden mithilfe eines gleichmäßigen Rhythmus leichter in einen flüssigen Schritt. Die Musik übernimmt dabei gewissermaßen die Rolle eines inneren Taktgebers, den die Krankheit gestört hat. Ähnlich hilft sie Menschen nach einem Schlaganfall, Bewegungen wieder einzuüben.",
+    "Dass sich Musik hartnäckig im Kopf festsetzt, erleben aber auch Gesunde – manchmal mehr, als ihnen lieb ist. Den sogenannten Ohrwurm kennt fast jeder: Einer finnischen Untersuchung zufolge haben neun von zehn Menschen mindestens einmal pro Woche eine Melodie im Kopf, die sich nicht abstellen lässt. Meist handelt es sich nur um einen kurzen Ausschnitt, häufig den Refrain, der sich in einer Schleife wiederholt. Begünstigt werden Ohrwürmer durch Stress, Müdigkeit und Langeweile, vor allem aber durch Lieder, die man kurz zuvor oder besonders oft gehört hat. Warum ausgerechnet bestimmte Melodien hängen bleiben, ist nur teilweise geklärt; eingängige Tonfolgen mit einem überraschenden Sprung prägen sich offenbar besonders leicht ein.",
+    "Wer einen Ohrwurm loswerden möchte, kann es mit einem überraschend einfachen Mittel versuchen: Kaugummi kauen. Britische Psychologen fanden heraus, dass die Bewegungen von Kiefer und Zunge jene Bereiche beanspruchen, die wir auch zum inneren Mitsingen benötigen. Die Melodie verliert dadurch an Kraft, verschwindet allerdings nicht in jedem Fall. Manche Fachleute raten außerdem, das Lied einmal vollständig anzuhören, damit das Gehirn es als abgeschlossen ablegt.",
+    "Keinen Bestand hatte dagegen eine andere populäre Annahme: dass Musik schlauer macht. Anfang der 1990er-Jahre sorgte eine kleine Studie für Aufsehen, nach der Studierende räumliche Aufgaben besser lösten, nachdem sie zehn Minuten lang eine Sonate von Mozart gehört hatten. Der Effekt war gering und hielt nur etwa eine Viertelstunde an. Trotzdem kamen bald CDs für Säuglinge auf den Markt, und in einem amerikanischen Bundesstaat sollten die Eltern Neugeborener sogar eine CD mit klassischer Musik geschenkt bekommen. Spätere Untersuchungen konnten den ‚Mozart-Effekt‘ jedoch nicht bestätigen. Eine große Auswertung zahlreicher Studien kam 2010 zu dem Schluss, dass es ihn praktisch nicht gibt.",
+    "Anders sieht es aus, wenn Menschen selbst musizieren. Wer über Jahre ein Instrument lernt, trainiert Gehör, Feinmotorik und Konzentration zugleich, und bei Berufsmusikern lassen sich tatsächlich Unterschiede im Aufbau des Gehirns nachweisen. „Ob Musikunterricht Kinder allgemein klüger macht, ist allerdings umstritten“, sagt Berger. „Kinder, die ein Instrument lernen, wachsen häufig in Familien auf, die auch sonst viel in Bildung investieren. Was davon Ursache und was Folge ist, lässt sich nur schwer auseinanderhalten.“ Als Argument gegen den Musikunterricht will er das nicht verstanden wissen: „Musik ist wertvoll, auch ohne dass sie uns schlauer machen muss.“",
+    "Und wie steht es mit Musik beim Lernen? Viele Studierende schwören darauf, beim Lesen Kopfhörer zu tragen. Die Forschung ist sich hier nicht einig. Instrumentalmusik kann die Stimmung heben und störende Geräusche überdecken, etwa wenn man in einem lauten Café arbeitet. Musik mit Gesang dagegen lenkt bei Leseaufgaben eher ab, weil das Gehirn die Wörter des Liedes unwillkürlich mitverarbeitet und sie mit dem gelesenen Text in Konkurrenz treten. „Wer einen anspruchsvollen Fachtext verstehen will, sollte lieber auf Lieder mit Text verzichten“, rät Berger. „Beim Abtippen von Notizen oder anderen Routinearbeiten ist die Lieblingsplaylist dagegen kein Problem.“",
+    "Beim Sprachenlernen wiederum kann Gesang sogar nützen. In einem Experiment in Schottland lernten Erwachsene kurze Sätze in einer ihnen unbekannten Sprache, dem Ungarischen. Wer sie singend einübte, konnte sie später deutlich besser wiedergeben als Teilnehmende, die sie lediglich nachsprachen. Rhythmus und Tonhöhe verleihen den Wörtern offenbar zusätzliche Merkmale, die das Abrufen erleichtern.",
+    "„Die Melodie dient dem Gedächtnis als Gerüst“, erklärt Berger. „Die Wörter lassen sich gewissermaßen an ihr aufhängen.“",
+    "Für Herrn K. spielen solche Fragen keine Rolle mehr. Wenn am Nachmittag die Musiktherapeutin kommt, sitzt er schon in der ersten Reihe. Dann singt er mit, manchmal falsch, aber mit sichtlicher Freude. Seine Tochter sagt, das seien die Augenblicke, in denen sie ihren Vater zurückbekomme – zumindest für die Dauer eines Liedes."
+   ],
+   "itemsLead": "Aussagen 13–23",
+   "items": [
+    {
+     "no": "13",
+     "text": "Bei den Besuchen seiner Tochter weiß Herr K. nach kurzer Zeit wieder, wer sie ist.",
+     "answer": "f"
+    },
+    {
+     "no": "14",
+     "text": "Laut Berger ist das Gedächtnis für Lieder auf viele Stellen im Gehirn verteilt.",
+     "answer": "r"
+    },
+    {
+     "no": "15",
+     "text": "Ältere Menschen haben oft eine Vorliebe für Musik, die sie in jungen Jahren kennengelernt haben.",
+     "answer": "r"
+    },
+    {
+     "no": "16",
+     "text": "Die kanadische Untersuchung zum Dopamin wurde mit Berufsmusikern durchgeführt.",
+     "answer": "n"
+    },
+    {
+     "no": "17",
+     "text": "Die Lieder für die Playlists werden von Fachleuten nach wissenschaftlichen Kriterien ausgewählt.",
+     "answer": "n"
+    },
+    {
+     "no": "18",
+     "text": "Berger zufolge schreitet eine Demenz mit Musik langsamer voran.",
+     "answer": "f"
+    },
+    {
+     "no": "19",
+     "text": "Menschen, die selbst ein Instrument spielen, haben häufiger Ohrwürmer als andere.",
+     "answer": "n"
+    },
+    {
+     "no": "20",
+     "text": "Kauen kann helfen, eine lästige Melodie im Kopf abzuschwächen.",
+     "answer": "r"
+    },
+    {
+     "no": "21",
+     "text": "Die Mozart-Studie wurde mit Studierenden durchgeführt und später mehrfach bestätigt.",
+     "answer": "f"
+    },
+    {
+     "no": "22",
+     "text": "Berger hält es für erwiesen, dass Musikunterricht Kinder intelligenter macht.",
+     "answer": "f"
+    },
+    {
+     "no": "23",
+     "text": "Berger empfiehlt, schwierige Fachtexte ohne Gesang im Hintergrund zu lesen.",
+     "answer": "r"
+    }
+   ],
+   "headline": {
+    "instruction": "Welche der Überschriften a, b oder c trifft die Aussage des Textes am besten? Markieren Sie Ihre Lösung für die Aufgabe 24 auf dem Antwortbogen.",
+    "no": "24",
+    "options": {
+     "a": "Neue Wege der Musiktherapie in deutschen Pflegeheimen",
+     "b": "Warum Musik Kinder nachweislich klüger macht",
+     "c": "Was Musik in unserem Kopf bewirkt"
+    },
+    "answer": "c"
+   }
+  },
+  "sb": {
+   "instruction": "Lesen Sie den folgenden Text. Welche Lösung (a, b, c oder d) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 25–46 auf dem Antwortbogen. Lücke (0) ist ein Beispiel.",
+   "title": "Wie das Fahrrad laufen lernte",
+   "paragraphs": [
+    "Am 12. Juni 1817 {{0}} in Mannheim ein merkwürdiges Gefährt für Aufsehen. Der badische Forstbeamte Karl Drais saß auf einem {{25}} Gestell mit zwei hintereinander angeordneten Rädern und stieß {{26}} mit den Füßen vom Boden ab. Auf diese Weise legte er in knapp einer Stunde rund vierzehn Kilometer {{27}} und war damit schneller als die Postkutsche. Seine ‚Laufmaschine‘ gilt heute als Urahn des Fahrrads.",
+    "Warum Drais gerade in diesen Jahren nach einem Fortbewegungsmittel ohne Pferd suchte, ist bis heute {{28}}. Manche Historiker vermuten einen Zusammenhang mit einer Naturkatastrophe: 1815 war in Indonesien der Vulkan Tambora {{29}}. Die ausgestoßenen Gase kühlten das Klima weltweit ab, {{30}} das Jahr 1816 in Europa als ‚Jahr ohne Sommer‘ in die Geschichte einging. Die Ernten fielen aus, Hafer wurde unbezahlbar, und viele Pferde mussten geschlachtet {{31}}. Ein Fahrzeug, das ohne Futter auskam, war plötzlich eine verlockende Idee.",
+    "Zunächst war die Begeisterung groß. Drais erhielt 1818 ein Privileg, {{32}} seine Erfindung schützte, und {{33}} in Paris als auch in London fuhren junge Männer, {{34}} Familien sich das neue Spielzeug leisten konnten, stolz durch die Parks. In England nannte man das Laufrad spöttisch ‚Dandy Horse‘. Doch {{35}} der holprigen Straßen wichen viele Fahrer auf die Gehwege aus, und mehrere Städte verboten das Fahren dort bis auf {{36}}. Die Mode {{37}} fast so schnell, wie sie gekommen war. Drais selbst starb 1851 verarmt in Karlsruhe. Im {{38}} betrachtet war er seiner Zeit weit voraus.",
+    "Jahrzehnte später griffen französische Handwerker die Idee wieder {{39}}. In den 1860er-Jahren brachten sie Pedale {{40}} Vorderrad an, und bald folgten Hochräder, auf {{41}} nur Wagemutige fuhren: Ihr Antriebsrad war fast mannshoch, und Stürze aus dieser Höhe endeten oft böse. Den Durchbruch brachte schließlich ein Modell mit zwei etwa gleich großen Rädern und Kettenantrieb, das 1885 in England vorgestellt {{42}}. Als drei Jahre später der luftgefüllte Reifen {{43}} wurde, war das moderne Fahrrad geboren.",
+    "Heute kommt in Deutschland auf fast jeden Einwohner ein Fahrrad, und Millionen Menschen fahren täglich {{44}}. Je dichter der Verkehr in den Städten wird, {{45}} wichtiger wird das Fahrrad als Alternative zum Auto. Ob Drais geahnt hat, was aus seiner Laufmaschine einmal werden {{46}}?"
+   ],
+   "example": {
+    "options": {
+     "a": "brachte",
+     "b": "machte",
+     "c": "sorgte",
+     "d": "stellte"
+    },
+    "answer": "c"
+   },
+   "items": [
+    {
+     "no": "25",
+     "options": {
+      "a": "hölzerne",
+      "b": "hölzernen",
+      "c": "hölzerner",
+      "d": "verholzten"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "26",
+     "options": {
+      "a": "einander",
+      "b": "ihn",
+      "c": "sich",
+      "d": "uns"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "27",
+     "options": {
+      "a": "ab",
+      "b": "entgegen",
+      "c": "fort",
+      "d": "zurück"
+     },
+     "answer": "d"
+    },
+    {
+     "no": "28",
+     "options": {
+      "a": "umstritten",
+      "b": "unbestritten",
+      "c": "unumstritten",
+      "d": "zerstritten"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "29",
+     "options": {
+      "a": "ausbrechen",
+      "b": "ausgebracht",
+      "c": "ausgebrochen",
+      "d": "ausgebrochene"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "30",
+     "options": {
+      "a": "damit",
+      "b": "nachdem",
+      "c": "ob",
+      "d": "sodass"
+     },
+     "answer": "d"
+    },
+    {
+     "no": "31",
+     "options": {
+      "a": "geworden",
+      "b": "werden",
+      "c": "worden",
+      "d": "wurden"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "32",
+     "options": {
+      "a": "das",
+      "b": "dass",
+      "c": "dem",
+      "d": "dessen"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "33",
+     "options": {
+      "a": "sowohl",
+      "b": "weder",
+      "c": "wenngleich",
+      "d": "zwar"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "34",
+     "options": {
+      "a": "dem",
+      "b": "denen",
+      "c": "deren",
+      "d": "dessen"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "35",
+     "options": {
+      "a": "trotz",
+      "b": "wegen",
+      "c": "wider",
+      "d": "zwecks"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "36",
+     "options": {
+      "a": "Weitere",
+      "b": "Weiterem",
+      "c": "weiteres",
+      "d": "Weiteres"
+     },
+     "answer": "d"
+    },
+    {
+     "no": "37",
+     "options": {
+      "a": "verschwand",
+      "b": "verschwendete",
+      "c": "verschwindet",
+      "d": "verschwunden"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "38",
+     "options": {
+      "a": "nachhinein",
+      "b": "Nachhinein",
+      "c": "Nachhinnein",
+      "d": "Nachinein"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "39",
+     "options": {
+      "a": "an",
+      "b": "auf",
+      "c": "ein",
+      "d": "voran"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "40",
+     "options": {
+      "a": "am",
+      "b": "im",
+      "c": "vom",
+      "d": "zum"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "41",
+     "options": {
+      "a": "denen",
+      "b": "deren",
+      "c": "die",
+      "d": "diejenigen"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "42",
+     "options": {
+      "a": "hat",
+      "b": "wird",
+      "c": "worden",
+      "d": "wurde"
+     },
+     "answer": "d"
+    },
+    {
+     "no": "43",
+     "options": {
+      "a": "empfunden",
+      "b": "entdeckt",
+      "c": "erfunden",
+      "d": "gefunden"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "44",
+     "options": {
+      "a": "rad",
+      "b": "Rad",
+      "c": "Räder",
+      "d": "Rat"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "45",
+     "options": {
+      "a": "als",
+      "b": "da",
+      "c": "dennoch",
+      "d": "desto"
+     },
+     "answer": "d"
+    },
+    {
+     "no": "46",
+     "options": {
+      "a": "worden",
+      "b": "wurde",
+      "c": "würde",
+      "d": "würden"
+     },
+     "answer": "c"
+    }
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören die Meinungen von acht Personen. Sie hören die Meinungen nur einmal. Entscheiden Sie beim Hören, welche Aussage (a–j) zu welcher Person (Sprecher/in 1–8) passt. Zwei Aussagen passen nicht. Markieren Sie Ihre Lösungen für die Aufgaben 47–54 auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aussagen a–j. Sie haben dazu eine Minute Zeit.",
+   "title": "Studienabbruch und Fachwechsel",
+   "statements": [
+    {
+     "letter": "a",
+     "text": "Zweifel zu Studienbeginn sind oft nur eine Phase, die vorübergeht."
+    },
+    {
+     "letter": "b",
+     "text": "Wer an seinem Studium zweifelt, sollte sich möglichst bald Unterstützung holen."
+    },
+    {
+     "letter": "c",
+     "text": "Wer sein Studium abbricht, hat später auf dem Arbeitsmarkt deutlich schlechtere Chancen."
+    },
+    {
+     "letter": "d",
+     "text": "In manchen Fächern ist der Sprung von der Schule an die Hochschule zu groß."
+    },
+    {
+     "letter": "e",
+     "text": "Ein Neuanfang in einem anderen Fach hat mir mehr gebracht als stures Durchhalten."
+    },
+    {
+     "letter": "f",
+     "text": "Ob jemand sein Studium beendet, hängt auch davon ab, aus welchem Elternhaus er kommt."
+    },
+    {
+     "letter": "g",
+     "text": "Ich musste erst lernen, die Entscheidung meines Kindes zu respektieren."
+    },
+    {
+     "letter": "h",
+     "text": "Finanzielle Not wird als Grund für einen Studienabbruch oft übersehen."
+    },
+    {
+     "letter": "i",
+     "text": "Hochschulen sollten alle Bewerberinnen und Bewerber vor der Zulassung verpflichtend testen, um Fehlentscheidungen zu vermeiden."
+    },
+    {
+     "letter": "j",
+     "text": "Betriebe können davon profitieren, Menschen einzustellen, die ihr Studium nicht beendet haben."
+    }
+   ],
+   "items": [
+    {
+     "no": "47",
+     "label": "Sprecherin 1",
+     "answer": "e"
+    },
+    {
+     "no": "48",
+     "label": "Sprecher 2",
+     "answer": "g"
+    },
+    {
+     "no": "49",
+     "label": "Sprecherin 3",
+     "answer": "b"
+    },
+    {
+     "no": "50",
+     "label": "Sprecher 4",
+     "answer": "j"
+    },
+    {
+     "no": "51",
+     "label": "Sprecher 5",
+     "answer": "d"
+    },
+    {
+     "no": "52",
+     "label": "Sprecherin 6",
+     "answer": "a"
+    },
+    {
+     "no": "53",
+     "label": "Sprecherin 7",
+     "answer": "f"
+    },
+    {
+     "no": "54",
+     "label": "Sprecher 8",
+     "answer": "h"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören eine Radiosendung. Sie hören die Sendung nur einmal. Entscheiden Sie beim Hören, welche Aussage (a, b oder c) am besten passt. Markieren Sie Ihre Lösungen für die Aufgaben 55–64 auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 55–64. Sie haben dazu drei Minuten Zeit.",
+   "items": [
+    {
+     "no": "55",
+     "stem": "Bionik bedeutet nach Prof. Seifert,",
+     "options": {
+      "a": "Formen aus der Natur möglichst detailgetreu nachzubauen.",
+      "b": "Funktionsprinzipien der Natur technisch zu nutzen.",
+      "c": "Lebewesen mithilfe der Technik gezielt zu verändern."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "56",
+     "stem": "Den Begriff ‚Bionik‘ gibt es",
+     "options": {
+      "a": "schon seit der Zeit Leonardo da Vincis um 1500.",
+      "b": "erst seit dem Beginn des 21. Jahrhunderts.",
+      "c": "seit einer Konferenz vor gut sechzig Jahren."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "57",
+     "stem": "Der Erfinder des Klettverschlusses",
+     "options": {
+      "a": "wurde durch eine zufällige Beobachtung angeregt.",
+      "b": "suchte gezielt nach einem neuen Verschluss für Schuhe.",
+      "c": "ließ seine Idee noch im selben Jahr schützen."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "58",
+     "stem": "Lotusblätter bleiben sauber, weil",
+     "options": {
+      "a": "ihre Oberfläche besonders eben und glatt ist.",
+      "b": "Regentropfen den Dreck von der rauen Fläche spülen.",
+      "c": "die Pflanze ständig eine neue Schicht aus Wachs bildet."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "59",
+     "stem": "Bei der Gestaltung des japanischen Schnellzugs",
+     "options": {
+      "a": "orientierte man sich an einem Vogelschnabel.",
+      "b": "ging es in erster Linie um mehr Geschwindigkeit.",
+      "c": "arbeitete man eng mit Biologen zusammen."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "60",
+     "stem": "Die Natur ist nach Prof. Seifert",
+     "options": {
+      "a": "dem Menschen in sämtlichen technischen Fragen überlegen.",
+      "b": "für Ingenieure nur in Ausnahmefällen ein brauchbares Vorbild.",
+      "c": "eine Quelle von Lösungen, die nicht immer optimal sind."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "61",
+     "stem": "Bauteile nach dem Vorbild von Knochen",
+     "options": {
+      "a": "brauchen weniger Werkstoff bei gleicher Stabilität.",
+      "b": "sind leichter, halten aber weniger Belastung aus.",
+      "c": "werden bisher hauptsächlich in der Medizin eingesetzt."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "62",
+     "stem": "Die Zusammenarbeit in den Projekten wird nach Prof. Seifert vor allem erschwert durch",
+     "options": {
+      "a": "fehlendes Geld für gemeinsame Vorhaben.",
+      "b": "die verschiedenen Sprachen der Fächer.",
+      "c": "das geringe Interesse der Technik an Biologie."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "63",
+     "stem": "Der Greifer nach dem Vorbild des Geckos",
+     "options": {
+      "a": "hält Gegenstände mithilfe eines besonderen Klebstoffs.",
+      "b": "ist bereits in mehreren Fabriken im Einsatz.",
+      "c": "hat noch Schwächen, wenn Flächen nicht sauber sind."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "64",
+     "stem": "Prof. Seifert wünscht sich vor allem, dass",
+     "options": {
+      "a": "möglichst wenige Arten verschwinden.",
+      "b": "mehr junge Leute das Fach studieren.",
+      "c": "Unternehmen öfter mit Hochschulen kooperieren."
+     },
+     "answer": "a"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören einen Vortrag. Sie hören den Vortrag nur einmal. Sie haben Handzettel mit den Folien der Präsentation erhalten. Schreiben Sie die fehlenden Informationen stichwortartig in die freien Zeilen 65–74 in der rechten Spalte.",
+   "exampleNote": "Die Lösung 0 ist ein Beispiel.",
+   "readNote": "Lesen Sie jetzt die Stichworte. Sie haben dazu eine Minute Zeit.",
+   "finalNote": "Sie haben jetzt fünf Minuten Zeit, Ihre Antworten zu den Aufgaben 65–74 auf den Antwortbogen zu übertragen.",
+   "exampleAnswer": "Wirtschaft im Alltag",
+   "slides": [
+    {
+     "title": "Ringvorlesung",
+     "lines": [
+      {
+       "no": "0",
+       "bullet": false,
+       "dash": false,
+       "text": "„…“"
+      },
+      {
+       "no": "",
+       "bullet": false,
+       "dash": false,
+       "text": "Thema heute: Warum wir anders entscheiden, als wir denken"
+      },
+      {
+       "no": "",
+       "bullet": false,
+       "dash": false,
+       "text": "Referent: Dr. Tobias Lindner, Lehrstuhl für Verhaltensökonomik"
+      }
+     ]
+    },
+    {
+     "title": "Das klassische Modell",
+     "lines": [
+      {
+       "no": "",
+       "bullet": true,
+       "dash": false,
+       "text": "„Homo oeconomicus“"
+      },
+      {
+       "no": "65",
+       "bullet": true,
+       "dash": false,
+       "text": "Annahme: Menschen …"
+      },
+      {
+       "no": "",
+       "bullet": true,
+       "dash": false,
+       "text": "Gegenbelege seit den 1970er-Jahren"
+      }
+     ]
+    },
+    {
+     "title": "Ankereffekt",
+     "lines": [
+      {
+       "no": "",
+       "bullet": true,
+       "dash": false,
+       "text": "Experiment: Glücksrad und Schätzfrage"
+      },
+      {
+       "no": "66",
+       "bullet": true,
+       "dash": false,
+       "text": "Ergebnis: …"
+      },
+      {
+       "no": "67",
+       "bullet": true,
+       "dash": false,
+       "text": "Beispiel aus dem Alltag: …"
+      }
+     ]
+    },
+    {
+     "title": "Experiment: Münzwurf",
+     "lines": [
+      {
+       "no": "68",
+       "bullet": true,
+       "dash": false,
+       "text": "zugrunde liegender Effekt: …"
+      },
+      {
+       "no": "",
+       "bullet": true,
+       "dash": false,
+       "text": "Verluste wiegen etwa doppelt so schwer wie Gewinne"
+      },
+      {
+       "no": "69",
+       "bullet": true,
+       "dash": false,
+       "text": "Folge an der Börse: …"
+      }
+     ]
+    },
+    {
+     "title": "Standardoptionen",
+     "lines": [
+      {
+       "no": "",
+       "bullet": true,
+       "dash": false,
+       "text": "Organspende: Österreich und Deutschland (Studie 2003)"
+      },
+      {
+       "no": "70",
+       "bullet": true,
+       "dash": false,
+       "text": "Unterschied in der Regelung: …"
+      },
+      {
+       "no": "71",
+       "bullet": true,
+       "dash": false,
+       "text": "Erklärung: …"
+      }
+     ]
+    },
+    {
+     "title": "Nudging",
+     "lines": [
+      {
+       "no": "",
+       "bullet": true,
+       "dash": false,
+       "text": "Thaler und Sunstein, 2008"
+      },
+      {
+       "no": "72",
+       "bullet": true,
+       "dash": false,
+       "text": "Ziel: …"
+      },
+      {
+       "no": "73",
+       "bullet": true,
+       "dash": false,
+       "text": "Beispiel Altersvorsorge: …"
+      }
+     ]
+    },
+    {
+     "title": "Kritik",
+     "lines": [
+      {
+       "no": "74",
+       "bullet": true,
+       "dash": false,
+       "text": "Haupteinwand: …"
+      },
+      {
+       "no": "",
+       "bullet": true,
+       "dash": false,
+       "text": "Gegenkonzept: „Boosting“"
+      }
+     ]
+    }
+   ],
+   "items": [
+    {
+     "no": "65",
+     "solution": "handeln rational, wägen Kosten und Nutzen ab, wählen das für sich Beste"
+    },
+    {
+     "no": "66",
+     "solution": "wer die hohe Zahl gedreht hatte, schätzte deutlich höher (zufällige Zahl beeinflusst das Urteil)"
+    },
+    {
+     "no": "67",
+     "solution": "durchgestrichener ‚Statt‘-Preis lässt das Angebot günstig erscheinen / erste Zahl in der Gehaltsverhandlung setzt den Rahmen (ein Beispiel genügt)"
+    },
+    {
+     "no": "68",
+     "solution": "Verlustaversion"
+    },
+    {
+     "no": "69",
+     "solution": "Aktien mit Verlust werden zu lange behalten (Gewinne zu früh verkauft)"
+    },
+    {
+     "no": "70",
+     "solution": "Österreich: Spender ist, wer nicht widerspricht – Deutschland: ausdrückliche Zustimmung nötig"
+    },
+    {
+     "no": "71",
+     "solution": "Menschen bleiben bei der Voreinstellung (Entscheidung wird aufgeschoben, wirkt wie Empfehlung)"
+    },
+    {
+     "no": "72",
+     "solution": "ohne Verbote zu Entscheidungen im eigenen Interesse bewegen; Wahlfreiheit bleibt"
+    },
+    {
+     "no": "73",
+     "solution": "automatische Aufnahme mit Austrittsmöglichkeit → Teilnahme steigt von unter 50 auf über 80 %"
+    },
+    {
+     "no": "74",
+     "solution": "Bevormundung / Manipulation („Kritik“ allein genügt nicht)"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "instruction": "Wählen Sie eines der folgenden zwei Themen. Schreiben Sie einen Text, in dem Sie Ihren eigenen Standpunkt dazu erarbeiten und argumentativ darlegen. Ihr Text soll mindestens 350 Wörter umfassen. Sie haben 70 Minuten Zeit.",
+  "minWords": 350,
+  "minutes": 70,
+  "themes": [
+   {
+    "no": "1",
+    "paragraphs": [
+     "In einem Seminar wird diskutiert, ob jedes Studium ein Pflichtmodul zum Thema Nachhaltigkeit enthalten sollte.",
+     "Erörtern Sie Vor- und Nachteile eines solchen Moduls, greifen Sie die Zitate auf und berücksichtigen Sie Ihre eigenen Erfahrungen. Ziehen Sie am Schluss ein begründetes Fazit."
+    ],
+    "quoteLead": "Die folgenden Zitate geben Ihnen erste Ideen:",
+    "quotes": [
+     "„Wer studiert, muss die Folgen seines Handelns verstehen – in jedem Fach.“",
+     "„Pflichtkurse erzeugen selten Begeisterung, meist nur Anwesenheit.“"
+    ],
+    "model": {
+     "title": "Nachhaltigkeit für alle – ein Pflichtmodul für jedes Studium?",
+     "paragraphs": [
+      "Ob Klimawandel, knappe Rohstoffe oder globale Lieferketten: Kaum eine Frage wird die kommenden Jahrzehnte so stark prägen wie die nach einer nachhaltigen Entwicklung. Vor diesem Hintergrund wird an unserer Hochschule diskutiert, ob jedes Studium ein Pflichtmodul zu diesem Thema enthalten sollte. Dabei geht es um mehr als Organisatorisches, nämlich darum, welche Aufgabe ein Studium heute überhaupt hat. Im Folgenden werden die wichtigsten Argumente beider Seiten gegeneinander abgewogen.",
+      "Für ein solches Modul spricht zunächst, dass Nachhaltigkeit kein Thema einzelner Fächer ist. Ingenieurinnen und Ingenieure entscheiden über den Energieverbrauch von Maschinen, Betriebswirtinnen und Betriebswirte über Lieferketten und Lehrkräfte darüber, was die nächste Generation lernt. Insofern ist dem ersten Zitat zuzustimmen: Wer die Folgen seines beruflichen Handelns nicht kennt, kann kaum verantwortungsbewusst urteilen. Hinzu kommt, dass ein gemeinsames Modul Studierende unterschiedlicher Fachrichtungen zusammenbringen würde. Gerade dieser Austausch fehlt im spezialisierten Studienalltag häufig, obwohl sich die großen Probleme unserer Zeit nur fächerübergreifend lösen lassen.",
+      "Andererseits ist der Einwand, den das zweite Zitat formuliert, nicht von der Hand zu weisen. Eine Veranstaltung, die man belegen muss, wird leicht als lästige Pflicht empfunden, und ein Kurs, der alle Fächer gleichermaßen ansprechen soll, bleibt oft an der Oberfläche. Zudem sind viele Studienpläne bereits so dicht, dass ein zusätzliches Modul nur auf Kosten anderer Inhalte eingeführt werden könnte. Nicht zuletzt stellt sich die Frage, wer ein solches Modul unterrichten soll, ohne dass es zu einer bloßen Aneinanderreihung von Schlagworten verkommt.",
+      "Meine eigenen Erfahrungen bestätigen beide Sichtweisen. In einem fächerübergreifenden Wahlseminar zum Thema Wasser habe ich mit Studierenden aus der Biologie, der Volkswirtschaftslehre und der Architektur zusammengearbeitet und dabei mehr über die Grenzen meines eigenen Fachs gelernt als in manchem Pflichtkurs. Allerdings saßen dort ausschließlich Studierende, die sich ohnehin für das Thema interessierten. Ob die Diskussionen in einer Pflichtveranstaltung ebenso lebhaft gewesen wären, bezweifle ich.",
+      "Insgesamt halte ich ein Pflichtmodul dennoch für sinnvoll – allerdings nur, wenn es nicht als allgemeine Vorlesung für alle konzipiert wird. Überzeugender wäre es, Nachhaltigkeit in jedem Studiengang mit fachspezifischen Fragen zu verknüpfen und in Projekten zu bearbeiten, an denen mehrere Fächer beteiligt sind. Auf diese Weise ließe sich vermeiden, dass aus dem Modul eine Veranstaltung wird, die – wie im zweiten Zitat befürchtet – lediglich Anwesenheit erzeugt."
+     ],
+     "hint": "Textsorte Erörterung für ein Seminar. Aufbau: Einleitung mit Leitfrage – Argumente dafür mit Bezug auf Zitat 1 – Argumente dagegen mit Bezug auf Zitat 2 – eigene Erfahrung, die beide Seiten stützt – Fazit mit Bedingung. Sprachliche Mittel: sachlicher, unpersönlicher Stil (Im Folgenden werden … abgewogen; ist … zuzustimmen), Nominalstil (Aneinanderreihung, Austausch), Konjunktiv II (würde, könnte, wäre, ließe sich), Konnektoren der Abwägung (zunächst, andererseits, zudem, nicht zuletzt, insgesamt). Umfang: 361 Wörter."
+    }
+   },
+   {
+    "no": "2",
+    "paragraphs": [
+     "Ein Studierendenmagazin fragt, ob sich Hochschulen stärker für Berufstätige und Ältere öffnen sollten.",
+     "Nehmen Sie aus Ihrer persönlichen Sicht Stellung: Legen Sie Chancen und Probleme einer solchen Öffnung dar, beziehen Sie die Zitate ein und begründen Sie Ihre Meinung."
+    ],
+    "quoteLead": "Die folgenden Zitate geben Ihnen erste Ideen:",
+    "quotes": [
+     "„Lernen hört nicht mit Mitte zwanzig auf.“",
+     "„Wo die Hörsäle schon jetzt voll sind, ist kein Platz für weitere Gäste.“"
+    ],
+    "model": {
+     "title": "Hörsaal ohne Altersgrenze",
+     "paragraphs": [
+      "Neben mir saß im letzten Semester eine Frau, die gut doppelt so alt war wie ich. Sie arbeitete als Krankenpflegerin, studierte nebenbei Gesundheitswissenschaften und stellte in jedem Seminar Fragen, auf die wir Jüngeren nie gekommen wären. Nach den Sitzungen haben wir uns oft unterhalten, und ich habe dabei mehr über den Alltag in einer Klinik erfahren als aus manchem Fachaufsatz. Seitdem frage ich mich, warum solche Studierende an unseren Hochschulen noch immer die Ausnahme sind.",
+      "Für eine stärkere Öffnung spricht aus meiner Sicht vor allem, dass sich die Arbeitswelt immer schneller verändert. Wer mit Mitte zwanzig seinen Abschluss macht, wird in seinem Berufsleben kaum ohne Weiterbildung auskommen. Das erste Zitat bringt es auf den Punkt: Lernen hört nicht mit Mitte zwanzig auf – und es sollte auch nicht an den Türen der Hochschulen enden. Außerdem profitieren wir Jüngeren selbst davon. Berufstätige bringen Erfahrungen aus der Praxis mit, die kein Lehrbuch ersetzen kann, und sie zwingen uns, Theorien an der Wirklichkeit zu messen.",
+      "Gleichzeitig verstehe ich die Sorge, die im zweiten Zitat zum Ausdruck kommt. In vielen Einführungsvorlesungen bekommt man schon jetzt nur mit Glück einen Sitzplatz, und Betreuungsplätze für Abschlussarbeiten sind knapp. Wenn zusätzliche Gruppen hinzukommen, ohne dass mehr Personal eingestellt wird, leidet die Qualität für alle. Hinzu kommt, dass Berufstätige ganz andere Bedürfnisse haben: Mit Veranstaltungen am Vormittag können sie wenig anfangen, und wer Familie hat, kann nicht für jede Gruppenarbeit spontan in die Bibliothek kommen.",
+      "Ich bin dennoch klar für eine Öffnung, allerdings nicht zum Nulltarif. Die Hochschulen bräuchten eigene Angebote am Abend, am Wochenende und online, die zusätzlich finanziert werden, statt die vorhandenen Plätze einfach aufzuteilen. Ebenso könnten Arbeitgeber ihren Beschäftigten feste Lernzeiten einräumen. Denkbar wären auch kürzere Zertifikatskurse, für die man kein vollständiges Studium aufnehmen muss. So hätten beide Gruppen etwas davon, und niemand müsste um seinen Platz im Hörsaal fürchten.",
+      "Meine Sitznachbarin hat übrigens inzwischen ihren Abschluss gemacht und leitet heute eine Station in einem großen Krankenhaus. Für mich ist sie der beste Beweis dafür, dass Hochschulen gewinnen, wenn sie nicht nur für eine Altersgruppe da sind. Ein Hörsaal ohne Altersgrenze ist kein Luxus, sondern eine Investition in die Zukunft – für die Älteren ebenso wie für uns."
+     ],
+     "hint": "Textsorte persönliche Stellungnahme für ein Magazin. Aufbau: persönlicher Einstieg mit einer Begegnung – Chancen mit Bezug auf Zitat 1 – Probleme mit Bezug auf Zitat 2 – eigene Position mit konkreten Vorschlägen – Rückgriff auf den Einstieg im Schluss. Sprachliche Mittel: Ich-Perspektive und wertende Ausdrücke (aus meiner Sicht, Ich bin dennoch klar für …), anschauliches Beispiel, Konjunktiv II für Vorschläge (bräuchten, wären, hätten), Gegenüberstellung (gleichzeitig, dennoch). Umfang: 361 Wörter."
+    }
+   }
+  ]
+ },
+ "muendlich": {
+  "teil1": [
+   {
+    "who": "A",
+    "themes": [
+     "Beschreiben Sie, wie das Internet das Einkaufen verändert hat. Welche Folgen hat diese Entwicklung für Innenstädte und Geschäfte?",
+     "Sollte es für junge Erwachsene ein verpflichtendes soziales Jahr geben? Welche Vorteile und welche Nachteile hätte eine solche Regelung? Begründen Sie Ihre Meinung."
+    ]
+   },
+   {
+    "who": "B",
+    "themes": [
+     "Stellen Sie ein Gericht vor, das für Ihr Herkunftsland typisch ist. Welche Geschichte hat es, und welche Rolle spielt es heute?",
+     "Sollten Kinder schon in der Grundschule programmieren lernen? Begründen Sie Ihre Meinung."
+    ]
+   },
+   {
+    "who": "C",
+    "themes": [
+     "Beschreiben Sie, wie Sie eine Fremdsprache gelernt haben. Was hat Ihnen geholfen, und was fiel Ihnen schwer?",
+     "Sollten Schulen ein Fach einführen, in dem es um Alltagskompetenzen wie Gesundheit, Finanzen und Konfliktlösung geht? Begründen Sie Ihre Meinung. Gibt es Gegenargumente?"
+    ]
+   }
+  ],
+  "teil2": [
+   {
+    "no": "1",
+    "text": "„Nicht die Wahrheit, in deren Besitz irgendein Mensch ist …, sondern die aufrichtige Mühe, die er angewandt hat, hinter die Wahrheit zu kommen, macht den Wert des Menschen.“",
+    "author": "Gotthold Ephraim Lessing, 1729–1781, Dichter und Philosoph"
+   },
+   {
+    "no": "2",
+    "text": "„Das Talent gleicht dem Schützen, der ein Ziel trifft, welches die Übrigen nicht erreichen können; das Genie dem, der eines trifft, bis zu welchem sie nicht einmal zu sehen vermögen.“",
+    "author": "Arthur Schopenhauer, 1788–1860, Philosoph"
+   },
+   {
+    "no": "3",
+    "text": "„Stets findet Überraschung statt, da, wo man’s nicht erwartet hat.“",
+    "author": "Wilhelm Busch, 1832–1908, Dichter und Zeichner"
+   }
+  ]
+ },
+ "notes": "",
+ "index": {
+  "short": "Der Mann, der die Kontinente wandern ließ · Feierabend heißt Feierabend · Wie das Fahrrad laufen lernte",
+  "lesen": {
+   "t1": "Der Mann, der die Kontinente wandern ließ",
+   "t2": "Feierabend heißt Feierabend",
+   "t3": "Was Musik in unserem Kopf bewirkt",
+   "sb": "Wie das Fahrrad laufen lernte"
+  },
+  "hoeren": {
+   "t1": "Studienabbruch und Fachwechsel",
+   "t2": "Bionik",
+   "t3": "Warum wir anders entscheiden, als wir denken"
+  },
+  "schreiben": {
+   "t1": "Pflichtmodul Nachhaltigkeit",
+   "t2": "Hochschule für Berufstätige und Ältere"
+  },
+  "sprechen": {
+   "t1": [
+    {
+     "who": "A",
+     "topics": [
+      "Internet und Einkaufen",
+      "Verpflichtendes soziales Jahr"
+     ]
+    },
+    {
+     "who": "B",
+     "topics": [
+      "Typisches Gericht",
+      "Programmieren in der Grundschule"
+     ]
+    },
+    {
+     "who": "C",
+     "topics": [
+      "Eine Fremdsprache lernen",
+      "Schulfach Alltagskompetenzen"
+     ]
+    }
+   ],
+   "t2": [
+    {
+     "no": "1",
+     "author": "Gotthold Ephraim Lessing"
+    },
+    {
+     "no": "2",
+     "author": "Arthur Schopenhauer"
+    },
+    {
+     "no": "3",
+     "author": "Wilhelm Busch"
+    }
+   ]
+  }
+ }
+}

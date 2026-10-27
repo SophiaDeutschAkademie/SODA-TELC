@@ -1,0 +1,1029 @@
+{
+ "id": 5,
+ "roman": "V",
+ "lesen": {
+  "t1": {
+   "instruction": "Lesen Sie den folgenden Text. Welche der Sätze a–h gehören in die Lücken 1–6? Es gibt jeweils nur eine richtige Lösung. Zwei Sätze können nicht zugeordnet werden. Markieren Sie Ihre Lösungen für die Aufgaben 1–6 auf dem Antwortbogen. Lücke (0) ist ein Beispiel.",
+   "intro": "In einem Wissenschaftsmagazin lesen Sie den folgenden Artikel:",
+   "title": "Spuren, die jeden verraten",
+   "paragraphs": [
+    "Bis ins späte 19. Jahrhundert stand die Polizei vor einem Problem, das heute kaum noch vorstellbar ist: Sie konnte Menschen nicht zuverlässig wiedererkennen. Wer verhaftet wurde, gab oft einfach einen falschen Namen an, und Fotografien halfen wenig, weil sich Gesichter mit dem Alter, durch Bärte oder durch Narben verändern. {{0}} Der Pariser Polizeischreiber Alphonse Bertillon entwickelte deshalb um 1880 ein Verfahren, das auf genauen Körpermaßen beruhte.",
+    "Gemessen wurde unter anderem die Länge des Kopfes, des linken Unterarms und des rechten Ohrs. {{1}} Das System verbreitete sich rasch in Europa und Amerika, hatte aber einen Haken: Die Werte hingen stark davon ab, wie sorgfältig der jeweilige Beamte arbeitete, und schon ein Millimeter Abweichung konnte die Suche ins Leere laufen lassen.",
+    "Zur selben Zeit beschäftigten sich mehrere Briten mit den feinen Linien auf den Fingerkuppen. {{2}} Der schottische Arzt Henry Faulds, der in Japan lebte, schlug 1880 in der Fachzeitschrift „Nature“ vor, mit Abdrücken dieser Linien Täter zu überführen. Gut zehn Jahre später zeigte der Naturforscher Francis Galton, dass sich die Muster im Laufe des Lebens nicht verändern und bei jedem Menschen anders aussehen.",
+    "Den ersten spektakulären Erfolg feierte die neue Methode allerdings nicht in Europa, sondern in Argentinien. 1892 wurden in der Kleinstadt Necochea zwei Kinder getötet. {{3}} Ein Inspektor, den der Polizeibeamte Juan Vucetich in seinem eigenen Ordnungssystem für Fingerabdrücke geschult hatte, verglich daraufhin einen blutigen Abdruck vom Tatort mit den Abdrücken der Verdächtigen. Die Spur stammte vom Daumen der Mutter, Francisca Rojas, die schließlich gestand.",
+    "{{4}} Weil den Abdrücken jeder Person eine Formel aus Buchstaben und Zahlen zugeordnet wurde, konnte ein Beamter in wenigen Minuten prüfen, ob jemand bereits erfasst war. 1901 übernahm Scotland Yard in London das Verfahren, und kurz darauf folgten auch die Polizeibehörden in Deutschland.",
+    "Bertillons Körpermessung geriet damit allmählich in Vergessenheit. {{5}} Einer bekannten Anekdote zufolge trafen 1903 im amerikanischen Gefängnis Leavenworth zwei Häftlinge aufeinander, die fast dieselben Körpermaße hatten – ihre Fingerabdrücke aber unterschieden sich deutlich. Ob die Geschichte genau stimmt, ist umstritten.",
+    "Heute gehört der Fingerabdruck zum Alltag, nicht nur in der Kriminalistik, sondern auch beim Entsperren des Smartphones. {{6}} Deshalb wird inzwischen jeder Treffer von einer zweiten Fachkraft unabhängig überprüft, bevor er vor Gericht als Beweis dienen darf."
+   ],
+   "sentences": [
+    {
+     "letter": "a",
+     "text": "Die Maße wurden auf Karteikarten eingetragen, die nach einem festen Schema geordnet waren."
+    },
+    {
+     "letter": "b",
+     "text": "Bertillon verfeinerte sein Verfahren jedoch bald so, dass Messfehler kaum noch vorkamen."
+    },
+    {
+     "letter": "c",
+     "text": "Einer von ihnen, der Kolonialbeamte William Herschel, ließ schon 1858 in Indien einen Vertrag per Handabdruck besiegeln."
+    },
+    {
+     "letter": "d",
+     "text": "Entscheidend war jedoch ein Ordnungssystem, mit dem sich große Sammlungen von Fingerabdrücken durchsuchen ließen."
+    },
+    {
+     "letter": "e",
+     "text": "Zunächst fiel der Verdacht auf einen Nachbarn, der die Tat trotz harter Verhöre bestritt."
+    },
+    {
+     "letter": "f",
+     "text": "Unfehlbar ist das Verfahren dennoch nicht: Immer wieder geraten Unschuldige durch falsch gedeutete Spuren unter Verdacht."
+    },
+    {
+     "letter": "g",
+     "text": "Ihr Erfinder hielt allerdings lange an ihr fest und nahm Fingerabdrücke nur als Zusatz auf."
+    },
+    {
+     "letter": "h",
+     "text": "Bei eineiigen Zwillingen sind die Linien dagegen völlig gleich, sodass Ermittler dort auf andere Merkmale angewiesen sind."
+    }
+   ],
+   "example": {
+    "letter": "z",
+    "text": "Besonders bei Wiederholungstätern, die härter bestraft werden sollten, wog das schwer."
+   },
+   "items": [
+    {
+     "no": "1",
+     "answer": "a"
+    },
+    {
+     "no": "2",
+     "answer": "c"
+    },
+    {
+     "no": "3",
+     "answer": "e"
+    },
+    {
+     "no": "4",
+     "answer": "d"
+    },
+    {
+     "no": "5",
+     "answer": "g"
+    },
+    {
+     "no": "6",
+     "answer": "f"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Lesen Sie den folgenden Text. In welchem Textabsatz a–e finden Sie die Antworten auf die Fragen 7–12? Es gibt jeweils nur eine richtige Lösung. Jeder Absatz kann Antworten auf mehrere Fragen enthalten. Markieren Sie Ihre Lösungen für die Aufgaben 7–12 auf dem Antwortbogen.",
+   "title": "Leben mit dem Wolf",
+   "sections": [
+    {
+     "letter": "a",
+     "text": "Im Jahr 2000 brachte eine Wölfin auf einem Truppenübungsplatz in der Oberlausitz Junge zur Welt – zum ersten Mal seit weit über hundert Jahren in Deutschland. Niemand hatte die Tiere ausgesetzt; sie waren aus Polen von selbst eingewandert. Inzwischen leben hierzulande mehr als zweihundert Rudel, vor allem im Norden und Osten. Die meisten Menschen in Wolfsgebieten bekommen die scheuen Tiere dennoch nie zu Gesicht. Kaum ein Wildtier hat in so kurzer Zeit so heftige Debatten ausgelöst. Für die einen ist der Wolf ein Zeichen dafür, dass sich die Natur verlorenen Raum zurückerobert, für die anderen eine Bedrohung für Weidetiere und das Leben auf dem Land. Ich gestehe, dass ich mich über seine Rückkehr freue. Gerade deshalb stört es mich, wie selten in dieser Auseinandersetzung zwischen Fakten und Empfindungen unterschieden wird. Wer sich ein Urteil bilden will, muss beides kennen: die Zahlen und die Erfahrungen der Menschen, die mit dem Wolf leben."
+    },
+    {
+     "letter": "b",
+     "text": "Eines muss man allerdings ohne Wenn und Aber anerkennen: Für Schäferinnen und Schäfer ist der Wolf eine echte Belastung. Jedes Jahr werden in Deutschland mehrere Tausend Schafe, Ziegen und Kälber gerissen oder verletzt. Wer morgens eine Weide betritt, auf der seine Tiere tot im Gras liegen, hat für Statistiken verständlicherweise wenig übrig. Hinzu kommt, dass die Schafhaltung schon vor der Rückkehr des Wolfs kaum noch rentabel war; viele Betriebe kämpfen ums wirtschaftliche Überleben und können zusätzliche Verluste nicht verkraften. Dabei leisten gerade sie einen wichtigen Dienst für die Allgemeinheit: Ihre Herden pflegen Deiche und Heideflächen, die ohne Beweidung verbuschen würden. Dass die Betroffenen wütend sind und sich von der Politik im Stich gelassen fühlen, kann ich gut nachvollziehen. Manche Naturschützer tun deren Sorgen als Panikmache ab; das ist überheblich und schadet am Ende auch dem Wolf selbst."
+    },
+    {
+     "letter": "c",
+     "text": "Nicht folgen kann ich dagegen der verbreiteten Forderung, den Bestand durch regelmäßige Abschüsse zu verkleinern. Dass dadurch weniger Weidetiere sterben, ist keineswegs ausgemacht; auch die Forschung liefert bislang kein klares Bild davon, ob eine stärkere Bejagung die Zahl der Übergriffe dauerhaft senkt. Ein Wolf greift nicht deshalb Schafe an, weil es zu viele Wölfe gibt, sondern weil ungeschützte Herden eine leichte Beute sind. Wird ein Rudel durch Abschüsse zerschlagen, ziehen junge, unerfahrene Tiere umher und suchen nach bequemen Gelegenheiten. Außerdem besetzen Wölfe aus benachbarten Gebieten frei gewordene Reviere oft innerhalb weniger Monate. Etwas anderes ist es, einzelne Tiere zu töten, die gelernt haben, auch hohe Zäune zu überwinden. Das ist schon heute erlaubt und in solchen Fällen richtig, denn ein Wolf, der dieses Verhalten an seine Jungen weitergibt, gefährdet die Akzeptanz aller anderen."
+    },
+    {
+     "letter": "d",
+     "text": "Wie gut sich Weidetiere schützen lassen, zeigen Regionen, in denen der Wolf schon seit Langem heimisch ist. Elektrozäune von ausreichender Höhe, Herdenschutzhunde und nächtliche Pferche wehren die meisten Angriffe ab; wo sie konsequent eingesetzt werden, gehen die Schäden deutlich zurück. Wichtig ist zudem gute Beratung, denn ein Zaun, der an einer einzigen Stelle zu niedrig ist, nützt wenig. Allerdings kosten Zäune Geld, und ihr Aufbau und ihre Pflege erfordern vor allem Zeit. Zwar übernehmen viele Bundesländer inzwischen einen Großteil der Anschaffungskosten, für den laufenden Aufwand gibt es aber oft nur wenig Unterstützung. Hier muss der Staat weit mehr tun. Sollen Wolf und Weidewirtschaft nebeneinander bestehen, muss man den Herdenschutz als dauerhafte Aufgabe begreifen und ihn entsprechend finanzieren – und zwar einschließlich der Stunden, die Tierhalter Woche für Woche an ihren Zäunen verbringen."
+    },
+    {
+     "letter": "e",
+     "text": "Die Politik macht es sich bislang zu leicht. Seit die Europäische Union 2025 den Schutzstatus des Wolfs gesenkt hat, überbieten sich manche Politiker mit Versprechen, den Bestand zu „regulieren“, als ließe sich der Konflikt mit dem Gewehr lösen. Solche Ankündigungen bringen Stimmen, wecken aber Erwartungen, die niemand erfüllen kann. Den Wolf zum Wahlkampfthema zu machen, vertieft nur das Misstrauen zwischen Stadt und Land. Ehrlicher wäre es, den Menschen auf dem Land zu sagen, dass der Wolf nicht wieder verschwinden wird, und ihnen dafür verlässliche Hilfe zuzusichern. Und wir Städter, die ihn aus sicherer Entfernung so gern bewundern, sollten bereit sein, unseren Teil beizutragen. Wer die Rückkehr der Wildnis feiert, darf die Rechnung nicht allein denen überlassen, die Tag für Tag mit den Folgen leben müssen."
+    }
+   ],
+   "exampleLead": "In welchem Abschnitt …",
+   "example": {
+    "stem": "erwähnt der Autor, woher die ersten Wölfe nach Deutschland kamen?",
+    "answer": "a"
+   },
+   "itemsLead": "In welchem Abschnitt …",
+   "items": [
+    {
+     "no": "7",
+     "stem": "bezweifelt der Autor, dass weniger Wölfe auch weniger Schäden bedeuten?",
+     "answer": "c"
+    },
+    {
+     "no": "8",
+     "stem": "bedauert der Autor, dass Gefühle und Tatsachen in der Diskussion oft vermischt werden?",
+     "answer": "a"
+    },
+    {
+     "no": "9",
+     "stem": "weist der Autor darauf hin, dass man Weidetiere wirksam vor Angriffen bewahren kann?",
+     "answer": "d"
+    },
+    {
+     "no": "10",
+     "stem": "zeigt der Autor Verständnis für den Ärger der Tierhalter?",
+     "answer": "b"
+    },
+    {
+     "no": "11",
+     "stem": "kritisiert der Autor, dass Politiker einfache Lösungen versprechen?",
+     "answer": "e"
+    },
+    {
+     "no": "12",
+     "stem": "fordert der Autor, dass nicht nur das Material, sondern auch die tägliche Arbeit der Tierhalter bezahlt wird?",
+     "answer": "d"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Lesen Sie den folgenden Text und die Aussagen 13–23. Welche der Aussagen sind richtig (r), falsch (f) oder gar nicht im Text enthalten (–)? Es gibt jeweils nur eine richtige Lösung. Markieren Sie Ihre Lösungen für die Aufgaben 13–23 auf dem Antwortbogen.",
+   "title": "",
+   "paragraphs": [
+    "Die ersten Wochen mit dem Füller sind für Mia eine Geduldsprobe. Die Siebenjährige schreibt mit der linken Hand, und weil ihre Handkante über das frisch Geschriebene gleitet, sind die Seiten ihres Heftes voller verwischter Buchstaben. Ihre Großmutter hatte dieses Problem nie, obwohl auch sie Linkshänderin ist. Sie wurde in den Sechzigerjahren in der Schule gezwungen, mit rechts zu schreiben, und tut das bis heute. „Bei uns hieß es damals, die linke Hand sei die falsche“, erzählt sie. Mia dagegen darf schreiben, wie es ihr leichtfällt – und muss nun lernen, wie man das Heft legt, damit die Tinte nicht verschmiert.",
+    "Linkshänder wie Mia sind eine Minderheit, aber keine kleine. Eine Auswertung von Studien mit insgesamt mehr als zwei Millionen Teilnehmenden kam 2020 zu dem Ergebnis, dass 10,6 Prozent der Menschen die linke Hand bevorzugen; zählt man alle mit, die nicht eindeutig rechtshändig sind, steigt der Anteil auf bis zu 18 Prozent. Männer sind dabei etwas häufiger Linkshänder als Frauen. Bemerkenswert ist, wie weit die Überzahl der Rechtshänder offenbar zurückreicht: Spuren an steinzeitlichen Werkzeugen und Zähnen deuten darauf hin, dass schon unsere Vorfahren vor Hunderttausenden von Jahren überwiegend die rechte Hand benutzten.",
+    "„Händigkeit ist weder eine Frage der Erziehung noch eine bloße Gewohnheit“, sagt Katrin Hollmann, die als Neuropsychologin an einer Universität erforscht, wie sich die beiden Hirnhälften die Arbeit teilen. Schon im Mutterleib zeige sich, welche Hand ein Kind später bevorzugen werde. Ultraschallaufnahmen belegen, dass die meisten Föten bereits in der 15. Schwangerschaftswoche lieber am rechten als am linken Daumen lutschen. Nachuntersuchungen ergaben, dass aus diesen Kindern fast ausnahmslos Rechtshänder wurden, während ein großer Teil derjenigen, die den linken Daumen vorgezogen hatten, später mit links schrieb.",
+    "Woher diese frühe Festlegung kommt, ist allerdings noch nicht vollständig geklärt. Ein einzelnes „Linkshänder-Gen“ gibt es nicht. Forschende haben vielmehr Dutzende Erbanlagen gefunden, die jeweils nur einen winzigen Einfluss haben; Zwillingsstudien zufolge erklären die Gene insgesamt lediglich rund ein Viertel der Unterschiede. Besonders deutlich wird das bei eineiigen Zwillingen: Obwohl sie dasselbe Erbgut besitzen, schreibt nicht selten der eine mit rechts und der andere mit links. Welche Rolle Einflüsse während der Schwangerschaft – etwa Hormone – spielen, ist Gegenstand laufender Untersuchungen.",
+    "Lange Zeit galt die linke Hand in vielen Kulturen als die „falsche“. Im Deutschen erinnern Ausdrücke wie „linkisch“ oder „zwei linke Hände haben“ bis heute daran. In Schulen hierzulande wurden Kinder noch bis in die Siebzigerjahre dazu gedrängt oder gezwungen, mit rechts zu schreiben – mitunter, indem man ihnen die linke Hand auf den Rücken band. Beratungsstellen berichten von Erwachsenen, die als Kinder umgeschult wurden und heute über Konzentrations- oder Gedächtnisprobleme klagen. Hollmann mahnt allerdings zur Vorsicht: Ob solche Beschwerden tatsächlich auf die Umschulung zurückgehen, lasse sich im Einzelfall kaum nachweisen. „Unstrittig ist aber, dass der Zwang vielen Kindern das Schreibenlernen unnötig schwer gemacht hat.“",
+    "Hartnäckig hält sich auch die Behauptung, Linkshänder stürben früher. Sie stützt sich auf eine amerikanische Studie von 1991, nach der Linkshänder im Durchschnitt neun Jahre kürzer leben sollten.",
+    "Das Ergebnis erwies sich jedoch als statistischer Trugschluss: Unter den älteren Verstorbenen gab es vor allem deshalb so wenige Linkshänder, weil diese Generation häufig umgeschult worden war und daher als rechtshändig galt. Die Forschenden hatten nämlich Angehörige von Verstorbenen gefragt, ob diese Links- oder Rechtshänder gewesen seien. Spätere Untersuchungen fanden keinen nennenswerten Unterschied in der Lebenserwartung.",
+    "Ebenso wenig lässt sich das freundlichere Gegenbild halten, nach dem Linkshänder besonders kreativ oder intelligent seien. Große Vergleichsstudien ergaben bei der Intelligenz praktisch keine Unterschiede zwischen Links- und Rechtshändern. „Die Listen berühmter Linkshänder, die im Internet kursieren, beweisen gar nichts“, sagt Hollmann. Bei manchen Namen, die dort auftauchen, sei nicht einmal sicher, ob es sich um Linkshänder gehandelt habe. „Mit derselben Methode könnte man ebenso gut zeigen, dass Rechtshänder begabter sind – berühmte Rechtshänder gibt es schließlich viel mehr.“",
+    "Tatsächlich unterscheiden sich die Gehirne von Links- und Rechtshändern weniger, als oft angenommen wird. Bei rund 95 Prozent der Rechtshänder wird Sprache überwiegend in der linken Hirnhälfte verarbeitet. Bei Linkshändern ist das zwar seltener der Fall, aber immer noch bei etwa drei Vierteln. Die verbreitete Vorstellung, bei ihnen sei einfach alles spiegelverkehrt angelegt, trifft also nicht zu. Liegt das Sprachzentrum doch einmal rechts, arbeitet es genauso gut; das Gehirn hat die Aufgaben lediglich anders verteilt.",
+    "Einen messbaren Vorteil haben Linkshänder dagegen in manchen Sportarten. Beim Fechten, Boxen, Tennis oder Tischtennis sind sie in der Weltspitze deutlich häufiger vertreten als in der Bevölkerung. Das liegt weniger an besonderen Fähigkeiten als an den Gegnern: Diese trainieren fast immer gegen Rechtshänder und sind auf die ungewohnten Winkel eines Linkshänders schlecht vorbereitet. Im Baseball sind linkshändige Werfer deshalb so begehrt, dass Vereine gezielt nach ihnen suchen. In Sportarten ohne direkten Zweikampf, beispielsweise im Schwimmen oder Turnen, gibt es diesen Vorteil nicht.",
+    "Im Alltag hingegen ist die Welt nach wie vor auf Rechtshänder zugeschnitten. Scheren, Dosenöffner, Computermäuse oder die Klapptische in Hörsälen sind meist für die rechte Hand gebaut. Viele Linkshänder haben sich angepasst und erledigen manche Tätigkeiten ganz selbstverständlich mit rechts. Wer das Problem nicht kennt, unterschätzt leicht, wie viel Mühe solche Kleinigkeiten auf Dauer kosten. Inzwischen gibt es spezielle Füller, Scheren und Lineale, und viele Grundschulen achten darauf, dass linkshändige Kinder beim Schreibenlernen richtig angeleitet werden, etwa was die Lage des Heftes und die Haltung des Stifts betrifft.",
+    "Was sollen Eltern tun, wenn ihr Kind beide Hände benutzt? Hollmann rät zu Gelassenheit. Bei Kleinkindern sei es völlig normal, dass sie zwischen den Händen wechseln; meist festige sich die Vorliebe bis zum Alter von etwa fünf oder sechs Jahren. Eltern sollten ihrem Kind deshalb Stifte, Löffel oder Spielzeug möglichst zur Körpermitte reichen und beobachten, mit welcher Hand es zugreift, vor allem bei Tätigkeiten, die Geschick erfordern. „In eine bestimmte Richtung lenken sollte man das Kind auf keinen Fall.“",
+    "Echte Beidhändigkeit, bei der jemand mit beiden Händen gleich geschickt ist, kommt übrigens nur sehr selten vor. Weit häufiger sind sogenannte Mischhänder, die für verschiedene Tätigkeiten unterschiedliche Hände benutzen, etwa mit links schreiben, aber mit rechts werfen. Nach der Auswertung von 2020 trifft das auf rund neun Prozent der Menschen zu. Für Hollmann ist das ein weiterer Hinweis darauf, dass Händigkeit kein Entweder-oder ist, sondern eher einer Skala gleicht.",
+    "In Mias Klasse sitzen drei Linkshänder. Ihre Lehrerin hat ihnen inzwischen Plätze am linken Tischende gegeben, damit sie beim Schreiben nicht mit dem Ellbogen an ihre Sitznachbarn stoßen. Mia benutzt jetzt einen Füller, dessen Tinte schneller trocknet.",
+    "Neulich hat sich die Großmutter das Heft ihrer Enkelin lange angesehen. Dann hat sie, zum ersten Mal seit Jahrzehnten, mit der linken Hand ihren Namen daruntergeschrieben."
+   ],
+   "itemsLead": "Aussagen 13–23",
+   "items": [
+    {
+     "no": "13",
+     "text": "Etwa jeder zehnte Mensch ist Linkshänder, Frauen etwas häufiger als Männer.",
+     "answer": "f"
+    },
+    {
+     "no": "14",
+     "text": "Bereits unsere frühen Vorfahren waren mehrheitlich rechtshändig.",
+     "answer": "r"
+    },
+    {
+     "no": "15",
+     "text": "Welche Hand ein Kind bevorzugen wird, lässt sich teilweise schon vor der Geburt erkennen.",
+     "answer": "r"
+    },
+    {
+     "no": "16",
+     "text": "Linkshändigkeit wird vor allem durch ein bestimmtes Gen vererbt.",
+     "answer": "f"
+    },
+    {
+     "no": "17",
+     "text": "Hollmann hält es für bewiesen, dass Umschulungen Gedächtnisprobleme verursachen.",
+     "answer": "f"
+    },
+    {
+     "no": "18",
+     "text": "Die Annahme, Linkshänder hätten eine kürzere Lebenserwartung, beruht auf einem Denkfehler.",
+     "answer": "r"
+    },
+    {
+     "no": "19",
+     "text": "Leonardo da Vinci gehört zu den bekanntesten Linkshändern der Geschichte.",
+     "answer": "n"
+    },
+    {
+     "no": "20",
+     "text": "Bei den meisten Linkshändern verarbeitet die rechte Hirnhälfte die Sprache.",
+     "answer": "f"
+    },
+    {
+     "no": "21",
+     "text": "Im Tischtennis profitieren Linkshänder davon, dass ihre Gegner kaum Erfahrung mit ihnen haben.",
+     "answer": "r"
+    },
+    {
+     "no": "22",
+     "text": "Linkshänder verletzen sich im Haushalt häufiger als Rechtshänder.",
+     "answer": "n"
+    },
+    {
+     "no": "23",
+     "text": "Hollmann bietet eine Sprechstunde für Eltern linkshändiger Kinder an.",
+     "answer": "n"
+    }
+   ],
+   "headline": {
+    "instruction": "Welche der Überschriften a, b oder c trifft die Aussage des Textes am besten? Markieren Sie Ihre Lösung für die Aufgabe 24 auf dem Antwortbogen.",
+    "no": "24",
+    "options": {
+     "a": "Linkshänder – kreativer und klüger als andere",
+     "b": "Warum Linkshänder im Sport gewinnen",
+     "c": "Die linke Hand: Vorurteile und Befunde"
+    },
+    "answer": "c"
+   }
+  },
+  "sb": {
+   "instruction": "Lesen Sie den folgenden Text. Welche Lösung (a, b, c oder d) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 25–46 auf dem Antwortbogen. Lücke (0) ist ein Beispiel.",
+   "title": "Die Säule des Herrn Litfaß",
+   "paragraphs": [
+    "Mitte des 19. Jahrhunderts {{0}} Berlin rasant, und mit der Stadt wuchs die Flut der Plakate. Theater, Händler und Vereine klebten ihre Anzeigen an Hauswände, Zäune und Bäume, und kaum war ein Zettel angebracht, {{25}} er schon von einem anderen überklebt. Gegen das wilde {{26}} war die Polizei weitgehend machtlos.",
+    "Einer, {{27}} diese Zustände besonders ärgerten, war der Drucker und Verleger Ernst Litfaß. Er nannte die Zettelwirtschaft eine „Hautkrankheit der Städte“ und schlug vor, eigens für Anzeigen gebaute Säulen {{28}}. Ende 1854 schloss er {{29}} dem Berliner Polizeipräsidenten, der das Durcheinander ebenfalls beenden wollte, eine Vereinbarung: Litfaß durfte die Säulen errichten und an der Werbung verdienen; im Gegenzug konnte die Stadt ihre Bekanntmachungen kostenlos darauf {{30}}.",
+    "Im April 1855 wurde in der Münzstraße die erste Säule aufgestellt. {{31}} im Juli die ersten hundert in der Stadt standen, wurde zur Feier sogar eine Polka komponiert. Viele Berliner fanden die dicken Säulen anfangs hässlich und spotteten {{32}} ihren Betreiber, den sie „Säulenheiligen“ nannten. {{33}} setzten sich die Säulen rasch durch. Wer etwas bekannt machen wollte, konnte seine Anzeige nun aushängen, {{34}} dass sie gleich wieder verschwand, und wer sich informieren wollte, fand {{35}} Wichtige an einem Ort.",
+    "Für Litfaß zahlte sich die Idee aus. {{36}} zunächst nur er in Berlin Säulen betreiben durfte, kam er schnell zu {{37}} und wurde bald als „König der Reklame“ berühmt. Der {{38}} der Säule war er allerdings nicht: Ähnliche Säulen hatte es in Paris und London schon Jahrzehnte zuvor {{39}}. Später sammelte er mit Konzerten und Bootsfahrten Geld für verwundete Soldaten und die Familien Gefallener. Litfaß starb 1874 in Wiesbaden, wo er sich zur Kur {{40}}.",
+    "Seine Säulen haben ihn überlebt. {{41}} mehr als 170 Jahren gehören sie zum Bild deutscher Städte, und noch immer {{42}} ihr Name an ihn. Manche drehen sich langsam, andere werden {{43}} von innen beleuchtet. Wer heute an einer Litfaßsäule vorbeigeht, {{44}} fallen vor allem Plakate für Konzerte, Theater und Ausstellungen auf – ganz ähnlich wie im 19. Jahrhundert. Gegen digitale Werbeflächen, die oft mehr Aufmerksamkeit erregen {{45}} ein gedrucktes Plakat, müssen sich die Säulen allerdings zunehmend {{46}}."
+   ],
+   "example": {
+    "options": {
+     "a": "wächst",
+     "b": "wachste",
+     "c": "wuchs",
+     "d": "wuchsen"
+    },
+    "answer": "c"
+   },
+   "items": [
+    {
+     "no": "25",
+     "options": {
+      "a": "hatte",
+      "b": "wird",
+      "c": "worden",
+      "d": "wurde"
+     },
+     "answer": "d"
+    },
+    {
+     "no": "26",
+     "options": {
+      "a": "Plackatieren",
+      "b": "plakatieren",
+      "c": "Plakatieren",
+      "d": "Plakatiren"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "27",
+     "options": {
+      "a": "das",
+      "b": "dass",
+      "c": "dem",
+      "d": "den"
+     },
+     "answer": "d"
+    },
+    {
+     "no": "28",
+     "options": {
+      "a": "aufgestellt",
+      "b": "aufstellen",
+      "c": "aufzustellen",
+      "d": "aufzustellende"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "29",
+     "options": {
+      "a": "bei",
+      "b": "mit",
+      "c": "neben",
+      "d": "zu"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "30",
+     "options": {
+      "a": "anschlagen",
+      "b": "aufschlagen",
+      "c": "beschlagen",
+      "d": "zuschlagen"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "31",
+     "options": {
+      "a": "Als",
+      "b": "Ob",
+      "c": "Wann",
+      "d": "Wenn"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "32",
+     "options": {
+      "a": "an",
+      "b": "auf",
+      "c": "gegen",
+      "d": "über"
+     },
+     "answer": "d"
+    },
+    {
+     "no": "33",
+     "options": {
+      "a": "Deshalb",
+      "b": "Infolgedessen",
+      "c": "Sonst",
+      "d": "Trotzdem"
+     },
+     "answer": "d"
+    },
+    {
+     "no": "34",
+     "options": {
+      "a": "damit",
+      "b": "obwohl",
+      "c": "ohne",
+      "d": "sodass"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "35",
+     "options": {
+      "a": "alle",
+      "b": "allem",
+      "c": "allerlei",
+      "d": "alles"
+     },
+     "answer": "d"
+    },
+    {
+     "no": "36",
+     "options": {
+      "a": "Da",
+      "b": "Denn",
+      "c": "Dennoch",
+      "d": "Deshalb"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "37",
+     "options": {
+      "a": "Verfügung",
+      "b": "Vermächtnis",
+      "c": "Vermögen",
+      "d": "Vertrauen"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "38",
+     "options": {
+      "a": "Entdecker",
+      "b": "Erfinder",
+      "c": "Erfüller",
+      "d": "Erwerber"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "39",
+     "options": {
+      "a": "gegeben",
+      "b": "gegebenen",
+      "c": "geworden",
+      "d": "gibt"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "40",
+     "options": {
+      "a": "anhielt",
+      "b": "aufhielt",
+      "c": "verhielt",
+      "d": "zurückhielt"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "41",
+     "options": {
+      "a": "Seid",
+      "b": "seit",
+      "c": "Seit",
+      "d": "Zeit"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "42",
+     "options": {
+      "a": "denkt",
+      "b": "erinnert",
+      "c": "verinnerlicht",
+      "d": "verweist"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "43",
+     "options": {
+      "a": "nachds",
+      "b": "nachts",
+      "c": "Nachts",
+      "d": "nachtz"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "44",
+     "options": {
+      "a": "dem",
+      "b": "den",
+      "c": "denen",
+      "d": "der"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "45",
+     "options": {
+      "a": "als",
+      "b": "so",
+      "c": "wenn",
+      "d": "wie"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "46",
+     "options": {
+      "a": "beeilen",
+      "b": "begeistern",
+      "c": "beharren",
+      "d": "behaupten"
+     },
+     "answer": "d"
+    }
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören die Meinungen von acht Personen. Sie hören die Meinungen nur einmal. Entscheiden Sie beim Hören, welche Aussage (a–j) zu welcher Person (Sprecher/in 1–8) passt. Zwei Aussagen passen nicht. Markieren Sie Ihre Lösungen für die Aufgaben 47–54 auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aussagen a–j. Sie haben dazu eine Minute Zeit.",
+   "title": "Forschung in den sozialen Medien – Chance oder Risiko?",
+   "statements": [
+    {
+     "letter": "a",
+     "text": "Kurze Videos können komplizierte Forschung kaum angemessen darstellen."
+    },
+    {
+     "letter": "b",
+     "text": "Ein Video im Internet hat meine Studienwahl beeinflusst."
+    },
+    {
+     "letter": "c",
+     "text": "Für die wissenschaftliche Laufbahn bringt Engagement im Netz bisher kaum etwas."
+    },
+    {
+     "letter": "d",
+     "text": "Forschende sollten verpflichtet werden, ihre Arbeit regelmäßig in sozialen Medien vorzustellen."
+    },
+    {
+     "letter": "e",
+     "text": "Die Plattformen belohnen eher zugespitzte Aussagen als sorgfältige Erklärungen."
+    },
+    {
+     "letter": "f",
+     "text": "Berichte von Forschenden ersetzen keinen unabhängigen Journalismus."
+    },
+    {
+     "letter": "g",
+     "text": "Wer offen über Unsicherheiten spricht, wirkt auf mich glaubwürdiger."
+    },
+    {
+     "letter": "h",
+     "text": "Nach Anfeindungen habe ich mich aus dem Netz zurückgezogen."
+    },
+    {
+     "letter": "i",
+     "text": "Videos über Forschung interessieren fast ausschließlich junge Menschen."
+    },
+    {
+     "letter": "j",
+     "text": "Hochschulen sollten ihre Forschenden bei der Arbeit im Netz unterstützen."
+    }
+   ],
+   "items": [
+    {
+     "no": "47",
+     "label": "Sprecherin 1",
+     "answer": "c"
+    },
+    {
+     "no": "48",
+     "label": "Sprecher 2",
+     "answer": "a"
+    },
+    {
+     "no": "49",
+     "label": "Sprecherin 3",
+     "answer": "f"
+    },
+    {
+     "no": "50",
+     "label": "Sprecherin 4",
+     "answer": "b"
+    },
+    {
+     "no": "51",
+     "label": "Sprecher 5",
+     "answer": "h"
+    },
+    {
+     "no": "52",
+     "label": "Sprecherin 6",
+     "answer": "j"
+    },
+    {
+     "no": "53",
+     "label": "Sprecher 7",
+     "answer": "e"
+    },
+    {
+     "no": "54",
+     "label": "Sprecher 8",
+     "answer": "g"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören eine Radiosendung. Sie hören die Sendung nur einmal. Entscheiden Sie beim Hören, welche Aussage (a, b oder c) am besten passt. Markieren Sie Ihre Lösungen für die Aufgaben 55–64 auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 55–64. Sie haben dazu drei Minuten Zeit.",
+   "items": [
+    {
+     "no": "55",
+     "stem": "Tödliche Lawinen werden nach Dr. Gerber meistens ausgelöst",
+     "options": {
+      "a": "durch laute Geräusche in der Nähe.",
+      "b": "von den Betroffenen selbst.",
+      "c": "durch Sprengungen am frühen Morgen."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "56",
+     "stem": "Die meisten Lawinenunfälle geschehen",
+     "options": {
+      "a": "außerhalb des gesicherten Skigebiets.",
+      "b": "auf Pisten, die nicht gesperrt wurden.",
+      "c": "auf viel befahrenen Skipisten."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "57",
+     "stem": "Besonders gefährlich ist nach Dr. Gerber",
+     "options": {
+      "a": "viel Neuschnee in kurzer Zeit.",
+      "b": "eine ungewöhnlich dicke Schneedecke.",
+      "c": "eine brüchige Zwischenschicht."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "58",
+     "stem": "Die meisten tödlichen Unfälle ereignen sich",
+     "options": {
+      "a": "bei einer mittleren Gefahrenstufe.",
+      "b": "bei der höchsten Gefahrenstufe.",
+      "c": "nach mehreren Tagen mit Schneefall."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "59",
+     "stem": "Wer verschüttet wird,",
+     "options": {
+      "a": "kann sich meist selbst ausgraben.",
+      "b": "kann sich oft gar nicht rühren.",
+      "c": "hat noch etwa eine Stunde Zeit."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "60",
+     "stem": "Die besten Überlebenschancen haben Verschüttete, wenn",
+     "options": {
+      "a": "rasch ein Hubschrauber eintrifft.",
+      "b": "sie mit Rufen auf sich aufmerksam machen.",
+      "c": "Kameraden sofort nach ihnen graben."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "61",
+     "stem": "Über Rucksäcke mit Airbag sagt Dr. Gerber, dass sie",
+     "options": {
+      "a": "manche Leute unvorsichtig machen.",
+      "b": "auch vor Verletzungen gut schützen.",
+      "c": "bisher nur selten getragen werden."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "62",
+     "stem": "Die Messungen auf dem Versuchsgelände",
+     "options": {
+      "a": "dienen vor allem der Warnung von Skifahrern.",
+      "b": "zeigen, dass Staublawinen selten sind.",
+      "c": "helfen zu entscheiden, wo man bauen darf."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "63",
+     "stem": "Durch den Klimawandel",
+     "options": {
+      "a": "wird es in Zukunft kaum noch Lawinen geben.",
+      "b": "gibt es öfter feuchte Lawinen im Winter.",
+      "c": "lassen sich Lawinen leichter vorhersagen."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "64",
+     "stem": "Anfängern rät Dr. Gerber unter anderem,",
+     "options": {
+      "a": "die Lageberichte vollständig zu lesen.",
+      "b": "nur bei geringer Gefahr unterwegs zu sein.",
+      "c": "immer mit einem Airbag loszugehen."
+     },
+     "answer": "a"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören einen Vortrag. Sie hören den Vortrag nur einmal. Sie haben Handzettel mit den Folien der Präsentation erhalten. Schreiben Sie die fehlenden Informationen stichwortartig in die freien Zeilen 65–74 in der rechten Spalte.",
+   "exampleNote": "Die Lösung 0 ist ein Beispiel.",
+   "readNote": "Lesen Sie jetzt die Stichworte. Sie haben dazu eine Minute Zeit.",
+   "finalNote": "Sie haben jetzt fünf Minuten Zeit, Ihre Antworten zu den Aufgaben 65–74 auf den Antwortbogen zu übertragen.",
+   "exampleAnswer": "Mensch und Gesundheit",
+   "slides": [
+    {
+     "title": "Ringvorlesung",
+     "lines": [
+      {
+       "no": "0",
+       "bullet": false,
+       "dash": false,
+       "text": "„…“"
+      },
+      {
+       "no": "",
+       "bullet": false,
+       "dash": false,
+       "text": "Thema heute: Warum die Welt kurzsichtig wird"
+      },
+      {
+       "no": "",
+       "bullet": false,
+       "dash": false,
+       "text": "Referentin: Dr. Elena Roth, Augenärztin"
+      }
+     ]
+    },
+    {
+     "title": "Grundlagen",
+     "lines": [
+      {
+       "no": "",
+       "bullet": true,
+       "dash": false,
+       "text": "in der Ferne unscharf, in der Nähe scharf"
+      },
+      {
+       "no": "65",
+       "bullet": true,
+       "dash": false,
+       "text": "Ursache bei den meisten Kurzsichtigen: …"
+      },
+      {
+       "no": "66",
+       "bullet": true,
+       "dash": false,
+       "text": "Fachbegriff für diese Form der Kurzsichtigkeit: …"
+      }
+     ]
+    },
+    {
+     "title": "Verbreitung",
+     "lines": [
+      {
+       "no": "67",
+       "bullet": true,
+       "dash": false,
+       "text": "Ostasien, junge Erwachsene heute: …"
+      },
+      {
+       "no": "",
+       "bullet": true,
+       "dash": false,
+       "text": "Hochrechnung für 2050: etwa die Hälfte der Weltbevölkerung"
+      },
+      {
+       "no": "68",
+       "bullet": true,
+       "dash": false,
+       "text": "Deutschland, Anteil bei Kindern und Jugendlichen 2001–2025: …"
+      }
+     ]
+    },
+    {
+     "title": "Ursachen",
+     "lines": [
+      {
+       "no": "",
+       "bullet": true,
+       "dash": false,
+       "text": "Gene: wichtig, erklären aber nicht den raschen Anstieg"
+      },
+      {
+       "no": "69",
+       "bullet": true,
+       "dash": false,
+       "text": "Umweltfaktor neben viel Lesen und Lernen: …"
+      },
+      {
+       "no": "70",
+       "bullet": true,
+       "dash": false,
+       "text": "Bildschirmzeit: höheres Risiko ab …"
+      }
+     ]
+    },
+    {
+     "title": "Beispiel Taiwan",
+     "lines": [
+      {
+       "no": "",
+       "bullet": true,
+       "dash": false,
+       "text": "Programm der Regierung seit 2010"
+      },
+      {
+       "no": "71",
+       "bullet": true,
+       "dash": false,
+       "text": "Vorgabe für Schulkinder: …"
+      },
+      {
+       "no": "72",
+       "bullet": true,
+       "dash": false,
+       "text": "Ergebnis: …"
+      }
+     ]
+    },
+    {
+     "title": "Behandlung",
+     "lines": [
+      {
+       "no": "",
+       "bullet": true,
+       "dash": false,
+       "text": "Brille: gleicht aus, bremst aber nicht"
+      },
+      {
+       "no": "",
+       "bullet": true,
+       "dash": false,
+       "text": "Atropin-Tropfen, spezielle Gläser und Linsen"
+      },
+      {
+       "no": "73",
+       "bullet": true,
+       "dash": false,
+       "text": "Grund, das Fortschreiten zu bremsen: …"
+      }
+     ]
+    },
+    {
+     "title": "Fazit",
+     "lines": [
+      {
+       "no": "74",
+       "bullet": true,
+       "dash": false,
+       "text": "Rat an die Studierenden: …"
+      }
+     ]
+    }
+   ],
+   "items": [
+    {
+     "no": "65",
+     "solution": "Augapfel zu lang → scharfes Bild entsteht vor der Netzhaut"
+    },
+    {
+     "no": "66",
+     "solution": "Achsenmyopie"
+    },
+    {
+     "no": "67",
+     "solution": "60–90 % kurzsichtig (vor dem Zweiten Weltkrieg 20–40 %)"
+    },
+    {
+     "no": "68",
+     "solution": "kein Anstieg / Anteil weitgehend stabil"
+    },
+    {
+     "no": "69",
+     "solution": "zu wenig Zeit im Freien / zu wenig helles Tageslicht"
+    },
+    {
+     "no": "70",
+     "solution": "etwa einer Stunde (Bildschirmzeit) am Tag; danach je weitere Stunde ca. ein Fünftel mehr Risiko (die Schwelle genügt, auch „mehr als eine Stunde“)"
+    },
+    {
+     "no": "71",
+     "solution": "täglich 120 Minuten (zwei Stunden) im Freien"
+    },
+    {
+     "no": "72",
+     "solution": "Anteil schlecht sehender Kinder sinkt wieder (2011: 50 % → 2015: 46 %) / Trend umgekehrt"
+    },
+    {
+     "no": "73",
+     "solution": "hohe Kurzsichtigkeit erhöht später das Risiko für ernste Augenerkrankungen (z. B. Netzhautablösung)"
+    },
+    {
+     "no": "74",
+     "solution": "beim Lernen regelmäßig Pausen machen und sie draußen im Hellen verbringen"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "instruction": "Wählen Sie eines der folgenden zwei Themen. Schreiben Sie einen Text, in dem Sie Ihren eigenen Standpunkt dazu erarbeiten und argumentativ darlegen. Ihr Text soll mindestens 350 Wörter umfassen. Sie haben 70 Minuten Zeit.",
+  "minWords": 350,
+  "minutes": 70,
+  "themes": [
+   {
+    "no": "1",
+    "paragraphs": [
+     "In einem Seminar wird diskutiert, ob wissenschaftliche Veröffentlichungen grundsätzlich frei und kostenlos im Internet zugänglich sein sollten (Open Access).",
+     "Erörtern Sie Vor- und Nachteile einer solchen Regelung, greifen Sie die Zitate auf und beziehen Sie eigene Erfahrungen ein. Ziehen Sie ein begründetes Fazit."
+    ],
+    "quoteLead": "Die folgenden Zitate geben Ihnen erste Ideen:",
+    "quotes": [
+     "„Was mit Steuergeld erforscht wurde, gehört allen.“",
+     "„Wenn niemand fürs Lesen zahlt, zahlen die Forschenden fürs Veröffentlichen.“"
+    ],
+    "model": {
+     "title": "Freier Zugang zum Wissen – zu welchem Preis?",
+     "paragraphs": [
+      "Wer eine Hausarbeit schreibt, kennt das Problem: Die Studie, die man dringend braucht, liegt hinter einer Bezahlschranke, und die eigene Bibliothek hat die Zeitschrift nicht abonniert. Vor diesem Hintergrund wird in unserem Seminar diskutiert, ob wissenschaftliche Veröffentlichungen grundsätzlich frei im Internet zugänglich sein sollten. Im Folgenden werden die Argumente für und gegen ein solches Modell abgewogen.",
+      "Für den freien Zugang spricht zunächst ein Gerechtigkeitsargument. Ein großer Teil der Forschung an Hochschulen wird aus öffentlichen Mitteln finanziert. Insofern ist dem ersten Zitat zuzustimmen: Es ist schwer zu begründen, warum die Allgemeinheit für Ergebnisse, die sie bereits bezahlt hat, ein zweites Mal zahlen soll, nämlich über die teuren Abonnements der Bibliotheken. Hinzu kommt, dass frei zugängliche Studien in der Regel häufiger heruntergeladen und gelesen werden. Sie erreichen nicht nur andere Forschende, sondern auch Lehrkräfte, Journalistinnen oder Ärzte, die keine Universitätsbibliothek im Rücken haben. Ebenso würden Studierende an kleineren Hochschulen mit knappem Etat spürbar entlastet.",
+      "Ernst zu nehmen ist jedoch der Einwand, der im zweiten Zitat zum Ausdruck kommt. Auch frei zugängliche Zeitschriften müssen die Organisation der Begutachtung, die Redaktion und die Technik finanzieren. Viele verlangen deshalb von den Autorinnen und Autoren Gebühren, die bei renommierten Zeitschriften mehrere Tausend Euro pro Artikel betragen können. Wer an einer gut ausgestatteten Hochschule arbeitet, kann sich das leisten; Forschende aus ärmeren Ländern oder kleinen Instituten dagegen oft nicht. Zudem sind unseriöse Verlage entstanden, die gegen Gebühr nahezu alles veröffentlichen, ohne die Qualität gründlich zu prüfen.",
+      "Ich habe beide Seiten aus der Nähe erlebt. Für meine Bachelorarbeit in Psychologie brauchte ich mehrere Studien, auf die unsere Bibliothek keinen Zugriff hatte, und musste wochenlang auf die Fernleihe warten. Später wollte eine Doktorandin aus unserem Institut einen Artikel in einer Open-Access-Zeitschrift veröffentlichen. Erst nach der Annahme erfuhr sie, dass dafür über zweitausend Euro fällig wurden, die sie schließlich aus ihrem knappen Projektbudget bezahlen musste.",
+      "Insgesamt halte ich den freien Zugang zu Forschungsergebnissen für richtig, allerdings nicht um jeden Preis. Überzeugend erscheinen mir Modelle, bei denen weder Lesende noch Schreibende zahlen, etwa Zeitschriften, die von Hochschulen oder Fachgesellschaften selbst herausgegeben und öffentlich finanziert werden. Zumindest aber sollten die Universitäten anfallende Gebühren übernehmen, damit nicht der Geldbeutel darüber entscheidet, wer publizieren darf. Denn Wissenschaft verfehlt ihren Zweck, wenn nur wenige ihre Ergebnisse lesen oder veröffentlichen können."
+     ],
+     "hint": "Textsorte Erörterung für ein Seminar. Aufbau: Einleitung mit Alltagsbeispiel und Leitfrage – Argumente dafür mit Bezug auf Zitat 1 – Einwände mit Bezug auf Zitat 2 – eigene Erfahrung, die beide Seiten stützt – Fazit mit Bedingungen. Sprachliche Mittel: überwiegend sachlicher, unpersönlicher Stil (Im Folgenden werden … abgewogen; ist … zuzustimmen; Ernst zu nehmen ist …), Ich-Form nur bei der eigenen Erfahrung und im Fazit, Nominalstil (Begutachtung, Annahme), Passiv, Konnektoren der Abwägung (zunächst, hinzu kommt, jedoch, zudem, insgesamt, zumindest aber). Umfang: 375 Wörter."
+    }
+   },
+   {
+    "no": "2",
+    "paragraphs": [
+     "Eine Hochschulzeitschrift fragt, ob Hochschulen Dienstreisen mit dem Flugzeug aus Klimaschutzgründen einschränken sollten, etwa bei Tagungen im Inland.",
+     "Nehmen Sie persönlich Stellung: Legen Sie dar, was für und was gegen solche Einschränkungen spricht, beziehen Sie die Zitate ein und begründen Sie Ihre Meinung."
+    ],
+    "quoteLead": "Die folgenden Zitate geben Ihnen erste Ideen:",
+    "quotes": [
+     "„Wer Klimaschutz fordert, sollte selbst damit anfangen.“",
+     "„Das wichtigste Gespräch einer Tagung findet in der Kaffeepause statt.“"
+    ],
+    "model": {
+     "title": "Weniger fliegen – auch in der Wissenschaft",
+     "paragraphs": [
+      "Im vergangenen Herbst bin ich zu meiner ersten Fachtagung gefahren, von Köln nach München. Meine Betreuerin hatte mir zum Flug geraten, ich habe mich trotzdem für den Zug entschieden. Die Fahrt hat gut vier Stunden gedauert, aber ich habe unterwegs meinen Vortrag noch einmal überarbeitet und bin entspannt angekommen. Seitdem frage ich mich, warum an Hochschulen noch immer so selbstverständlich geflogen wird.",
+      "Für klare Regeln spricht aus meiner Sicht vor allem die Glaubwürdigkeit. Gerade die Wissenschaft warnt seit Jahrzehnten vor den Folgen des Klimawandels. Das erste Zitat bringt es auf den Punkt: Wer von anderen verlangt, ihr Verhalten zu ändern, muss selbst den Anfang machen. Außerdem entfällt an vielen Hochschulen ein erheblicher Teil des CO₂-Ausstoßes auf Dienstreisen. Bei Strecken, die man in wenigen Stunden mit der Bahn zurücklegen kann, ist der Verzicht auf das Flugzeug ohnehin kaum ein Opfer.",
+      "Gleichzeitig kann ich nachvollziehen, was das zweite Zitat ausdrückt. Viele Kooperationen entstehen nicht im Vortragssaal, sondern beim Kaffee oder beim gemeinsamen Abendessen, und das lässt sich durch eine Videokonferenz nur schwer ersetzen. Zudem sind Online-Sitzungen über mehrere Zeitzonen hinweg mühsam, wenn ein Teil der Gruppe mitten in der Nacht zugeschaltet ist. Schließlich treffen pauschale Verbote nicht alle gleich: Wer noch am Anfang der Karriere steht und auf internationale Kontakte angewiesen ist, kann auf Flüge zu wichtigen Tagungen in Übersee kaum verzichten. Etablierten Professorinnen und Professoren mit großem Netzwerk fällt das dagegen viel leichter.",
+      "Ich bin dennoch für Einschränkungen, aber mit Augenmaß. Innerhalb Deutschlands und zu Zielen, die man mit dem Zug in höchstens sechs Stunden erreicht, sollten Flüge die Ausnahme sein. Die Hochschulen müssten dafür die längere Reisezeit als Arbeitszeit anerkennen und Bahnfahrten bei der Erstattung nicht benachteiligen. Bei Langstrecken halte ich eine bewusste Auswahl für sinnvoller als ein Verbot: lieber eine große Tagung im Jahr mit mehreren Tagen Aufenthalt als drei kurze Reisen. Und gerade junge Forschende sollten Vorrang haben, wenn es um Tagungen geht, die für ihre Laufbahn wichtig sind.",
+      "Auf der Tagung in München habe ich übrigens in einer Kaffeepause einen Professor kennengelernt, mit dem ich inzwischen zusammenarbeite. Das zweite Zitat hat also durchaus recht – nur musste ich dafür nicht fliegen. Klimaschutz und Austausch schließen sich nicht aus, wenn man die Reisen klug plant. Ich jedenfalls werde auch künftig den Zug nehmen, wann immer es möglich ist."
+     ],
+     "hint": "Textsorte persönliche Stellungnahme für eine Hochschulzeitschrift. Aufbau: persönlicher Einstieg mit einem Erlebnis – Argumente dafür mit Bezug auf Zitat 1 – Einwände mit Bezug auf Zitat 2 – eigene Position mit abgestuften Vorschlägen – Rückgriff auf den Einstieg im Schluss. Sprachliche Mittel: Ich-Perspektive und wertende Ausdrücke (aus meiner Sicht, Ich bin dennoch für …, mit Augenmaß), Konjunktiv II für Vorschläge (müssten, sollten), Gegenüberstellung (gleichzeitig, dagegen), Vergleich (lieber … als …). Umfang: 379 Wörter."
+    }
+   }
+  ]
+ },
+ "muendlich": {
+  "teil1": [
+   {
+    "who": "A",
+    "themes": [
+     "Beschreiben Sie einen Beruf, der in Ihrem Heimatland ein besonders hohes Ansehen genießt. Woran liegt das, und wie sehen Sie das selbst?",
+     "Sollten Einwegverpackungen für Speisen und Getränke zum Mitnehmen verboten werden? Begründen Sie Ihre Meinung."
+    ]
+   },
+   {
+    "who": "B",
+    "themes": [
+     "Beschreiben Sie, welche Rolle Haustiere in Ihrem Heimatland spielen. Wie leben die Menschen dort mit Tieren zusammen?",
+     "Sollte das Wahlalter bei allen Wahlen auf 16 Jahre gesenkt werden? Begründen Sie Ihre Meinung."
+    ]
+   },
+   {
+    "who": "C",
+    "themes": [
+     "Stellen Sie ein Spiel vor, das in Ihrem Heimatland beliebt ist oder das Sie als Kind gern gespielt haben. Was macht es besonders?",
+     "Sollte Werbung für ungesunde Lebensmittel verboten werden, wenn sie sich an Kinder richtet? Begründen Sie Ihre Meinung und gehen Sie auch auf Gegenargumente ein."
+    ]
+   }
+  ],
+  "teil2": [
+   {
+    "no": "1",
+    "text": "„Es gibt nichts Gutes, außer: Man tut es.“",
+    "author": "Erich Kästner, 1899–1974, Schriftsteller"
+   },
+   {
+    "no": "2",
+    "text": "„Wo aber Gefahr ist, wächst das Rettende auch.“",
+    "author": "Friedrich Hölderlin, 1770–1843, Dichter"
+   },
+   {
+    "no": "3",
+    "text": "„Wer es einmal so weit gebracht hat, dass er nicht mehr irrt, der hat auch zu arbeiten aufgehört.“",
+    "author": "Max Planck, 1858–1947, Physiker"
+   }
+  ]
+ },
+ "notes": "",
+ "index": {
+  "short": "Spuren, die jeden verraten · Leben mit dem Wolf · Die Säule des Herrn Litfaß",
+  "lesen": {
+   "t1": "Spuren, die jeden verraten",
+   "t2": "Leben mit dem Wolf",
+   "t3": "Die linke Hand: Vorurteile und Befunde",
+   "sb": "Die Säule des Herrn Litfaß"
+  },
+  "hoeren": {
+   "t1": "Forschung in den sozialen Medien – Chance oder Risiko?",
+   "t2": "Lawinen",
+   "t3": "Warum die Welt kurzsichtig wird"
+  },
+  "schreiben": {
+   "t1": "Open Access in der Wissenschaft",
+   "t2": "Dienstreisen per Flugzeug einschränken?"
+  },
+  "sprechen": {
+   "t1": [
+    {
+     "who": "A",
+     "topics": [
+      "Angesehener Beruf",
+      "Verbot von Einwegverpackungen"
+     ]
+    },
+    {
+     "who": "B",
+     "topics": [
+      "Haustiere im Heimatland",
+      "Wahlalter 16"
+     ]
+    },
+    {
+     "who": "C",
+     "topics": [
+      "Beliebtes Spiel",
+      "Werbung für Kinder"
+     ]
+    }
+   ],
+   "t2": [
+    {
+     "no": "1",
+     "author": "Erich Kästner"
+    },
+    {
+     "no": "2",
+     "author": "Friedrich Hölderlin"
+    },
+    {
+     "no": "3",
+     "author": "Max Planck"
+    }
+   ]
+  }
+ }
+}
