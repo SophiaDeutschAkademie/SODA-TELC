@@ -1,0 +1,754 @@
+{
+ "id": 4,
+ "roman": "IV",
+ "lesen": {
+  "t1": {
+   "instruction": "Lesen Sie die Überschriften a–j und die Texte 1–5. Finden Sie für jeden Text die passende Überschrift. Sie können jede Überschrift nur einmal benutzen. Markieren Sie Ihre Lösungen für die Aufgaben 1–5 auf dem Antwortbogen.",
+   "headlines": [
+    {
+     "letter": "a",
+     "text": "Studie: Kaffee hilft nachmittags besser als Schlaf"
+    },
+    {
+     "letter": "b",
+     "text": "Was übrig ist, gehört allen im Viertel"
+    },
+    {
+     "letter": "c",
+     "text": "Senioren geben Gymnasiasten Nachhilfe im Café"
+    },
+    {
+     "letter": "d",
+     "text": "Kurz schlafen, besser arbeiten: Erste Firmen ziehen mit"
+    },
+    {
+     "letter": "e",
+     "text": "Landkreis richtet neue Buslinie ein"
+    },
+    {
+     "letter": "f",
+     "text": "Zehntklässler nehmen sich Zeit für ältere Menschen"
+    },
+    {
+     "letter": "g",
+     "text": "Freiwillige bringen Lebensmittel ins Dorf"
+    },
+    {
+     "letter": "h",
+     "text": "Ottersheim: Ehrenamtliche Fahrer halten das Dorf mobil"
+    },
+    {
+     "letter": "i",
+     "text": "Freiburger Kühlschrank: Angebot nur für Bedürftige"
+    },
+    {
+     "letter": "j",
+     "text": "Ein Kollege mit Fell verändert das Klassenklima"
+    }
+   ],
+   "texts": [
+    {
+     "no": "1",
+     "paragraphs": [
+      "In der Freiburger Wiehre steht seit einem Jahr ein Kühlschrank auf der Straße. Er gehört niemandem – und allen. Wer zu viel eingekauft hat oder verreist, stellt seine Lebensmittel hinein; wer etwas braucht, nimmt es sich heraus. Bezahlt wird nichts. Zwei Bäckereien und ein Supermarkt aus dem Viertel liefern abends, was sich nicht mehr verkaufen lässt, und eine Gruppe Freiwilliger prüft täglich, ob alles noch frisch ist. „Anfangs hielten viele das für ein Angebot, das sich nur an Arme richtet“, sagt Organisatorin Hanna Brecht. „Inzwischen bedienen sich hier Studierende, Familien und Rentner ganz selbstverständlich.“ Vier weitere Kühlschränke sind in der Stadt geplant."
+     ]
+    },
+    {
+     "no": "2",
+     "paragraphs": [
+      "Vor fünf Jahren strich der Landkreis die Buslinie nach Ottersheim, weil zu wenige Fahrgäste mitfuhren. Seit dem Frühjahr verfügt das Dorf trotzdem wieder über einen Bus – einen Kleinbus mit acht Sitzen, den 14 Freiwillige abwechselnd steuern, die meisten von ihnen Rentner. Der Bürgerbus verkehrt fünfmal täglich in die Kreisstadt, eine Fahrt kostet zwei Euro, und mitfahren darf jeder. Genutzt wird er vor allem von älteren Menschen, die zum Arzt oder zum Einkaufen wollen, nachmittags auch von Schülern. „Ein Ersatz für die alte Linie sind wir nicht“, räumt Fahrer Dieter Kolb, 68, ein. „Aber besser als gar nichts.“"
+     ]
+    },
+    {
+     "no": "3",
+     "paragraphs": [
+      "Bruno hat viermal in der Woche Dienst – montags bis donnerstags ab 8 Uhr in der Klasse 2a der Grundschule Waldstraße in Kassel. Bruno ist ein Labrador und gehört Lehrerin Miriam Falk, die ihn seit zwei Jahren in den Unterricht mitnimmt. Erlaubt ist das nur, weil er eine Prüfung zum Schulhund bestanden hat. Die Kinder streicheln ihn in den Pausen, lesen ihm vor und sind abwechselnd für Wasser und Futter zuständig. „Seit Bruno da ist, ist die Klasse deutlich ruhiger geworden“, berichtet Falk. „Die Kinder wissen: Wird es zu laut, muss Bruno raus.“ Ein Kind mit einer Tierhaarallergie gibt es in der Klasse nicht – das wurde mit den Eltern vorab geklärt."
+     ]
+    },
+    {
+     "no": "4",
+     "paragraphs": [
+      "Zwanzig Minuten Schlaf nach dem Mittagessen genügen, um am Nachmittag konzentrierter zu arbeiten. Zu diesem Ergebnis kommt eine Studie der Universität Hamburg mit 400 Büroangestellten. Wer kurz geschlafen hatte, machte anschließend weniger Fehler und fühlte sich zufriedener als Kollegen, die stattdessen Kaffee getrunken hatten. Entscheidend ist allerdings die Dauer: Wer länger als eine halbe Stunde schläft, ist danach häufig müder als zuvor. Einige Unternehmen haben bereits reagiert. Die Versicherung Nordwest in Hamburg hat einen Ruheraum mit sechs Liegen eingerichtet, der den Mitarbeitern in der Mittagspause zur Verfügung steht. Der Raum sei fast immer belegt, heißt es aus der Firma."
+     ]
+    },
+    {
+     "no": "5",
+     "paragraphs": [
+      "Wie verschicke ich ein Foto? Wie funktioniert ein Videoanruf? Jeden Mittwochnachmittag beantworten Schülerinnen und Schüler des Gymnasiums Kiel- Nord solche Fragen – im Café des benachbarten Seniorentreffs. Das Projekt „Digital-Café“ besteht seit einem Jahr, 20 Jugendliche aus der zehnten Klasse beteiligen sich. Jede Seniorin und jeder Senior erhält einen festen Partner, der sich Zeit nimmt und alles so oft erklärt, wie es nötig ist. „Meine Enkel haben dafür keine Geduld“, sagt Erika Manz, 79. „Hier fragt niemand, warum ich das immer noch nicht begriffen habe.“ Die Schüler bekommen für ihr Engagement einen Vermerk im Zeugnis – und von den Senioren regelmäßig selbst gebackenen Kuchen."
+     ]
+    }
+   ],
+   "items": [
+    {
+     "no": "1",
+     "answer": "b"
+    },
+    {
+     "no": "2",
+     "answer": "h"
+    },
+    {
+     "no": "3",
+     "answer": "j"
+    },
+    {
+     "no": "4",
+     "answer": "d"
+    },
+    {
+     "no": "5",
+     "answer": "f"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Lesen Sie den Text und die Aufgaben 6–10. Welche Lösung (a, b oder c) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 6–10 auf dem Antwortbogen.",
+   "kind": "article",
+   "title": "Urlaub im Haus von Fremden",
+   "lead": "Familie Brandt aus Kiel fährt in den Ferien nicht ins Hotel, sondern in fremde Häuser – und lässt Fremde in ihr eigenes.",
+   "paragraphs": [
+    "Zwei Erwachsene, zwei Kinder, zwei Wochen Sommerurlaub: Als Katja Brandt vor vier Jahren die Preise für Ferienwohnungen in Portugal sah, wollte sie die Reise fast absagen. „Für eine Wohnung mit zwei Schlafzimmern hätten wir fast 3.000 Euro bezahlt“, erzählt die 42-jährige Lehrerin. Eine Kollegin hatte ihr günstige Hotels an der Algarve empfohlen, doch die waren längst ausgebucht. Dann stieß sie in einer Zeitschrift auf einen Artikel über Haustausch: Zwei Familien wohnen für eine bestimmte Zeit jeweils im Haus der anderen – ohne dass jemand Miete bezahlt. „Ich habe gedacht: Das probieren wir.“",
+    "Die Familie meldete sich bei einer Internetseite an, die Tauschpartner vermittelt. Die Mitgliedschaft kostet 60 Euro im Jahr; für den einzelnen Tausch fällt nichts mehr an. Man lädt Fotos vom eigenen Haus hoch, beschreibt die Umgebung und gibt an, wohin man reisen möchte. Bereits nach drei Wochen meldete sich eine Familie aus Lissabon, die im Sommer die Ostsee kennenlernen wollte. Nach ein paar Videoanrufen war die Sache beschlossen.",
+    "Ganz ohne Bedenken war der erste Tausch nicht. „Ich hatte Angst, dass Fremde in unseren Schränken wühlen“, gibt Katja Brandt zu. Die Familie räumte ihre wichtigen Unterlagen und den Schmuck ins Arbeitszimmer und schloss es ab; die übrigen Räume blieben, wie sie waren. Für die Gäste stellten die Brandts eine Mappe mit allem Wichtigen zusammen: wie die Waschmaschine funktioniert, wo der beste Bäcker ist, wann der Müll abgeholt wird. Eine Nachbarin erhielt einen Schlüssel – allerdings nur für Notfälle, regelmäßig nach dem Haus sehen soll sie nicht.",
+    "Auch die Katze bleibt beim Tausch zu Hause. „Die Gäste füttern sie – dafür kümmern wir uns in Lissabon um die Pflanzen auf dem Balkon“, sagt Brandt. Zu Bruch gegangen ist in drei Jahren nur ein Glas. Dafür haben die Kinder inzwischen Freunde in Portugal, und die beiden Familien schicken sich zu Weihnachten Pakete. Gespart hat die Familie rund 2.500 Euro pro Urlaub – die Flüge muss sie allerdings nach wie vor selbst bezahlen.",
+    "Nachteile gibt es dennoch. Vor jeder Reise muss das Haus gründlich geputzt werden, und man ist an feste Termine gebunden: Beide Familien müssen zur gleichen Zeit Ferien haben. „Und man muss damit leben, dass die Gäste vielleicht anders mit den Dingen umgehen als man selbst“, sagt Brandt. „Wer das nicht kann, sollte es lieber lassen.“ Die Familie aus Lissabon hat für den nächsten Sommer bereits wieder angefragt – doch die Brandts haben abgesagt. „Lissabon war wunderschön, aber wir wollen etwas Neues sehen.“ Im Moment schreiben sie mit einer Familie aus Montreal; fest zugesagt hat noch niemand."
+   ],
+   "source": "",
+   "taskInstruction": "",
+   "items": [
+    {
+     "no": "6",
+     "stem": "Zum Haustausch kam Familie Brandt, weil",
+     "options": {
+      "a": "eine Kollegin von ihren Erfahrungen damit berichtet hatte.",
+      "b": "Katja Brandt zufällig einen Bericht darüber gelesen hatte.",
+      "c": "die Hotels an der Algarve für die Reisekasse zu teuer waren."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "7",
+     "stem": "Die Kosten für den Tausch",
+     "options": {
+      "a": "beschränken sich auf einen jährlichen Mitgliedsbeitrag.",
+      "b": "hängen davon ab, wie oft eine Familie im Jahr tauscht.",
+      "c": "betragen für jede Familie 60 Euro pro Aufenthalt."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "8",
+     "stem": "Vor der ersten Abreise",
+     "options": {
+      "a": "brachten die Brandts Unterlagen und Schmuck zu einer Nachbarin.",
+      "b": "räumten die Brandts sämtliche Zimmer des Hauses gründlich aus.",
+      "c": "sperrten die Brandts einen Raum ab, den die Gäste nicht nutzen sollten."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "9",
+     "stem": "Während des Tauschs",
+     "options": {
+      "a": "teilen sich beide Familien die Kosten für die Flüge.",
+      "b": "versorgt jede Familie etwas, das der anderen gehört.",
+      "c": "blieb in drei Jahren alles im Haus unbeschädigt."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "10",
+     "stem": "Für den kommenden Sommer",
+     "options": {
+      "a": "haben die Brandts erneut mit der Familie aus Lissabon getauscht.",
+      "b": "ist bereits eine Familie aus Kanada als Partner bestätigt.",
+      "c": "haben die Brandts ein Angebot bewusst nicht angenommen."
+     },
+     "answer": "c"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Lesen Sie die Situationen 11–20 und die Anzeigen a–l. Finden Sie für jede Situation die passende Anzeige. Sie können jede Anzeige nur einmal benutzen. Markieren Sie Ihre Lösungen für die Aufgaben 11–20 auf dem Antwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie ein x.",
+   "items": [
+    {
+     "no": "11",
+     "text": "Sie haben keine Berufsausbildung, möchten aber am Wochenende dazuverdienen.",
+     "answer": "f"
+    },
+    {
+     "no": "12",
+     "text": "Mit 35 können Sie noch nicht schwimmen. Das wollen Sie jetzt ändern.",
+     "answer": "b"
+    },
+    {
+     "no": "13",
+     "text": "Am verregneten Sonntag wollen Ihre Kinder unbedingt baden gehen.",
+     "answer": "i"
+    },
+    {
+     "no": "14",
+     "text": "Sie können nicht tanzen, aber auf Ihrer Hochzeit im Mai soll es klappen.",
+     "answer": "a"
+    },
+    {
+     "no": "15",
+     "text": "Für neue Papiere brauchen Sie ein aktuelles Bild – Zeit haben Sie erst nach 18 Uhr.",
+     "answer": "l"
+    },
+    {
+     "no": "16",
+     "text": "Beim Umzug wollen Sie Ihre Einbauküche zu Geld machen, ohne selbst zu schrauben.",
+     "answer": "e"
+    },
+    {
+     "no": "17",
+     "text": "Während Sie in den großen Ferien arbeiten, soll sich Ihre Tochter (10) tagsüber viel bewegen.",
+     "answer": "c"
+    },
+    {
+     "no": "18",
+     "text": "Ab Herbst arbeiten Sie dienstags bis donnerstags. Wer passt dann auf Ihren Zweijährigen auf?",
+     "answer": "j"
+    },
+    {
+     "no": "19",
+     "text": "Die Waschmaschine ist kaputt und soll repariert werden.",
+     "answer": "x"
+    },
+    {
+     "no": "20",
+     "text": "Obwohl Sie Mo–Fr von 8 bis 17 Uhr arbeiten, wollen Sie den Führerschein machen.",
+     "answer": "x"
+    }
+   ],
+   "infos": [
+    {
+     "letter": "a",
+     "header": "Tanzschule Rheinschwung",
+     "tag": "KÖLN-EHRENFELD",
+     "title": "Crashkurs für Brautpaare",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "An fünf Abenden lernen Sie Walzer und Discofox – so kommen Sie an Ihrem großen Tag sicher über das Parkett und haben auch auf der Party danach Spaß. Kurse Mo–Do 19–20.30 Uhr, Beginn jeden ersten Montag im Monat. Keine Vorkenntnisse nötig, kleine Gruppen, Getränke inklusive. Privatstunden auf Anfrage."
+     ],
+     "footer": "Venloer Str. 210 · Tel. 0221 / 80 80 80 · 149 € pro Paar",
+     "design": "barhead"
+    },
+    {
+     "letter": "b",
+     "header": "Schwimmschule Delfin",
+     "tag": "31 °C LEHRBECKEN",
+     "title": "Nie richtig schwimmen gelernt? Keine Sorge!",
+     "subtitle": "KURSE FÜR KINDER UND ERWACHSENE",
+     "facts": [],
+     "body": [
+      "Kurs für erwachsene Nichtschwimmer: 10 Termine, immer mittwochs 19.30–20.15 Uhr, im flachen, warmen Lehrbecken. Höchstens sechs Teilnehmende, geduldige Trainerinnen – niemand muss ins tiefe Wasser, bevor er sich sicher fühlt. Kinderkurse ab 5 Jahren Mo + Fr nachmittags. Kein freies Schwimmen – bei uns gibt es nur Kurse."
+     ],
+     "footer": "Erwachsenenkurs 160 € · im Stadionbad · Anmeldung: www.delfin-koeln.de",
+     "design": "bignum"
+    },
+    {
+     "letter": "c",
+     "header": "SOMMER-SPORTCAMP",
+     "tag": "",
+     "title": "",
+     "subtitle": "SV KÖLN-SÜLZ · KINDER VON 8 BIS 12 JAHREN",
+     "facts": [
+      "4 Termine in den Sommerferien je 1 Woche",
+      "Preis pro Woche 150 €",
+      "Vereinsmitglieder / Geschwister 120 € / –20 €"
+     ],
+     "body": [
+      "Eine Woche Fußball, Schwimmen, Klettern, Leichtathletik und Ballspiele mit unseren Trainern – jeden Tag etwas Neues. Mo–Fr 8–16 Uhr, mit warmem Mittagessen, Obst und Getränken. Sportkleidung und Badesachen mitbringen, Gruppen nach Alter."
+     ],
+     "footer": "Anmeldung nur online, begrenzte Plätze · www.sv-suelz.de/camp",
+     "design": "stripes"
+    },
+    {
+     "letter": "d",
+     "header": "Pflegedienst Lebensfreude",
+     "tag": "STELLENANGEBOT",
+     "title": "Wochenendjob in der Pflege",
+     "subtitle": "",
+     "facts": [
+      "Ihre Aufgaben · Pflegehelfer/in für Wochenenddienste: Samstag und Sonntag 7–14 Uhr, Hausbesuche bei unseren Patienten im Stadtgebiet, festes Team",
+      "Wir erwarten · abgeschlossene Ausbildung in der Pflege (mindestens einjährig), Führerschein Klasse B, Freundlichkeit und Zuverlässigkeit",
+      "Wir bieten · gute Bezahlung mit Wochenendzuschlag, Dienstwagen, Fortbildungen, unbefristeter Vertrag"
+     ],
+     "body": [],
+     "footer": "Bewerbung mit Lebenslauf und Zeugnissen: info@pflege-lebensfreude.de · Tel. 0221 / 66 66 66",
+     "design": "inst"
+    },
+    {
+     "letter": "e",
+     "header": "WIR KAUFEN",
+     "tag": "MÖBEL-ANKAUF SCHMIDT · SEIT 1998",
+     "title": "",
+     "subtitle": "",
+     "facts": [
+      "gebrauchte Küchen – komplett, mit oder ohne Geräte",
+      "Möbel aller Art, auch ganze Wohnungen (Haushaltsauflösung)",
+      "Elektrogeräte bis 5 Jahre alt",
+      "Faire Preise, Bezahlung sofort in bar",
+      "Abbau und Abholung durch unser Team, auch kurzfristig und am Wochenende – Sie müssen nichts selbst machen",
+      "Fotos und Maße per WhatsApp schicken – Angebot innerhalb von 24 Stunden"
+     ],
+     "body": [],
+     "footer": "Tel. 0221 / 44 33 22 · Mo–Sa 8–19 Uhr",
+     "design": "greyband"
+    },
+    {
+     "letter": "f",
+     "header": "Café Sonnenschein",
+     "tag": "14 € pro Stunde plus Trinkgeld",
+     "title": "Aushilfe (m/w/d) für Samstag und Sonntag, 8–14 Uhr",
+     "subtitle": "WIR SUCHEN VERSTÄRKUNG · SEVERINSTRASSE 41",
+     "facts": [],
+     "body": [
+      "Kaffee kochen, Brötchen belegen, Gäste bedienen, Kasse. Keine Vorkenntnisse nötig – wir zeigen Ihnen alles, wichtig sind Freundlichkeit und Zuverlässigkeit. Minijob oder Teilzeit, Frühstück inklusive, auch für Studierende und Rentner geeignet. Beginn sofort oder nach Absprache."
+     ],
+     "footer": "Kommen Sie einfach vorbei und fragen Sie nach Frau Bauer – täglich 8–18 Uhr.",
+     "design": "badge"
+    },
+    {
+     "letter": "g",
+     "header": "",
+     "tag": "JEDEN FREITAG AB 20 UHR",
+     "title": "Tanzcafé Belvedere",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Freies Tanzen für Paare und Singles: Walzer, Tango, Discofox – am ersten Freitag im Monat mit Live-Band. Kein Unterricht, keine Anmeldung: einfach vorbeikommen und lostanzen. Getränke und kleine Snacks an der Bar, Garderobe kostenlos. Auch Hochzeitsgesellschaften sind herzlich willkommen – fragen Sie nach unserem Saal für bis zu 80 Personen."
+     ],
+     "footer": "Aachener Str. 45 · www.belvedere-koeln.de · Eintritt 8 €",
+     "design": "inverse"
+    },
+    {
+     "letter": "h",
+     "header": "",
+     "tag": "ab 349 €",
+     "title": "Waschmaschinen-Center Huber",
+     "subtitle": "ELEKTRO HUBER · HAUSHALTSGERÄTE SEIT 1971",
+     "facts": [],
+     "body": [
+      "Über 200 Geräte im Geschäft: Waschmaschinen, Trockner, Kühlschränke, Herde, Geschirrspüler – alle bekannten Marken, energiesparend und leise. Beratung durch Fachpersonal, Lieferung und Anschluss in Köln kostenlos. Ihr Altgerät nehmen wir beim Kauf eines neuen Gerätes kostenlos mit und entsorgen es fachgerecht. 0 %-Finanzierung bis 24 Monate, 5 Jahre Garantie auf Wunsch."
+     ],
+     "footer": "Mo–Sa 9–19 Uhr · Neusser Str. 80 · www.elektro-huber.de",
+     "design": "badge"
+    },
+    {
+     "letter": "i",
+     "header": "AquaLand Köln-Süd",
+     "tag": "HALLENBAD · SAUNA · FAMILIENBEREICH",
+     "title": "",
+     "subtitle": "",
+     "facts": [
+      "Eintritt · 3 Stunden",
+      "Erwachsene · 6 €",
+      "Kinder bis 14 Jahre · 3 €",
+      "Familienkarte (2 Erwachsene + 3 Kinder) · 14 €"
+     ],
+     "body": [
+      "25-Meter-Becken, Nichtschwimmerbecken, Rutsche und ein Kinderbereich mit 32 Grad warmem Wasser – Spaß bei jedem Wetter. Cafeteria mit Blick aufs Becken, Aqua-Fitness Di + Do 18 Uhr. Schwimmkurse bieten wir leider nicht an."
+     ],
+     "footer": "Mo–Fr 6.30–22 Uhr, Sa + So 8–20 Uhr · Brühler Str. 90",
+     "design": "inst"
+    },
+    {
+     "letter": "j",
+     "header": "Tagesmutter Claudia",
+     "tag": "",
+     "title": "",
+     "subtitle": "LIEBEVOLLE BETREUUNG IN NIPPES",
+     "facts": [
+      "Für Kinder von 1 bis 3 Jahren, höchstens vier Kinder gleichzeitig",
+      "Mo–Fr 7.30–16 Uhr – Sie buchen die Tage, die Sie brauchen, auch einzelne Tage",
+      "Freie Plätze ab September",
+      "Großer Garten, gesundes Mittagessen (selbst gekocht), Vorlesen, Musik, Spielplatz",
+      "Zertifizierte Tagesmutter mit 12 Jahren Erfahrung, Zuschuss über das Jugendamt möglich"
+     ],
+     "body": [],
+     "footer": "Kennenlernen jederzeit nach Absprache · Tel. 0221 / 27 27 27",
+     "design": "rounded"
+    },
+    {
+     "letter": "k",
+     "header": "FAHRSCHULE AMPEL",
+     "tag": "3 WOCHEN",
+     "title": "Intensivkurs: in 3 Wochen zur Prüfung",
+     "subtitle": "Führerschein Klasse B · seit 1992 · Bonner Str. 14",
+     "facts": [
+      "Theorie Di + Do 18–19.30 Uhr, Lern-App inklusive",
+      "Fahrstunden Mo–Fr zwischen 8 und 16 Uhr (abends und am Wochenende leider keine Fahrstunden)",
+      "Anmeldung Mo–Fr 17–19 Uhr im Büro"
+     ],
+     "body": [],
+     "footer": "Autos mit Automatik oder Schaltung · Sehtest bei uns · Tel. 0221 / 55 66 77",
+     "design": "bignum"
+    },
+    {
+     "letter": "l",
+     "header": "FOTO & VIDEO",
+     "tag": "KLEINANZEIGEN",
+     "title": "",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Hochzeitsfotografin Lena Kessler – natürliche Bilder und Videos von Ihrem großen Tag, kostenloses Vorgespräch, Termine auch am Wochenende, Tel. 0221 / 12 12 12",
+      "Passfotos sofort! Biometrische Fotos für Ausweis, Reisepass, Visum und Führerschein – in fünf Minuten fertig zum Mitnehmen, ohne Termin. Außerdem Bewerbungsfotos und Familienporträts im Studio. Mo–Sa 10–20 Uhr. Fotostudio Blende 8, Zülpicher Str. 30, Tel. 0221 / 66 55 44",
+      "Verkaufe Spiegelreflexkamera mit zwei Objektiven, kaum benutzt, 250 €, Tel. 0170 / 98 76 54"
+     ],
+     "footer": "",
+     "design": "classified"
+    }
+   ]
+  },
+  "sb1": {
+   "instruction": "Lesen Sie den Text und schließen Sie die Lücken 21–30. Welche Lösung (a, b oder c) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 21–30 auf dem Antwortbogen.",
+   "paragraphs": [
+    "Sehr geehrte Damen und Herren,",
+    "hiermit kündige ich meinen Vertrag mit der Nummer 3345 fristgerecht {{21}} 31. Dezember. In den vergangenen drei Jahren habe ich regelmäßig in Ihrem Studio trainiert und war mit dem Angebot immer zufrieden. {{22}} eines beruflichen Wechsels ziehe ich jedoch im Januar nach Hamburg, {{23}} ich Ihr Studio dann nicht mehr nutzen kann.",
+    "Laut Ihren Vertragsbedingungen kann man bei einem Umzug in eine andere Stadt vorzeitig kündigen, {{24}} man einen Nachweis vorlegt. Eine Kopie {{25}} neuen Arbeitsvertrags habe ich dieser E-Mail beigefügt. Wenn Sie weitere Unterlagen brauchen, schicke ich {{26}} Ihnen gern.",
+    "Ich bitte Sie, mir die Kündigung schriftlich zu bestätigen und den Beitrag für Januar nicht mehr {{27}} meinem Konto abzubuchen. Falls trotzdem Geld abgebucht wird, gehe ich davon aus, {{28}} Sie es sofort zurücküberweisen.",
+    "Zum Schluss möchte ich mich für die gute Betreuung bedanken; {{29}} gehört auch der freundliche Umgang an der Rezeption. Meine neue Adresse, {{30}} Sie die Bestätigung bitte senden, finden Sie unten.",
+    "Mit freundlichen Grüßen\nMarkus Lorenz\nHafenstraße 12, 20457 Hamburg"
+   ],
+   "items": [
+    {
+     "no": "21",
+     "options": {
+      "a": "bis",
+      "b": "am",
+      "c": "zum"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "22",
+     "options": {
+      "a": "Trotz",
+      "b": "Wegen",
+      "c": "Statt"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "23",
+     "options": {
+      "a": "sodass",
+      "b": "indem",
+      "c": "weil"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "24",
+     "options": {
+      "a": "obwohl",
+      "b": "damit",
+      "c": "wenn"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "25",
+     "options": {
+      "a": "meinen",
+      "b": "meines",
+      "c": "meinem"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "26",
+     "options": {
+      "a": "ihnen",
+      "b": "es",
+      "c": "sie"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "27",
+     "options": {
+      "a": "von",
+      "b": "aus",
+      "c": "bei"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "28",
+     "options": {
+      "a": "ob",
+      "b": "dass",
+      "c": "wenn"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "29",
+     "options": {
+      "a": "Dafür",
+      "b": "Darauf",
+      "c": "Dazu"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "30",
+     "options": {
+      "a": "an die",
+      "b": "an der",
+      "c": "an das"
+     },
+     "answer": "a"
+    }
+   ]
+  },
+  "sb2": {
+   "instruction": "Lesen Sie den Text und schließen Sie die Lücken 31–40. Benutzen Sie die Wörter a–o. Jedes Wort passt nur einmal. Markieren Sie Ihre Lösungen für die Aufgaben 31–40 auf dem Antwortbogen.",
+   "title": "",
+   "paragraphs": [
+    "Lieber Tom,",
+    "ich brauche deine Hilfe! Nina wird am 20. Juni 30, und ich möchte eine Überraschungsparty für sie organisieren. Bisher ahnt sie überhaupt nichts – also bitte kein Wort zu ihr! Allein schaffe ich das nicht, ich bin also {{31}} deine Hilfe angewiesen.",
+    "Zwanzig Leute habe ich eingeladen, und alle haben bereits {{32}}. Ich weiß allerdings noch nicht, {{33}} meine Wohnung dafür groß genug ist. Einige wollen sich um die Musik kümmern, aber das Essen ist noch offen – Kochen zählt nicht zu meinen Stärken. Könntest du wieder deine Lasagne machen? Alle schwärmen noch vom letzten Jahr. Außerdem brauche ich jemanden, der Nina am Nachmittag {{34}} Geburtstags ablenkt. Du {{35}} nur bis 18 Uhr mit ihr im Kino sitzen. Ich möchte auf keinen Fall, {{36}} sie früher nach Hause kommt.",
+    "Du weißt ja, {{37}} gern sie tanzt – wir brauchen also eine gute Playlist. Und hast du einen {{38}}, was wir ihr schenken könnten? Gib mir bitte bis Donnerstag {{39}}. Ich bin jetzt schon ganz {{40}} auf ihr Gesicht!",
+    "Liebe Grüße\nSofia"
+   ],
+   "words": {
+    "a": "ABGESAGT",
+    "b": "AN",
+    "c": "AUF",
+    "d": "BESCHEID",
+    "e": "DASS",
+    "f": "IHREM",
+    "g": "IHRES",
+    "h": "MUSSTEST",
+    "i": "MÜSSTEST",
+    "j": "NEUGIERIG",
+    "k": "OB",
+    "l": "STOLZ",
+    "m": "VORSCHLAG",
+    "n": "WIE",
+    "o": "ZUGESAGT"
+   },
+   "items": [
+    {
+     "no": "31",
+     "answer": "c"
+    },
+    {
+     "no": "32",
+     "answer": "o"
+    },
+    {
+     "no": "33",
+     "answer": "k"
+    },
+    {
+     "no": "34",
+     "answer": "g"
+    },
+    {
+     "no": "35",
+     "answer": "i"
+    },
+    {
+     "no": "36",
+     "answer": "e"
+    },
+    {
+     "no": "37",
+     "answer": "n"
+    },
+    {
+     "no": "38",
+     "answer": "m"
+    },
+    {
+     "no": "39",
+     "answer": "d"
+    },
+    {
+     "no": "40",
+     "answer": "j"
+    }
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. Sie hören diese Texte nur einmal. Entscheiden Sie beim Hören, ob die Aussagen 41–45 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 41–45. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 41–45. Sie haben dazu 30 Sekunden Zeit.",
+   "items": [
+    {
+     "no": "41",
+     "text": "Die Sprecherin kauft ausnahmslos alles im Internet.",
+     "answer": "F"
+    },
+    {
+     "no": "42",
+     "text": "Der Sprecher gibt zu, dass er sich nicht immer an seinen eigenen Rat hält.",
+     "answer": "R"
+    },
+    {
+     "no": "43",
+     "text": "Für die Sprecherin ist das Gespräch beim Einkaufen ebenso wichtig wie der Einkauf selbst.",
+     "answer": "R"
+    },
+    {
+     "no": "44",
+     "text": "Der Sprecher ist bereit, im Geschäft etwas mehr zu bezahlen als im Internet.",
+     "answer": "R"
+    },
+    {
+     "no": "45",
+     "text": "Die Sprecherin stört es nicht, dass jede Woche viele Pakete kommen.",
+     "answer": "F"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen. Sie hören das Gespräch zweimal. Entscheiden Sie beim Hören, ob die Aussagen 46–55 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 46–55. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 46–55. Sie haben dazu eine Minute Zeit.",
+   "items": [
+    {
+     "no": "46",
+     "text": "In der Schule durfte Frau Voss im Chor nicht hörbar mitsingen.",
+     "answer": "R"
+    },
+    {
+     "no": "47",
+     "text": "Frau Voss hatte sich den Gesangsunterricht zum Geburtstag gewünscht.",
+     "answer": "F"
+    },
+    {
+     "no": "48",
+     "text": "Zur ersten Probe kamen weniger als zehn Personen.",
+     "answer": "R"
+    },
+    {
+     "no": "49",
+     "text": "Frau Voss leitet die Proben des Chors selbst.",
+     "answer": "F"
+    },
+    {
+     "no": "50",
+     "text": "Ein Teil der Mitgliedsbeiträge geht an den Chorleiter.",
+     "answer": "R"
+    },
+    {
+     "no": "51",
+     "text": "Wer mehrere Proben hintereinander unentschuldigt verpasst, darf beim nächsten Konzert nicht mitsingen.",
+     "answer": "R"
+    },
+    {
+     "no": "52",
+     "text": "Der Chor singt ab und zu auch klassische Musik.",
+     "answer": "F"
+    },
+    {
+     "no": "53",
+     "text": "Die meisten Mitglieder singen heute deutlich besser als früher.",
+     "answer": "R"
+    },
+    {
+     "no": "54",
+     "text": "Ein Sänger hat den Chor nach dem ersten Konzert verlassen.",
+     "answer": "F"
+    },
+    {
+     "no": "55",
+     "text": "Wer mitsingen möchte, kann schon in der nächsten Woche zur Probe kommen.",
+     "answer": "F"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. Sie hören jeden Text zweimal. Entscheiden Sie beim Hören, ob die Aussagen 56–60 richtig oder falsch sind. Markieren Sie Ihre Lösungen für die Aufgaben 56–60 auf dem Antwortbogen. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch.",
+   "readNote": "",
+   "items": [
+    {
+     "no": "56",
+     "text": "In Richtung Frankfurt gibt es zurzeit keine Behinderungen mehr.",
+     "answer": "R"
+    },
+    {
+     "no": "57",
+     "text": "Ein gefundener Kinderrucksack kann im Erdgeschoss abgeholt werden.",
+     "answer": "R"
+    },
+    {
+     "no": "58",
+     "text": "Der Kurs Spanisch A2 beginnt eine Woche später als geplant.",
+     "answer": "F"
+    },
+    {
+     "no": "59",
+     "text": "Der ICE nach Hamburg fährt heute etwa eine Viertelstunde später ab als geplant.",
+     "answer": "F"
+    },
+    {
+     "no": "60",
+     "text": "Wer heute nicht ins Kino kommen kann, bekommt an der Kasse sein Geld zurück.",
+     "answer": "F"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "intro": "",
+  "task": {
+   "lead": "Sie haben von der Hausverwaltung Ihres Wohnhauses folgende E-Mail erhalten:",
+   "mail": [
+    "Sehr geehrte Frau / Sehr geehrter Herr ______,",
+    "in den letzten Wochen haben sich mehrere Bewohner des Hauses Lindenstraße 12 bei uns beschwert: Aus Ihrer Wohnung sei es mehrmals nach 22 Uhr sehr laut gewesen – Musik, Stimmen und Türenschlagen im Treppenhaus.",
+    "Wir möchten Sie an die Hausordnung erinnern: Von 22 bis 7 Uhr gilt Nachtruhe. Bitte nehmen Sie bis zum 15. des Monats zu der Beschwerde Stellung.",
+    "Mit freundlichen Grüßen\nSabine Hartmann\nHausverwaltung Nord GmbH"
+   ],
+   "instruction": "Antworten Sie auf die E-Mail. Schreiben Sie etwas zu allen vier Punkten:",
+   "points": [
+    "warum es in den letzten Wochen laut war",
+    "wie Sie das Problem in Zukunft vermeiden wollen",
+    "ein Vorschlag, wie Sie mit den Nachbarn ins Gespräch kommen können",
+    "eine Frage zur Hausordnung"
+   ],
+   "closing": "Überlegen Sie sich vor dem Schreiben eine passende Reihenfolge der Punkte, einen passenden Betreff, eine passende Anrede, Einleitung und einen passenden Schluss.",
+   "model": {
+    "label": "Beispiel für eine Antwort, die alle vier Leitpunkte behandelt (ca. 180 Wörter)",
+    "text": "Betreff: Ihre E-Mail zur Lärmbeschwerde – Lindenstraße 12\n\nSehr geehrte Frau Hartmann,\n\nvielen Dank für Ihre E-Mail. Es tut mir sehr leid, dass sich die Nachbarn gestört gefühlt haben.\n\nEs gab einen besonderen Grund: Im Mai hatten mein Bruder und ich Geburtstag, und an zwei Wochenenden war Besuch aus Spanien bei uns. Die Gäste sind erst spät gegangen, und im Treppenhaus war es dabei wohl lauter, als ich gedacht habe.\n\nDas wird nicht wieder vorkommen. Größere Feiern mache ich in Zukunft nur noch am Wochenende und informiere die Nachbarn vorher. Ab 22 Uhr stelle ich die Musik leise, und meine Gäste bitte ich, im Treppenhaus leise zu sein.\n\nAußerdem möchte ich mich bei den Nachbarn persönlich entschuldigen. Ich würde sie gern am nächsten Samstagnachmittag zu Kaffee und Kuchen in den Hof einladen. Wenn Sie einverstanden sind, hänge ich dafür einen Zettel an die Haustür.\n\nEine Frage habe ich noch: Gibt es laut Hausordnung auch am Nachmittag eine Ruhezeit, zum Beispiel zwischen 13 und 15 Uhr? Das möchte ich wissen, damit ich mich in Zukunft richtig verhalte.\n\nVielen Dank für Ihr Verständnis.\n\nMit freundlichen Grüßen\nElena Rossi",
+    "marks": [
+     "",
+     "",
+     "",
+     "1",
+     "2",
+     "3",
+     "4",
+     "",
+     ""
+    ],
+    "notes": "Leitpunkte\n1 Warum laut? → Geburtstage, Besuch aus Spanien, Treppenhaus\n2 In Zukunft? → nur am Wochenende feiern, Nachbarn informieren, ab 22 Uhr leise\n3 Gespräch mit Nachbarn → Einladung zu Kaffee und Kuchen im Hof\n4 Frage zur Hausordnung → Ruhezeit am Nachmittag?\nAufbau Betreff · Anrede in der Sie-Form (Hausverwaltung, halbformell) · Einleitung mit Entschuldigung · Schluss · Grußformel und Name\nBewertung\nI Inhalt: alle vier Leitpunkte, passend zur Situation. Jeder fehlende Leitpunkt kostet eine Stufe.\nII Kommunikative Gestaltung: Register (Sie), Aufbau, Verknüpfungen wie dabei, in Zukunft, außerdem, damit.\nIII Formale Richtigkeit: Fehler dürfen das Verständnis nicht stören.\nTypische Fehler: sich nur rechtfertigen statt sich zu entschuldigen · Leitpunkt 3 (Gespräch mit den Nachbarn) vergessen · keine Frage stellen (Leitpunkt 4) · du statt Sie gegenüber der Hausverwaltung."
+   }
+  }
+ },
+ "notes": "",
+ "index": {
+  "short": "Urlaub im Haus von Fremden · Chor „Die Brummer“ · Internationaler Kochabend",
+  "hoeren": {
+   "t1": "Fünf kurze Texte",
+   "t2": "Gespräch mit Martina Voss: Chor „Die Brummer“",
+   "t3": "Fünf kurze Texte"
+  },
+  "sb1": "Kündigung: Fitnessstudio",
+  "sb2": "E-Mail an Tom: Überraschungsparty",
+  "schreiben": "Antwort an die Hausverwaltung: Lärmbeschwerde",
+  "sprechen": {
+   "t2": "Wann sollte man von zu Hause ausziehen?",
+   "t3": "Internationaler Kochabend"
+  }
+ }
+}

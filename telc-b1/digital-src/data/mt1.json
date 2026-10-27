@@ -1,0 +1,769 @@
+{
+ "id": 1,
+ "roman": "I",
+ "lesen": {
+  "t1": {
+   "instruction": "Lesen Sie die Überschriften a–j und die Texte 1–5. Finden Sie für jeden Text die passende Überschrift. Sie können jede Überschrift nur einmal benutzen. Markieren Sie Ihre Lösungen für die Aufgaben 1–5 auf dem Antwortbogen.",
+   "headlines": [
+    {
+     "letter": "a",
+     "text": "Stadtrat nimmt Einnahmeverluste für mehr Besucher in Kauf"
+    },
+    {
+     "letter": "b",
+     "text": "Stadt Dresden entwickelt App für Nachbarschaftshilfe"
+    },
+    {
+     "letter": "c",
+     "text": "Umgekehrte Rollen bei der Suche nach Lehrlingen"
+    },
+    {
+     "letter": "d",
+     "text": "Wochenendschlaf gleicht Schlafmangel aus, sagt Studie"
+    },
+    {
+     "letter": "e",
+     "text": "Den Kleiderschrank auffrischen, ohne Geld auszugeben"
+    },
+    {
+     "letter": "f",
+     "text": "Leere Kasse: Stadt kürzt Zuschüsse für Museen"
+    },
+    {
+     "letter": "g",
+     "text": "Wer wenig schläft, lebt auf dem Arbeitsweg gefährlicher"
+    },
+    {
+     "letter": "h",
+     "text": "Kleine Hilfen unter Nachbarn – digital organisiert"
+    },
+    {
+     "letter": "i",
+     "text": "Handwerk zahlt Lehrlingen jetzt 200 Euro mehr im Monat"
+    },
+    {
+     "letter": "j",
+     "text": "Sozialkaufhaus bittet um gut erhaltene Kleidung"
+    }
+   ],
+   "texts": [
+    {
+     "no": "1",
+     "paragraphs": [
+      "Wer kann mir eine Bohrmaschine leihen? Wer geht für mich einkaufen, wenn ich krank bin? Solche Fragen stellen die Dresdner inzwischen über eine App. „Meine Straße“ heißt sie, und nach nur einem Jahr zählt sie bereits 20.000 Nutzerinnen und Nutzer. Man meldet sich mit seiner Adresse an und sieht ausschließlich Nachrichten aus dem eigenen Stadtteil. Die meisten Angebote drehen sich um kleine Hilfen im Alltag; aber auch Spieleabende, Flohmärkte und gemeinsames Gärtnern werden darüber organisiert. Entwickelt hat die App ein Verein, die Stadt übernimmt lediglich die Serverkosten. Werbung gibt es nicht, und verdienen will damit niemand – „sonst wäre das Vertrauen schnell weg“, sagt Vereinsvorsitzende Ulrike Rau."
+     ]
+    },
+    {
+     "no": "2",
+     "paragraphs": [
+      "Wer nachts weniger als sechs Stunden schläft, hat auf dem Weg zur Arbeit doppelt so oft einen Unfall wie Menschen mit sieben oder acht Stunden Schlaf. Zu diesem Ergebnis kommt eine Untersuchung der Universität Regensburg, für die 8.000 Berufstätige drei Jahre lang befragt wurden; die Studie ist inzwischen abgeschlossen. Besonders gefährdet sind Menschen, die im Schichtdienst arbeiten. Den Betrieben raten die Forscher, Schichten nicht zu häufig zu wechseln und längere Pausen zu erlauben. Mehr Schlaf am Wochenende gleicht den Mangel übrigens nicht aus, wie viele glauben. Einen einfachen Tipp haben die Forscher für alle: das Handy abends aus dem Schlafzimmer verbannen."
+     ]
+    },
+    {
+     "no": "3",
+     "paragraphs": [
+      "Der Kleiderschrank ist voll, und trotzdem hat man nichts anzuziehen? Dagegen hilft am Samstag der Kleidertausch im Jugendzentrum Nord. Jeder bringt bis zu zehn gut erhaltene Kleidungsstücke mit und darf dafür ebenso viele wieder mitnehmen; Geld wechselt dabei nicht den Besitzer. Wer nichts Passendes findet, nimmt seine Sachen einfach wieder mit nach Hause. Nur was am Ende übrig bleibt und nicht abgeholt wird, geht an das Sozialkaufhaus in der Bahnhofstraße. Die Organisatorinnen wollen zeigen, dass Mode nicht immer neu sein muss. Beim letzten Tausch im Frühjahr wechselten 1.200 Teile den Besitzer. Beginn ist um 14 Uhr, der Eintritt ist frei."
+     ]
+    },
+    {
+     "no": "4",
+     "paragraphs": [
+      "Ab Januar ist der Eintritt in die fünf städtischen Museen an jedem ersten Sonntag im Monat kostenlos. Das hat der Stadtrat am Dienstag beschlossen – gegen den Widerstand einiger Abgeordneter, die auf die leere Stadtkasse verwiesen. Die Museen hoffen, so vor allem Familien und junge Leute zu erreichen, die bisher selten kommen. In München, wo es das Angebot schon länger gibt, stiegen die Besucherzahlen um rund 40 Prozent. Der Stadt entgehen dadurch Einnahmen von etwa 150.000 Euro im Jahr. „Das ist es uns wert“, sagt Kulturbürgermeisterin Petra Hahn. „Museen gehören allen, nicht nur denen, die sich das Ticket leisten können.“"
+     ]
+    },
+    {
+     "no": "5",
+     "paragraphs": [
+      "Bäcker, Friseure, Elektriker – viele Handwerksbetriebe finden keine Auszubildenden mehr. Allein in Niedersachsen blieben im letzten Jahr 4.000 Lehrstellen unbesetzt, und die Zahl der Bewerber sinkt weiter. Die Betriebe reagieren: Die Bäckerei Hoffmann in Oldenburg zahlt ihren Lehrlingen 200 Euro mehr im Monat als üblich, und die Arbeit beginnt erst um sechs statt um vier Uhr. Ein Friseursalon in Osnabrück bietet eine Vier-Tage-Woche an, ein Elektrobetrieb bezahlt den Führerschein. „Früher kamen die Jugendlichen zu uns und haben sich beworben“, sagt Handwerkskammer-Präsident Jörg Weber. „Heute bewerben wir uns bei ihnen – in den Schulen und im Internet.“"
+     ]
+    }
+   ],
+   "items": [
+    {
+     "no": "1",
+     "answer": "h"
+    },
+    {
+     "no": "2",
+     "answer": "g"
+    },
+    {
+     "no": "3",
+     "answer": "e"
+    },
+    {
+     "no": "4",
+     "answer": "a"
+    },
+    {
+     "no": "5",
+     "answer": "c"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Lesen Sie den Text und die Aufgaben 6–10. Welche Lösung (a, b oder c) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 6–10 auf dem Antwortbogen.",
+   "kind": "article",
+   "title": "Ein Laden, der allen gehört",
+   "lead": "Im Dorf Lindenbach hat der letzte Supermarkt geschlossen. Jetzt betreiben die Bewohner ihren eigenen Laden – und er läuft besser als erwartet.",
+   "paragraphs": [
+    "Als vor drei Jahren der Supermarkt in Lindenbach zumachte, mussten die Bewohner zum Einkaufen zwölf Kilometer in die nächste Stadt fahren. Für die vielen älteren Menschen im Dorf, die kein Auto haben, war das ein Problem – der Bus fährt nur dreimal am Tag. „Wir haben lange gehofft, dass eine Supermarktkette kommt“, erzählt Bürgermeister Frank Ohler. „Aber für 900 Einwohner interessiert sich keine.“ Den Vorschlag, es selbst zu versuchen, brachte schließlich eine Rentnerin auf einer Bürgerversammlung ein; Ohler hielt ihn anfangs für zu riskant.",
+    "Heute befindet sich in der alten Sparkasse am Dorfplatz der „Lindenladen“. 310 Bewohner haben Anteile gekauft, mindestens 100 Euro pro Person, und sind damit die Besitzer des Geschäfts. Das Geld reichte für den Umbau und die ersten Waren. Die Gemeinde stellt das Gebäude zehn Jahre lang mietfrei zur Verfügung, mehr nicht – einen Zuschuss hat der Gemeinderat abgelehnt. „Der Laden muss sich selbst tragen“, sagt Ohler. „Und das tut er: Im ersten Jahr haben wir Verlust gemacht, seit dem zweiten einen kleinen Gewinn.“",
+    "Angestellt sind nur zwei Verkäuferinnen in Teilzeit. Alles andere machen etwa 40 Freiwillige: Sie räumen Regale ein, bestellen Waren, erledigen die Buchhaltung. Die Öffnungszeiten – montags bis samstags von 7 bis 19 Uhr, dazu der Sonntagvormittag – wären mit bezahltem Personal nicht zu finanzieren. Dass es im Laden Brot vom Bäcker aus dem Nachbardorf, Eier von einem Bauern aus Lindenbach und Käse aus der Region gibt, war den Bewohnern wichtig. Dafür liegen die Preise etwas über denen eines Discounters. „Das wissen die Leute“, sagt Verkäuferin Sabine Kurz. „Sie kaufen trotzdem hier, weil sie den Laden behalten wollen – die großen Wocheneinkäufe machen viele allerdings weiterhin in der Stadt.“",
+    "Zum Laden gehört eine Ecke mit vier Tischen, an denen es Kaffee und Kuchen gibt. Vormittags sitzen dort Rentner, nachmittags Mütter mit kleinen Kindern. „Das war anfangs gar nicht geplant“, sagt Kurz. „Aber die Leute blieben einfach an der Kasse stehen und redeten. Da haben wir Tische hingestellt.“ Für Bewohner, die nicht mehr gut laufen können, bringen Jugendliche aus dem Dorf die Einkäufe einmal pro Woche nach Hause. Geld nehmen sie dafür nicht – nur ein Stück Kuchen, und das lassen sich die meisten nicht zweimal sagen.",
+    "Inzwischen kommen Besucher aus anderen Dörfern, um sich den Lindenladen anzusehen. Ohler gibt gern Tipps, warnt aber auch: „Ohne die Freiwilligen geht es nicht. Und die muss man pflegen.“ Einmal im Jahr lädt der Laden deshalb alle Helfer zu einem Fest ein. Für die Zukunft wünscht sich Sabine Kurz vor allem eine Sache: eine Poststelle im Laden. „Die Post ist zusammen mit dem Supermarkt gegangen. Wenn wir die zurückholen, müssen die Leute für gar nichts mehr in die Stadt.“ Gespräche mit der Post gab es bereits – bisher ohne Ergebnis."
+   ],
+   "source": "",
+   "taskInstruction": "",
+   "items": [
+    {
+     "no": "6",
+     "stem": "Bürgermeister Frank Ohler",
+     "options": {
+      "a": "hat sich von Anfang an für einen eigenen Dorfladen eingesetzt.",
+      "b": "stand dem Vorschlag einer Bürgerin zunächst skeptisch gegenüber.",
+      "c": "hat eine Supermarktkette überzeugt, nach Lindenbach zu kommen."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "7",
+     "stem": "Der Lindenladen",
+     "options": {
+      "a": "muss ohne finanzielle Zuschüsse der Gemeinde auskommen.",
+      "b": "zahlt der Gemeinde für das Gebäude eine geringe Miete.",
+      "c": "hat schon im ersten Jahr mehr eingenommen als ausgegeben."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "8",
+     "stem": "Die Kunden des Ladens",
+     "options": {
+      "a": "erledigen dort inzwischen auch ihre großen Wocheneinkäufe.",
+      "b": "nehmen höhere Preise in Kauf, um den Laden zu erhalten.",
+      "c": "bekommen die regionalen Produkte günstiger als beim Discounter."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "9",
+     "stem": "Die Tische im Laden",
+     "options": {
+      "a": "wurden für Jugendliche aufgestellt, die dort ihre Freizeit verbringen.",
+      "b": "gehörten von Anfang an zum Konzept, mit dem der Laden eröffnet wurde.",
+      "c": "sind eine Reaktion darauf, wie sich die Kunden im Laden verhielten."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "10",
+     "stem": "Frank Ohler",
+     "options": {
+      "a": "hält es für nötig, sich um die ehrenamtlichen Helfer zu bemühen.",
+      "b": "rät Besuchern aus anderen Dörfern von einem eigenen Laden ab.",
+      "c": "hat mit der Post bereits eine Filiale im Laden vereinbart."
+     },
+     "answer": "a"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Lesen Sie die Situationen 11–20 und die Anzeigen a–l. Finden Sie für jede Situation die passende Anzeige. Sie können jede Anzeige nur einmal benutzen. Markieren Sie Ihre Lösungen für die Aufgaben 11–20 auf dem Antwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie ein x.",
+   "items": [
+    {
+     "no": "11",
+     "text": "Sie ziehen am Samstag um und brauchen einen Transporter samt Helfern.",
+     "answer": "c"
+    },
+    {
+     "no": "12",
+     "text": "Obwohl sie schon 70 ist, will Ihre Nachbarin Klavier spielen lernen.",
+     "answer": "a"
+    },
+    {
+     "no": "13",
+     "text": "Einen Verein, in dem Erwachsene Fußball spielen, suchen Sie schon lange.",
+     "answer": "x"
+    },
+    {
+     "no": "14",
+     "text": "Ihr Handy-Display ist kaputt – heute noch soll es repariert sein.",
+     "answer": "e"
+    },
+    {
+     "no": "15",
+     "text": "Weil Ihnen die Zeit fehlt, soll jemand Ihre alte Wohnung putzen.",
+     "answer": "d"
+    },
+    {
+     "no": "16",
+     "text": "Können Sie vor Ihrer Hochzeit im Sommer noch als Paar tanzen lernen?",
+     "answer": "k"
+    },
+    {
+     "no": "17",
+     "text": "Bis Samstag muss Ihre Hose gekürzt und der Reißverschluss ersetzt sein.",
+     "answer": "g"
+    },
+    {
+     "no": "18",
+     "text": "Wer kümmert sich um Ihren Hund, während Sie zwei Wochen im Urlaub sind?",
+     "answer": "i"
+    },
+    {
+     "no": "19",
+     "text": "Schlagzeug lernen – das will Ihr fünfjähriger Sohn unbedingt.",
+     "answer": "x"
+    },
+    {
+     "no": "20",
+     "text": "Singen macht Ihnen Spaß, doch Erfahrung in einem Chor haben Sie nicht.",
+     "answer": "b"
+    }
+   ],
+   "infos": [
+    {
+     "letter": "a",
+     "header": "Musikschule Klangwerk",
+     "tag": "Klavier · Gitarre · Geige · Gesang · Schlagzeug",
+     "title": "",
+     "subtitle": "Musik für jedes Alter – seit 1988",
+     "facts": [],
+     "body": [
+      "Einzelunterricht 30 oder 45 Minuten, flexible Termine – auch vormittags. Wir unterrichten Kinder ab 6 Jahren, Jugendliche und Erwachsene. Besonders beliebt: unser Kurs „Klavier ab 60“ – ohne Notenkenntnisse, in Ihrem Tempo, mit viel Geduld. Instrumente können Sie bei uns günstig mieten. Die erste Probestunde ist kostenlos, der Vertrag monatlich kündbar."
+     ],
+     "footer": "Maximilianstr. 8 · www.klangwerk-augsburg.de · 0821 / 34 56 78",
+     "design": "tearoff",
+     "deco": {
+      "count": 4
+     }
+    },
+    {
+     "letter": "b",
+     "header": "STIMMWERK",
+     "tag": "CHOR · POP · GOSPEL · WELTMUSIK",
+     "title": "Wir suchen neue Sängerinnen und Sänger!",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Bei uns singen 40 Menschen zwischen 19 und 75 Jahren – Pop, Gospel und Lieder aus aller Welt. Noch nie in einem Chor gesungen? Kein Problem: Noten lesen muss man bei uns nicht, alles wird vorgesungen und gemeinsam geübt. Kommen Sie einfach zu einer Probe und singen Sie gleich mit.",
+      "Keine Vorkenntnisse nötig"
+     ],
+     "footer": "Probe jeden Donnerstag, 19.30–21.30 Uhr, Gemeindesaal St. Anna · Beitrag 10 € im Monat · chor@stimmwerk.de",
+     "design": "inverse"
+    },
+    {
+     "letter": "c",
+     "header": "STUDIUM-ZÜGE",
+     "tag": "UMZUGSHILFE · TRANSPORTE",
+     "title": "Zwei kräftige Studenten + Transporter (3,5 t, 20 m³)",
+     "subtitle": "",
+     "facts": [
+      "45 € pro Stunde, alles inklusive: Fahrer, Tragen, Benzin, Decken und Gurte",
+      "Möbel abbauen und in der neuen Wohnung wieder aufbauen",
+      "Auch kurzfristig und am Wochenende – ohne Aufpreis",
+      "Kostenloses Angebot per Telefon oder WhatsApp – wir fragen nur nach Zimmerzahl und Etage"
+     ],
+     "body": [],
+     "footer": "Tel. 0176 / 22 33 44 55 · www.studi-umzuege.de",
+     "design": "barhead",
+     "deco": {
+      "icon": "bus"
+     }
+    },
+    {
+     "letter": "d",
+     "header": "Gebäudereinigung Kaiser",
+     "tag": "ZUVERLÄSSIG SEIT 1995",
+     "title": "Wohnungsübergabe ohne Sorgen",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Unsere Spezialität ist die Umzugsreinigung: Wir übergeben Ihre alte Wohnung besenrein oder gründlich geputzt – inklusive Küche, Bad, Fenster und Böden, damit Sie Ihre Kaution vollständig zurückbekommen. Außerdem Büro- und Praxisreinigung, Treppenhäuser und Fensterputzen.",
+      "Festpreis nach kostenloser Besichtigung. Termine Mo–Sa, auch kurzfristig. Auf Wunsch übergeben wir die Wohnung mit Ihnen an den Vermieter."
+     ],
+     "footer": "Tel. 0821 / 51 51 51",
+     "design": "inst"
+    },
+    {
+     "letter": "e",
+     "header": "60 MIN PHONEFIX",
+     "tag": "",
+     "title": "Display kaputt? Akku schwach? Wasserschaden?",
+     "subtitle": "Handy- und Tablet-Reparatur",
+     "facts": [
+      "Mo–Sa · 10–19 Uhr, auch an Brückentagen",
+      "Wo · Bahnhofstr. 21, im Hauptbahnhof gegenüber Gleis 1",
+      "Tel. · 0821 / 88 99 00 · www.phonefix-augsburg.de"
+     ],
+     "body": [
+      "Wir reparieren alle Marken – Displays meist in 60 Minuten, während Sie einen Kaffee trinken. Kostenlose Diagnose, feste Preise, 12 Monate Garantie auf jede Reparatur. Datenrettung, Hüllen und Zubehör. Kein Termin nötig: einfach vorbeikommen, Nummer ziehen, warten oder später abholen."
+     ],
+     "footer": "",
+     "design": "mono",
+     "deco": {
+      "icon": "plug"
+     }
+    },
+    {
+     "letter": "f",
+     "header": "FAHRZEUGE",
+     "tag": "KLEINANZEIGEN",
+     "title": "",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Transporter zu vermieten. 3,5 t, 20 m³, mit Ladeklappe und Spanngurten. 60 € pro Tag inkl. 100 km, jeder weitere Kilometer 0,30 €, Wochenende (Fr–Mo) 150 €. Nur Selbstfahrer – Führerschein Klasse B genügt, Mindestalter 21 Jahre. Abholung Mo–Fr 8–17 Uhr, Rückgabe bis 18 Uhr, Kaution 300 €. Autohof Lechhausen, Tel. 0821 / 61 61 61",
+      "Klavier, schwarz, gut erhalten, gestimmt, 600 € VB. Nur Selbstabholung, 2. Stock ohne Aufzug. Tel. 0151 / 44 55 66 77",
+      "Smartphone, 1 Jahr alt, 128 GB, neuwertig mit Hülle und Ladekabel, Display ohne Kratzer, 180 € VB, Tel. 0170 / 98 76 54"
+     ],
+     "footer": "",
+     "design": "classified"
+    },
+    {
+     "letter": "g",
+     "header": "NADEL & FADEN",
+     "tag": "ÄNDERUNGSSCHNEIDEREI",
+     "title": "",
+     "subtitle": "",
+     "facts": [
+      "Hosen und Röcke kürzen · ab 9 €",
+      "Reißverschluss ersetzen · ab 12 €",
+      "Kleider enger oder weiter machen · ab 18 €",
+      "Knöpfe, Löcher, Futter · ab 4 €"
+     ],
+     "body": [
+      "Auch Leder, Brautkleider und Anzüge. Express-Service: Bringen Sie Ihr Kleidungsstück bis 12 Uhr – am nächsten Tag ist es fertig, bei kleinen Arbeiten oft schon nach zwei Stunden. Beratung inklusive, alle Arbeiten mit Anprobe."
+     ],
+     "footer": "Mo–Fr 9–18 Uhr, Sa 9–13 Uhr · Jakoberstr. 5 · Tel. 0821 / 30 30 30",
+     "design": "inst"
+    },
+    {
+     "letter": "h",
+     "header": "",
+     "tag": "",
+     "title": "Putzhilfe gesucht!",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Familie mit zwei Kindern in Göggingen sucht ab sofort eine zuverlässige Putzhilfe für 3 Stunden pro Woche, Dienstag- oder Donnerstagvormittag.",
+      "Aufgaben: Böden wischen, Bad und Küche reinigen, Staub wischen, bügeln. Wir zahlen 16 € pro Stunde, angemeldet als Minijob. Erfahrung und gute Deutschkenntnisse erwünscht, Referenzen willkommen.",
+      "Bitte melden Sie sich per E-Mail mit einer kurzen Vorstellung: familie.brenner@mail.de"
+     ],
+     "footer": "",
+     "design": "pinned"
+    },
+    {
+     "letter": "i",
+     "header": "Tierpension Waldeck",
+     "tag": "",
+     "title": "",
+     "subtitle": "HUNDE · KATZEN · KLEINTIERE",
+     "facts": [
+      "24 € pro Nacht",
+      "–10 % ab 14 Nächten"
+     ],
+     "body": [
+      "Urlaubsbetreuung ab einer Nacht bis zu mehreren Wochen: Ihr Hund wohnt bei uns in einer eigenen, beheizten Box mit Auslauf, dreimal täglich geht es hinaus auf unsere große Wiese, und wir füttern wie zu Hause. Tagesbetreuung Mo–Fr für Berufstätige. Impfpass erforderlich, Besichtigung jederzeit nach Anmeldung."
+     ],
+     "footer": "Abhol- und Bringservice im Stadtgebiet · Tel. 0821 / 70 70 70 · www.tierpension-waldeck.de",
+     "design": "logo",
+     "deco": {
+      "ini": "W",
+      "icon": "paw"
+     }
+    },
+    {
+     "letter": "j",
+     "header": "Hundeschule Pfote",
+     "tag": "Welpenkurs · Grundkurs · Einzeltraining",
+     "title": "",
+     "subtitle": "ERZIEHUNG MIT HERZ · SEIT 2009",
+     "facts": [],
+     "body": [
+      "Welpenkurs (für Hunde von 8 bis 16 Wochen), Grundkurs für Junghunde und Einzeltraining bei Problemen wie Ziehen an der Leine, Bellen oder Angst. In kleinen Gruppen lernen Sie und Ihr Hund gemeinsam – Sie sind bei jeder Stunde dabei, denn Erziehung funktioniert nur mit dem Besitzer. Neue Kurse ab September, 8 Termine 120 €, Einzelstunde 45 €. Erste Stunde kostenlos und unverbindlich."
+     ],
+     "footer": "Samstag 10 Uhr, Hundeplatz am Siebentischwald · Tel. 0821 / 38 38 38 · www.hundeschule-pfote.de",
+     "design": "serif"
+    },
+    {
+     "letter": "k",
+     "header": "TANZSCHULE ROSSI",
+     "tag": "",
+     "title": "",
+     "subtitle": "seit 1979 in Augsburg · Annastr. 12",
+     "facts": [
+      "Hochzeitskurs: An vier Abenden lernen Sie Walzer, Discofox und einen einfachen Tanz für Ihren großen Tag – 89 € pro Paar, jeden Monat neuer Start",
+      "Salsa, Tango, Standard und Latein – Anfänger und Fortgeschrittene",
+      "Kinderballett ab 4 Jahren, Hip-Hop ab 8 Jahren",
+      "Seniorentanz am Dienstagnachmittag, ohne Partner möglich",
+      "Schnupperabend jeden Freitag um 20 Uhr – kostenlos und ohne Anmeldung"
+     ],
+     "body": [],
+     "footer": "Tel. 0821 / 45 45 45",
+     "design": "rules"
+    },
+    {
+     "letter": "l",
+     "header": "FC Lechhausen 1919",
+     "tag": "FUSSBALL · JUGENDABTEILUNG",
+     "title": "Fußball für Kinder und Jugendliche",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Unsere Mannschaften von der U8 bis zur U17 suchen Verstärkung – Mädchen und Jungen. Training zweimal pro Woche, Spiele am Wochenende, Beitrag 8 € im Monat, Trikot inklusive. Probetraining kostenlos, einfach vorbeikommen.",
+      "Für Erwachsene haben wir keine Mannschaft – aber wir suchen Eltern, die als Trainer oder Schiedsrichter mithelfen möchten. Den Lehrgang bezahlt der Verein."
+     ],
+     "footer": "Info: Di + Do 17–19 Uhr am Sportplatz Lechhausen · www.fc-lechhausen.de",
+     "design": "barhead"
+    }
+   ]
+  },
+  "sb1": {
+   "instruction": "Lesen Sie den Text und schließen Sie die Lücken 21–30. Welche Lösung (a, b oder c) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 21–30 auf dem Antwortbogen.",
+   "paragraphs": [
+    "Sehr geehrte Damen und Herren,",
+    "am 3. März habe ich in Ihrem Online-Shop einen Kinderwagen bestellt (Bestellnummer 48213). Das Paket ist zwar {{21}} einer Woche angekommen, {{22}} in beschädigtem Zustand: Ein Rad ist gebrochen, und der Stoff weist einen Riss auf. Noch am selben Tag habe ich mich telefonisch an Ihre Hotline {{23}}, doch bis heute hat sich niemand bei mir gemeldet.",
+    "Da wir unser Kind bereits im April erwarten, sind wir auf den Kinderwagen dringend {{24}}. Ich fordere Sie daher auf, mir innerhalb von zwei Wochen einen einwandfreien Ersatz zu liefern. {{25}} sehe ich mich gezwungen, vom Kauf zurückzutreten und den vollen Kaufpreis zurückzuverlangen. Den beschädigten Wagen sende ich Ihnen selbstverständlich zurück, bin jedoch nicht bereit, die Kosten dafür zu {{26}}.",
+    "Fotos der Schäden {{27}} ich dieser E-Mail an. Bitte teilen Sie mir außerdem mit, {{28}} ich mit dem Paket weiter verfahren soll.",
+    "Ich {{29}} davon aus, dass wir die Angelegenheit schnell klären können, und {{30}} mit freundlichen Grüßen",
+    "Lena Hartmann"
+   ],
+   "items": [
+    {
+     "no": "21",
+     "options": {
+      "a": "während",
+      "b": "innerhalb",
+      "c": "seit"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "22",
+     "options": {
+      "a": "allerdings",
+      "b": "sondern",
+      "c": "obwohl"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "23",
+     "options": {
+      "a": "gewendet",
+      "b": "gewunden",
+      "c": "gewandt"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "24",
+     "options": {
+      "a": "abhängig",
+      "b": "angewiesen",
+      "c": "verlassen"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "25",
+     "options": {
+      "a": "Andernfalls",
+      "b": "Deshalb",
+      "c": "Außerdem"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "26",
+     "options": {
+      "a": "nehmen",
+      "b": "halten",
+      "c": "tragen"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "27",
+     "options": {
+      "a": "hänge",
+      "b": "lege",
+      "c": "setze"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "28",
+     "options": {
+      "a": "was",
+      "b": "wie",
+      "c": "ob"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "29",
+     "options": {
+      "a": "nehme",
+      "b": "stelle",
+      "c": "gehe"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "30",
+     "options": {
+      "a": "bleibe",
+      "b": "verbleibt",
+      "c": "verbleibe"
+     },
+     "answer": "c"
+    }
+   ]
+  },
+  "sb2": {
+   "instruction": "Lesen Sie den Text und schließen Sie die Lücken 31–40. Benutzen Sie die Wörter a–o. Jedes Wort passt nur einmal. Markieren Sie Ihre Lösungen für die Aufgaben 31–40 auf dem Antwortbogen.",
+   "title": "",
+   "paragraphs": [
+    "Lieber Jonas,",
+    "endlich habe ich Zeit, dir zu schreiben! Du weißt ja, dass ich {{31}} zwei Monaten in Wien wohne. Wegen {{32}} Wiener Dialekts hatte ich in den ersten Wochen große {{33}}, die Leute zu verstehen. Meine Kollegen, {{34}} Geduld ich sehr bewundere, haben mir alles erklärt; ohne sie {{35}} ich wahrscheinlich längst wieder abgereist. Am Anfang war ich völlig auf ihre Hilfe {{36}}, inzwischen verstehe ich fast alles – und darauf bin ich ein bisschen stolz.",
+    "Die Wohnung habe ich erst vor drei Wochen gefunden. Sie ist mir von einer Kollegin vermittelt {{37}}, sonst würde ich wohl immer noch im Hotel wohnen. Sie ist klein, liegt aber in unmittelbarer {{38}} der Arbeit. Ein Auto brauche ich hier nicht, {{39}} ich mir eines ohnehin nicht leisten könnte.",
+    "Wie geht es dir? Hast du dich schon für den Marathon angemeldet? Ich würde gern kommen und dich anfeuern, {{40}} so ein Lauf ist ohne Publikum nur halb so schön. Du kannst mich natürlich auch mal übers Wochenende besuchen – ich habe ein Schlafsofa.",
+    "Liebe Grüße\nSara"
+   ],
+   "words": {
+    "a": "ANGEWIESEN",
+    "b": "DENEN",
+    "c": "DENN",
+    "d": "DEREN",
+    "e": "DES",
+    "f": "GEWÖHNT",
+    "g": "GEWORDEN",
+    "h": "HÄTTE",
+    "i": "MÜHE",
+    "j": "NÄHE",
+    "k": "SEIT",
+    "l": "VOR",
+    "m": "WÄRE",
+    "n": "WORDEN",
+    "o": "ZUMAL"
+   },
+   "items": [
+    {
+     "no": "31",
+     "answer": "k"
+    },
+    {
+     "no": "32",
+     "answer": "e"
+    },
+    {
+     "no": "33",
+     "answer": "i"
+    },
+    {
+     "no": "34",
+     "answer": "d"
+    },
+    {
+     "no": "35",
+     "answer": "m"
+    },
+    {
+     "no": "36",
+     "answer": "a"
+    },
+    {
+     "no": "37",
+     "answer": "n"
+    },
+    {
+     "no": "38",
+     "answer": "j"
+    },
+    {
+     "no": "39",
+     "answer": "o"
+    },
+    {
+     "no": "40",
+     "answer": "c"
+    }
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. Sie hören diese Texte nur einmal. Entscheiden Sie beim Hören, ob die Aussagen 41–45 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 41–45. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 41–45. Sie haben dazu 30 Sekunden Zeit.",
+   "items": [
+    {
+     "no": "41",
+     "text": "Die Sprecherin hat ihren Umzug aufs Land noch nie in Frage gestellt.",
+     "answer": "F"
+    },
+    {
+     "no": "42",
+     "text": "Der Sprecher schließt nicht aus, später wieder auf dem Land zu leben.",
+     "answer": "R"
+    },
+    {
+     "no": "43",
+     "text": "Die Sprecherin meint, dass man sich nicht zwischen Stadt und Land entscheiden muss.",
+     "answer": "R"
+    },
+    {
+     "no": "44",
+     "text": "Der Sprecher zieht um, weil ihm das Leben im Dorf nicht mehr gefällt.",
+     "answer": "F"
+    },
+    {
+     "no": "45",
+     "text": "Die Sprecherin empfindet die Fahrzeit zur Arbeit ausschließlich als Nachteil.",
+     "answer": "F"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen. Sie hören das Gespräch zweimal. Entscheiden Sie beim Hören, ob die Aussagen 46–55 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 46–55. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 46–55. Sie haben dazu eine Minute Zeit.",
+   "items": [
+    {
+     "no": "46",
+     "text": "Herr Berger hätte bei seiner Bank weiterarbeiten können, wenn er umgezogen wäre.",
+     "answer": "R"
+    },
+    {
+     "no": "47",
+     "text": "Den Vorschlag, Busfahrer zu werden, machte ein Nachbar.",
+     "answer": "R"
+    },
+    {
+     "no": "48",
+     "text": "Bevor er Busfahrer wurde, hatte er sich erfolglos in einer anderen Branche beworben.",
+     "answer": "R"
+    },
+    {
+     "no": "49",
+     "text": "Herr Berger hat die Ausbildung zum Busfahrer selbst bezahlt.",
+     "answer": "F"
+    },
+    {
+     "no": "50",
+     "text": "Wer die Stadtwerke vor Ablauf von drei Jahren verlässt, muss einen Teil der Ausbildungskosten zurückzahlen.",
+     "answer": "R"
+    },
+    {
+     "no": "51",
+     "text": "Herr Berger hat sich inzwischen völlig an das frühe Aufstehen gewöhnt.",
+     "answer": "F"
+    },
+    {
+     "no": "52",
+     "text": "Herr Berger verdient heute etwa ein Viertel mehr als bei der Bank.",
+     "answer": "F"
+    },
+    {
+     "no": "53",
+     "text": "In drei Jahren musste Herr Berger nie die Polizei rufen.",
+     "answer": "F"
+    },
+    {
+     "no": "54",
+     "text": "Seine Lieblingslinie fährt durch die Altstadt.",
+     "answer": "F"
+    },
+    {
+     "no": "55",
+     "text": "Für die Prüfung zum Ausbilder hat sich Herr Berger bereits angemeldet.",
+     "answer": "R"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. Sie hören jeden Text zweimal. Entscheiden Sie beim Hören, ob die Aussagen 56–60 richtig oder falsch sind. Markieren Sie Ihre Lösungen für die Aufgaben 56–60 auf dem Antwortbogen. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch.",
+   "readNote": "",
+   "items": [
+    {
+     "no": "56",
+     "text": "Der Zug nach Nürnberg fährt heute von Gleis 9 ab.",
+     "answer": "R"
+    },
+    {
+     "no": "57",
+     "text": "Nach dem Urlaub ist die Praxis am Mittwoch den ganzen Tag geöffnet.",
+     "answer": "F"
+    },
+    {
+     "no": "58",
+     "text": "Wer sein Ticket zurückgeben möchte, kann das noch am Konzertabend tun.",
+     "answer": "F"
+    },
+    {
+     "no": "59",
+     "text": "In der Lebensmittelabteilung kann man heute bis 20 Uhr einkaufen.",
+     "answer": "R"
+    },
+    {
+     "no": "60",
+     "text": "Von Montag bis Mittwoch zahlen Tagesgäste nur die Hälfte des Eintritts.",
+     "answer": "R"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "intro": "",
+  "task": {
+   "lead": "Sie haben von Ihrer Freundin Julia folgende E-Mail erhalten:",
+   "mail": [
+    "Liebe / Lieber ______,",
+    "endlich habe ich mal wieder ein freies Wochenende! Ich habe mir gedacht, ich könnte dich vom 14. bis 16. Mai besuchen – wir haben uns ja seit deinem Umzug nicht mehr gesehen, und ich bin so neugierig auf deine neue Stadt!",
+    "Hast du an dem Wochenende Zeit? Ich würde am Freitagabend ankommen und am Sonntagnachmittag zurückfahren. Ich weiß aber noch nicht, ob ich mit dem Zug oder mit dem Auto komme – was meinst du? Und sag mir bitte, was ich mitbringen soll.",
+    "Ich freue mich riesig!",
+    "Liebe Grüße\nJulia"
+   ],
+   "instruction": "Antworten Sie auf die E-Mail. Schreiben Sie etwas zu allen vier Punkten:",
+   "points": [
+    "ob das Wochenende passt – wenn nicht, schlagen Sie einen anderen Termin vor",
+    "was Sie zusammen unternehmen können",
+    "Zug oder Auto: was Sie Julia empfehlen und warum",
+    "wo Julia bei Ihnen schlafen kann"
+   ],
+   "closing": "Überlegen Sie sich vor dem Schreiben eine passende Reihenfolge der Punkte, einen passenden Betreff, eine passende Anrede, Einleitung und einen passenden Schluss.",
+   "model": {
+    "label": "Beispiel für eine Antwort, die alle vier Leitpunkte behandelt (ca. 170 Wörter)",
+    "text": "Betreff: Dein Besuch im Mai – ja!\n\nLiebe Julia,\n\nwie schön, dass du kommen willst! Das Wochenende vom 14. bis 16. Mai passt mir gut, ich habe frei. Nur am Sonntagvormittag muss ich zwei Stunden arbeiten, aber bis zum Mittagessen bin ich zurück.\n\nIch habe schon Ideen: Am Samstag zeige ich dir die Altstadt und den Markt, und abends könnten wir in das vietnamesische Restaurant gehen, von dem ich dir erzählt habe. Wenn das Wetter gut ist, fahren wir am Sonntag mit dem Rad an den See.\n\nKomm lieber mit dem Zug! Die Fahrt dauert nur zwei Stunden, und Parkplätze sind hier in der Innenstadt teuer und schwer zu finden. Ich hole dich am Freitagabend am Bahnhof ab – sag mir nur, wann du ankommst.\n\nSchlafen kannst du bei mir im Wohnzimmer, ich habe ein bequemes Schlafsofa. Bettwäsche und Handtücher habe ich, du musst also nur deine Sachen mitbringen – und vielleicht einen Kuchen von deiner Mutter!\n\nIch freue mich riesig auf dich!\n\nLiebe Grüße\nAnna",
+    "marks": [
+     "",
+     "",
+     "1",
+     "2",
+     "3",
+     "4",
+     "",
+     ""
+    ],
+    "notes": "Leitpunkte\n1 Passt das Wochenende? → ja, nur Sonntagvormittag kurz arbeiten\n2 Was unternehmen? → Altstadt, Markt, Restaurant, Rad zum See\n3 Zug oder Auto? → Zug, weil Parkplätze teuer; Abholen am Bahnhof\n4 Wo schlafen? → Schlafsofa im Wohnzimmer\nAufbau Betreff · Anrede in der du-Form (Freundin, informell) · Einleitung mit Bezug auf die E-Mail · Schluss · Grußformel und Name\nBewertung\nI Inhalt: alle vier Leitpunkte, passend zur Situation. Jeder fehlende Leitpunkt kostet eine Stufe.\nII Kommunikative Gestaltung: Register (du), Aufbau, Verknüpfungen wie aber, wenn, also, vielleicht.\nIII Formale Richtigkeit: Fehler dürfen das Verständnis nicht stören.\nTypische Fehler: Leitpunkt 4 (Schlafplatz) vergessen, weil Julia nicht danach fragt · nur die Frage „Was soll ich mitbringen?“ beantworten · Sie statt du bei einer Freundin · Zug oder Auto ohne Begründung."
+   }
+  }
+ },
+ "notes": "",
+ "index": {
+  "short": "Ein Laden, der allen gehört · Neuanfang mit 45 · Tagesausflug",
+  "hoeren": {
+   "t1": "Fünf kurze Texte",
+   "t2": "Gespräch mit Lukas Berger: Neuanfang mit 45",
+   "t3": "Fünf kurze Texte"
+  },
+  "sb1": "Beschwerde: Kinderwagen",
+  "sb2": "E-Mail an Jonas: Neu in Wien",
+  "schreiben": "Antwort an Julia: Besuch im Mai",
+  "sprechen": {
+   "t2": "Handys in der Schule",
+   "t3": "Tagesausflug"
+  }
+ }
+}

@@ -1,0 +1,760 @@
+{
+ "id": 2,
+ "roman": "II",
+ "lesen": {
+  "t1": {
+   "instruction": "Lesen Sie die Überschriften a–j und die Texte 1–5. Finden Sie für jeden Text die passende Überschrift. Sie können jede Überschrift nur einmal benutzen. Markieren Sie Ihre Lösungen für die Aufgaben 1–5 auf dem Antwortbogen.",
+   "headlines": [
+    {
+     "letter": "a",
+     "text": "Langsamer als das Flugzeug, aber wieder gefragt"
+    },
+    {
+     "letter": "b",
+     "text": "Bibliothek: Ehrenamtliche lernen von Kindern"
+    },
+    {
+     "letter": "c",
+     "text": "Grundschüler ernten, was sie später essen"
+    },
+    {
+     "letter": "d",
+     "text": "Umfrage: Die meisten wollen ganz zu Hause arbeiten"
+    },
+    {
+     "letter": "e",
+     "text": "Freiwillige gesucht: Zeit schenken, Lesen fördern"
+    },
+    {
+     "letter": "f",
+     "text": "Nachtzug nach Kopenhagen startet im Dezember"
+    },
+    {
+     "letter": "g",
+     "text": "Beschäftigte wollen beides: Büro und Homeoffice"
+    },
+    {
+     "letter": "h",
+     "text": "Elternrat übernimmt das Kochen in der Schulküche"
+    },
+    {
+     "letter": "i",
+     "text": "Dorfgemeinschaft macht das Zweitauto überflüssig"
+    },
+    {
+     "letter": "j",
+     "text": "Feuerwehr stellt dem Dorf ihren Transporter zur Verfügung"
+    }
+   ],
+   "texts": [
+    {
+     "no": "1",
+     "paragraphs": [
+      "An der Grundschule Am Anger in Erfurt steht Gartenarbeit auf dem Stundenplan. Seit dem Frühjahr bauen die dritten und vierten Klassen hinter dem Schulgebäude Tomaten, Salat und Kartoffeln an; zweimal pro Woche wird eine Stunde lang gejätet, gegossen und geerntet. Im Herbst kochen die Kinder aus der Ernte ein gemeinsames Mittagessen – die Eltern sind dazu nur eingeladen, an den Herd dürfen sie nicht. „Viele Kinder wussten nicht, dass Kartoffeln unter der Erde wachsen“, sagt Lehrerin Anke Vogt. Die Idee stammt aus dem Elternrat, der auch die Beete gebaut und die Pflanzen gespendet hat. Drei weitere Schulen in der Stadt wollen das Projekt im nächsten Jahr übernehmen."
+     ]
+    },
+    {
+     "no": "2",
+     "paragraphs": [
+      "Im Dorf Hinterberg im Allgäu gibt es seit einem Jahr zwei Elektroautos, die niemandem allein gehören – sondern den 60 Mitgliedern des Vereins „Dorfauto“. Wer eines braucht, bucht es über eine App und zahlt drei Euro pro Stunde. Geladen wird mit Strom von der Solaranlage auf dem Feuerwehrhaus; mehr hat die Feuerwehr mit dem Projekt allerdings nicht zu tun. Der Erfolg hat den Verein selbst überrascht: 15 Familien haben inzwischen ihr zweites Auto verkauft, weil sie es nicht mehr brauchen. Im nächsten Jahr soll ein drittes Fahrzeug dazukommen, diesmal ein kleiner Transporter für Umzüge und Gartenabfälle – bezahlt aus den Beiträgen der Mitglieder."
+     ]
+    },
+    {
+     "no": "3",
+     "paragraphs": [
+      "Jedes fünfte Kind kann am Ende der Grundschule nicht richtig lesen. Die Stadtbibliothek Bochum will das ändern und sucht Freiwillige, die einmal pro Woche eine Stunde lang mit einem Kind lesen. Vorkenntnisse braucht man nicht, wohl aber Geduld – die Bibliothek bereitet alle Helfer an zwei Nachmittagen vor. Bisher machen 80 Erwachsene mit, die meisten von ihnen im Ruhestand. Sie selbst lernen dabei nichts Neues, sagt Bibliotheksleiter Jan Kowalski, „aber sie bekommen etwas zurück, das man nicht bezahlen kann“. 200 Kinder stehen noch auf der Warteliste. Interessierte können sich telefonisch oder direkt in der Bibliothek melden."
+     ]
+    },
+    {
+     "no": "4",
+     "paragraphs": [
+      "Rund ein Drittel der Beschäftigten in Deutschland arbeitet mindestens einen Tag pro Woche von zu Hause. Das zeigt eine Umfrage des Instituts für Arbeitsforschung unter 5.000 Berufstätigen. Als größten Vorteil nennen die Befragten den gesparten Arbeitsweg, als größten Nachteil den fehlenden Kontakt zu den Kollegen. Nur acht Prozent möchten ausschließlich zu Hause arbeiten, und nur zwölf Prozent wollen ganz zurück ins Büro. Die große Mehrheit wünscht sich eine Kombination: zwei bis drei Tage im Büro, den Rest zu Hause. Die meisten Arbeitgeber haben sich darauf inzwischen eingestellt; lediglich jede zehnte Firma verlangt von ihren Mitarbeitern wieder volle Anwesenheit."
+     ]
+    },
+    {
+     "no": "5",
+     "paragraphs": [
+      "Nach 25 Jahren fährt ab Dezember wieder ein Nachtzug von Berlin nach Paris. Abfahrt ist um 20.15 Uhr, Ankunft am nächsten Morgen um 10.30 Uhr. Die Fahrt dauert damit deutlich länger als ein Flug, kostet aber ab 29 Euro im Sitzwagen und ab 79 Euro im Schlafwagen. Die Bahn rechnet vor allem mit jungen Reisenden, die aus Klimagründen nicht mehr fliegen wollen – und mit Geschäftsleuten, die die Nacht lieber im Bett als im Flughafenhotel verbringen. Eine Verbindung nach Kopenhagen ist für das übernächste Jahr geplant. Für die ersten Wochen sind viele Züge bereits ausgebucht."
+     ]
+    }
+   ],
+   "items": [
+    {
+     "no": "1",
+     "answer": "c"
+    },
+    {
+     "no": "2",
+     "answer": "i"
+    },
+    {
+     "no": "3",
+     "answer": "e"
+    },
+    {
+     "no": "4",
+     "answer": "g"
+    },
+    {
+     "no": "5",
+     "answer": "a"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Lesen Sie den Text und die Aufgaben 6–10. Welche Lösung (a, b oder c) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 6–10 auf dem Antwortbogen.",
+   "kind": "article",
+   "title": "Vier Tage arbeiten, drei Tage frei",
+   "lead": "Der Malerbetrieb Janssen in Bremen hat ein Jahr lang die Vier-Tage-Woche getestet. Jetzt erzählen Chef und Mitarbeiter, was sich Verändert hat.",
+   "paragraphs": [
+    "Freitagmorgen, acht Uhr. In der Werkstatt des Malerbetriebs Janssen ist es still, die Autos stehen auf dem Hof. Seit einem Jahr arbeiten die 14 Angestellten nur noch von Montag bis Donnerstag – bei gleichem Lohn. „Wir haben drei Jahre lang keinen einzigen Auszubildenden gefunden“, erzählt Inhaber Peter Janssen, 58. „Junge Leute wollen heute nicht mehr 40 Stunden auf der Leiter stehen. Also musste uns etwas einfallen.“ Von einem Kollegen aus Dänemark hatte er gehört, dass es dort funktioniert; seine eigene Frau hielt die Idee zunächst für verrückt.",
+    "Das Modell ist einfach: Statt fünfmal acht Stunden arbeiten die Maler jetzt viermal neun, von sieben bis halb fünf. Die Wochenarbeitszeit ist damit von 40 auf 36 Stunden gesunken. Am Anfang hatte Janssen Angst, dass die Kunden das nicht akzeptieren würden. „Aber die meisten Aufträge dauern sowieso mehrere Tage. Ob wir am Freitag da sind oder nicht, merken die Kunden kaum.“ Eine einzige Beschwerde gab es – von einem Kunden, der ausgerechnet an einem Freitag einen Wasserschaden hatte. Seitdem gibt es für Notfälle eine Telefonnummer.",
+    "Die Zahlen nach einem Jahr überraschen selbst den Chef. Der Umsatz ist gleich geblieben, obwohl weniger gearbeitet wird. Die Zahl der Krankheitstage ist um fast ein Drittel gesunken. „Wer ausgeruht ist, arbeitet schneller und macht weniger Fehler“, glaubt Janssen. Und: Auf die letzte Stellenanzeige haben sich zwölf junge Leute gemeldet, zwei davon hat er eingestellt. Vorher waren es null Bewerbungen.",
+    "Für die Mitarbeiter hat sich der Alltag verändert. Malerin Sandra Beck, 34, bringt jetzt am Freitag ihre Tochter in die Schule und geht danach schwimmen. Ihr Kollege Ahmed Karim engagiert sich seit einem Jahr bei der Freiwilligen Feuerwehr. Nicht alle waren am Anfang begeistert: „Neun Stunden auf dem Gerüst sind lang, das merkt man in meinem Alter“, sagt der 51-jährige Vorarbeiter Klaus Berg. „Aber an den freien Freitag gewöhnt man sich schnell. Zurück will ich nicht mehr – auch wenn ich mir donnerstags manchmal einen Kollegen wünsche, der mir die letzte Stunde abnimmt.“",
+    "Ab Januar gilt die Vier-Tage-Woche bei Janssen dauerhaft. Inzwischen melden sich andere Handwerksbetriebe aus der Region, die das Modell kennenlernen wollen. Janssen erzählt ihnen gern davon, warnt aber: „Das funktioniert nur, wenn alle mitmachen. Wenn drei Leute am Freitag doch arbeiten, ist die Ruhe schnell vorbei.“ Für sich selbst hat der Chef übrigens eine Ausnahme gemacht: Er sitzt freitags im Büro und schreibt Rechnungen – allerdings nur bis mittags, und ans Telefon geht er nicht."
+   ],
+   "source": "",
+   "taskInstruction": "",
+   "items": [
+    {
+     "no": "6",
+     "stem": "Peter Janssen führte die Vier-Tage-Woche ein, weil",
+     "options": {
+      "a": "ein Kollege aus Dänemark ihn ausdrücklich darum gebeten hatte.",
+      "b": "sich niemand mehr für eine Ausbildung bei ihm interessierte.",
+      "c": "seine Frau ihn lange davon zu überzeugen versucht hatte."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "7",
+     "stem": "Für die Kunden",
+     "options": {
+      "a": "spielt es meist keine Rolle, ob am Freitag gearbeitet wird.",
+      "b": "wurde nach mehreren Beschwerden eine Notfallnummer eingerichtet.",
+      "c": "dauern die Aufträge seit der Umstellung einen Tag länger."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "8",
+     "stem": "Nach einem Jahr zeigt sich, dass",
+     "options": {
+      "a": "der Betrieb trotz gleicher Arbeitszeit mehr Umsatz macht.",
+      "b": "die Beschäftigten deutlich seltener krank sind als vorher.",
+      "c": "sich auf jede Stellenanzeige etwa zwölf Bewerber melden."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "9",
+     "stem": "Vorarbeiter Klaus Berg",
+     "options": {
+      "a": "möchte trotz der langen Arbeitstage nicht zum alten Modell zurück.",
+      "b": "lässt sich donnerstags die letzte Stunde von einem Kollegen abnehmen.",
+      "c": "hatte als Einziger von Beginn an keine Zweifel an dem Modell."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "10",
+     "stem": "Peter Janssen",
+     "options": {
+      "a": "erledigt freitags die Büroarbeit und nimmt dabei auch Anrufe an.",
+      "b": "bittet interessierte Betriebe, mit dem Modell noch zu warten.",
+      "c": "sieht die Gefahr, dass einzelne Ausnahmen das Modell gefährden."
+     },
+     "answer": "c"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Lesen Sie die Situationen 11–20 und die Anzeigen a–l. Finden Sie für jede Situation die passende Anzeige. Sie können jede Anzeige nur einmal benutzen. Markieren Sie Ihre Lösungen für die Aufgaben 11–20 auf dem Antwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie ein x.",
+   "items": [
+    {
+     "no": "11",
+     "text": "Ihr Sohn (6) soll schwimmen lernen, hat aber wochentags bis 16 Uhr Schule.",
+     "answer": "d"
+    },
+    {
+     "no": "12",
+     "text": "Da Sie übermorgen 30 Gäste zu Hause erwarten, soll jemand für Sie kochen.",
+     "answer": "x"
+    },
+    {
+     "no": "13",
+     "text": "Bis morgen brauchen Sie ein neues Foto für Ihre Bewerbung.",
+     "answer": "i"
+    },
+    {
+     "no": "14",
+     "text": "Das Zeugnis Ihrer Freundin aus Brasilien muss offiziell übersetzt werden.",
+     "answer": "f"
+    },
+    {
+     "no": "15",
+     "text": "In der Küche geht das Licht nicht mehr – wer kann das reparieren?",
+     "answer": "k"
+    },
+    {
+     "no": "16",
+     "text": "Eine Bohrmaschine brauchen Sie nur am Samstag, kaufen wollen Sie keine.",
+     "answer": "l"
+    },
+    {
+     "no": "17",
+     "text": "Zwillinge! Jetzt suchen Sie günstige gebrauchte Babysachen.",
+     "answer": "a"
+    },
+    {
+     "no": "18",
+     "text": "Schwimmen haben Sie nie gelernt – mit 35 wollen Sie das ändern.",
+     "answer": "c"
+    },
+    {
+     "no": "19",
+     "text": "Sie sind selbstständig und wollen Ihre Steuererklärung machen lassen.",
+     "answer": "x"
+    },
+    {
+     "no": "20",
+     "text": "Wohin können Sie am Dienstagabend mit zwölf Kollegen essen gehen?",
+     "answer": "h"
+    }
+   ],
+   "infos": [
+    {
+     "letter": "a",
+     "header": "Kinderkleiderbörse",
+     "tag": "",
+     "title": "",
+     "subtitle": "Samstag, 12. April, 10–13 Uhr · Gemeindehaus St. Lamberti",
+     "facts": [
+      "Eintritt · frei",
+      "Verkäufer · Tisch 8 €, Tel. 0251 / 41 41 41",
+      "Cafeteria · Kaffee, Kuchen, Spielecke",
+      "Erlös · für den Kindergarten"
+     ],
+     "body": [
+      "Gut erhaltene gebrauchte Kinderkleidung in den Größen 50–176, Schuhe, Spielzeug, Bücher, Kinderwagen, Babybetten und Autositze – alles zu kleinen Preisen, vieles unter 5 €. Extra-Tisch für Zwillingseltern mit doppelten Sets! Schwangere mit Mutterpass dürfen schon ab 9.30 Uhr hinein."
+     ],
+     "footer": "Veranstalter: Elterninitiative Lamberti e. V.",
+     "design": "inst"
+    },
+    {
+     "letter": "b",
+     "header": "Babyparadies",
+     "tag": "NEU IN MÜNSTER",
+     "title": "",
+     "subtitle": "ALLES FÜR BABYS UND ZWILLINGE – FABRIKNEU",
+     "facts": [],
+     "body": [
+      "800 m² für die Kleinsten: Kinderwagen und Zwillingswagen, Babybetten, Wickelkommoden, Autositze, Kleidung in den Größen 50–104 – ausschließlich Neuware mit voller Garantie und Umtauschrecht. Fachberatung durch ausgebildete Verkäuferinnen, Lieferung nach Hause, Ratenzahlung möglich.",
+      "Zur Eröffnung: 20 % auf alle Erstausstattungen"
+     ],
+     "footer": "Mo–Sa 10–19 Uhr · Weseler Str. 220 · Parkplätze direkt vor der Tür · www.babyparadies-ms.de",
+     "design": "corp"
+    },
+    {
+     "letter": "c",
+     "header": "AQUA FIT",
+     "tag": "SCHWIMMSCHULE FÜR ERWACHSENE",
+     "title": "Schwimmen lernen mit 30, 50 oder 70 – es ist nie zu spät.",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Anfängerkurs: 10 Abende, Mittwoch 20–21 Uhr, in kleinen Gruppen (maximal 6 Personen), damit sich unsere Trainerin um jeden kümmern kann. Angst vor dem Wasser? Wir beginnen im flachen Becken und ohne Zeitdruck. Danach: Technikkurs Brust und Kraul. Kursgebühr 149 € inklusive Eintritt, Handtuch und Badekappe. Nur für Erwachsene ab 18 Jahren."
+     ],
+     "footer": "Hallenbad Ost · Anmeldung und Termine: www.aquafit-ms.de · Tel. 0251 / 55 55 55",
+     "design": "greyband"
+    },
+    {
+     "letter": "d",
+     "header": "KINDER & FAMILIE",
+     "tag": "KLEINANZEIGEN",
+     "title": "",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Schwimmkurse für Kinder. Seepferdchen-Kurs für Kinder von 5 bis 8 Jahren, samstags 9–10 oder 10–11 Uhr, 8 Termine, 95 €, Hallenbad Mitte. Spielerisch und ohne Druck, maximal 8 Kinder pro Gruppe, Eltern dürfen von der Tribüne zuschauen. Nächster Start 3. Mai, danach alle zwei Monate. Anmeldung Tel. 0251 / 77 88 99 oder schwimmen@sc-muenster.de",
+      "Babysitterin, 19, Studentin, zuverlässig, abends und am Wochenende, 12 €/Std., Referenzen vorhanden, Tel. 0176 / 12 34 56 78",
+      "Kinderfahrrad 16 Zoll, rot, mit Stützrädern, 45 €, Tel. 0251 / 89 89 89"
+     ],
+     "footer": "",
+     "design": "classified"
+    },
+    {
+     "letter": "e",
+     "header": "LOHNSTEUERHILFEVEREIN MÜNSTER E. V.",
+     "tag": "",
+     "title": "STEUERHILFE",
+     "subtitle": "Wir machen Ihre Steuererklärung",
+     "facts": [],
+     "body": [
+      "Schnell, sicher und günstig: Mitgliedsbeitrag ab 60 € im Jahr, je nach Einkommen. Wir prüfen Ihre Belege, füllen alle Formulare aus und schicken die Erklärung ans Finanzamt. Im Durchschnitt holen unsere Mitglieder 1.050 € zurück.",
+      "Wichtig: Nach dem Gesetz dürfen wir nur Arbeitnehmer, Rentner und Studierende beraten – keine Selbstständigen und Gewerbetreibenden."
+     ],
+     "footer": "Beratung nach Termin, Mo–Fr 9–17 Uhr · Hammer Str. 3 · Tel. 0251 / 20 20 20",
+     "design": "inst"
+    },
+    {
+     "letter": "f",
+     "header": "DIENSTLEISTUNGEN",
+     "tag": "KLEINANZEIGEN",
+     "title": "",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Übersetze Briefe, E-Mails und Texte Portugiesisch–Deutsch und Deutsch–Portugiesisch, schnell und günstig, ab 15 € pro Seite. Keine Beglaubigungen. Tel. 0170 / 55 66 77 88",
+      "Übersetzungsbüro Lingua. Beglaubigte Übersetzungen von Zeugnissen, Diplomen, Urkunden und Verträgen – anerkannt von Behörden, Universitäten und Gerichten. Alle Sprachen, auch Portugiesisch. Fertig in 48 Stunden, Express in 24 Stunden gegen Aufpreis. Sie schicken uns das Dokument als Scan per E-Mail, wir liefern das Original per Post. Tel. 0251 / 60 60 60 · www.lingua-ms.de",
+      "Bügelservice, hole und bringe, 3 € pro Hemd, Tel. 0251 / 12 12 12"
+     ],
+     "footer": "",
+     "design": "classified"
+    },
+    {
+     "letter": "g",
+     "header": "",
+     "tag": "GAUMENFREUDE · PARTYSERVICE & CATERING",
+     "title": "Feiern Sie zu Hause – wir kochen!",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Buffets für Geburtstage, Jubiläen und Familienfeste ab 10 Personen, warm oder kalt, auch vegetarisch und vegan. Wir liefern bis an Ihre Tür, bauen das Buffet auf und holen Geschirr und Reste am nächsten Tag wieder ab. Auf Wunsch kommt eine Servicekraft für den Abend dazu. Ab 19 € pro Person.",
+      "Bestellung mindestens drei Tage vorher – für Feiern am Wochenende bis Mittwoch"
+     ],
+     "footer": "Tel. 0251 / 88 77 66 · www.gaumenfreude-ms.de · Mo–Sa 9–18 Uhr",
+     "design": "inverse"
+    },
+    {
+     "letter": "h",
+     "header": "Zum Anker",
+     "tag": "RESTAURANT AM KANAL",
+     "title": "Feiern bei uns",
+     "subtitle": "",
+     "facts": [
+      "3-Gänge-Menü · ab 29 €",
+      "Buffet ab 15 Personen · ab 25 €",
+      "Kindermenü · 8 €"
+     ],
+     "body": [
+      "Unser Nebenraum bietet Platz für Gruppen bis 40 Personen – ideal für Kollegen, Vereine und Familienfeste. Getränke nach Verbrauch, Menü oder Buffet nach Wahl, gern auch vegetarisch. Bei Reservierung bis drei Tage vorher ist der Raum garantiert; kleinere Gruppen finden meist auch spontan Platz."
+     ],
+     "footer": "Di–So 12–23 Uhr, Küche bis 22 Uhr · Montag Ruhetag · Tel. 0251 / 33 22 11 · Am Kanal 5, Parkplätze am Haus",
+     "design": "inst"
+    },
+    {
+     "letter": "i",
+     "header": "Fotostudio Blende",
+     "tag": "",
+     "title": "Bewerbungsfotos in 15 Minuten – ohne Termin",
+     "subtitle": "PASSFOTOS · BEWERBUNGSFOTOS · FAMILIE",
+     "facts": [],
+     "body": [
+      "Sie kommen vorbei, wir fotografieren Sie im Studio mit professionellem Licht, und Sie wählen am Bildschirm Ihr bestes Bild aus. Ausdruck sofort, die Datei bekommen Sie per E-Mail dazu. Wir beraten Sie zu Kleidung und Ausdruck. Biometrische Passfotos für alle Ausweise, Familien- und Babyshootings nach Vereinbarung."
+     ],
+     "footer": "Mo–Fr 9–18 Uhr, Sa 10–14 Uhr · Ludgeristr. 22 · Tel. 0251 / 45 45 45",
+     "design": "logo",
+     "deco": {
+      "ini": "B"
+     }
+    },
+    {
+     "letter": "j",
+     "header": "FOTODRUCK SOFORT",
+     "tag": "10 MINUTEN",
+     "title": "",
+     "subtitle": "DRUCKPUNKT · COPYSHOP & DRUCKEREI AN DER UNI",
+     "facts": [],
+     "body": [
+      "Passbilder und Bewerbungsfotos drucken wir in 10 Minuten auf echtem Fotopapier aus – matt oder glänzend, in allen Formaten. Bringen Sie Ihr Foto einfach als Datei oder auf dem Handy mit.",
+      "Außerdem: Drucken, Kopieren, Binden – auch sofort. Bewerbungsmappen mit Klarsichtdeckel, Visitenkarten, Poster bis DIN A0, Flyer und Abschlussarbeiten. Studentenrabatt 10 %, Bezahlung auch mit Karte."
+     ],
+     "footer": "Mo–Fr 8–20 Uhr, Sa 10–16 Uhr · Schlossplatz 3 · www.druckpunkt-ms.de",
+     "design": "bignum"
+    },
+    {
+     "letter": "k",
+     "header": "HAUSMEISTER-SERVICE MÜLLER",
+     "tag": "",
+     "title": "",
+     "subtitle": "Kleine Reparaturen – schnell und günstig · Meisterbetrieb, versichert",
+     "facts": [
+      "Elektrik: Lampen anschließen, Steckdosen, Schalter, Sicherungen, Klingel",
+      "Wasserhahn tropft? Tür klemmt? Rollladen defekt? Wir kommen innerhalb von 24 Stunden",
+      "Möbel aufbauen und Bilder aufhängen, dazu Notdienst rund um die Uhr",
+      "Anfahrt in Münster kostenlos, Arbeitszeit 39 € pro Stunde, Material nach Verbrauch"
+     ],
+     "body": [],
+     "footer": "Tel. 0251 / 90 90 90",
+     "design": "sign",
+     "deco": {
+      "icon": "wrench"
+     }
+    },
+    {
+     "letter": "l",
+     "header": "Baumarkt Weber",
+     "tag": "HEIMWERKEN · GARTEN · LODDENHEIDE 5",
+     "title": "Werkzeug leihen statt kaufen",
+     "subtitle": "",
+     "facts": [
+      "Bohrmaschine, Schleifgerät, Stichsäge · 10 € / Tag",
+      "Fliesenschneider, Tapeziertisch · 8 € / Tag",
+      "Leiter, Anhänger · 15 € / Tag",
+      "Wochenende Sa–Mo · Preis von 1 Tag"
+     ],
+     "body": [
+      "Ausweis und Kaution genügen, Rückgabe bis 20 Uhr. Kostenlose Beratung für Heimwerker, jeden Samstag um 11 Uhr Workshop „Regale und Schränke sicher aufbauen“."
+     ],
+     "footer": "Mo–Sa 8–20 Uhr · Tel. 0251 / 70 70 70 · www.baumarkt-weber.de",
+     "design": "mono"
+    }
+   ]
+  },
+  "sb1": {
+   "instruction": "Lesen Sie den Text und schließen Sie die Lücken 21–30. Welche Lösung (a, b oder c) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 21–30 auf dem Antwortbogen.",
+   "paragraphs": [
+    "Sehr geehrter Herr Lang,",
+    "seit zwei Jahren wohne ich in Ihrer Wohnung in der Parkstraße 7 und war bisher durchweg zufrieden. {{21}} gut einer Woche funktioniert jedoch die Heizung im Wohnzimmer nicht mehr. Ich habe mehrfach versucht, das Problem selbst zu beheben – leider {{22}} Erfolg. Nachts sinkt die Temperatur in der Wohnung inzwischen auf 15 Grad, {{23}} ich mir mit einem kleinen Kind große Sorgen mache.",
+    "Ich bitte Sie daher, so schnell wie möglich einen Handwerker {{24}}. Am besten erreichen Sie mich vormittags, {{25}} ich am Nachmittag arbeite. Den Termin können Sie auch direkt mit meiner Nachbarin Frau Özdemir {{26}}, die einen Schlüssel hat.",
+    "{{27}} hinaus möchte ich Sie fragen, ob die Miete für diesen Monat wegen der kalten Wohnung gemindert werden kann. Ein Bekannter hat mir gesagt, dass Mieter in {{28}} Fall das Recht dazu haben. Sollte ich bis Ende der Woche nichts von Ihnen {{29}}, wende ich mich an den Mieterverein.",
+    "Für Rückfragen {{30}} ich Ihnen unter der oben genannten Nummer gern zur Verfügung.",
+    "Mit freundlichen Grüßen\nMarco Rossi"
+   ],
+   "items": [
+    {
+     "no": "21",
+     "options": {
+      "a": "Ab",
+      "b": "Vor",
+      "c": "Seit"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "22",
+     "options": {
+      "a": "ohne",
+      "b": "außer",
+      "c": "statt"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "23",
+     "options": {
+      "a": "damit",
+      "b": "sodass",
+      "c": "obwohl"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "24",
+     "options": {
+      "a": "vorbeizuschicken",
+      "b": "vorbeischicken",
+      "c": "vorbeigeschickt"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "25",
+     "options": {
+      "a": "denn",
+      "b": "da",
+      "c": "deshalb"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "26",
+     "options": {
+      "a": "verabreden",
+      "b": "veranstalten",
+      "c": "vereinbaren"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "27",
+     "options": {
+      "a": "Darüber",
+      "b": "Dazu",
+      "c": "Damit"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "28",
+     "options": {
+      "a": "einen solchen",
+      "b": "einem solchen",
+      "c": "eines solchen"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "29",
+     "options": {
+      "a": "höre",
+      "b": "hören",
+      "c": "gehört"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "30",
+     "options": {
+      "a": "bin",
+      "b": "bleibe",
+      "c": "stehe"
+     },
+     "answer": "c"
+    }
+   ]
+  },
+  "sb2": {
+   "instruction": "Lesen Sie den Text und schließen Sie die Lücken 31–40. Benutzen Sie die Wörter a–o. Jedes Wort passt nur einmal. Markieren Sie Ihre Lösungen für die Aufgaben 31–40 auf dem Antwortbogen.",
+   "title": "",
+   "paragraphs": [
+    "Liebe Marta,",
+    "stell dir vor: Ich habe eine Arbeit gefunden! {{31}} ich die Zusage bekam, habe ich vor Freude geweint. Seit dem 1. März arbeite ich als Rezeptionistin in einem Hotel am Hauptbahnhof. Am Anfang hatte ich große Angst {{32}} dem Telefonieren auf Deutsch, aber meine Chefin hat es mir geduldig {{33}}. Wenn Gäste sich beschweren, muss ich ihnen ruhig zuhören – das ist nicht immer leicht, und die Nachtschichten sind ziemlich {{34}}. Trotzdem mag ich die Arbeit: Meine Kollegen sind alle sehr nett, sogar der Chef macht manchmal Witze.",
+    "Das Beste ist: Die Prüfung, auf die wir uns im Kurs vorbereitet haben, kann ich jetzt endlich machen. Der Termin ist zwar schon zweimal verschoben {{35}}, aber jetzt steht er fest. Das Hotel übernimmt die Gebühr – allerdings nur unter der {{36}}, dass ich bestehe. Wenn nicht, muss sie von mir selbst bezahlt {{37}}. Ich übe also jeden Abend, {{38}} ich es beim ersten Versuch schaffe.",
+    "Wie geht es dir? Hast du schon eine Wohnung gefunden? Wenn nicht: Ein Kollege von mir sucht zurzeit einen Mitbewohner; {{39}} Nummer kann ich dir gern geben. Und könntest du mir einen {{40}} tun und meine Kursbücher bei Frau Berger abholen? Am Samstag habe ich frei – ruf mich doch mal an!",
+    "Liebe Grüße\nYuki"
+   ],
+   "words": {
+    "a": "ALS",
+    "b": "ANGESTRENGT",
+    "c": "ANSTRENGEND",
+    "d": "BEIGEBRACHT",
+    "e": "DAMIT",
+    "f": "DEREN",
+    "g": "DESSEN",
+    "h": "GEFALLEN",
+    "i": "GELERNT",
+    "j": "VON",
+    "k": "VOR",
+    "l": "VORAUSSETZUNG",
+    "m": "WENN",
+    "n": "WERDEN",
+    "o": "WORDEN"
+   },
+   "items": [
+    {
+     "no": "31",
+     "answer": "a"
+    },
+    {
+     "no": "32",
+     "answer": "k"
+    },
+    {
+     "no": "33",
+     "answer": "d"
+    },
+    {
+     "no": "34",
+     "answer": "c"
+    },
+    {
+     "no": "35",
+     "answer": "o"
+    },
+    {
+     "no": "36",
+     "answer": "l"
+    },
+    {
+     "no": "37",
+     "answer": "n"
+    },
+    {
+     "no": "38",
+     "answer": "e"
+    },
+    {
+     "no": "39",
+     "answer": "g"
+    },
+    {
+     "no": "40",
+     "answer": "h"
+    }
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. Sie hören diese Texte nur einmal. Entscheiden Sie beim Hören, ob die Aussagen 41–45 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 41–45. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 41–45. Sie haben dazu 30 Sekunden Zeit.",
+   "items": [
+    {
+     "no": "41",
+     "text": "Der Sprecher hat sein Fitnessstudio gekündigt, sobald er merkte, dass er selten hinging.",
+     "answer": "F"
+    },
+    {
+     "no": "42",
+     "text": "Die Sprecherin lässt das Rad nur stehen, wenn die Straßen glatt sind.",
+     "answer": "R"
+    },
+    {
+     "no": "43",
+     "text": "Der Sprecher vermisst es, selbst zu spielen.",
+     "answer": "R"
+    },
+    {
+     "no": "44",
+     "text": "Die Sprecherin schließt aus, jemals mit Sport anzufangen.",
+     "answer": "F"
+    },
+    {
+     "no": "45",
+     "text": "Der Sprecher behält sein Yoga-Training gegenüber seinen Freunden lieber für sich.",
+     "answer": "R"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen. Sie hören das Gespräch zweimal. Entscheiden Sie beim Hören, ob die Aussagen 46–55 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 46–55. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 46–55. Sie haben dazu eine Minute Zeit.",
+   "items": [
+    {
+     "no": "46",
+     "text": "Frau Hoffmann hat vor der Übernahme in einer anderen Buchhandlung gearbeitet.",
+     "answer": "F"
+    },
+    {
+     "no": "47",
+     "text": "Frau Steinmann hätte den Laden lieber geschlossen, als ihn an eine Kette zu verkaufen.",
+     "answer": "R"
+    },
+    {
+     "no": "48",
+     "text": "Frau Hoffmann hat Frau Steinmann von sich aus angeboten, den Laden zu übernehmen.",
+     "answer": "F"
+    },
+    {
+     "no": "49",
+     "text": "Die Bank hat den Kredit beim ersten Antrag abgelehnt.",
+     "answer": "R"
+    },
+    {
+     "no": "50",
+     "text": "Der Laden ist heute an mehr Tagen geöffnet als früher.",
+     "answer": "F"
+    },
+    {
+     "no": "51",
+     "text": "Im Café arbeitet an allen Öffnungstagen Frau Hoffmanns Mutter.",
+     "answer": "F"
+    },
+    {
+     "no": "52",
+     "text": "Frau Hoffmann liefert Bücher in Lüneburg an jedem Tag der Woche persönlich aus.",
+     "answer": "F"
+    },
+    {
+     "no": "53",
+     "text": "Bei Frau Hoffmann kosten Bücher genauso viel wie bei den großen Anbietern.",
+     "answer": "R"
+    },
+    {
+     "no": "54",
+     "text": "Umgerechnet auf die Stunde verdient Frau Hoffmann heute weniger als früher.",
+     "answer": "R"
+    },
+    {
+     "no": "55",
+     "text": "Für einen größeren Veranstaltungsraum gibt es bereits konkrete Gespräche.",
+     "answer": "R"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. Sie hören jeden Text zweimal. Entscheiden Sie beim Hören, ob die Aussagen 56–60 richtig oder falsch sind. Markieren Sie Ihre Lösungen für die Aufgaben 56–60 auf dem Antwortbogen. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch.",
+   "readNote": "",
+   "items": [
+    {
+     "no": "56",
+     "text": "Am Sonntagabend sind alle Straßen der Innenstadt wieder frei.",
+     "answer": "F"
+    },
+    {
+     "no": "57",
+     "text": "Der Elternabend findet am Mittwoch statt.",
+     "answer": "R"
+    },
+    {
+     "no": "58",
+     "text": "Auch die kleinen Becher desselben Joghurts müssen zurückgegeben werden.",
+     "answer": "F"
+    },
+    {
+     "no": "59",
+     "text": "Das Boarding sollte ursprünglich um 16 Uhr 20 beginnen.",
+     "answer": "R"
+    },
+    {
+     "no": "60",
+     "text": "Das ganze Wochenende bleibt trocken.",
+     "answer": "F"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "intro": "",
+  "task": {
+   "lead": "Sie haben von der Leiterin Ihrer Sprachschule folgende E-Mail erhalten:",
+   "mail": [
+    "Liebe Kursteilnehmerin, lieber Kursteilnehmer,",
+    "in zwei Wochen endet unser Kurs B1. Wir möchten unsere Kurse ständig verbessern und bitten Sie deshalb um Ihre Meinung: Was hat Ihnen gefallen, und was sollten wir anders machen?",
+    "Außerdem planen wir ab September einen Vorbereitungskurs für die Prüfung – vormittags von 9 bis 12 Uhr oder abends von 18 bis 21 Uhr. Bitte schreiben Sie uns bis zum 30. Juni, ob Sie daran teilnehmen möchten.",
+    "Mit freundlichen Grüßen\nSabine Krüger\nLeitung Sprachschule Kontakt"
+   ],
+   "instruction": "Antworten Sie auf die E-Mail. Schreiben Sie etwas zu allen vier Punkten:",
+   "points": [
+    "was Ihnen im Kurs gut gefallen hat",
+    "was die Schule Ihrer Meinung nach ändern sollte",
+    "ob Sie am Vorbereitungskurs teilnehmen und welche Zeit Ihnen passt",
+    "eine Frage, die Sie zur Prüfung haben"
+   ],
+   "closing": "Überlegen Sie sich vor dem Schreiben eine passende Reihenfolge der Punkte, einen passenden Betreff, eine passende Anrede, Einleitung und einen passenden Schluss.",
+   "model": {
+    "label": "Beispiel für eine Antwort, die alle vier Leitpunkte behandelt (ca. 170 Wörter)",
+    "text": "Betreff: Ihre E-Mail zum Kurs B1 – Meinung und Anmeldung\n\nSehr geehrte Frau Krüger,\n\nvielen Dank für Ihre E-Mail. Der Kurs hat mir insgesamt sehr gut gefallen. Besonders gut fand ich, dass wir viel gesprochen haben und dass Frau Bauer jeden Fehler geduldig erklärt hat. Auch die Gruppe war sehr nett – wir haben uns oft nach dem Kurs noch getroffen.\n\nÄndern sollten Sie meiner Meinung nach zwei Dinge: Der Raum im ersten Stock ist für 18 Personen zu klein, im Sommer war es dort sehr heiß. Außerdem hätte ich gern mehr Übungen zum Hörverstehen gemacht, das fällt vielen von uns noch schwer.\n\nAm Vorbereitungskurs möchte ich gern teilnehmen. Da ich vormittags arbeite, passt mir nur der Abendkurs von 18 bis 21 Uhr. Bitte melden Sie mich dafür an.\n\nEine Frage habe ich noch: Wann findet die nächste Prüfung statt, und bis wann muss man sich dafür anmelden? Ich möchte die Prüfung gern noch in diesem Jahr machen.\n\nVielen Dank im Voraus.\n\nMit freundlichen Grüßen\nAna Silva",
+    "marks": [
+     "",
+     "",
+     "1",
+     "2",
+     "3",
+     "4",
+     "",
+     ""
+    ],
+    "notes": "Leitpunkte\n1 Gut gefallen → viel gesprochen, geduldige Lehrerin, nette Gruppe\n2 Ändern → Raum zu klein/heiß, mehr Hörverstehen\n3 Teilnahme? Zeit? → ja, Abendkurs, weil vormittags Arbeit\n4 Frage zur Prüfung → Termin und Anmeldefrist\nAufbau Betreff · Anrede in der Sie-Form (Schulleitung, halbformell) · Einleitung mit Bezug auf die E-Mail · Schluss · Grußformel und Name\nBewertung\nI Inhalt: alle vier Leitpunkte, passend zur Situation. Jeder fehlende Leitpunkt kostet eine Stufe.\nII Kommunikative Gestaltung: Register (Sie), Aufbau, Verknüpfungen wie besonders, außerdem, da, deshalb.\nIII Formale Richtigkeit: Fehler dürfen das Verständnis nicht stören.\nTypische Fehler: Leitpunkt 4 (eigene Frage) vergessen, weil die Schule nicht danach fragt · nur Lob, keine Kritik (Leitpunkt 2) · Uhrzeit ohne Begründung · du statt Sie gegenüber der Schulleitung."
+   }
+  }
+ },
+ "notes": "",
+ "index": {
+  "short": "Vier Tage arbeiten, drei Tage frei · Buchhandlung am Markt · Krankenhausbesuch",
+  "hoeren": {
+   "t1": "Fünf kurze Texte",
+   "t2": "Gespräch mit Nadia Hoffmann: Buchhandlung am Markt",
+   "t3": "Fünf kurze Texte"
+  },
+  "sb1": "Brief an Herrn Lang: Heizung defekt",
+  "sb2": "Brief an Marta: Neue Arbeit",
+  "schreiben": "Antwort an die Sprachschule: Kurs B1",
+  "sprechen": {
+   "t2": "Innenstadt ohne Autos",
+   "t3": "Krankenhausbesuch"
+  }
+ }
+}

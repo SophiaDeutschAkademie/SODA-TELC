@@ -1,0 +1,761 @@
+{
+ "id": 5,
+ "roman": "V",
+ "lesen": {
+  "t1": {
+   "instruction": "Lesen Sie die Überschriften a–j und die Texte 1–5. Finden Sie für jeden Text die passende Überschrift. Sie können jede Überschrift nur einmal benutzen. Markieren Sie Ihre Lösungen für die Aufgaben 1–5 auf dem Antwortbogen.",
+   "headlines": [
+    {
+     "letter": "a",
+     "text": "Lastenräder gibt es nur noch gegen Gebühr"
+    },
+    {
+     "letter": "b",
+     "text": "Jugendliche lesen mehr, als ihre Eltern glauben"
+    },
+    {
+     "letter": "c",
+     "text": "Kita: Übernachten die ganze Woche erlaubt"
+    },
+    {
+     "letter": "d",
+     "text": "Göttingen verbietet den Pappbecher"
+    },
+    {
+     "letter": "e",
+     "text": "Ein Becher, der immer wieder zurückkommt"
+    },
+    {
+     "letter": "f",
+     "text": "Erfurt: Betreuung, wenn andere Kitas längst geschlossen haben"
+    },
+    {
+     "letter": "g",
+     "text": "Stadt schenkt Familien ein Lastenrad"
+    },
+    {
+     "letter": "h",
+     "text": "Mit 72 Jahren zurück in den Beruf"
+    },
+    {
+     "letter": "i",
+     "text": "Was mit 15 nicht möglich war, holt sie jetzt nach"
+    },
+    {
+     "letter": "j",
+     "text": "Bonn: Schwere Einkäufe ohne Auto – die Stadt hilft"
+    }
+   ],
+   "texts": [
+    {
+     "no": "1",
+     "paragraphs": [
+      "Rund 15.000 Kaffeebecher landen in Göttingen täglich im Müll. Seit Oktober gibt es deshalb den „Göttinger Becher“: Wer seinen Kaffee zum Mitnehmen bestellt, erhält ihn auf Wunsch in einem stabilen Mehrwegbecher und zahlt dafür zwei Euro Pfand. Zurückgeben kann man den Becher in allen 60 beteiligten Cafés und Bäckereien – unabhängig davon, wo man ihn bekommen hat. Der Kaffee selbst kostet nicht mehr als vorher. Nach drei Monaten sind bereits 25.000 Becher im Umlauf. „Die meisten Kunden finden das gut“, berichtet Bäckerin Ute Krause. „Nur morgens um sieben, wenn es schnell gehen muss, verlangen manche noch den alten Pappbecher.“"
+     ]
+    },
+    {
+     "no": "2",
+     "paragraphs": [
+      "Jugendliche lesen keine Bücher mehr? Eine Befragung der Universität Leipzig unter 3.000 Schülerinnen und Schülern zwischen 12 und 17 Jahren ergibt ein anderes Bild: Zwei Drittel greifen mindestens einmal pro Woche zu einem Buch, ein Viertel sogar täglich. Besonders gefragt sind Fantasy-Romane und Comics, daneben auch Sachbücher über Tiere und Technik. Aufschlussreich ist, wie die Jugendlichen an ihre Bücher kommen: Die Hälfte leiht sie in der Stadtbibliothek aus, viele tauschen mit Freunden, und nur jeder Fünfte kauft sich regelmäßig selbst eins. Die Eltern schätzen ihre Kinder dabei häufig falsch ein: 60 Prozent von ihnen sind überzeugt, dass ihr Kind kaum noch liest."
+     ]
+    },
+    {
+     "no": "3",
+     "paragraphs": [
+      "Mit 15 musste Ingrid Sommer die Schule verlassen und in einer Fabrik arbeiten, weil ihre Familie auf das Geld angewiesen war. Heute, mit 72, sitzt sie wieder im Klassenzimmer: Seit zwei Jahren besucht sie das Abendgymnasium in Dortmund, dreimal pro Woche von 17 bis 21 Uhr. Ihre Mitschüler sind zwischen 19 und 45 Jahre alt. „Am Anfang haben sie mich für die Lehrerin gehalten“, erzählt sie lachend. Mathematik bereitet ihr Mühe, in Geschichte dagegen ist sie die Beste ihres Jahrgangs. Im kommenden Frühjahr legt sie die Abiturprüfung ab. Anschließend möchte sie Geschichte studieren – „nicht für einen Beruf, sondern weil es mich einfach interessiert“."
+     ]
+    },
+    {
+     "no": "4",
+     "paragraphs": [
+      "Ein Wocheneinkauf für vier Personen, ein Kinderbett oder zwei Kisten Wasser: Für solche Transporte ist in Bonn kein eigenes Auto mehr nötig. Die Stadt hat zwölf elektrische Lastenräder angeschafft, die sich kostenlos für bis zu drei Tage ausleihen lassen. Die Räder stehen an Bibliotheken und Bürgerämtern, reserviert wird über das Internet. Erforderlich sind lediglich ein Ausweis und eine kurze Einweisung. Die Nachfrage ist so groß, dass die Räder an Wochenenden oft schon Wochen vorher ausgebucht sind. Im nächsten Jahr sollen deshalb 20 weitere hinzukommen. Wer sich ein eigenes Lastenrad zulegt, erhält von der Stadt außerdem einen Zuschuss von 500 Euro."
+     ]
+    },
+    {
+     "no": "5",
+     "paragraphs": [
+      "Krankenschwestern, Busfahrer, Bäcker – zahlreiche Eltern arbeiten zu Zeiten, in denen Kitas geschlossen sind. In Erfurt gibt es seit September eine Lösung: Die Kita „Nachtfalter“ ist von Montagmorgen bis Samstagabend durchgehend geöffnet. 30 Kinder zwischen einem und sechs Jahren werden hier auch abends und nachts betreut. Sie essen gemeinsam, werden anschließend ins Bett gebracht und morgens von den Eltern abgeholt. Nutzen dürfen das Angebot ausschließlich Eltern im Schichtdienst, und kein Kind darf mehr als zwei Nächte pro Woche in der Kita verbringen. Die Warteliste ist bereits lang – das Jugendamt plant daher eine zweite Einrichtung."
+     ]
+    }
+   ],
+   "items": [
+    {
+     "no": "1",
+     "answer": "e"
+    },
+    {
+     "no": "2",
+     "answer": "b"
+    },
+    {
+     "no": "3",
+     "answer": "i"
+    },
+    {
+     "no": "4",
+     "answer": "j"
+    },
+    {
+     "no": "5",
+     "answer": "f"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Lesen Sie den Text und die Aufgaben 6–10. Welche Lösung (a, b oder c) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 6–10 auf dem Antwortbogen.",
+   "kind": "article",
+   "title": "Eine Woche Bauernhof statt Klassenzimmer",
+   "lead": "Auf dem Schulbauernhof Hohenfelde in Schleswig-Holstein lernen Stadtkinder, woher ihr Essen kommt.",
+   "paragraphs": [
+    "Es ist sechs Uhr morgens, und die Klasse 4b aus Hamburg steht im Kuhstall. Melken, Ställe ausmisten, Hühner füttern – so sieht ihr Stundenplan in dieser Woche aus. Der Schulbauernhof Hohenfelde nimmt seit zwölf Jahren Schulklassen auf. Anfangs kamen die Klassen lediglich für einen Tag; seit fünf Jahren bleiben sie von Montag bis Freitag. Untergebracht sind die 25 Kinder in einfachen Zimmern im ehemaligen Stall, die Lehrkräfte im Nebenhaus.",
+    "„Viele Kinder haben noch nie eine Kuh angefasst“, sagt Bäuerin Marion Lenz, die den Hof gemeinsam mit ihrem Mann bewirtschaftet. „Am ersten Tag weigern sie sich, in den Stall zu gehen, weil es stinkt. Am Freitag wollen sie nicht mehr nach Hause.“ Neben der Arbeit mit den Tieren stehen Brot backen, Käse herstellen und Gemüse ernten auf dem Programm. Gekocht wird gemeinsam – mit dem, was der Hof hergibt. Fleisch gibt es lediglich einmal in der Woche, am Donnerstag. Auf einen Fernseher wird verzichtet, und die Handys bleiben die ganze Woche im Schrank im Lehrerzimmer verschlossen. Wer zu Hause anrufen möchte, darf das abends mit dem Telefon des Hofes.",
+    "Lehrerin Sabine Roth war vor drei Jahren bereits einmal hier, damals mit einer anderen Klasse. „Kinder, die im Unterricht nie den Mund aufmachen, sind hier plötzlich die Chefs im Hühnerstall“, berichtet sie. „Und der stärkste Junge der Klasse hatte Angst vor den Gänsen.“ Gestritten wird weniger als in der Schule – nicht, weil die Kinder hier braver wären, sondern weil alle erschöpft sind: Um neun Uhr abends schlafen die meisten.",
+    "Die Woche kostet 190 Euro pro Kind. Darin sind Fahrt, Verpflegung und Übernachtung enthalten – nicht jedoch die Gummistiefel, für die die Eltern selbst sorgen müssen. „Die sind wichtiger als alles andere“, betont Roth. Wer die 190 Euro nicht aufbringen kann, erhält Hilfe vom Förderverein der Schule; in diesem Jahr war das bei fünf Kindern der Fall.",
+    "Am Freitagmittag holt der Bus die Klasse ab. Zum Abschied bekommt jedes Kind ein Glas Marmelade, das es selbst eingekocht hat. Lena, neun Jahre, weiß schon, was sie zu Hause erzählen wird: „Dass Milch warm ist, wenn sie aus der Kuh kommt. Das hat mir vorher keiner gesagt.“ Für das kommende Jahr ist der Hof bereits ausgebucht. Marion Lenz überlegt deshalb, ein zweites Schlafhaus zu errichten – dann könnten zwei Klassen gleichzeitig kommen. Ihr Mann ist skeptisch: Mehr Kinder bedeuten mehr Arbeit, und Personal ist auf dem Land schwer zu finden."
+   ],
+   "source": "",
+   "taskInstruction": "",
+   "items": [
+    {
+     "no": "6",
+     "stem": "Der Aufenthalt der Schulklassen",
+     "options": {
+      "a": "dauert heute länger als in den Anfangsjahren des Angebots.",
+      "b": "wird seit zwölf Jahren jeweils von Montag bis Freitag angeboten.",
+      "c": "findet für Kinder und Lehrkräfte im selben Gebäude statt."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "7",
+     "stem": "Beim Essen auf dem Hof gilt:",
+     "options": {
+      "a": "Die Kinder bekommen die ganze Woche kein Fleisch zu essen.",
+      "b": "Die Bäuerin kocht jeden Tag allein für die ganze Gruppe.",
+      "c": "Verwendet wird vor allem, was auf dem Hof produziert wird."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "8",
+     "stem": "Lehrerin Sabine Roth beobachtet, dass",
+     "options": {
+      "a": "sich die Kinder auf dem Hof besser benehmen als in der Schule.",
+      "b": "sich manche Kinder auf dem Hof ganz anders verhalten als sonst.",
+      "c": "die stärksten Kinder sich am wenigsten vor den Tieren fürchten."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "9",
+     "stem": "Die Eltern",
+     "options": {
+      "a": "müssen die Fahrt zum Hof getrennt vom Beitrag bezahlen.",
+      "b": "erhalten die Gummistiefel vom Förderverein der Schule.",
+      "c": "können bei Bedarf Unterstützung für den Beitrag erhalten."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "10",
+     "stem": "Für das kommende Jahr",
+     "options": {
+      "a": "kann der Hof keine weiteren Klassen mehr aufnehmen.",
+      "b": "ist der Bau eines zweiten Schlafhauses fest geplant.",
+      "c": "sucht das Ehepaar Lenz bereits zusätzliches Personal."
+     },
+     "answer": "a"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Lesen Sie die Situationen 11–20 und die Anzeigen a–l. Finden Sie für jede Situation die passende Anzeige. Sie können jede Anzeige nur einmal benutzen. Markieren Sie Ihre Lösungen für die Aufgaben 11–20 auf dem Antwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie ein x.",
+   "items": [
+    {
+     "no": "11",
+     "text": "Ihre Tochter (8. Klasse) hat im Zeugnis eine Fünf in Mathe.",
+     "answer": "h"
+    },
+    {
+     "no": "12",
+     "text": "Sonntagabend: Die Wohnungstür ist zu, und der Schlüssel liegt drinnen.",
+     "answer": "a"
+    },
+    {
+     "no": "13",
+     "text": "Einen zweiten Wohnungsschlüssel können Sie nur am Wochenende machen lassen.",
+     "answer": "x"
+    },
+    {
+     "no": "14",
+     "text": "Ihr Auto muss zum TÜV, und beim Anhalten quietscht es.",
+     "answer": "b"
+    },
+    {
+     "no": "15",
+     "text": "Von Freitag bis Sonntag brauchen Sie ein Auto, haben aber keine Kreditkarte.",
+     "answer": "i"
+    },
+    {
+     "no": "16",
+     "text": "Seit Sie kein Fleisch mehr essen, fällt Ihnen in der Küche nichts Neues mehr ein.",
+     "answer": "e"
+    },
+    {
+     "no": "17",
+     "text": "Am Sonntagvormittag möchten Sie mit Ihren Kleinkindern fleischlos essen gehen.",
+     "answer": "f"
+    },
+    {
+     "no": "18",
+     "text": "Ihre Wände brauchen neue Farbe, aber Sie wollen das nicht selbst machen.",
+     "answer": "l"
+    },
+    {
+     "no": "19",
+     "text": "Ihr Notebook bleibt beim Einschalten schwarz – übermorgen brauchen Sie es dringend.",
+     "answer": "k"
+    },
+    {
+     "no": "20",
+     "text": "Kochen lernen in den Ferien – das wünscht sich Ihre neunjährige Tochter.",
+     "answer": "x"
+    }
+   ],
+   "infos": [
+    {
+     "letter": "a",
+     "header": "24h Schlüsselnotdienst Blitz",
+     "tag": "TAG UND NACHT · AUCH SONNTAGS UND FEIERTAGS",
+     "title": "Ausgesperrt? Schlüssel abgebrochen?",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Wir sind in 30 Minuten bei Ihnen und öffnen Ihre Tür ohne Schaden. Faire Festpreise, die wir Ihnen schon am Telefon nennen – kein Nachtzuschlag, kein Wochenendzuschlag. Außerdem: Schlösser wechseln, Einbruchschutz, Tresore. Meisterbetrieb aus Leipzig, kein Callcenter, Ausweis wird gezeigt."
+     ],
+     "footer": "Tel. 0341 / 24 24 24 · www.schluessel-blitz.de · Zahlung bar oder mit Karte",
+     "design": "inverse"
+    },
+    {
+     "letter": "b",
+     "header": "Kfz-Meisterbetrieb Rädle",
+     "tag": "TÜV + AU · Di + Do",
+     "title": "",
+     "subtitle": "Reparaturen aller Marken · Prager Str. 130",
+     "facts": [],
+     "body": [
+      "Bremsen, Reifen, Auspuff, Ölwechsel, Klimaanlage. TÜV und AU jeden Dienstag und Donnerstag direkt bei uns – kostenloser Check vorher, damit Ihr Auto die Prüfung sicher besteht. Bremsen prüfen wir sofort und kostenlos, Reparatur meist am selben Tag. Leihwagen für Werkstattkunden 15 € pro Tag (nur mit Kreditkarte), Hol- und Bringservice im Stadtgebiet. Kostenvoranschlag immer vorab."
+     ],
+     "footer": "Mo–Fr 7.30–18 Uhr, Sa 8–12 Uhr · Tel. 0341 / 22 11 00",
+     "design": "barhead",
+     "deco": {
+      "icon": "wrench"
+     }
+    },
+    {
+     "letter": "c",
+     "header": "Nachhilfe Mathe & Deutsch",
+     "tag": "",
+     "title": "",
+     "subtitle": "Lehramtsstudentin, 4. Semester, mit Erfahrung",
+     "facts": [
+      "18 € pro Stunde",
+      "erste Stunde gratis"
+     ],
+     "body": [
+      "Ich gebe Nachhilfe für Grundschule bis Klasse 7 in Mathematik und Deutsch – geduldig, mit vielen Übungen und Spielen. Auch Vorbereitung auf den Übertritt und Hausaufgabenhilfe. Bei Ihnen zu Hause (Zentrum, Süd, Connewitz), nachmittags und am Wochenende. Für höhere Klassen kann ich leider keine Nachhilfe anbieten."
+     ],
+     "footer": "Tel. 0176 / 22 33 44 55 (auch WhatsApp) · Referenzen von Eltern auf Wunsch",
+     "design": "serif"
+    },
+    {
+     "letter": "d",
+     "header": "Computer-Service Kaufmann",
+     "tag": "",
+     "title": "",
+     "subtitle": "Reparatur · Aufrüstung · Beratung",
+     "facts": [],
+     "body": [
+      "Desktop-Computer aller Marken: Netzteil, Festplatte, Grafikkarte, Lüfter, Windows neu installieren. Abholung und Rückgabe bei Ihnen zu Hause, kostenlos in Leipzig. Reparatur in der Regel 10 bis 14 Tage, Festpreis nach Kostenvoranschlag. Auch Zusammenbau von Gaming-PCs nach Ihren Wünschen.",
+      "Laptops und Tablets reparieren wir nicht."
+     ],
+     "footer": "www.pc-kaufmann.de · Tel. 0341 / 80 80 80 · Mo–Fr 9–17 Uhr",
+     "design": "mono",
+     "deco": {
+      "icon": "plug"
+     }
+    },
+    {
+     "letter": "e",
+     "header": "Kochschule Pfanne",
+     "tag": "",
+     "title": "",
+     "subtitle": "KOCHEN MIT SPASS · KARL-LIEBKNECHT-STR. 45",
+     "facts": [
+      "Vegetarisch",
+      "Italienisch",
+      "Brot backen",
+      "Asiatisch",
+      "Kinderkurs ab 12"
+     ],
+     "body": [
+      "Vegetarisch kochen – abwechslungsreich durch die Woche: 4 Abende, 120 €. Sie lernen 16 Gerichte aus Italien, Indien, dem Orient und der Region, dazu Tipps zu Einkauf, Vorrat und Gewürzen. Kinderkurs in den Ferien ab 12 Jahren. Alle Kurse Mi + Fr 18–21 Uhr, maximal 12 Personen, Schürze und Rezepte inklusive, gemeinsames Essen am Ende."
+     ],
+     "footer": "Tel. 0341 / 60 60 60 · www.kochschule-pfanne.de · Gutscheine erhältlich",
+     "design": "rounded"
+    },
+    {
+     "letter": "f",
+     "header": "GASTRONOMIE",
+     "tag": "KLEINANZEIGEN",
+     "title": "",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Grünkern – vegetarisches Restaurant. Vegetarisch und vegan, alles hausgemacht. Mittagstisch ab 8,50 €, abends 3-Gänge-Menü 24 €, sonntags Familienbrunch 10–14 Uhr. Familienfreundlich: Kinderteller, Hochstühle, Wickeltisch und Spielecke mit Büchern. Di–So 12–22 Uhr, Montag Ruhetag. Reservierung empfohlen: 0341 / 66 77 88, Karl-Heine-Str. 12",
+      "Eisdiele Venezia: 24 Sorten, auch vegan, täglich 11–21 Uhr, Markt 3",
+      "Koch/Köchin für Bistro gesucht, Teilzeit, Mo–Fr mittags, Tel. 0341 / 70 70 70"
+     ],
+     "footer": "",
+     "design": "classified"
+    },
+    {
+     "letter": "g",
+     "header": "Baumarkt Hammer",
+     "tag": "",
+     "title": "Streichen leicht gemacht – kostenloser Kurs jeden Samstag, 10 Uhr",
+     "subtitle": "FARBEN · TAPETEN · WERKZEUG · TORGAUER STR. 200",
+     "facts": [],
+     "body": [
+      "In 90 Minuten zeigen wir Ihnen: Wände vorbereiten, abkleben, streichen ohne Streifen – danach schaffen Sie es selbst. Ihre Wunschfarbe mischen wir in 10 Minuten, jede Menge ab 1 Liter. Leihgeräte: Leitern, Bohrmaschinen, Tapeziertisch ab 5 € pro Tag. Lieferung großer Mengen nach Hause."
+     ],
+     "footer": "Mo–Sa 8–20 Uhr · www.baumarkt-hammer.de · Anmeldung zum Kurs an der Information",
+     "design": "corp"
+    },
+    {
+     "letter": "h",
+     "header": "LERNWERK",
+     "tag": "NACHHILFE · PRÜFUNGSVORBEREITUNG",
+     "title": "",
+     "subtitle": "",
+     "facts": [
+      "Mathematik",
+      "Physik · Chemie",
+      "Deutsch · Englisch"
+     ],
+     "body": [
+      "Klasse 5 bis 13 und Abitur, für alle Schularten. Einzelunterricht oder Kleingruppe (max. 4 Schüler), erfahrene Lehrkräfte, regelmäßige Rückmeldung an die Eltern. Auch Ferienkurse vor Klassenarbeiten. 90 Minuten ab 24 €, Probestunde kostenlos, monatlich kündbar."
+     ],
+     "footer": "Mo–Fr 14–19 Uhr, Sa 9–13 Uhr · Gottschedstr. 9 · Tel. 0341 / 33 44 55 · www.lernwerk-leipzig.de",
+     "design": "greyband"
+    },
+    {
+     "letter": "i",
+     "header": "CITYCAR",
+     "tag": "AUTOVERMIETUNG · BAHNHOFSVORPLATZ 4",
+     "title": "",
+     "subtitle": "",
+     "facts": [
+      "Kleinwagen · ab 29 € / Tag",
+      "Wochenendtarif Fr 16 Uhr – Mo 9 Uhr, 800 km inkl. · 99 €",
+      "Kombi, Transporter, Kleinbus · ab 49 € / Tag"
+     ],
+     "body": [
+      "Unkompliziert mieten",
+      "Zahlung mit EC-Karte oder bar, Kaution 200 €. Führerschein mindestens 1 Jahr. Vollkasko, Kindersitze und Navi kostenlos. Reservierung bis Freitag 12 Uhr."
+     ],
+     "footer": "Mo–Sa 7–20 Uhr · Tel. 0341 / 12 34 56 · www.citycar-leipzig.de",
+     "design": "inst"
+    },
+    {
+     "letter": "j",
+     "header": "Schlüssel & Schuh",
+     "tag": "Schlüssel nachmachen in 5 Minuten",
+     "title": "",
+     "subtitle": "Service Meier · Hauptbahnhof, Untergeschoss (neben der Bäckerei)",
+     "facts": [],
+     "body": [
+      "Haus-, Wohnungs- und Briefkastenschlüssel, auch Sicherheitsschlüssel mit Karte. Autoschlüssel mit Funk programmieren wir vor Ort. Schuhreparatur: Absätze, Sohlen, Reißverschlüsse, Schuhe färben und pflegen. Gravuren für Namensschilder, Klingelschilder und Geschenke."
+     ],
+     "footer": "Mo–Fr 9–18 Uhr · Samstag und Sonntag geschlossen · Tel. 0341 / 14 14 14",
+     "design": "hotel"
+    },
+    {
+     "letter": "k",
+     "header": "COMPUTER",
+     "tag": "KLEINANZEIGEN",
+     "title": "",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Verkaufe Drucker, 2 Jahre alt, mit neuen Patronen, 40 €, Tel. 0341 / 51 51 51",
+      "PC-Doktor Leipzig. Reparatur von Laptops, PCs und Tablets aller Marken: startet nicht, Display, Tastatur, Akku, Virenentfernung, Datenrettung. Express-Service: fertig in 24 Stunden, Standard 3 Tage. Kostenlose Diagnose und Festpreis vorab, Leihgerät für die Zwischenzeit. Mo–Sa 10–19 Uhr, Petersstr. 20, Tel. 0341 / 99 88 77",
+      "Computerkurs für Senioren, VHS, 6 Vormittage, 60 €, Tel. 0341 / 36 36 36"
+     ],
+     "footer": "",
+     "design": "classified"
+    },
+    {
+     "letter": "l",
+     "header": "Malerbetrieb Farbenfroh",
+     "tag": "MEISTERBETRIEB · 5 JAHRE GARANTIE",
+     "title": "Wir machen Ihre Wohnung schön – Sie geben uns nur den Schlüssel.",
+     "subtitle": "",
+     "facts": [
+      "Wände und Decken streichen · ab 6 €/m²",
+      "Tapezieren · ab 9 €/m²",
+      "Komplette Renovierung · Festpreis"
+     ],
+     "body": [
+      "Wir decken Möbel und Böden ab, streichen sauber und räumen alles wieder auf, meist innerhalb von zwei Tagen. Kostenlose Besichtigung und Farbberatung, Termine auch am Wochenende, Festpreis vorab."
+     ],
+     "footer": "Tel. 0172 / 55 66 77 88 · www.farbenfroh-leipzig.de",
+     "design": "inst"
+    }
+   ]
+  },
+  "sb1": {
+   "instruction": "Lesen Sie den Text und schließen Sie die Lücken 21–30. Welche Lösung (a, b oder c) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 21–30 auf dem Antwortbogen.",
+   "paragraphs": [
+    "Sehr geehrte Damen und Herren,",
+    "im März habe ich in Ihrem Hotel ein Doppelzimmer {{21}} 3. bis 7. August reserviert (Reservierungsnummer 7781). Leider hat meine Frau in dieser Woche einen beruflichen Termin, {{22}} sich nicht verschieben lässt, {{23}} wir erst am 5. August anreisen können. Wäre es möglich, die Reservierung {{24}} zwei Nächte zu verkürzen, ohne dass dafür zusätzliche Kosten entstehen?",
+    "Außerdem wollte ich fragen, ob unser Zimmer über einen Balkon verfügt – {{25}} wir bei der Buchung leider nicht gedacht haben. Falls nicht, {{26}} wir gegen einen kleinen Aufpreis gern in ein anderes Zimmer wechseln. Da wir mit dem Zug anreisen, sind wir {{27}} einen Parkplatz nicht angewiesen. Dankbar wären wir allerdings für einen Hinweis, {{28}} wir vom Bahnhof am einfachsten zu Ihnen gelangen – {{29}} wir wissen, fährt der Bus nur einmal pro Stunde.",
+    "Ich bitte Sie, {{30}} die Änderung kurz schriftlich zu bestätigen. Vielen Dank im Voraus.",
+    "Mit freundlichen Grüßen\nThomas Riedel"
+   ],
+   "items": [
+    {
+     "no": "21",
+     "options": {
+      "a": "am",
+      "b": "vom",
+      "c": "seit"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "22",
+     "options": {
+      "a": "den",
+      "b": "dem",
+      "c": "der"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "23",
+     "options": {
+      "a": "weil",
+      "b": "weshalb",
+      "c": "deshalb"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "24",
+     "options": {
+      "a": "für",
+      "b": "über",
+      "c": "um"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "25",
+     "options": {
+      "a": "woran",
+      "b": "worauf",
+      "c": "wofür"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "26",
+     "options": {
+      "a": "hätten",
+      "b": "würden",
+      "c": "wären"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "27",
+     "options": {
+      "a": "an",
+      "b": "auf",
+      "c": "für"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "28",
+     "options": {
+      "a": "wo",
+      "b": "was",
+      "c": "wie"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "29",
+     "options": {
+      "a": "Sobald",
+      "b": "Solange",
+      "c": "Soweit"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "30",
+     "options": {
+      "a": "mir",
+      "b": "mich",
+      "c": "Ihnen"
+     },
+     "answer": "a"
+    }
+   ]
+  },
+  "sb2": {
+   "instruction": "Lesen Sie den Text und schließen Sie die Lücken 31–40. Benutzen Sie die Wörter a–o. Jedes Wort passt nur einmal. Markieren Sie Ihre Lösungen für die Aufgaben 31–40 auf dem Antwortbogen.",
+   "title": "",
+   "paragraphs": [
+    "Hallo Ben,",
+    "wie geht es dir? Ich habe eine Idee für das nächste Wochenende: Hast du {{31}} auf eine Radtour? Das Wetter soll gut werden, und ich möchte diesmal nicht die übliche Runde fahren, {{32}} bis zum See hinter den Hügeln. Wir fahren zuerst am Fluss entlang und dann über die Hügel. Es sind etwa 40 Kilometer – die Strecke ist zwar lang, aber nicht besonders {{33}}.",
+    "Wir treffen uns am besten um neun Uhr bei mir. Vorher solltest du unbedingt deine Reifen {{34}} und die Bremsen prüfen, {{35}} wird es gefährlich – die Abfahrt zum See ist ziemlich steil. Ich bringe Brote und Obst mit; könntest du {{36}} um die Getränke kümmern? Am Nachmittag können wir schwimmen, {{37}} das Wasser nicht zu kalt ist.",
+    "Mein altes Fahrrad {{38}} sich leider nicht mehr reparieren, aber ich habe seit zwei Wochen ein neues. Wenn du kein Rad hast: Mein Bruder kann dir {{39}} leihen. Ich wäre dir {{40}}, wenn du dich bis Donnerstag meldest – dann kann ich rechtzeitig einkaufen.",
+    "Bis bald\nLeon"
+   ],
+   "words": {
+    "a": "ANSPRUCHSVOLL",
+    "b": "AUFGEPUMPT",
+    "c": "AUFPUMPEN",
+    "d": "DANKBAR",
+    "e": "DICH",
+    "f": "DIR",
+    "g": "EINEN",
+    "h": "EINS",
+    "i": "FALLS",
+    "j": "LASSEN",
+    "k": "LÄSST",
+    "l": "LUST",
+    "m": "SONDERN",
+    "n": "SONST",
+    "o": "ZEIT"
+   },
+   "items": [
+    {
+     "no": "31",
+     "answer": "l"
+    },
+    {
+     "no": "32",
+     "answer": "m"
+    },
+    {
+     "no": "33",
+     "answer": "a"
+    },
+    {
+     "no": "34",
+     "answer": "c"
+    },
+    {
+     "no": "35",
+     "answer": "n"
+    },
+    {
+     "no": "36",
+     "answer": "e"
+    },
+    {
+     "no": "37",
+     "answer": "i"
+    },
+    {
+     "no": "38",
+     "answer": "k"
+    },
+    {
+     "no": "39",
+     "answer": "h"
+    },
+    {
+     "no": "40",
+     "answer": "d"
+    }
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. Sie hören diese Texte nur einmal. Entscheiden Sie beim Hören, ob die Aussagen 41–45 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 41–45. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 41–45. Sie haben dazu 30 Sekunden Zeit.",
+   "items": [
+    {
+     "no": "41",
+     "text": "Der Sprecher ist heute froh, dass die Familie einen Hund hat.",
+     "answer": "R"
+    },
+    {
+     "no": "42",
+     "text": "Die Sprecherin hat wegen ihrer Allergie keinen Kontakt zu Tieren.",
+     "answer": "F"
+    },
+    {
+     "no": "43",
+     "text": "Der Sprecher würde sich wegen der Kosten keine Katze mehr anschaffen.",
+     "answer": "F"
+    },
+    {
+     "no": "44",
+     "text": "Die Familie hat jetzt ein Haustier, das man auch mal ein paar Tage allein lassen kann.",
+     "answer": "R"
+    },
+    {
+     "no": "45",
+     "text": "Der Sprecher lebt seit dem Tod seiner Frau sehr zurückgezogen.",
+     "answer": "F"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen. Sie hören das Gespräch zweimal. Entscheiden Sie beim Hören, ob die Aussagen 46–55 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 46–55. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 46–55. Sie haben dazu eine Minute Zeit.",
+   "items": [
+    {
+     "no": "46",
+     "text": "In der Schule hat Frau Pohl gern Sport gemacht.",
+     "answer": "F"
+    },
+    {
+     "no": "47",
+     "text": "Ihr Hausarzt hat ihr zum Schwimmen geraten.",
+     "answer": "R"
+    },
+    {
+     "no": "48",
+     "text": "In den ersten Monaten hat Frau Pohl allein trainiert.",
+     "answer": "R"
+    },
+    {
+     "no": "49",
+     "text": "Frau Pohl ist im vergangenen Jahr einen Halbmarathon gelaufen.",
+     "answer": "F"
+    },
+    {
+     "no": "50",
+     "text": "Wegen Knieschmerzen konnte sie vor dem Marathon eine Zeit lang nicht laufen.",
+     "answer": "R"
+    },
+    {
+     "no": "51",
+     "text": "Ihr Mann läuft die langen Strecken mit ihr zusammen.",
+     "answer": "F"
+    },
+    {
+     "no": "52",
+     "text": "Bei Kilometer 35 wollte Frau Pohl aufgeben.",
+     "answer": "R"
+    },
+    {
+     "no": "53",
+     "text": "Frau Pohl war schneller, als sie sich vorgenommen hatte.",
+     "answer": "F"
+    },
+    {
+     "no": "54",
+     "text": "Durch das Laufen hat Frau Pohl stark abgenommen.",
+     "answer": "F"
+    },
+    {
+     "no": "55",
+     "text": "Anfängern rät Frau Pohl, nicht täglich zu laufen.",
+     "answer": "R"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. Sie hören jeden Text zweimal. Entscheiden Sie beim Hören, ob die Aussagen 56–60 richtig oder falsch sind. Markieren Sie Ihre Lösungen für die Aufgaben 56–60 auf dem Antwortbogen. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch.",
+   "readNote": "",
+   "items": [
+    {
+     "no": "56",
+     "text": "Der Regionalexpress nach Halle fährt um 10.47 Uhr von Gleis 9 ab.",
+     "answer": "F"
+    },
+    {
+     "no": "57",
+     "text": "Donnerstags ist die Zahnarztpraxis länger geöffnet als an den anderen Tagen.",
+     "answer": "R"
+    },
+    {
+     "no": "58",
+     "text": "Auf der A9 muss man wegen eines Unfalls mit etwa einer halben Stunde Verspätung rechnen.",
+     "answer": "R"
+    },
+    {
+     "no": "59",
+     "text": "Am Wochenende wird es wärmer als heute.",
+     "answer": "R"
+    },
+    {
+     "no": "60",
+     "text": "Neukunden bekommen auf alle Bestellungen zehn Prozent Rabatt.",
+     "answer": "F"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "intro": "",
+  "task": {
+   "lead": "Sie haben von Ihrem Freund Marek folgende E-Mail erhalten:",
+   "mail": [
+    "Hallo ______,",
+    "stell dir vor: Eine Firma in deiner Stadt hat mir eine Stelle angeboten! Ich könnte im Oktober anfangen. Jetzt überlege ich, ob ich das machen soll – ich kenne dort ja niemanden außer dir.",
+    "Wie gefällt dir das Leben in der Stadt? Und wie findet man dort eine Wohnung? Ich habe gehört, das ist schwierig. Vielleicht könnten wir uns bald mal treffen und darüber reden?",
+    "Viele Grüße\nMarek"
+   ],
+   "instruction": "Antworten Sie auf die E-Mail. Schreiben Sie etwas zu allen vier Punkten:",
+   "points": [
+    "wie Ihnen das Leben in Ihrer Stadt gefällt",
+    "Tipps für die Wohnungssuche",
+    "wie Sie Marek beim Umzug helfen können",
+    "ein Vorschlag für ein Treffen (wann, wo)"
+   ],
+   "closing": "Überlegen Sie sich vor dem Schreiben eine passende Reihenfolge der Punkte, einen passenden Betreff, eine passende Anrede, Einleitung und einen passenden Schluss.",
+   "model": {
+    "label": "Beispiel für eine Antwort, die alle vier Leitpunkte behandelt (ca. 180 Wörter)",
+    "text": "Betreff: Deine neue Stelle – komm her!\n\nHallo Marek,\n\ndas ist eine super Nachricht! Ich freue mich sehr, dass du vielleicht bald hier wohnen wirst.\n\nMir gefällt das Leben in Leipzig sehr gut. Die Stadt ist nicht zu groß, man kommt überall mit dem Rad hin, und es gibt viele Cafés, Parks und Konzerte. Nur die Winter sind lang und grau – daran musst du dich gewöhnen.\n\nEine Wohnung zu finden ist nicht einfach, aber möglich. Schau nicht nur im Internet, sondern frag auch in der Firma – viele Wohnungen werden über Kollegen weitergegeben. Und sei bei einer Besichtigung pünktlich und bring alle Unterlagen mit, dann hast du bessere Chancen als die anderen.\n\nNatürlich helfe ich dir. Am Anfang kannst du bei mir auf dem Sofa schlafen, solange du willst. Ich kann auch mit dir Wohnungen besichtigen und beim Umzug Kisten tragen – mein Nachbar hat einen Transporter.\n\nWir sollten uns bald treffen! Wie wäre es am Samstag in zwei Wochen? Du kommst am Vormittag, ich zeige dir die Stadt, und abends kochen wir bei mir. Passt dir das?\n\nViele Grüße\nTomasz",
+    "marks": [
+     "",
+     "",
+     "",
+     "1",
+     "2",
+     "3",
+     "4",
+     ""
+    ],
+    "notes": "Leitpunkte\n1 Leben in der Stadt → gefällt gut, Rad, Cafés; Nachteil Winter\n2 Tipps Wohnungssuche → Firma fragen, pünktlich, Unterlagen\n3 Hilfe beim Umzug → Sofa, Besichtigungen, Transporter\n4 Treffen → Samstag in zwei Wochen, Stadt zeigen, kochen\nAufbau Betreff · Anrede in der du-Form (Freund, informell) · Einleitung mit Reaktion auf die Nachricht · Schluss mit Frage · Grußformel und Name\nBewertung\nI Inhalt: alle vier Leitpunkte, passend zur Situation. Jeder fehlende Leitpunkt kostet eine Stufe.\nII Kommunikative Gestaltung: Register (du), Aufbau, Verknüpfungen wie nur, nicht nur … sondern auch, dann, natürlich.\nIII Formale Richtigkeit: Fehler dürfen das Verständnis nicht stören.\nTypische Fehler: Leitpunkt 3 (eigene Hilfe) vergessen, weil Marek nicht direkt danach fragt · Treffen ohne Zeit und Ort · nur Vorteile der Stadt nennen (Leitpunkt 1 wirkt dann dünn) · Sie statt du gegenüber einem Freund."
+   }
+  }
+ },
+ "notes": "",
+ "index": {
+  "short": "Eine Woche Bauernhof · Marathon mit 56 · Stand auf dem Straßenfest",
+  "hoeren": {
+   "t1": "Fünf kurze Texte",
+   "t2": "Gespräch mit Renate Pohl: Marathon",
+   "t3": "Fünf kurze Texte"
+  },
+  "sb1": "Hotelreservierung ändern",
+  "sb2": "Nachricht an Ben: Radtour",
+  "schreiben": "Antwort an Marek: Neue Stelle in Ihrer Stadt",
+  "sprechen": {
+   "t2": "Selbst kochen oder Fertiggerichte?",
+   "t3": "Stand auf dem Straßenfest"
+  }
+ }
+}

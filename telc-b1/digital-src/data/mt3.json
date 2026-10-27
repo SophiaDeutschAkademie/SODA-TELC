@@ -1,0 +1,760 @@
+{
+ "id": 3,
+ "roman": "III",
+ "lesen": {
+  "t1": {
+   "instruction": "Lesen Sie die Überschriften a–j und die Texte 1–5. Finden Sie für jeden Text die passende Überschrift. Sie können jede Überschrift nur einmal benutzen. Markieren Sie Ihre Lösungen für die Aufgaben 1–5 auf dem Antwortbogen.",
+   "headlines": [
+    {
+     "letter": "a",
+     "text": "Stadt finanziert Schulbus für zwei Kilometer"
+    },
+    {
+     "letter": "b",
+     "text": "Ein süßes Hobby breitet sich in der Stadt aus"
+    },
+    {
+     "letter": "c",
+     "text": "Bibliothek wandelt sich zum Aufenthaltsort"
+    },
+    {
+     "letter": "d",
+     "text": "Zwanzig Stunden im Monat für ein eigenes Zimmer"
+    },
+    {
+     "letter": "e",
+     "text": "Reparatur-Treff: Geräte abgeben und später abholen"
+    },
+    {
+     "letter": "f",
+     "text": "Karlsruhe verkauft Honig vom Rathausdach"
+    },
+    {
+     "letter": "g",
+     "text": "Gemeinsam zu Fuß statt allein im Auto der Eltern"
+    },
+    {
+     "letter": "h",
+     "text": "Wer sein Gerät retten will, muss selbst mit anpacken"
+    },
+    {
+     "letter": "i",
+     "text": "Bibliothek in Mainz verleiht immer weniger Medien"
+    },
+    {
+     "letter": "j",
+     "text": "Studentin zahlt für 20 uadratmeter nur 20 Euro Miete"
+    }
+   ],
+   "texts": [
+    {
+     "no": "1",
+     "paragraphs": [
+      "Der Toaster ist kaputt, der Reißverschluss klemmt, das Fahrradlicht geht nicht? Wegwerfen muss man solche Dinge aber noch nicht. Im Repair-Café im Stadtteilzentrum Süd stehen jeden ersten Samstag im Monat 15 Freiwillige bereit – Elektriker, Schneiderinnen, Fahrradmechaniker, alle im Ruhestand. Bezahlt wird nichts, nur Ersatzteile kosten etwas. Eine Werkstatt, in der man sein Gerät abgibt und später abholt, ist das Café allerdings nicht: Wer nicht selbst mit anpacken will, wird wieder nach Hause geschickt. „Die Leute sollen verstehen, wie ihre Geräte funktionieren“, sagt Organisator Rolf Kern. Beim letzten Termin brachten die Besucher 60 Gegenstände mit, 45 davon funktionieren wieder. Nur bei Smartphones und Laptops müssen die Helfer meist passen."
+     ]
+    },
+    {
+     "no": "2",
+     "paragraphs": [
+      "Jeden Morgen um 7.30 Uhr startet der „Laufbus“ der Grundschule Weststadt: 25 Kinder gehen gemeinsam zu Fuß zur Schule, begleitet von zwei Elternteilen, die sich wöchentlich abwechseln. Unterwegs gibt es fünf „Haltestellen“, an denen weitere Kinder zusteigen. Eingeführt hat die Schule den Laufbus, weil vor dem Schultor jeden Morgen Chaos herrschte: Zu viele Eltern brachten ihre Kinder mit dem Auto, mehrfach kam es beinahe zu Unfällen. Einen echten Schulbus hatte die Stadt abgelehnt – zu teuer für zwei Kilometer. Seit dem Start vor einem halben Jahr fahren nur noch halb so viele Autos vor, und die Kinder kommen nach Auskunft der Lehrkräfte wacher in den Unterricht."
+     ]
+    },
+    {
+     "no": "3",
+     "paragraphs": [
+      "Auf dem Dach des Rathauses in Karlsruhe summt es: Seit drei Jahren stehen dort sechs Bienenvölker, gepflegt von Angestellten der Stadt, die das Imkern in einem Kurs gelernt haben. Den Honig verkauft die Stadt nicht, obwohl Läden angefragt haben; sie verschenkt ihn bei Empfängen und an Schulklassen, die das Dach besuchen. Den Bienen gehe es in der Stadt oft besser als auf dem Land, erklärt Stadtimkerin Petra Sauer: In Parks und Gärten blühe fast das ganze Jahr etwas, und Gift werde dort nicht gespritzt. Das Beispiel hat Nachahmer gefunden: 40 Karlsruher haben den Kurs inzwischen absolviert und halten selbst Bienen – auf Balkonen und in Hinterhöfen."
+     ]
+    },
+    {
+     "no": "4",
+     "paragraphs": [
+      "Die Stadtbibliothek Mainz hat im vergangenen Jahr so viele Medien verliehen wie noch nie – doch immer weniger davon sind gedruckte Bücher. Fast die Hälfte aller Ausleihen entfiel auf E-Books und Hörbücher; bei den Jugendlichen liegt der Anteil sogar bei 70 Prozent. Leer ist das Gebäude deshalb keineswegs: Es kommen mehr Menschen als früher, allerdings nicht, um Bücher mitzunehmen, sondern um zu lernen, zu arbeiten oder Freunde zu treffen. Leiterin Ute Brandt spricht von einem „Ort zum Bleiben“. Die Konsequenz: Im nächsten Jahr werden zwei Drittel der Regale im Erdgeschoss abgebaut; an ihre Stelle treten Arbeitsplätze und ein Café."
+     ]
+    },
+    {
+     "no": "5",
+     "paragraphs": [
+      "Studentin Lea Krämer, 22, wohnt in einem Haus mit 120 Quadratmetern und Garten – und zahlt keinen Cent Miete. Ihr Vermieter ist der 81-jährige Walter Bode, der seit dem Tod seiner Frau allein in dem Haus lebt. Statt Geld gibt Lea Zeit: Für jeden Quadratmeter ihres Zimmers hilft sie eine Stunde im Monat, also 20 Stunden – sie kauft ein, mäht den Rasen und begleitet Herrn Bode zum Arzt. Zusammengebracht hat die beiden das Projekt „Wohnen für Hilfe“ des Studentenwerks, das inzwischen 60 solcher Partnerschaften betreut. „Interessierte Studierende haben wir mehr als genug“, sagt Leiterin Miriam Koch. „Woran es fehlt, sind Ältere, die bereit sind, ein Zimmer abzugeben.“"
+     ]
+    }
+   ],
+   "items": [
+    {
+     "no": "1",
+     "answer": "h"
+    },
+    {
+     "no": "2",
+     "answer": "g"
+    },
+    {
+     "no": "3",
+     "answer": "b"
+    },
+    {
+     "no": "4",
+     "answer": "c"
+    },
+    {
+     "no": "5",
+     "answer": "d"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Lesen Sie den Text und die Aufgaben 6–10. Welche Lösung (a, b oder c) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 6–10 auf dem Antwortbogen.",
+   "kind": "article",
+   "title": "Ein Jahr ohne Smartphone",
+   "lead": "Tim Berger, 29, hat zwölf Monate lang auf sein Smartphone verzichtet. Ein Selbstversuch mit Überraschungen.",
+   "paragraphs": [
+    "„Irgendwann habe ich nachgezählt“, erzählt Tim Berger. „150-mal am Tag habe ich auf mein Handy geschaut.“ Der Grafiker aus Hannover merkte, dass er kein Buch mehr zu Ende las und abends schlecht einschlief. Seine Freundin hatte ihm schon länger vorgeschlagen, das Gerät wenigstens am Wochenende auszuschalten; den Anstoß für den radikalen Schritt gab aber ein Zeitungsartikel über einen Lehrer, der ein Jahr ohne Smartphone gelebt hatte. Am 1. Januar legte Tim sein Smartphone in eine Schublade und kaufte für 20 Euro ein altes Handy, mit dem man nur telefonieren und SMS schreiben kann. „Meine Freunde haben gewettet, dass ich nach zwei Wochen aufgebe.“",
+    "Die ersten Wochen waren mühsam. Fahrkarten druckte er zu Hause aus, in fremden Städten kaufte er sich einen Stadtplan aus Papier. „Verlaufen habe ich mich trotzdem nur einmal“, sagt er. Schwieriger war es mit den Freunden: Viele verabreden sich nur noch in Gruppen-Chats, und Einladungen erreichten Tim oft erst, wenn er nachfragte. Zwei Geburtstagsfeiern hat er auf diese Weise verpasst. „Ich musste wieder anrufen. Anfangs fanden das alle komisch, dann fanden es alle schön.“",
+    "Nach etwa drei Monaten kamen die ersten Veränderungen. Er las wieder – zwölf Bücher in einem Jahr, so viele wie in den fünf Jahren davor zusammen. Er schlief besser, weil kein Bildschirm mehr neben dem Bett lag. Und er lernte seine Nachbarn kennen: „Wenn man im Hausflur nicht aufs Handy schaut, redet man plötzlich mit den Leuten.“ Langeweile habe er zum ersten Mal seit Jahren wieder gespürt – und sie sei längst nicht so schlimm gewesen wie befürchtet.",
+    "Ganz ohne Internet ging es allerdings nicht. Als Grafiker muss Tim E-Mails schreiben und Dateien mit Kunden austauschen. Dafür nutzte er den Computer im Büro – und ausschließlich dort; seinen Laptop hatte er für das Jahr einem Freund geliehen. „Nach 18 Uhr war ich nicht erreichbar. Meine Kunden haben sich schneller daran gewöhnt als ich selbst.“ Einen Auftrag habe er deswegen nicht verloren, einen aber fast: Eine Agentur hatte ihn an einem Freitagabend angerufen und erst am Montag wieder erreicht. „Der Auftrag kam trotzdem – mit einer Woche Verspätung.“",
+    "Seit Januar hat Tim Berger wieder ein Smartphone. „Auf Dauer geht es nicht ohne, allein wegen der Bankgeschäfte.“ Aber er hat sich Regeln gesetzt: keine sozialen Netzwerke auf dem Handy, der Ton bleibt aus, und nachts liegt das Gerät in der Küche. Nur eine Regel hat er nach wenigen Wochen wieder aufgegeben – das Handy im Büro zu lassen, wenn er mittags essen geht. Ob er das Experiment empfiehlt? „Nicht jedem und nicht für ein ganzes Jahr. Aber zwei Wochen sollte jeder mal probieren. Man erfährt eine Menge über sich selbst.“"
+   ],
+   "source": "",
+   "taskInstruction": "",
+   "items": [
+    {
+     "no": "6",
+     "stem": "Zu dem Experiment entschloss sich Tim Berger, nachdem",
+     "options": {
+      "a": "seine Freundin ihm ein Jahr Verzicht vorgeschlagen hatte.",
+      "b": "er von einer ähnlichen Erfahrung eines anderen gelesen hatte.",
+      "c": "er mit seinen Freunden um zwei Wochen gewettet hatte."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "7",
+     "stem": "Im Kontakt mit Freunden",
+     "options": {
+      "a": "verzichtete Tim darauf, jemanden persönlich anzurufen.",
+      "b": "wurde er von seinen Freunden aus den Chats entfernt.",
+      "c": "erfuhr er von manchen Treffen erst auf eigene Nachfrage."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "8",
+     "stem": "Nach einigen Monaten",
+     "options": {
+      "a": "las Tim in kurzer Zeit so viel wie zuvor in mehreren Jahren.",
+      "b": "fand Tim die neu entstandene Langeweile schwer erträglich.",
+      "c": "schlief Tim schlechter, weil er abends nun länger las als früher."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "9",
+     "stem": "Für seine Arbeit",
+     "options": {
+      "a": "ging Tim nur an einem einzigen Ort ins Internet.",
+      "b": "musste Tim einen Auftrag an eine Agentur abgeben.",
+      "c": "nutzte Tim nach 18 Uhr den Laptop eines Freundes."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "10",
+     "stem": "Seit dem Ende des Experiments",
+     "options": {
+      "a": "benutzt Tim sein Smartphone wieder ohne jede Einschränkung.",
+      "b": "lässt Tim das Handy im Büro, wenn er mittags essen geht.",
+      "c": "rät Tim anderen zu einem kürzeren Verzicht als seinem eigenen."
+     },
+     "answer": "c"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Lesen Sie die Situationen 11–20 und die Anzeigen a–l. Finden Sie für jede Situation die passende Anzeige. Sie können jede Anzeige nur einmal benutzen. Markieren Sie Ihre Lösungen für die Aufgaben 11–20 auf dem Antwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie ein x.",
+   "items": [
+    {
+     "no": "11",
+     "text": "Platten und kaputte Bremsen – übermorgen brauchen Sie Ihr Rad wieder.",
+     "answer": "h"
+    },
+    {
+     "no": "12",
+     "text": "Nachdem Sie die B1-Prüfung bestanden haben, wollen Sie abends weiterlernen.",
+     "answer": "x"
+    },
+    {
+     "no": "13",
+     "text": "Ihre Eltern wollen eine Woche Räder leihen; die Mutter braucht ein E-Bike.",
+     "answer": "b"
+    },
+    {
+     "no": "14",
+     "text": "Verschenken möchten Sie Ihr Sofa, transportieren können Sie es aber nicht.",
+     "answer": "j"
+    },
+    {
+     "no": "15",
+     "text": "Für Ihre dreijährige Tochter suchen Sie zwei Wochen Ferienbetreuung.",
+     "answer": "x"
+    },
+    {
+     "no": "16",
+     "text": "Wie bekommen Sie günstig Schrank und Bett nach Hause, wenn Sie kein Auto haben?",
+     "answer": "g"
+    },
+    {
+     "no": "17",
+     "text": "Der Arzt hat Physiotherapie verschrieben; Zeit haben Sie erst nach 18 Uhr.",
+     "answer": "a"
+    },
+    {
+     "no": "18",
+     "text": "Bevor der Rücken Probleme macht, möchten Sie in einer Gruppe etwas für ihn tun.",
+     "answer": "l"
+    },
+    {
+     "no": "19",
+     "text": "Ein Festmenü kochen lernen – das wäre Ihr Geschenk zum Geburtstag Ihres Partners.",
+     "answer": "d"
+    },
+    {
+     "no": "20",
+     "text": "Spanisch lernen ja – aber nur am Wochenende haben Sie Zeit.",
+     "answer": "i"
+    }
+   ],
+   "infos": [
+    {
+     "letter": "a",
+     "header": "PRAXIS FÜR PHYSIOTHERAPIE AM STADTGARTEN",
+     "tag": "Krankengymnastik · Manuelle Therapie · Massage · Rückentherapie",
+     "title": "Sie haben ein Rezept vom Arzt? Rufen Sie an – Termine auch kurzfristig und abends bis 20 Uhr.",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Damit Sie nach der Arbeit kommen können, behandeln wir Montag bis Freitag bis 20 Uhr, samstags bis 13 Uhr. Einzelbehandlung in ruhigen Räumen, alle Kassen und privat. Nach jeder Behandlung bekommen Sie Übungen für zu Hause. Hausbesuche nach Absprache, Praxis barrierefrei mit Aufzug."
+     ],
+     "footer": "Mo–Fr 7–20 Uhr, Sa 8–13 Uhr · Tel. 0761 / 12 12 12",
+     "design": "greyband"
+    },
+    {
+     "letter": "b",
+     "header": "RADSTATION",
+     "tag": "",
+     "title": "",
+     "subtitle": "FAHRRADVERLEIH AM HAUPTBAHNHOF",
+     "facts": [
+      "Fahrrad · Tag 12 €, Woche 50 €",
+      "E-Bike · Tag 25 €, Woche 120 €",
+      "Kinderrad, Anhänger · Tag 8 €, Woche 30 €"
+     ],
+     "body": [
+      "Helm, Schloss und Stadtplan inklusive, Einführung für E-Bike-Neulinge kostenlos. Je länger Sie mieten, desto günstiger wird es. Reservierung online empfohlen, besonders in den Ferien. Reparaturen führen wir nur an unseren eigenen Leihrädern durch."
+     ],
+     "footer": "Täglich 8–20 Uhr · Bahnhofsvorplatz, Ausgang Süd · www.radstation-freiburg.de",
+     "design": "mono"
+    },
+    {
+     "letter": "c",
+     "header": "MAMMA ROSA",
+     "tag": "49 € für zwei Personen inkl. Lieferung",
+     "title": "Neu: Geburtstagsmenü frei Haus",
+     "subtitle": "PIZZA · PASTA · SALATE · LIEFERSERVICE",
+     "facts": [],
+     "body": [
+      "Unser Festmenü für zwei zum Geburtstag: Antipasti, hausgemachte Pasta nach Wahl, Dessert und eine Flasche Wein – mit Kerze und Glückwunschkarte, fertig zubereitet und heiß geliefert. Sie müssen nur den Tisch decken. Lieferung in 40 Minuten im ganzen Stadtgebiet, ab 15 € kostenlos."
+     ],
+     "footer": "Täglich 11–23 Uhr · Tel. 0761 / 44 44 44 · Bestellung auch über unsere App",
+     "design": "badge"
+    },
+    {
+     "letter": "d",
+     "header": "Kochschule Löffel",
+     "tag": "",
+     "title": "",
+     "subtitle": "Kurs „Menü für zwei“ – kochen lernen für besondere Anlässe",
+     "facts": [
+      "Samstag 16–20 Uhr · 79 € inkl. Zutaten, Rezeptheft und einem Glas Wein",
+      "Auch als Geschenkgutschein · Weitere Kurse: Italienisch, Brot backen, vegetarische Küche"
+     ],
+     "body": [
+      "Lernen Sie an einem Nachmittag ein festliches 3-Gänge-Menü, das Sie zu Hause sicher nachkochen können – von der Vorspeise bis zum Dessert, mit Tipps zu Einkauf, Zeitplan und Tischdekoration. Für Anfänger, keine Vorkenntnisse nötig, maximal 10 Personen. Am Ende essen wir gemeinsam."
+     ],
+     "footer": "Kaiserstr. 30 · Tel. 0761 / 23 23 23 · www.kochschule-loeffel.de",
+     "design": "hotel"
+    },
+    {
+     "letter": "e",
+     "header": "KINDERBETREUUNG",
+     "tag": "KLEINANZEIGEN",
+     "title": "",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Tagesmutter (mit Zertifikat) betreut Kinder von 1 bis 3 Jahren in kleiner Gruppe, Mo–Fr 7.30–15 Uhr, in einem Haus mit Garten in Herdern. Gesundes Mittagessen, viel Bewegung draußen, feste Rituale. Nur feste Plätze mit Vertrag (mindestens 6 Monate), keine Ferien- oder Notbetreuung. Zwei Plätze frei ab Januar. Tel. 0761 / 78 78 78",
+      "Babysitter gesucht für zwei Abende pro Monat, Kinder 4 und 7, Nähe Stühlinger, 12 €/Std., Tel. 0170 / 11 22 33 44",
+      "Kinderwagen, Kombi, dunkelblau, sehr gut erhalten, 120 €, Tel. 0761 / 40 40 40"
+     ],
+     "footer": "",
+     "design": "classified"
+    },
+    {
+     "letter": "f",
+     "header": "SPRACHSCHULE DIALOG",
+     "tag": "BERTOLDSTR. 8",
+     "title": "Deutsch am Abend",
+     "subtitle": "",
+     "facts": [
+      "A2 · Mo + Mi 18.30–20.30 Uhr, Start 6. Oktober, 12 Wochen · 390 €",
+      "B1 · Di + Do 18.30–20.30 Uhr, Start 7. Oktober, 12 Wochen · 390 €",
+      "B2 · nur als Intensivkurs vormittags, Mo–Fr 9–12 Uhr · 480 €"
+     ],
+     "body": [
+      "Sie arbeiten tagsüber? Bei uns lernen Sie abends – in kleinen Gruppen mit höchstens 8 Teilnehmern, viel Sprechen, Prüfungsvorbereitung inklusive. Einstufungstest kostenlos."
+     ],
+     "footer": "Abendkurse für B2 und C1 bieten wir zurzeit nicht an. · Tel. 0761 / 90 90 90",
+     "design": "inst"
+    },
+    {
+     "letter": "g",
+     "header": "Möbelkiste",
+     "tag": "",
+     "title": "",
+     "subtitle": "SECOND HAND · INDUSTRIESTR. 4 · 400 M² AUSSTELLUNG",
+     "facts": [
+      "Betten, Schränke, Tische, Sofas, Regale ab 20 €",
+      "Lieferung in Freiburg 25 €",
+      "Lieferung mit Aufbau 45 €"
+     ],
+     "body": [
+      "Alles geprüft, gereinigt und sofort verfügbar, jede Woche neue Ware. Lieferung meist am nächsten Tag, bis in die Wohnung. Ankauf gebrauchter Möbel nur bei Anlieferung in unser Lager, Barzahlung sofort. Studierende erhalten 10 % Rabatt."
+     ],
+     "footer": "Mo–Sa 10–18 Uhr · Tel. 0761 / 31 31 31",
+     "design": "corp"
+    },
+    {
+     "letter": "h",
+     "header": "VELO-DOKTOR",
+     "tag": "",
+     "title": "",
+     "subtitle": "FAHRRADWERKSTATT · HABSBURGERSTR. 12",
+     "facts": [
+      "Platten flicken 12 €",
+      "Bremsen einstellen / Beläge ab 15 €",
+      "Frühjahrs-Check komplett 39 €"
+     ],
+     "body": [
+      "Reparaturen aller Art: Platten, Bremsen, Schaltung, Licht, Kette – für alle Marken, auch E-Bikes. Ersatzteile auf Lager, deshalb Express-Service: heute gebracht, morgen fertig (Platten oft sofort, 12 €). Kostenvoranschlag vorher, Festpreise. Wer wartet, bekommt einen Kaffee."
+     ],
+     "footer": "Di–Sa 9–18 Uhr, Montag geschlossen · Tel. 0761 / 27 27 27",
+     "design": "dashed"
+    },
+    {
+     "letter": "i",
+     "header": "KURSE",
+     "tag": "KLEINANZEIGEN",
+     "title": "",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Deutsch B2 – Intensivkurs. Mo–Fr 9–12.30 Uhr, 8 Wochen, Start 13. Oktober, 480 € inkl. Lehrbuch, Einstufung kostenlos. Volkshochschule Freiburg, Tel. 0761 / 36 36 36",
+      "¡Hola! Spanisch für Anfänger (A1). Samstags 10–13 Uhr, 10 Wochen, 160 €. Lehrerin aus Madrid, kleine Gruppe (max. 8), viel Sprechen von der ersten Stunde an, Material inklusive. Start nach den Herbstferien, Schnupperstunde kostenlos. Tel. 0176 / 99 88 77 66",
+      "Gitarrenunterricht für Erwachsene, Di abends, 25 €/Std., Tel. 0761 / 50 50 50"
+     ],
+     "footer": "",
+     "design": "classified"
+    },
+    {
+     "letter": "j",
+     "header": "Verein Neustart",
+     "tag": "",
+     "title": "",
+     "subtitle": "Möbelspende? Wir holen ab!",
+     "facts": [],
+     "body": [
+      "Gut erhaltene Möbel holen wir kostenlos bei Ihnen ab – Sofas, Betten, Schränke, Tische, Stühle, auch Haushaltsgeräte. Unsere Fahrer kommen mit dem Transporter zum vereinbarten Termin, tragen die Möbel hinunter, und Sie bekommen eine Spendenquittung. Die Möbel geben wir über das Sozialamt an bedürftige Familien weiter (Abgabe nur mit Berechtigungsschein). Bitte schicken Sie uns vorher ein Foto per WhatsApp."
+     ],
+     "footer": "Tel. 0761 / 55 66 77, Mo–Fr 9–16 Uhr · www.neustart-freiburg.de",
+     "design": "logo",
+     "deco": {
+      "ini": "N"
+     }
+    },
+    {
+     "letter": "k",
+     "header": "",
+     "tag": "Für Kinder von 6 bis 12 Jahren",
+     "title": "Sommerferien!",
+     "subtitle": "FERIENPROGRAMM DER STADT FREIBURG",
+     "facts": [],
+     "body": [
+      "Zwei Wochen Sport, Basteln, Theater und Ausflüge in den Schwarzwald, Mo–Fr 8–16 Uhr, mit Mittagessen und Getränken. Betreuung durch ausgebildete Pädagogen, Gruppen nach Alter. 120 € pro Woche, Geschwisterkind 90 €, Ermäßigung mit Familienpass. Anmeldung bis 15. Juni online, die Plätze sind begrenzt."
+     ],
+     "footer": "Info-Abend für Eltern: 5. Juni, 19 Uhr, Rathaus · www.freiburg.de/ferien",
+     "design": "stripes"
+    },
+    {
+     "letter": "l",
+     "header": "Rückenfit",
+     "tag": "VHS GESUNDHEIT",
+     "title": "Übungen für einen starken Rücken",
+     "subtitle": "",
+     "facts": [
+      "Montag 19–20 Uhr, 10 Abende · 65 €",
+      "Teilnehmer · max. 12",
+      "Leitung · Physiotherapeutin"
+     ],
+     "body": [
+      "Gruppe für alle, die viel sitzen und Beschwerden vorbeugen möchten: Kräftigung, Dehnung, Haltung im Alltag. Bitte bequeme Kleidung und Handtuch mitbringen, Matten sind vorhanden. Vorbeugung, kein Ersatz für eine ärztliche Behandlung – bei akuten Schmerzen bitte zuerst zum Arzt."
+     ],
+     "footer": "Anmeldung: vhs-freiburg.de oder Tel. 0761 / 36 36 36 · Kursraum: VHS, Rotteckring 12",
+     "design": "mono"
+    }
+   ]
+  },
+  "sb1": {
+   "instruction": "Lesen Sie den Text und schließen Sie die Lücken 21–30. Welche Lösung (a, b oder c) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 21–30 auf dem Antwortbogen.",
+   "paragraphs": [
+    "Sehr geehrte Frau Neumann,",
+    "auf der Suche {{21}} einer Ferienwohnung am Bodensee bin ich im Internet auf Ihr Angebot in Meersburg gestoßen, {{22}} mich sehr angesprochen hat. Meine Familie und ich beabsichtigen, vom 5. bis zum 19. August zwei Wochen in der Region zu verbringen. Wir sind vier Personen: mein Mann, ich und unsere beiden Kinder {{23}} Alter von 6 und 9 Jahren.",
+    "{{24}} Beschreibung nach verfügt die Wohnung über zwei Schlafzimmer. Gibt es darüber hinaus einen abschließbaren Raum, in {{25}} wir unsere Fahrräder sicher unterbringen können? Da wir unseren kleinen Hund mitnehmen möchten, wäre es außerdem hilfreich zu wissen, {{26}} Haustiere bei Ihnen gestattet sind.",
+    "Könnten Sie mir bitte mitteilen, ob die Wohnung im genannten Zeitraum noch frei ist und {{27}} sich der Preis für zwei Wochen beläuft? {{28}} sie bereits vergeben sein, kämen wir {{29}} auch eine Woche später.",
+    "Ich {{30}} Ihnen für eine baldige Rückmeldung sehr verbunden.",
+    "Mit freundlichen Grüßen\nSabine Kowalczyk"
+   ],
+   "items": [
+    {
+     "no": "21",
+     "options": {
+      "a": "für",
+      "b": "nach",
+      "c": "zu"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "22",
+     "options": {
+      "a": "das",
+      "b": "was",
+      "c": "dem"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "23",
+     "options": {
+      "a": "in",
+      "b": "vom",
+      "c": "im"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "24",
+     "options": {
+      "a": "Ihre",
+      "b": "Ihrer",
+      "c": "Ihren"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "25",
+     "options": {
+      "a": "dem",
+      "b": "den",
+      "c": "der"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "26",
+     "options": {
+      "a": "wenn",
+      "b": "dass",
+      "c": "ob"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "27",
+     "options": {
+      "a": "worauf",
+      "b": "wofür",
+      "c": "woran"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "28",
+     "options": {
+      "a": "Falls",
+      "b": "Sollte",
+      "c": "Wäre"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "29",
+     "options": {
+      "a": "jedenfalls",
+      "b": "allenfalls",
+      "c": "notfalls"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "30",
+     "options": {
+      "a": "hätte",
+      "b": "würde",
+      "c": "wäre"
+     },
+     "answer": "c"
+    }
+   ]
+  },
+  "sb2": {
+   "instruction": "Lesen Sie den Text und schließen Sie die Lücken 31–40. Benutzen Sie die Wörter a–o. Jedes Wort passt nur einmal. Markieren Sie Ihre Lösungen für die Aufgaben 31–40 auf dem Antwortbogen.",
+   "title": "",
+   "paragraphs": [
+    "Hallo Daniel,",
+    "vielen Dank für deine Karte aus Portugal! Ich hoffe, du hast dich gut erholt. Bei mir war in den letzten Wochen einiges los: Ich habe meine Abschlussprüfung {{31}}, {{32}} ich in der Nacht davor fast nicht geschlafen hatte. Am Tag der Ergebnisse konnte ich vor {{33}} gar nichts essen. Jetzt bin ich vor allem erleichtert – und ein bisschen stolz.",
+    "Und noch eine Neuigkeit: Ich habe mich bei einem Krankenhaus in Bremen beworben und {{34}} gleich nach dem Gespräch {{35}}. Der Vertrag ist zunächst auf zwei Jahre {{36}}, und {{37}} die Nachtschichten muss ich mich erst noch gewöhnen. In Bremen kenne ich allerdings noch {{38}}, und ich habe noch keine {{39}}, wo ich wohnen werde – bezahlbare Zimmer gibt es in der Stadt kaum. Ein Kollege, {{40}} ich von meiner Suche erzählt habe, will sich umhören. Bis Ende August muss ich auf jeden Fall umziehen.",
+    "Du hast doch erzählt, dass du ein Praktikum in Hamburg machst. Weißt du schon, wann es losgeht? Das wäre nicht weit von Bremen – dann könnten wir uns öfter sehen. Melde dich, sobald du wieder zu Hause bist!",
+    "Liebe Grüße\nNina"
+   ],
+   "words": {
+    "a": "AHNUNG",
+    "b": "AN",
+    "c": "AUF",
+    "d": "AUFGEREGT",
+    "e": "AUFREGUNG",
+    "f": "BEFRISTET",
+    "g": "BESTANDEN",
+    "h": "DEM",
+    "i": "DEN",
+    "j": "EINGESTELLT",
+    "k": "NIEMANDEN",
+    "l": "OBWOHL",
+    "m": "TROTZDEM",
+    "n": "WURDE",
+    "o": "WÜRDE"
+   },
+   "items": [
+    {
+     "no": "31",
+     "answer": "g"
+    },
+    {
+     "no": "32",
+     "answer": "l"
+    },
+    {
+     "no": "33",
+     "answer": "e"
+    },
+    {
+     "no": "34",
+     "answer": "n"
+    },
+    {
+     "no": "35",
+     "answer": "j"
+    },
+    {
+     "no": "36",
+     "answer": "f"
+    },
+    {
+     "no": "37",
+     "answer": "b"
+    },
+    {
+     "no": "38",
+     "answer": "k"
+    },
+    {
+     "no": "39",
+     "answer": "a"
+    },
+    {
+     "no": "40",
+     "answer": "h"
+    }
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. Sie hören diese Texte nur einmal. Entscheiden Sie beim Hören, ob die Aussagen 41–45 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 41–45. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 41–45. Sie haben dazu 30 Sekunden Zeit.",
+   "items": [
+    {
+     "no": "41",
+     "text": "Die Sprecherin ist bei ihren Kindern strenger als bei sich selbst.",
+     "answer": "F"
+    },
+    {
+     "no": "42",
+     "text": "Der Sprecher bereut es, sein Auto verkauft zu haben.",
+     "answer": "F"
+    },
+    {
+     "no": "43",
+     "text": "Die Sprecherin kocht unter der Woche kaum noch frisch.",
+     "answer": "R"
+    },
+    {
+     "no": "44",
+     "text": "Der Sprecher hält Sparen grundsätzlich für überflüssig.",
+     "answer": "F"
+    },
+    {
+     "no": "45",
+     "text": "Für die Sprecherin ist eine große Reise zurzeit wichtiger als eine eigene Wohnung.",
+     "answer": "R"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen. Sie hören das Gespräch zweimal. Entscheiden Sie beim Hören, ob die Aussagen 46–55 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 46–55. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 46–55. Sie haben dazu eine Minute Zeit.",
+   "items": [
+    {
+     "no": "46",
+     "text": "Das Gespräch wird im Radiostudio aufgenommen.",
+     "answer": "F"
+    },
+    {
+     "no": "47",
+     "text": "Herr Feld hat seine erste Ausbildung kurz vor dem Abschluss abgebrochen.",
+     "answer": "R"
+    },
+    {
+     "no": "48",
+     "text": "Sein Onkel hätte ihn nach der Ausbildung gern weiter beschäftigt.",
+     "answer": "R"
+    },
+    {
+     "no": "49",
+     "text": "Herr Feld hat sich schon vor seinem Praktikum viel mit Kindern beschäftigt.",
+     "answer": "F"
+    },
+    {
+     "no": "50",
+     "text": "Als Herr Feld die Ausbildung machte, wurden die Auszubildenden bereits bezahlt.",
+     "answer": "F"
+    },
+    {
+     "no": "51",
+     "text": "In seiner Kita arbeitet außer ihm noch ein Mann.",
+     "answer": "R"
+    },
+    {
+     "no": "52",
+     "text": "Kinder, die sich verletzt haben, wenden sich eher an die Kolleginnen als an ihn.",
+     "answer": "R"
+    },
+    {
+     "no": "53",
+     "text": "Herr Feld hält sein Gehalt für angemessen, weil man davon leben kann.",
+     "answer": "F"
+    },
+    {
+     "no": "54",
+     "text": "Herr Feld hat das Angebot, stellvertretender Leiter zu werden, angenommen.",
+     "answer": "F"
+    },
+    {
+     "no": "55",
+     "text": "Für eine Weiterbildung zur Sprachförderung ist Herr Feld bereits angemeldet.",
+     "answer": "R"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. Sie hören jeden Text zweimal. Entscheiden Sie beim Hören, ob die Aussagen 56–60 richtig oder falsch sind. Markieren Sie Ihre Lösungen für die Aufgaben 56–60 auf dem Antwortbogen. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch.",
+   "readNote": "",
+   "items": [
+    {
+     "no": "56",
+     "text": "Herr Aydin kann sein Auto heute noch bis 20 Uhr abholen.",
+     "answer": "R"
+    },
+    {
+     "no": "57",
+     "text": "Wer einen Sitzplatz reserviert hatte, bekommt im Intercity den gleichen Platz.",
+     "answer": "F"
+    },
+    {
+     "no": "58",
+     "text": "Am Sonntag fahren die Busse vom Messeparkplatz später los als am Samstag.",
+     "answer": "R"
+    },
+    {
+     "no": "59",
+     "text": "Der Film war ursprünglich für 20 Uhr 15 angekündigt.",
+     "answer": "R"
+    },
+    {
+     "no": "60",
+     "text": "Das Training am Freitag findet auf jeden Fall statt.",
+     "answer": "F"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "intro": "",
+  "task": {
+   "lead": "Sie haben von Ihrem Freund Pavel folgende E-Mail erhalten:",
+   "mail": [
+    "Hallo ______,",
+    "stell dir vor, ich habe gestern im Internet eine Stellenanzeige von deiner Firma gesehen – sie suchen jemanden für das Lager, ab sofort! Du weißt ja, dass ich seit drei Monaten etwas Neues suche.",
+    "Wie ist es denn bei euch: Arbeitszeiten, Kollegen, Chef? Und was meinst du, soll ich mich bewerben? Ich habe schon lange keine Bewerbung mehr geschrieben und bin ein bisschen unsicher.",
+    "Melde dich bitte bald, die Anzeige ist nur noch bis Freitag online!",
+    "Viele Grüße\nPavel"
+   ],
+   "instruction": "Antworten Sie auf die E-Mail. Schreiben Sie etwas zu allen vier Punkten:",
+   "points": [
+    "wie die Arbeit in Ihrer Firma ist (Arbeitszeiten, Kollegen …)",
+    "ob Sie Pavel raten, sich zu bewerben, und warum",
+    "Tipps für die Bewerbung",
+    "wie Sie Pavel sonst noch helfen können"
+   ],
+   "closing": "Überlegen Sie sich vor dem Schreiben eine passende Reihenfolge der Punkte, einen passenden Betreff, eine passende Anrede, Einleitung und einen passenden Schluss.",
+   "model": {
+    "label": "Beispiel für eine Antwort, die alle vier Leitpunkte behandelt (ca. 170 Wörter)",
+    "text": "Betreff: Stelle im Lager – bewirb dich!\n\nHallo Pavel,\n\ndas ist ja ein Zufall! Die Arbeit im Lager ist körperlich anstrengend, aber die Stimmung ist gut. Wir arbeiten in zwei Schichten, von 6 bis 14 Uhr oder von 14 bis 22 Uhr, das wechselt jede Woche. Die Kollegen sind hilfsbereit, und unser Chef, Herr Koch, ist streng, aber fair. Überstunden werden bezahlt.\n\nIch finde, du solltest dich unbedingt bewerben. Du hast in Polen schon in einer Spedition gearbeitet, und einen Gabelstaplerschein hast du auch – genau so jemanden suchen sie.\n\nFür die Bewerbung brauchst du nur einen kurzen Lebenslauf und ein Anschreiben. Schreib nicht zu lang und nenne deinen Staplerschein gleich am Anfang. Ein Foto ist nicht nötig. Schick alles als PDF an Frau Berg aus der Personalabteilung, ihre Adresse steht in der Anzeige.\n\nWenn du willst, lese ich deine Bewerbung vorher durch – schick sie mir einfach bis Donnerstag. Und ich sage Herrn Koch morgen, dass du dich bewirbst, das hilft bestimmt. Wenn du zum Gespräch eingeladen wirst, üben wir vorher zusammen.\n\nViel Glück und melde dich!\n\nLiebe Grüße\nElif",
+    "marks": [
+     "",
+     "",
+     "1",
+     "2",
+     "3",
+     "4",
+     "",
+     ""
+    ],
+    "notes": "Leitpunkte\n1 Arbeit in der Firma → Schichten, Kollegen, Chef, Überstunden\n2 Bewerben? Warum? → ja, weil Erfahrung und Staplerschein passen\n3 Tipps → kurzer Lebenslauf, Staplerschein zuerst, PDF an Frau Berg\n4 Weitere Hilfe → Bewerbung durchlesen, mit dem Chef sprechen, Gespräch üben\nAufbau Betreff · Anrede in der du-Form (Freund, informell) · Einleitung mit Bezug auf die E-Mail · Schluss · Grußformel und Name\nBewertung\nI Inhalt: alle vier Leitpunkte, passend zur Situation. Jeder fehlende Leitpunkt kostet eine Stufe.\nII Kommunikative Gestaltung: Register (du), Aufbau, Verknüpfungen wie aber, weil, wenn, und.\nIII Formale Richtigkeit: Fehler dürfen das Verständnis nicht stören.\nTypische Fehler: Leitpunkt 4 (weitere Hilfe) vergessen, weil Pavel nicht danach fragt · „Ja, bewirb dich“ ohne Begründung · Sie statt du bei einem Freund · die Frist (Freitag) ignorieren."
+   }
+  }
+ },
+ "notes": "",
+ "index": {
+  "short": "Ein Jahr ohne Smartphone · Erzieher in der Kita · Abschiedsfeier",
+  "hoeren": {
+   "t1": "Fünf kurze Texte",
+   "t2": "Gespräch mit Herrn Feld: Erzieher in der Kita",
+   "t3": "Fünf kurze Texte"
+  },
+  "sb1": "Anfrage: Ferienwohnung am Bodensee",
+  "sb2": "Brief an Daniel: Abschlussprüfung",
+  "schreiben": "Antwort an Pavel: Stelle im Lager",
+  "sprechen": {
+   "t2": "Urlaub: weit weg oder in der Nähe?",
+   "t3": "Abschied Frau Weber"
+  }
+ }
+}
