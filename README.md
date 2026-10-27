@@ -2,7 +2,7 @@
 
 telc Deutsch B1, B2, C1 Hochschule 모의고사(Modelltest)입니다. 페이퍼 시험(PDF, 듣기 MP3)과 디지털 시험 화면을 함께 제공합니다. Sophia Deutsch Akademie의 SODA Lehrwerk 목차에서 열립니다.
 
-용량 한도(GitHub Pages 1 GB) 때문에 Goethe와 telc는 저장소를 나눴습니다. Goethe 모의고사는 `SODA-ZERTIFIKAT` 저장소에 있습니다.
+용량 한도(GitHub Pages 1 GB) 때문에 Goethe와 telc는 저장소를 나눴습니다. Goethe 모의고사는 `SODA-Goethe` 저장소에 있습니다.
 
 | 폴더 | 내용 |
 |---|---|
