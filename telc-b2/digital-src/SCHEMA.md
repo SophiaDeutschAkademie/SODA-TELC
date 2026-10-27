@@ -74,7 +74,7 @@ Run `python3 digital-src/validate.py N` until it prints `OK` and the coverage re
   "items": [ { "no": "6", "stem": "Für Frau Behrens ist das Gespräch beim Bäcker", "options": { "a": "ein Ritual, …", "b": "…", "c": "…" }, "answer": "a" } ]
 }
 ```
-- `kind` is `"article"` or `"interview"`. For an interview, `paragraphs` entries are objects `{ "q": true, "text": "…?" }` for the interviewer's questions and `{ "text": "…" }` for the answers (as printed; keep the speaker label out unless it is printed in the text). For an article use plain strings.
+- `kind` is `"article"` or `"interview"`. For an interview, `paragraphs` entries are objects `{ "q": true, "text": "…?" }` for the interviewer's questions and `{ "text": "…" }` for the answers (as printed; keep the speaker label out unless it is printed in the text). For an article use plain strings; printed subheadings inside the article (e.g. `Ein Fenster in die Kindheit`) are objects `{ "h": "Ein Fenster in die Kindheit" }` placed between the paragraphs (used in Modelltest VI).
 - `lead` = the printed lead/teaser line(s) below the title (`""` if none); `source` = printed source line (`""` if none).
 - The stem is printed without the item number. Keep a trailing `…` if one is printed.
 

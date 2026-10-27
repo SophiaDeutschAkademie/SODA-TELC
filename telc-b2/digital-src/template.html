@@ -108,6 +108,7 @@ mark.hl{background:var(--mark);color:inherit;border-radius:2px;padding:0 1px}
 .blog p,.art p,.doc p{margin:0 0 .75em}
 .blog .cl{margin-top:.6em}
 .art .lead{font-weight:600;color:var(--ink-2);margin-bottom:12px}
+.art .sh{font-size:1em;font-weight:700;line-height:1.3;margin:1.1em 0 .35em}
 .art .src{text-align:right;font-size:.85em;color:var(--muted);margin-top:8px}
 .art .fn{font-size:.85em;color:var(--muted);margin-top:8px}
 /* ---------- Anzeigen (Lesen Teil 3): jede Anzeige mit eigenem Layout ---------- */
@@ -742,6 +743,7 @@ details summary{cursor:pointer;font-weight:700;font-size:14px;color:var(--acc-2)
   function articleHTML(t) {
     var body = (t.paragraphs || []).map(function (p) {
       if (typeof p === 'string') return '<p>' + esc(p) + '</p>';
+      if (p.h) return '<h4 class="sh">' + esc(p.h) + '</h4>';
       return '<p' + (p.q ? ' class="iq"' : '') + '>' + esc(p.text) + '</p>';
     }).join('');
     return '<article class="card art"><h3>' + esc(t.title) + '</h3>' + (t.lead ? '<p class="lead">' + esc(t.lead) + '</p>' : '') + body +

@@ -1,0 +1,776 @@
+{
+ "id": 6,
+ "roman": "VI",
+ "lesen": {
+  "t1": {
+   "instruction": "Lesen Sie zuerst die zehn Überschriften. Lesen Sie dann die fünf Texte und entscheiden Sie, welche Überschrift (a–j) am besten zu welchem Text (1–5) passt. Tragen Sie Ihre Lösungen in den Antwortbogen bei den Aufgaben 1–5 ein.",
+   "headlines": [
+    {
+     "letter": "a",
+     "text": "Abfall in der Mensa um ein Viertel gesunken"
+    },
+    {
+     "letter": "b",
+     "text": "Ein Theaterstück, das durch die Stadt fährt"
+    },
+    {
+     "letter": "c",
+     "text": "Eine Metzgerei ohne Fleisch"
+    },
+    {
+     "letter": "d",
+     "text": "Erst prüfen lassen, dann in die Pfanne"
+    },
+    {
+     "letter": "e",
+     "text": "Gesammelte Pilze in der Apotheke prüfen lassen"
+    },
+    {
+     "letter": "f",
+     "text": "In der Mensa bestimmt die Waage den Preis"
+    },
+    {
+     "letter": "g",
+     "text": "Jeder dritte Kleinstädter hört Hauskonzerte"
+    },
+    {
+     "letter": "h",
+     "text": "Lärm verdirbt den Theaterabend in der Bahn"
+    },
+    {
+     "letter": "i",
+     "text": "Livemusik zwischen Sofa und Bücherregal"
+    },
+    {
+     "letter": "j",
+     "text": "Wurst ohne Fleisch vom Traditionsmetzger"
+    }
+   ],
+   "texts": [
+    {
+     "no": "1",
+     "paragraphs": [
+      "Um fünf Uhr morgens steht Holger Rasch in seiner Wurstküche, so wie früher sein Vater und sein Großvater. Seit 1952 gibt es die Metzgerei Rasch in Ebersdorf, und lange lief das Geschäft gut. Doch vor einigen Jahren bemerkte der 52-Jährige, dass immer weniger junge Familien bei ihm einkauften. „Viele wollten weniger Fleisch essen, aber nicht auf Qualität verzichten“, erzählt er. Also begann er zu experimentieren: mit Linsen, Erbsen und Pilzen und mit den Gewürzen, die er sonst für seine Bratwurst verwendet. Die ersten Versuche landeten im Müll, weil die Konsistenz nicht stimmte. Erst nach fast einem Jahr war er zufrieden; seine Frau, die im Laden bedient, durfte als Erste probieren. Heute nimmt die vegetarische Auswahl etwa ein Drittel der Theke ein: Bratlinge, Aufstriche und eine Grillwurst aus Erbsen, die im Sommer sein meistverkauftes Produkt ist. Fleisch und Wurst bietet er weiterhin an; das Rindfleisch kommt von zwei Höfen aus der Umgebung. Manche Stammkunden schüttelten anfangs den Kopf, einer sprach sogar von Verrat am Handwerk. Ausgerechnet dieser Kunde kauft die Erbsenwurst inzwischen für seine Enkelin. Rasch selbst sieht im vegetarischen Angebot keinen Widerspruch zu seinem Handwerk. „Ein Metzger ist jemand, der weiß, wie man Geschmack macht“, sagt er. „Ob am Anfang ein Schwein steht oder eine Erbse, spielt dabei keine so große Rolle.“ Seine Kurse, in denen er zeigt, wie man vegetarische Würste selbst herstellt, sind regelmäßig ausgebucht. Und seit Kurzem hat er wieder einen Auszubildenden – den ersten seit sieben Jahren."
+     ]
+    },
+    {
+     "no": "2",
+     "paragraphs": [
+      "Eine Straßenbahn als Bühne – das hat es in Magdeburg noch nicht gegeben. Das Ensemble Weichenstellung zeigt sein Stück „Nächster Halt: Liebe“ in einer historischen Bahn, die eine Stunde lang durch die Stadt fährt. Das Publikum sitzt mittendrin: Wer einsteigt, weiß zunächst nicht, wer Fahrgast ist und wer Schauspieler. Gespielt wird zwischen den Sitzreihen, manchmal direkt neben dem eigenen Platz. An mehreren Haltestellen steigt eine neue Figur zu und bringt ihre Geschichte mit – eine frisch verliebte Studentin, ein Rentner auf dem Weg zum Arzt, eine Kontrolleurin, die von einem anderen Leben träumt. Die vier Darstellerinnen und Darsteller spielen mit großer Genauigkeit und viel Humor, und die vorbeiziehende Stadt wird ganz nebenbei zur Kulisse. Ein Problem ist allerdings die Akustik: Wenn die Bahn bremst oder über Weichen fährt, gehen ganze Sätze im Lärm unter, besonders in den hinteren Reihen. Hier sollte das Ensemble mit kleinen Mikrofonen nachbessern. Auch das Ende wirkt etwas überhastet, weil die Fahrt pünktlich am Depot enden muss. Trotzdem lohnt sich der Abend unbedingt, denn selten war Theater seinem Publikum so nah. Man steigt am Ende aus und sieht die eigene Stadt mit anderen Augen. Wer eine Karte möchte, muss allerdings schnell sein: Pro Fahrt gibt es nur 30 Plätze, und die Vorstellungen im Oktober sind bereits ausverkauft."
+     ]
+    },
+    {
+     "no": "3",
+     "paragraphs": [
+      "Auf dem Tisch im Foyer des Naturkundemuseums liegen Steinpilze, Maronen und ein kräftiger Pilz mit weißen Lamellen. Gisela Hornung nimmt ihn in die Hand, dreht ihn um und riecht daran. „Den werfen Sie bitte gleich weg“, sagt sie zu dem jungen Mann vor ihr. „Das ist ein Knollenblätterpilz.“ Der Mann wird blass. Er hatte den Pilz für einen Champignon gehalten. Jeden Montag im Herbst bietet die pensionierte Biologielehrerin in Schmalkalden eine kostenlose Pilzberatung an; sie selbst sammelt seit über 30 Jahren. Wer gesammelt hat, kann seinen Korb vorbeibringen und jeden einzelnen Pilz bestimmen lassen. Früher übernahmen das häufig Apotheken, heute tun das nur noch wenige; umso gefragter sind ehrenamtliche Pilzsachverständige wie Hornung. An einem guten Tag kommen bis zu 40 Leute; manche bringen einen einzigen Pilz, andere zwei volle Körbe. Viele sind Anfänger, die sich auf Bücher oder Apps verlassen. „Eine App kann einen ersten Hinweis geben, aber sie sieht den Pilz meist nur von oben“, sagt Hornung. Entscheidend seien oft Merkmale, die man nur erkennt, wenn man den Pilz vollständig aus dem Boden dreht, etwa eine Knolle am Fuß. In fast jedem zweiten Korb findet sie mindestens einen Pilz, der nicht essbar ist. Die meisten davon sind nur ungenießbar, einige aber lebensgefährlich. Hornung rät deshalb, nur Arten zu sammeln, die man sicher kennt, und Pilze nicht in Plastiktüten zu transportieren, weil sie darin schnell verderben. Geld bekommt sie für ihre Arbeit nicht. Doch wenn sie an das Gesicht des jungen Mannes denkt, weiß sie, warum sie jeden Montag hier sitzt. „Er hat sich bedankt und versprochen, nächste Woche wiederzukommen – mit vollem Korb.“"
+     ]
+    },
+    {
+     "no": "4",
+     "paragraphs": [
+      "Sofa beiseiteschieben, Stühle aus der Küche holen – schon wird das Wohnzimmer zur Bühne: Private Hauskonzerte sind gefragt wie nie. Über die Plattform „Sofaklang“ wurden im vergangenen Jahr rund 1.800 Konzerte in Wohnungen, Gärten und Hinterhöfen vermittelt, fast doppelt so viele wie drei Jahre zuvor. Das Prinzip ist einfach: Gastgeber melden ihre Wohnung an, Musikerinnen und Musiker bewerben sich, und die Plattform bringt beide zusammen. Eintritt wird nicht verlangt; stattdessen geht am Ende ein Hut herum, und im Schnitt kommen so 15 Euro pro Gast zusammen. Die Adresse erfahren die Besucher erst kurz vor dem Konzert, und viele Gastgeber backen Kuchen oder stellen Getränke bereit. Bemerkenswert ist der Ort der Konzerte: Inzwischen findet jedes dritte nicht in einer Großstadt statt, sondern in einer Kleinstadt oder auf dem Land, wo es oft kaum noch Kneipen mit Livemusik gibt. Für junge Bands ist das eine Chance, neues Publikum zu gewinnen, für die Gastgeber ein besonderer Abend mit Musik aus nächster Nähe. Die Liedermacherin Lotte Kolbeck hat im Sommer 22 Wohnzimmerkonzerte gegeben. „Die Leute hören so aufmerksam zu wie selten in einem Club“, sagt sie. „Niemand bestellt nebenbei ein Bier oder schaut aufs Handy.“ Reich wird sie davon nicht, aber die Abende bringen ihr neue Fans und oft auch Anfragen für größere Auftritte."
+     ]
+    },
+    {
+     "no": "5",
+     "paragraphs": [
+      "In der Mensa am Nordcampus der Hochschule Elbaue bezahlen Studierende ihr Mittagessen seit Oktober nicht mehr pro Gericht, sondern nach Gewicht. Sie stellen sich ihren Teller an verschiedenen Theken selbst zusammen; an der Kasse wird gewogen. 100 Gramm kosten 1,10 Euro, das Gewicht des Tellers wird automatisch abgezogen. Ob Gemüse, Nudeln oder Fleisch, spielt dabei keine Rolle, denn es gibt nur einen Preis. Wer wenig Hunger hat, zahlt dadurch oft weniger als früher für ein festes Menü. Das Studierendenwerk hofft vor allem, dass weniger Essen im Müll landet, denn bisher blieb auf vielen Tellern ein Viertel der Portion liegen. Ob das gelingt, soll eine Testphase bis zum Ende des Wintersemesters zeigen; danach entscheidet der Verwaltungsrat, ob das System auch an den anderen Standorten eingeführt wird. Die ersten Rückmeldungen sind gemischt: Viele loben die größere Auswahl, einige Sportstudierende beschweren sich dagegen über höhere Kosten."
+     ]
+    }
+   ],
+   "items": [
+    {
+     "no": "1",
+     "answer": "j"
+    },
+    {
+     "no": "2",
+     "answer": "b"
+    },
+    {
+     "no": "3",
+     "answer": "d"
+    },
+    {
+     "no": "4",
+     "answer": "i"
+    },
+    {
+     "no": "5",
+     "answer": "f"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Lesen Sie zuerst den Artikel und lösen Sie dann die Aufgaben 6–10 zu dem Text.",
+   "kind": "article",
+   "title": "Der unterschätzte Sinn",
+   "lead": "Wir verlassen uns vor allem auf Augen und Ohren. Dabei beeinflusst die Nase, was wir essen, woran wir uns erinnern und sogar wie wir einkaufen. Erst wenn sie ausfällt, merken viele, wie wichtig sie ist.",
+   "paragraphs": [
+    "Als Nadja Brückner im Frühjahr eine schwere Erkältung überstanden hatte, fehlte etwas. Der Kaffee schmeckte nach heißem Wasser, ihr Lieblingsparfüm war wie verschwunden, und einmal bemerkte sie erst durch den Rauchmelder, dass ihr das Essen angebrannt war. „Man fühlt sich, als würde man hinter einer Glasscheibe leben“, sagt die 34-Jährige. Erst nach vier Monaten kehrte ihr Geruchssinn langsam zurück – zuerst bei Zitronen, später auch beim Kaffee.",
+    {
+     "h": "Ein Fenster in die Kindheit"
+    },
+    "Dass Gerüche so stark auf uns wirken, hat mit dem Aufbau des Gehirns zu tun. Riechsignale gelangen ohne Umweg in Bereiche, die für Gefühle und Erinnerungen zuständig sind. Deshalb kann der Duft von Sonnencreme schlagartig einen Urlaub wieder lebendig werden lassen, der Jahrzehnte zurückliegt. Eine Studie hat gezeigt, dass Gerüche vor allem Erinnerungen aus den ersten zehn Lebensjahren wachrufen, während Wörter oder Bilder eher an spätere Erlebnisse erinnern. Solche Duft-Erinnerungen sind außerdem besonders gefühlsbeladen.",
+    {
+     "h": "Eine Billion Düfte?"
+    },
+    "Wie viele Gerüche der Mensch unterscheiden kann, ist umstritten. Lange hieß es, etwa 10.000. Eine viel beachtete Studie aus den USA kam 2014 sogar auf mehr als eine Billion. Andere Wissenschaftler halten diese Zahl allerdings für das Ergebnis einer fragwürdigen Rechenmethode. „Sicher ist nur, dass unsere Nase viel besser ist als ihr Ruf“, sagt die Riechforscherin Katrin Seebald. In einem Experiment konnten Versuchspersonen sogar einer Duftspur über eine Wiese folgen – ähnlich wie ein Hund, wenn auch deutlich langsamer.",
+    {
+     "h": "Wenn die Nase streikt"
+    },
+    "Etwa jeder Fünfte riecht schlechter als üblich, oft ohne es zu wissen. Häufige Ursachen sind Infekte, Kopfverletzungen und das Alter. Für Betroffene bedeutet das mehr als einen Verlust an Genuss: Wer verdorbene Lebensmittel oder Gas nicht riecht, lebt gefährlicher, und viele essen weniger oder zu salzig. Helfen kann ein Riechtraining. Dabei schnuppert man mehrere Monate lang zweimal täglich bewusst an vier Düften, meist Rose, Zitrone, Eukalyptus und Gewürznelke. Studien zeigen, dass sich der Geruchssinn damit häufiger erholt als ohne Training; eine Garantie ist das allerdings nicht. Auch Nadja Brückner hat trainiert, morgens und abends. Ob ihr das geholfen hat oder ob sich ihre Nase auch von selbst erholt hätte, weiß sie nicht.",
+    {
+     "h": "Düfte im Laden"
+    },
+    "Auch der Handel hat die Nase entdeckt. Manche Geschäfte verbreiten gezielt Düfte, damit sich Kundinnen und Kunden wohlfühlen und länger bleiben. Einige Hotelketten haben sogar einen eigenen Duft, der in allen ihren Häusern gleich ist. Ob das tatsächlich zu höheren Umsätzen führt, ist allerdings kaum belegt; in einigen Untersuchungen schreckten zu starke Gerüche die Kundschaft sogar ab. Wichtig ist offenbar, dass der Duft zum Angebot passt: Der Geruch von frischem Brot hilft einer Bäckerei, in einem Elektronikmarkt dagegen wirkt er eher seltsam.",
+    {
+     "h": "Die Nase trainieren"
+    },
+    "Seebald rät, den Geruchssinn auch ohne Beschwerden zu fordern. Wer beim Kochen an Kräutern und Gewürzen riecht und versucht, die Düfte zu benennen, schärft seine Wahrnehmung. Hilfreich ist auch ein kleines Duft-Tagebuch: Wie riecht der Wald nach einem Gewitter, wie die Bäckerei am Morgen? „Die meisten Menschen können Gerüche gut unterscheiden, aber kaum beschreiben“, sagt die Forscherin. „Uns fehlen schlicht die Wörter.“ Nadja Brückner bleibt seit ihrer Erkrankung öfter stehen und riecht – an frisch gemähtem Gras, an frisch gebackenem Kuchen, an ihrem Kaffee."
+   ],
+   "source": "",
+   "taskInstruction": "Lösen Sie die Aufgaben 6–10. Entscheiden Sie, welche Lösung (a, b oder c) richtig ist, und tragen Sie Ihre Lösung in den Antwortbogen bei den Aufgaben 6–10 ein.",
+   "items": [
+    {
+     "no": "6",
+     "stem": "Nadja Brückner",
+     "options": {
+      "a": "roch nach einem Infekt lange kaum etwas.",
+      "b": "bemerkte angebranntes Essen sofort am Geruch.",
+      "c": "nahm als Erstes wieder den Duft von Kaffee wahr."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "7",
+     "stem": "Gerüche",
+     "options": {
+      "a": "erreichen das Gehirn auf Umwegen.",
+      "b": "erinnern die meisten Menschen vor allem an ihren letzten Urlaub.",
+      "c": "wecken häufig Erinnerungen an die Kindheit."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "8",
+     "stem": "Die Zahl von über einer Billion Düften",
+     "options": {
+      "a": "stammt aus einem Versuch mit Hunden.",
+      "b": "wird von anderen Forschern angezweifelt.",
+      "c": "wurde von späteren Untersuchungen eindeutig bestätigt."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "9",
+     "stem": "Ein Riechtraining",
+     "options": {
+      "a": "zeigt in der Regel schon nach wenigen Tagen eine deutliche Wirkung.",
+      "b": "erhöht die Chance, den Geruchssinn zurückzugewinnen.",
+      "c": "hat Nadja Brückner sicher geholfen."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "10",
+     "stem": "Katrin Seebald empfiehlt,",
+     "options": {
+      "a": "Geschäfte mit aufdringlichen Düften zu meiden.",
+      "b": "mit einem Riechtraining erst bei Beschwerden zu beginnen.",
+      "c": "den Geruchssinn im Alltag gezielt zu schulen."
+     },
+     "answer": "c"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Lesen Sie zuerst die zehn Situationen (11–20) und dann die zwölf Info-Texte (a–l). Welcher Info-Text passt zu welcher Situation? Sie können jeden Info-Text nur einmal verwenden. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 11–20. Manchmal gibt es keine Lösung. Markieren Sie dann x.",
+   "items": [
+    {
+     "no": "11",
+     "text": "Ein Bekannter will für den Umzug ein Transportrad leihen.",
+     "answer": "a"
+    },
+    {
+     "no": "12",
+     "text": "Ein Freund braucht als Berufsanfänger Hilfe bei den Steuern.",
+     "answer": "k"
+    },
+    {
+     "no": "13",
+     "text": "Ihr Onkel will wissen, wie hoch seine Rente sein wird.",
+     "answer": "l"
+    },
+    {
+     "no": "14",
+     "text": "Ihr Vater (72) will beim Autofahren wieder sicherer werden.",
+     "answer": "h"
+    },
+    {
+     "no": "15",
+     "text": "Ihre Großmutter will mit ihrer Gehhilfe wieder sicher Bus fahren.",
+     "answer": "i"
+    },
+    {
+     "no": "16",
+     "text": "Ihre Kollegin (35) will endlich Rad fahren können.",
+     "answer": "b"
+    },
+    {
+     "no": "17",
+     "text": "Ihre Nachbarin zweifelt die Betriebskostenabrechnung ihres Vermieters an.",
+     "answer": "e"
+    },
+    {
+     "no": "18",
+     "text": "Ihre Schwester möchte herausfinden, wofür sie ihr Geld ausgibt.",
+     "answer": "d"
+    },
+    {
+     "no": "19",
+     "text": "Ihre Tochter wohnt zur Miete und sucht kostenlose Heiztipps.",
+     "answer": "x"
+    },
+    {
+     "no": "20",
+     "text": "Sie möchten gelegentlich selbst Auto fahren, aber kein eigenes kaufen.",
+     "answer": "f"
+    }
+   ],
+   "infos": [
+    {
+     "letter": "a",
+     "header": "",
+     "tag": "",
+     "title": "LASTENRAD GRATIS LEIHEN",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Ein Umzug in der Nachbarschaft, der Großeinkauf oder ein Ausflug mit zwei Kindern? Unser Lastenrad „Emil“ trägt bis zu 80 Kilo und hat einen Elektromotor, der auch am Berg hilft. Sie können es kostenlos für bis zu drei Tage ausleihen; über eine kleine Spende für Reparaturen freuen wir uns trotzdem. Gebucht wird über unsere Internetseite, abgeholt im Fahrradladen am Hasselbachplatz. Denken Sie bitte an Ihren Personalausweis. Wer zum ersten Mal fährt, bekommt eine kurze Einweisung."
+     ],
+     "footer": "Buchung: www.emil-lastenrad.de · Abholung Mo–Sa ab 9 Uhr"
+    },
+    {
+     "letter": "b",
+     "header": "",
+     "tag": "",
+     "title": "Radfahren lernen",
+     "subtitle": "Ein Kurs für Erwachsene",
+     "facts": [],
+     "body": [
+      "Sie haben als Kind nie Rad fahren gelernt oder sich lange nicht mehr aufs Rad getraut? In unserem Kurs üben Sie in kleinen Gruppen auf einem abgesperrten Schulhof, ganz ohne Zeitdruck. Zuerst geht es um das Gleichgewicht, dann um Bremsen, Kurven und Handzeichen. Zum Schluss fahren wir gemeinsam eine kurze Strecke im Straßenverkehr. Fahrräder und Helme stellen wir, eigene dürfen Sie gern mitbringen. Der Kurs hat sechs Termine, jeweils samstags von 10 bis 12 Uhr, und kostet 40 Euro."
+     ],
+     "footer": "Familienbildungsstätte Elbaue · Tel. 0391 / 26 41 50"
+    },
+    {
+     "letter": "c",
+     "header": "",
+     "tag": "",
+     "title": "Mitfahrbank",
+     "subtitle": "HINSETZEN UND MITFAHREN",
+     "facts": [],
+     "body": [
+      "Sie möchten von Westerhüsen in die Stadt, aber der nächste Bus fährt erst in einer Stunde? Dann setzen Sie sich auf eine unserer roten Mitfahrbänke und zeigen mit einem Schild an, wohin Sie wollen. Autofahrerinnen und Autofahrer aus dem Ort, die in dieselbe Richtung fahren, halten an und nehmen Sie mit. Das Mitfahren kostet nichts. Inzwischen gibt es fünf Bänke, unter anderem vor dem Supermarkt und am Friedhof. Wer gern Menschen mitnimmt, kann sich bei uns melden."
+     ],
+     "footer": "Bürgerverein Westerhüsen · www.mitfahrbank-westerhuesen.de"
+    },
+    {
+     "letter": "d",
+     "header": "",
+     "tag": "",
+     "title": "Wohin geht mein Geld?",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Am Monatsende ist das Konto leer, und Sie wissen nicht genau, warum? In diesem Kurs lernen Sie, Ihre Einnahmen und Ausgaben übersichtlich festzuhalten – auf Papier oder mit einer kostenlosen App. Gemeinsam schauen wir, wo sich unbemerkt Kosten sammeln, etwa bei Abos und Versicherungen, und wie man einen realistischen Plan für jeden Monat aufstellt. Vorkenntnisse brauchen Sie nicht. Der Kurs findet an drei Abenden statt und ist kostenlos."
+     ],
+     "footer": "Antje Wolters · Volkshochschule Elbaue · Kurs 2.14"
+    },
+    {
+     "letter": "e",
+     "header": "MIETERVEREIN ELBAUE E. V.",
+     "tag": "",
+     "title": "Ärger mit der Wohnung?",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Die Nebenkostenabrechnung ist viel zu hoch, die Heizung fällt immer wieder aus oder die Kaution kommt nicht zurück? Unsere Juristinnen und Juristen beraten Mitglieder in allen Fragen rund um Mietvertrag und Wohnung – schriftlich, am Telefon oder persönlich. Wenn nötig, schreiben wir auch an Ihren Vermieter. Die Mitgliedschaft kostet 7 Euro im Monat, eine Beratung ist ab dem ersten Tag möglich. Nichtmitglieder können sich einmalig für 40 Euro beraten lassen."
+     ],
+     "footer": "Sprechzeiten Mo und Mi 16–19 Uhr · Tel. 0391 / 54 27 80"
+    },
+    {
+     "letter": "f",
+     "header": "",
+     "tag": "",
+     "title": "AUTO TEILEN STATT BESITZEN",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Mit AutoTeiler Börde fahren Sie nur, wenn Sie wirklich ein Auto brauchen. Über 60 Fahrzeuge stehen an festen Stationen in der ganzen Stadt, vom Kleinwagen bis zum Transporter. Sie buchen per App oder Telefon, öffnen das Auto mit Ihrer Kundenkarte und bezahlen nach Stunden und Kilometern; Benzin und Versicherung sind enthalten. Für die Anmeldung brauchen Sie einen Führerschein, den Sie seit mindestens einem Jahr besitzen. Bis Ende des Monats entfällt die Aufnahmegebühr."
+     ],
+     "footer": "KUNDENBÜRO AM HAUPTBAHNHOF"
+    },
+    {
+     "letter": "g",
+     "header": "",
+     "tag": "Kostenlos für Eigentümer",
+     "title": "Heizkosten senken",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Ihr Haus wird im Winter nicht richtig warm, und die Heizkosten steigen jedes Jahr? Unsere Energieberaterinnen und Energieberater kommen zu Ihnen, prüfen Heizung, Fenster und Dämmung und zeigen Ihnen, mit welchen Maßnahmen Sie am meisten sparen. Sie erhalten einen schriftlichen Bericht und erfahren, welche Fördermittel es gibt. Die Beratung ist für Eigentümerinnen und Eigentümer von Häusern und Wohnungen kostenlos. Für Mieterinnen und Mieter können wir leider keine Termine anbieten."
+     ],
+     "footer": "Energieagentur Elbaue · www.energie-elbaue.de"
+    },
+    {
+     "letter": "h",
+     "header": "20. MÄRZ",
+     "tag": "Sa",
+     "title": "Sicher Auto fahren ab 60",
+     "subtitle": "",
+     "facts": [
+      "9–13 Uhr"
+     ],
+     "body": [
+      "Die Augen werden schwächer, der Verkehr wird dichter, und manches Verkehrsschild ist neu? In unserem Training frischen Sie Ihr Wissen auf und üben mit dem eigenen Auto auf einem abgesperrten Platz: Bremsen auf nasser Fahrbahn, Ausweichen, Einparken. Zum Schluss gibt Ihnen ein Fahrlehrer eine persönliche Rückmeldung. Prüfungen gibt es nicht, und niemand erfährt etwas über Ihre Ergebnisse. Die Teilnahme kostet 25 Euro."
+     ],
+     "footer": "Verkehrswacht Elbaue · Anmeldung bis 10. März"
+    },
+    {
+     "letter": "i",
+     "header": "",
+     "tag": "",
+     "title": "Mit dem Rollator in Bus und Bahn",
+     "subtitle": "Ein kostenloses Training",
+     "facts": [],
+     "body": [
+      "Viele ältere Menschen trauen sich mit Rollator oder Rollstuhl kaum noch in öffentliche Verkehrsmittel. Dabei helfen oft schon ein paar einfache Tricks! Bei unserem Training üben Sie in Ruhe an einem Bus, der eine Stunde lang nur für Sie bereitsteht: Wie steige ich sicher ein und aus? Wo stelle ich den Rollator ab? Was tue ich, wenn der Bus anfährt? Ein Busfahrer beantwortet alle Fragen. Angehörige sind herzlich willkommen."
+     ],
+     "footer": "Begegnungsstätte Sudenburg · jeden ersten Dienstag im Monat, 10 Uhr"
+    },
+    {
+     "letter": "j",
+     "header": "",
+     "tag": "VORTRAG IM RATHAUS",
+     "title": "Vorsorge rechtzeitig regeln",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Wer erbt, wenn es kein Testament gibt? Was gehört in eine Vorsorgevollmacht, und wann ist eine Patientenverfügung sinnvoll? Die Notarin Dr. Carola Wendisch erklärt an diesem Abend verständlich und ohne Fachchinesisch, was man rechtzeitig regeln sollte. Im Anschluss beantwortet sie Fragen aus dem Publikum; eine persönliche Beratung ist dabei allerdings nicht möglich. Der Eintritt ist frei. Wegen der begrenzten Zahl an Plätzen wird um Anmeldung gebeten."
+     ],
+     "footer": "Donnerstag, 4. März · 19 Uhr · Ratssaal"
+    },
+    {
+     "letter": "k",
+     "header": "STEUERHILFE AM DOMPLATZ E. V.",
+     "tag": "",
+     "title": "Ihre Steuererklärung in guten Händen",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Zum ersten Mal eine Steuererklärung oder einfach keine Lust auf Formulare? Als Lohnsteuerhilfeverein erstellen wir die Steuererklärung für Arbeitnehmerinnen und Arbeitnehmer, Rentnerinnen und Rentner sowie Studierende mit Nebenjob. Selbstständige können wir leider nicht beraten. Bringen Sie einfach Ihre Unterlagen mit; wir prüfen, was Sie absetzen können, und kümmern uns um alles Weitere. Der Jahresbeitrag richtet sich nach Ihrem Einkommen und beginnt bei 59 Euro."
+     ],
+     "footer": "Termine nach Vereinbarung: Tel. 0391 / 61 08 22"
+    },
+    {
+     "letter": "l",
+     "header": "",
+     "tag": "AUS DEM RATHAUS",
+     "title": "Sprechstunde zur Rente",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Wann kann ich in Rente gehen, und mit wie viel Geld kann ich dann rechnen? Antworten auf diese Fragen gibt es ab sofort jeden zweiten Mittwoch im Bürgerbüro. Die ehrenamtliche Versichertenberaterin Renate Fischbach hilft außerdem beim Ausfüllen von Anträgen und prüft, ob Ihr Versicherungsverlauf vollständig ist. Halten Sie dafür bitte Ihre Unterlagen und Ihren Personalausweis bereit. Die Beratung ist kostenlos; um lange Wartezeiten zu vermeiden, wird um telefonische Anmeldung gebeten."
+     ],
+     "footer": "Bürgerbüro Stadtfeld · Tel. 0391 / 33 70 15"
+    }
+   ]
+  },
+  "sb1": {
+   "instruction": "Lesen Sie den folgenden Text und entscheiden Sie, welches Wort (a, b oder c) in die jeweilige Lücke passt. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 21–30.",
+   "paragraphs": [
+    "Sehr geehrte Frau Hagedorn,",
+    "mein Sohn Luca besucht die Klasse 6b Ihrer Schule. Ich möchte Sie bitten, ihn vom 8. bis zum 12. März vom Unterricht zu befreien, {{21}} er an der Hochzeit meiner Schwester in Griechenland teilnehmen kann. Eigentlich sollte die Feier im August, also in den Sommerferien, stattfinden. Ein Termin im Sommer ist nun aber nicht mehr möglich, {{22}} das Restaurant in dieser Zeit umgebaut wird. Da wir {{23}} die Flüge als auch die Unterkunft schon im Herbst gebucht haben, ließe sich die Reise außerdem nur mit hohen Kosten verschieben. Für Luca ist es zudem die erste Gelegenheit seit Jahren, seine Großeltern und Cousins wiederzusehen.",
+    "Mir ist bewusst, dass er dadurch eine ganze Woche Unterricht und mehrere Tests verpasst, {{24}} auch eine Mathearbeit. Seine Klassenlehrerin, {{25}} ich bereits gesprochen habe, ist bereit, ihm die Aufgaben vorher mitzugeben. Luca hat versprochen, den Stoff gewissenhaft nachzuarbeiten. {{26}} seiner Abwesenheit wird ihn außerdem ein Mitschüler über die Hausaufgaben informieren. Die Mathearbeit könnte er nach Absprache in der {{27}} Woche nach seiner Rückkehr nachschreiben. {{28}} ein Nachschreiben nicht möglich sein, kann er die Arbeit auch schon vor der Reise schreiben.",
+    "Ich wäre Ihnen sehr dankbar, wenn Sie meinem Antrag {{29}} könnten. Für Rückfragen bin ich jederzeit telefonisch erreichbar, gern komme ich auch zu einem Gespräch in die Schule. Vielen Dank {{30}} Voraus für Ihr Verständnis.",
+    "Mit freundlichen Grüßen",
+    "Eleni Dimitriou"
+   ],
+   "items": [
+    {
+     "no": "21",
+     "options": {
+      "a": "damit",
+      "b": "um",
+      "c": "dass"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "22",
+     "options": {
+      "a": "denn",
+      "b": "deshalb",
+      "c": "weil"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "23",
+     "options": {
+      "a": "weder",
+      "b": "sowohl",
+      "c": "entweder"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "24",
+     "options": {
+      "a": "damit",
+      "b": "darunter",
+      "c": "dafür"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "25",
+     "options": {
+      "a": "mit der",
+      "b": "mit die",
+      "c": "mit deren"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "26",
+     "options": {
+      "a": "Seit",
+      "b": "Bis",
+      "c": "Während"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "27",
+     "options": {
+      "a": "erste",
+      "b": "ersten",
+      "c": "erstes"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "28",
+     "options": {
+      "a": "Sollte",
+      "b": "Wäre",
+      "c": "Hätte"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "29",
+     "options": {
+      "a": "genehmigen",
+      "b": "erlauben",
+      "c": "zustimmen"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "30",
+     "options": {
+      "a": "in",
+      "b": "im",
+      "c": "am"
+     },
+     "answer": "b"
+    }
+   ]
+  },
+  "sb2": {
+   "instruction": "Lesen Sie den folgenden Text und entscheiden Sie, welches Wort aus dem Kasten (a–o) in die Lücken 31–40 passt. Sie können jedes Wort im Kasten nur einmal verwenden. Nicht alle Wörter passen in den Text. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 31–40.",
+   "title": "Wilde Nachbarn",
+   "paragraphs": [
+    "Ein Fuchs, der am helllichten Tag über einen Schulhof läuft, Wildschweine, die nachts Vorgärten umgraben: Was früher eine Ausnahme war, gehört in vielen Städten inzwischen zum Alltag. In manchen Großstädten leben bereits mehrere Tausend Wildschweine. Die Tiere finden dort reichlich Nahrung, gute Verstecke und Ruhe vor Jägern. Manche Stadtfüchse haben sich so sehr an den Menschen {{31}}, dass sie kaum noch Abstand halten.",
+    "Für Fachleute ist diese Entwicklung kein Grund zur {{32}}, solange einige Regeln beachtet werden. Die wichtigste lautet: Wildtiere niemals füttern. Wer Brot oder Katzenfutter in den Garten stellt, {{33}} die Tiere geradezu an und sorgt dafür, dass sie ihre natürliche Scheu verlieren. Auch offene Mülltonnen und Komposthaufen mit Essensresten sind eine {{34}} Einladung.",
+    "Heikel wird es vor allem im Frühjahr, wenn Wildschweine ihre Jungen {{35}}. Dann reagieren die Muttertiere schnell aggressiv, wenn sie sich bedroht fühlen. Wer einer Gruppe begegnet, sollte ruhig bleiben, langsam zurückgehen und den Tieren einen {{36}} lassen. Hunde gehören in dieser Zeit an die Leine. Auch Füchse werden im Frühjahr mutiger, weil sie Futter für ihren Nachwuchs suchen.",
+    "Viele Städte setzen inzwischen auf Aufklärung statt auf Abschuss. Mancherorts gibt es ein Wildtiertelefon, an das sich Bürgerinnen und Bürger mit Fragen {{37}} können. Die Fachleute dort erklären zum Beispiel, wie man den eigenen Garten {{38}}, damit Wildschweine nicht hineinkommen, und wie man sich verhält, wenn ein verletztes Tier auf der Straße liegt.",
+    "Ganz ohne Konflikte wird das Zusammenleben wohl nie {{39}}. Doch die wilden Nachbarn haben auch gute Seiten: Füchse fressen zum Beispiel Mäuse und Ratten und halten so deren Zahl in {{40}}. Und wer abends einen Igel oder einen Dachs im Garten beobachtet, erlebt ein Stück Natur mitten in der Stadt."
+   ],
+   "words": {
+    "a": "BEGEGNEN",
+    "b": "BEKOMMEN",
+    "c": "FLUCHTWEG",
+    "d": "FUNKTIONIEREN",
+    "e": "GEFAHR",
+    "f": "GEWÖHNT",
+    "g": "GRENZEN",
+    "h": "LOCKT",
+    "i": "PANIK",
+    "j": "SELTENE",
+    "k": "SICHERT",
+    "l": "TREIBT",
+    "m": "UMWEG",
+    "n": "WENDEN",
+    "o": "WILLKOMMENE"
+   },
+   "items": [
+    {
+     "no": "31",
+     "answer": "f"
+    },
+    {
+     "no": "32",
+     "answer": "i"
+    },
+    {
+     "no": "33",
+     "answer": "h"
+    },
+    {
+     "no": "34",
+     "answer": "o"
+    },
+    {
+     "no": "35",
+     "answer": "b"
+    },
+    {
+     "no": "36",
+     "answer": "c"
+    },
+    {
+     "no": "37",
+     "answer": "n"
+    },
+    {
+     "no": "38",
+     "answer": "k"
+    },
+    {
+     "no": "39",
+     "answer": "d"
+    },
+    {
+     "no": "40",
+     "answer": "g"
+    }
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören nun eine Nachrichtensendung. Dazu sollen Sie fünf Aufgaben lösen. Sie hören die Nachrichtensendung nur einmal. Entscheiden Sie beim Hören, ob die Aussagen 41–45 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 41–45. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 41–45. Sie haben dazu 30 Sekunden Zeit.",
+   "items": [
+    {
+     "no": "41",
+     "text": "Nicht nur ältere Menschen, sondern alle Bürgerinnen und Bürger dürfen die gekühlten Räume nutzen.",
+     "answer": "R"
+    },
+    {
+     "no": "42",
+     "text": "Wer die Videosprechstunde nutzen möchte, muss sich vorher nicht anmelden.",
+     "answer": "F"
+    },
+    {
+     "no": "43",
+     "text": "Englisch ist an den Volkshochschulen nach wie vor die gefragteste Sprache.",
+     "answer": "R"
+    },
+    {
+     "no": "44",
+     "text": "Den Strom für die Straßenbahnen liefert ab Januar eine Solaranlage in der Region.",
+     "answer": "F"
+    },
+    {
+     "no": "45",
+     "text": "Die Zahl der Freiwilligen, die junge Straßenbäume gießen, hat sich mehr als verdoppelt.",
+     "answer": "R"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören ein Rundfunk-Interview. Dazu sollen Sie zehn Aufgaben lösen. Sie hören dieses Interview nur einmal. Entscheiden Sie beim Hören, ob die Aussagen 46–55 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 46–55. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 46–55. Sie haben dazu 60 Sekunden Zeit.",
+   "items": [
+    {
+     "no": "46",
+     "text": "Kurzes nächtliches Aufwachen ist noch keine Schlafstörung.",
+     "answer": "R"
+    },
+    {
+     "no": "47",
+     "text": "Acht Stunden Schlaf sind für jeden Erwachsenen das richtige Maß.",
+     "answer": "F"
+    },
+    {
+     "no": "48",
+     "text": "Schlafmessungen per Uhr können den Schlaf sogar verschlechtern.",
+     "answer": "R"
+    },
+    {
+     "no": "49",
+     "text": "Der Schlaf vor Mitternacht ist laut Frau Fluri besonders erholsam.",
+     "answer": "F"
+    },
+    {
+     "no": "50",
+     "text": "Gegen ein kurzes Nickerchen am Mittag hat Frau Fluri nichts einzuwenden.",
+     "answer": "R"
+    },
+    {
+     "no": "51",
+     "text": "Mit Alkohol schläft man zwar schneller ein, aber schlechter durch.",
+     "answer": "R"
+    },
+    {
+     "no": "52",
+     "text": "Von Sport am Abend rät Frau Fluri grundsätzlich ab.",
+     "answer": "F"
+    },
+    {
+     "no": "53",
+     "text": "Die ideale Temperatur im Schlafzimmer liegt über 20 Grad.",
+     "answer": "F"
+    },
+    {
+     "no": "54",
+     "text": "Wer lange wach liegt, sollte nach einer Weile aufstehen.",
+     "answer": "R"
+    },
+    {
+     "no": "55",
+     "text": "Schnarchen hält Frau Fluri in jedem Fall für harmlos.",
+     "answer": "F"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören jetzt fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. Sie hören diese Ansagen nur einmal. Entscheiden Sie beim Hören, ob die Aussagen 56–60 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 56–60. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+   "readNote": "",
+   "items": [
+    {
+     "no": "56",
+     "text": "Ihr Wagen wird später fertig, weil die Werkstatt noch auf ein Ersatzteil warten muss.",
+     "answer": "R"
+    },
+    {
+     "no": "57",
+     "text": "Die Fahrgäste können heute wie im Fahrplan angekündigt bis zur letzten Anlegestelle mitfahren.",
+     "answer": "F"
+    },
+    {
+     "no": "58",
+     "text": "Wer bei diesem Anbieter neue Fenster bestellt, muss mehrere Monate auf den Einbau warten.",
+     "answer": "F"
+    },
+    {
+     "no": "59",
+     "text": "Wer im Dezember Sperrmüll loswerden möchte, kann den Wertstoffhof Rothensee den ganzen Monat über nicht nutzen.",
+     "answer": "F"
+    },
+    {
+     "no": "60",
+     "text": "Wer das Konzert im Planetarium besuchen möchte, muss sich die Karte im Internet besorgen.",
+     "answer": "R"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "intro": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Entscheiden Sie schnell, denn die zur Verfügung stehende Zeit ist begrenzt auf 30 Minuten!",
+  "tasks": [
+   {
+    "letter": "A",
+    "kind": "Bitte um Informationen",
+    "lead": "Sie haben in einem Reiseprospekt folgendes Angebot gefunden:",
+    "ad": {
+     "header": "Seenland Hausboote",
+     "tag": "URLAUB AUF DEM WASSER",
+     "title": "Ihr schwimmendes Ferienhaus",
+     "subtitle": "",
+     "facts": [
+      "Boote für 2 bis 8 Personen",
+      "ausführliche Einweisung vor der Abfahrt",
+      "Fahrräder und Kanu an Bord",
+      "günstige Tarife in der Vor- und Nachsaison",
+      "Anreise jeden Samstag"
+     ],
+     "body": [
+      "Entdecken Sie die Mecklenburgische Seenplatte vom Wasser aus: Mit unseren komfortablen Hausbooten fahren Sie von See zu See, legen an, wo es Ihnen gefällt, und genießen die Ruhe der Natur."
+     ],
+     "footer": "Jetzt Katalog anfordern! · info@seenland-hausboote.de"
+    },
+    "situation": [
+     "Sie möchten im Sommer mit Freunden Urlaub auf einem Hausboot machen und brauchen dafür noch einige Informationen. Schreiben Sie eine E-Mail an Seenland Hausboote."
+    ],
+    "choice": [
+     "Behandeln Sie darin entweder",
+     "a) drei der folgenden Punkte oder",
+     "b) zwei der folgenden Punkte und einen weiteren Aspekt Ihrer Wahl."
+    ],
+    "points": [
+     "Beschreiben Sie, mit wie vielen Personen und wann Sie reisen möchten.",
+     "Fragen Sie, ob man für das Boot einen Führerschein braucht.",
+     "Klären Sie, ob Sie Ihren Hund mitnehmen dürfen.",
+     "Bitten Sie um Informationen zu den Preisen in der Hauptsaison."
+    ],
+    "closing": "Überlegen Sie sich vor dem Schreiben eine passende Reihenfolge der Punkte, einen passenden Betreff, eine passende Anrede, Einleitung und einen passenden Schluss. Schreiben Sie mindestens 150 Wörter.",
+    "words": 150,
+    "model": {
+     "label": "Beispiel für Variante a): drei der vier Leitpunkte (ca. 170 Wörter)",
+     "text": "Betreff: Anfrage zu einem Hausboot im Juli\n\nSehr geehrte Damen und Herren,\n\nin Ihrem Reiseprospekt habe ich Ihr Angebot für Hausboote auf der Mecklenburgischen Seenplatte entdeckt und möchte gern mehr darüber erfahren.\n\nWir sind fünf Freunde, alle Anfang dreißig, und möchten in der zweiten Julihälfte eine Woche auf dem Wasser verbringen. Am liebsten würden wir am Samstag, dem 17. Juli, anreisen und eine Woche später zurückfahren. Da wir zu fünft sind, wäre ein Boot mit drei Schlafkabinen ideal.\n\nKeiner von uns hat einen Bootsführerschein. Könnten Sie mir bitte mitteilen, ob man für Ihre Hausboote einen Führerschein braucht oder ob die Einweisung vor der Abfahrt ausreicht? Wie lange dauert diese Einweisung ungefähr?\n\nAußerdem würde mich interessieren, wie viel ein Boot für fünf Personen in der Hauptsaison pro Woche kostet. Kommen zum Mietpreis noch weitere Kosten hinzu, zum Beispiel für Treibstoff oder die Endreinigung? Und muss man bei der Buchung eine Anzahlung leisten?\n\nÜber Ihren aktuellen Katalog würde ich mich ebenfalls freuen. Für Ihre Mühe bedanke ich mich schon jetzt.\n\nMit freundlichen Grüßen\nJulien Mercier",
+     "notes": "Leitpunkte\n1 Personen und Reisezeit → fünf Freunde, zweite Julihälfte, Anreise am Samstag\n2 Führerschein → keiner hat einen, Frage nach der Einweisung\n4 Preise → Hauptsaison, Zusatzkosten, Anzahlung\n– Hund (Leitpunkt 3) bewusst weggelassen.\nAufbau\nBetreff · Anrede „Sehr geehrte Damen und Herren“ · Prospekt als Anlass · Leitpunkte in der Reihenfolge der Reiseplanung · Bitte um den Katalog · Grußformel\nBewertung\nI Berücksichtigung der Leitpunkte: drei Leitpunkte, jeder mit Einzelheiten.\nII Kommunikative Gestaltung: durchgehend Sie-Form, höfliche Bitten und Fragen im Konjunktiv II (Könnten Sie …? würde mich interessieren), Verknüpfungen wie da, außerdem, zum Beispiel.\nIII Formale Richtigkeit: Fehler dürfen das Verständnis nicht beeinträchtigen.\nTypische Fehler: Reisewunsch ohne Zahl und Datum · Fragen nur als Stichpunkte · Leitpunkt 3 halb behandeln statt ganz weglassen · unter 150 Wörtern bleiben."
+    }
+   },
+   {
+    "letter": "B",
+    "kind": "Beschwerde",
+    "lead": "Sie haben in der Lokalzeitung folgende Anzeige gelesen:",
+    "ad": {
+     "header": "PARTYSERVICE TAFELRUNDE · FEIERN OHNE STRESS",
+     "tag": "",
+     "title": "Ihr Fest – unser Buffet",
+     "subtitle": "",
+     "facts": [
+      "Lieferung im Umkreis von 50 km",
+      "vegetarische und vegane Gerichte",
+      "Geschirr und Besteck inklusive",
+      "kostenloser Abbau am nächsten Tag",
+      "Geld zurück, wenn Sie nicht zufrieden sind"
+     ],
+     "body": [
+      "Ob Geburtstag, Hochzeit oder Firmenfeier: Wir liefern frisch zubereitete Buffets für 10 bis 200 Gäste – pünktlich, zuverlässig und auf Wunsch mit Servicepersonal."
+     ],
+     "footer": "Partyservice Tafelrunde · Kundenservice · kontakt@tafelrunde-partyservice.de"
+    },
+    "situation": [
+     "Sie haben bei Tafelrunde ein Buffet für eine Familienfeier bestellt. Leider gab es dabei einige Probleme. Schreiben Sie eine Beschwerde an Tafelrunde."
+    ],
+    "choice": [
+     "Behandeln Sie darin entweder",
+     "a) drei der folgenden Punkte oder",
+     "b) zwei der folgenden Punkte und einen weiteren Aspekt Ihrer Wahl."
+    ],
+    "points": [
+     "Schreiben Sie, aus welchem Anlass Sie das Buffet bestellt haben.",
+     "Beschreiben Sie, was bei der Lieferung schiefgegangen ist.",
+     "Schildern Sie, wie Ihre Gäste reagiert haben.",
+     "Machen Sie einen Vorschlag, wie Tafelrunde den Ärger wiedergutmachen kann."
+    ],
+    "closing": "Überlegen Sie sich vor dem Schreiben eine passende Reihenfolge der Punkte, einen passenden Betreff, eine passende Anrede, Einleitung und einen passenden Schluss. Schreiben Sie mindestens 150 Wörter.",
+    "words": 150,
+    "model": {
+     "label": "Beispiel für Variante b): zwei Leitpunkte und ein eigener Aspekt (ca. 160 Wörter)",
+     "text": "Betreff: Beschwerde über das Buffet vom 12. September (Auftragsnummer 2471)\n\nSehr geehrte Damen und Herren,\n\nfür den 70. Geburtstag meines Vaters habe ich bei Ihnen ein Buffet für 35 Personen bestellt. Leider hat Ihr Service an diesem Tag kaum etwas von dem gehalten, was Ihre Anzeige verspricht.\n\nStatt um 17 Uhr kam die Lieferung erst kurz nach 19 Uhr, als die meisten Gäste schon über eine Stunde gewartet hatten. Außerdem fehlten die vegetarischen Gerichte vollständig, obwohl ich ausdrücklich zehn vegetarische Portionen bestellt hatte. Die warmen Speisen waren zudem nur noch lauwarm.\n\nBesonders geärgert hat mich, dass ich an diesem Abend niemanden erreichen konnte. Unter Ihrer Telefonnummer lief nur eine Bandansage, und meine E-Mail vom selben Abend ist bis heute unbeantwortet.\n\nIn Ihrer Anzeige steht: „Geld zurück, wenn Sie nicht zufrieden sind.“ Ich schlage deshalb vor, dass Sie mir die Hälfte des Rechnungsbetrags von 840 Euro erstatten, also 420 Euro. Bitte antworten Sie mir bis zum 30. September.\n\nMit freundlichen Grüßen\nSamira Haddad",
+     "notes": "Leitpunkte\n2 Lieferung → zwei Stunden zu spät, vegetarische Gerichte fehlten, Essen lauwarm\n+ eigener Aspekt → niemand erreichbar, E-Mail unbeantwortet\n4 Vorschlag → Hälfte des Betrags zurück, Frist\n– Anlass nur als Einstieg, Reaktion der Gäste (Leitpunkt 3) weggelassen.\nAufbau\nBetreff mit Datum und Auftragsnummer · Anlass als Einstieg · Mängel mit Uhrzeiten und Mengen · eigener Aspekt · Vorschlag mit Betrag und Frist · Grußformel\nRedemittel\nLeider hat Ihr Service kaum etwas von dem gehalten, was … · Statt um … kam … erst … · obwohl ich ausdrücklich … bestellt hatte · Besonders geärgert hat mich, dass … · Ich schlage deshalb vor, dass Sie …\nTypische Fehler: Mängel ohne Uhrzeiten und Mengen · unhöflicher Ton · Vorschlag ohne Betrag · ein eigener Aspekt, der nur Leitpunkt 2 wiederholt."
+    }
+   }
+  ]
+ },
+ "notes": "Quelle: Text der PDF-Seiten 2-16 und 21-22 (Spalten einzeln gelesen, Zeilenumbruch-Trennstriche entfernt); die Antworten stammen aus dem Loesungsschluessel S. 20 und stimmen mit validate.py ueberein. Der PDF-Textlayer verliert wie bei Modelltest 5 viele Leerzeichen (z. B. 'derMensa', 'Wereinsteigt'); validate.py listet diese verklebten Woerter als 'nur im PDF' und ihre Teile als 'nur in JSON'. Ein zusaetzlicher Abgleich (jedes nur im PDF stehende Wort in JSON-Woerter zerlegt) liess nur Seitenkopf-Woerter (90, Minuten, Leseverstehen, Sprachbausteine, Hoerverstehen, Schriftlicher Ausdruck) uebrig; umgekehrt fehlen nur die gesperrt gedruckten Ueberschriften HINSETZEN UND MITFAHREN (Info c), VORTRAG IM RATHAUS (Info j) und STEUERHILFE AM DOMPLATZ E. V. (Info k), die der Textlayer als Einzelbuchstaben liefert und die an den Seitenbildern geprueft wurden. Entscheidungen: Lesen Teil 2 ist ein Artikel (kind 'article', keine Quellenzeile, lead = graue Einleitung) mit fuenf gedruckten Zwischenueberschriften, die als Objekte {\"h\": ...} zwischen den Absaetzen stehen (Ein Fenster in die Kindheit / Eine Billion Duefte? / Wenn die Nase streikt / Duefte im Laden / Die Nase trainieren); '6 – 10' im Text ist mit Wortverbindern gesetzt und wurde zu '6–10' vereinheitlicht. Info a: Titel in zwei Zeilen 'LASTENRAD GRATIS LEIHEN', Fusszeile 'Buchung: ... · Abholung ...'. Info c: 'HINSETZEN UND MITFAHREN' als subtitle. Info d: Unterschrift 'Antje Wolters' vor 'Volkshochschule Elbaue · Kurs 2.14' in die Fusszeile. Info f: Fusszeile 'KUNDENBÜRO AM HAUPTBAHNHOF' so gross gedruckt wie im PDF. Info h: header '20. MÄRZ', tag 'Sa', fact '9–13 Uhr'. Info j: Dekorlinie '· · ·' weggelassen, Fusszeile (Kapitaelchen) in normaler Schreibung 'Donnerstag, 4. März · 19 Uhr · Ratssaal'. Info l: Initiale 'W' mit 'ann' verbunden. Info i: Titel in zwei Zeilen zu einem String. Sprachbausteine 1 und 2: Luecke vor Komma/Punkt ohne Leerzeichen ('{{31}},'). Hoeren Teil 3 hat keinen gedruckten Lesehinweis (readNote leer). Aufgabe A: Prospekt (lead 'Sie haben in einem Reiseprospekt folgendes Angebot gefunden:'), Aufgabe B: Anzeige im dunklen Kasten (header 'PARTYSERVICE TAFELRUNDE · FEIERN OHNE STRESS', title 'Ihr Fest – unser Buffet'). Musterloesung: label ohne den Satz ueber die grauen Ziffern; die grauen Ziffern am Absatzanfang (1, 2, 4 bzw. 2, +, 4) weggelassen; model.notes enthaelt die Randspalte. Kein design/deco gesetzt."
+}
