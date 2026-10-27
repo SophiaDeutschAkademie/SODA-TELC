@@ -1,0 +1,760 @@
+{
+ "id": 1,
+ "roman": "I",
+ "lesen": {
+  "t1": {
+   "instruction": "Lesen Sie zuerst die zehn Überschriften. Lesen Sie dann die fünf Texte und entscheiden Sie, welche Überschrift (a–j) am besten zu welchem Text (1–5) passt. Tragen Sie Ihre Lösungen in den Antwortbogen bei den Aufgaben 1–5 ein.",
+   "headlines": [
+    {
+     "letter": "a",
+     "text": "Ältere Mieter sollen große Wohnungen räumen"
+    },
+    {
+     "letter": "b",
+     "text": "Ein freier Tag mehr lockt Bewerber in die Werkstatt"
+    },
+    {
+     "letter": "c",
+     "text": "Früher Arbeitsbeginn als Schutz vor der Hitze"
+    },
+    {
+     "letter": "d",
+     "text": "Gemeinsam arbeiten, wo früher Züge hielten"
+    },
+    {
+     "letter": "e",
+     "text": "Gesetz verbietet Bauarbeiten bei großer Hitze"
+    },
+    {
+     "letter": "f",
+     "text": "Handwerkskammer empfiehlt Vier-Tage-Woche für alle Betriebe"
+    },
+    {
+     "letter": "g",
+     "text": "Kleiner wohnen – zum Vorteil von Jung und Alt"
+    },
+    {
+     "letter": "h",
+     "text": "Lieferdienst ersetzt den letzten Supermarkt im Dorf"
+    },
+    {
+     "letter": "i",
+     "text": "Stillgelegte Bahnstrecke soll bald wieder Pendler befördern"
+    },
+    {
+     "letter": "j",
+     "text": "Wenn Kunden zu Mitbesitzern werden"
+    }
+   ],
+   "texts": [
+    {
+     "no": "1",
+     "paragraphs": [
+      "Hannelore Brandt hat 41 Jahre lang in der Vierzimmerwohnung im dritten Stock gewohnt. Hier hat sie zwei Söhne großgezogen, hier ist ihr Mann gestorben. Doch irgendwann wurden ihr die Treppen zu steil und die Räume zu groß. „Ich habe drei Zimmer geheizt, die niemand mehr betreten hat“, sagt die 78-Jährige. An einen Umzug war trotzdem lange nicht zu denken: Eine kleinere Wohnung im selben Viertel hätte mehr gekostet als die alte, denn Frau Brandt zahlte noch eine Miete aus den Achtzigerjahren. Genau hier setzt ein Programm der städtischen Wohnungsbaugesellschaft an. Wer aus einer großen in eine kleinere Wohnung des Unternehmens wechselt, zahlt dort pro Quadratmeter nicht mehr als bisher. Außerdem übernimmt die Gesellschaft die Umzugskosten und schickt einen Handwerker, der Lampen und Regale anbringt. Frau Brandt lebt heute zwei Straßen weiter im Erdgeschoss. Ihre neue Wohnung hat zwei Zimmer und einen kleinen Garten. „Ich kenne hier jede Nachbarin, das war mir wichtig“, sagt sie. In ihre alte Wohnung ist eine Familie mit drei Kindern eingezogen, die sich bis dahin zwei Zimmer geteilt hatte. Seit dem Start vor zwei Jahren haben 140 Haushalte mitgemacht. Das klingt nach wenig, doch für die Stadt zählt jede große Wohnung, die frei wird: Neue Familienwohnungen zu bauen dauert Jahre und kostet ein Vielfaches. Kritik kommt vom Mieterverein. Er befürchtet, ältere Menschen könnten sich gedrängt fühlen, ihre vertraute Umgebung aufzugeben. Die Wohnungsbaugesellschaft widerspricht: Die Teilnahme sei freiwillig, niemand werde gezielt angeschrieben."
+     ]
+    },
+    {
+     "no": "2",
+     "paragraphs": [
+      "Um fünf Uhr morgens ist es auf der Baustelle am Stadtrand von Freiburg noch dämmrig, doch die ersten Bagger laufen bereits. Seit Juni beginnt der Arbeitstag für die Straßenbauer zwei Stunden früher als sonst und endet um 13 Uhr – bevor sich der Asphalt in der Sonne auf über 50 Grad aufheizt. „Nachmittags war das kaum auszuhalten, abends kamen die Leute völlig erschöpft nach Hause“, sagt Polier Andreas Kühn. Die Firma hat außerdem Sonnensegel aufgestellt, verteilt kostenlos Wasser und Sonnencreme und hat die Pausen verlängert. Eine feste Temperaturgrenze, ab der im Freien nicht mehr gearbeitet werden darf, gibt es in Deutschland nicht. Arbeitgeber sind jedoch verpflichtet, ihre Beschäftigten vor gesundheitlichen Gefahren zu schützen – und dazu gehört auch große Hitze. Nicht alle sind von den neuen Zeiten begeistert: Einige Anwohner haben sich bei der Stadt über den Lärm am frühen Morgen beschwert."
+     ]
+    },
+    {
+     "no": "3",
+     "paragraphs": [
+      "Als im Frühjahr 2023 der letzte Supermarkt in Wiesenbach schloss, lag die nächste Einkaufsmöglichkeit plötzlich elf Kilometer entfernt. Für viele der 900 Einwohnerinnen und Einwohner, vor allem für ältere Menschen ohne Auto, war das ein ernstes Problem, denn der Bus fährt nur dreimal am Tag. Der Gemeinderat suchte monatelang nach einer Lösung, doch keine Handelskette wollte sich auf den kleinen Ort einlassen. Statt auf einen neuen Investor zu warten, gründeten die Wiesenbacher eine Genossenschaft. Wer mitmachen wollte, erwarb einen Anteil für 250 Euro – am Ende kamen 310 Mitglieder und rund 80.000 Euro zusammen. Heute gibt es im „Laden am Brunnen“ Brot, Obst und Gemüse, Milchprodukte aus der Region und das Nötigste für den Haushalt. Zwei Verkäuferinnen sind fest angestellt, nachmittags helfen Ehrenamtliche an der Kasse. Über das Sortiment entscheiden die Mitglieder einmal im Jahr gemeinsam; so kamen zum Beispiel glutenfreie Nudeln und Katzenfutter ins Regal. „Billiger als der Discounter sind wir nicht“, räumt Vorstand Markus Heilmann ein. „Aber die Leute rechnen anders: Sie sparen sich die Fahrt und treffen hier ihre Nachbarn.“ Tatsächlich ist die kleine Sitzecke neben dem Kaffeeautomaten oft voller als der Laden selbst. Einmal im Monat findet dort sogar ein Kochabend für Alleinstehende statt. Im Sommer stehen vor dem Laden zwei Tische, an denen man ein Eis essen oder auf den Bus warten kann. Ein Onlinehändler hatte zuvor versucht, das Dorf mit einem Lieferdienst zu versorgen, das Angebot aber nach wenigen Monaten mangels Bestellungen wieder eingestellt. Nach dem ersten Geschäftsjahr schreibt der Laden eine schwarze Null. Mehr soll es auch gar nicht sein, betont Heilmann: „Bleibt am Jahresende etwas übrig, stecken wir es in längere Öffnungszeiten.“"
+     ]
+    },
+    {
+     "no": "4",
+     "paragraphs": [
+      "Seit fast zwanzig Jahren hält in Hohenwalde kein Zug mehr. Wo früher Fahrkarten verkauft wurden, stehen heute zwölf Schreibtische, eine Kaffeemaschine und ein Drucker, den sich alle teilen. „Landbüro“ nennt der örtliche Verein sein Projekt im alten Bahnhofsgebäude, und die Nachfrage übertrifft alle Erwartungen: Von Montag bis Donnerstag ist fast jeder Platz belegt. Die meisten Nutzerinnen und Nutzer wohnen in den umliegenden Dörfern und arbeiten für Unternehmen in Berlin. Statt täglich zwei Stunden im Auto zu sitzen, fahren sie nur noch ein- oder zweimal pro Woche in die Hauptstadt. Ins Landbüro kommen die meisten mit dem Fahrrad. Für Eltern gibt es seit dem Frühjahr sogar eine kleine Spielecke, die vormittags von einer Tagesmutter betreut wird. „Zu Hause fällt mir die Decke auf den Kopf, und im Großraumbüro komme ich nicht zum Nachdenken“, sagt die Grafikerin Lena Marquardt. Möglich wurde das Projekt erst, als der Ort vor drei Jahren ans Glasfasernetz angeschlossen wurde; vorher war an Videokonferenzen kaum zu denken. Ein fester Platz kostet 120 Euro im Monat – ein Bruchteil dessen, was in Berlin verlangt wird. Anfangs beäugten manche Alteingesessene die „Laptop-Leute“ misstrauisch. Inzwischen trifft sich der Heimatverein abends in den Räumen, und im Sommer wird auf dem ehemaligen Bahnsteig gemeinsam gegrillt."
+     ]
+    },
+    {
+     "no": "5",
+     "paragraphs": [
+      "Freitags ist die Werkstatt der Tischlerei Özdemir in Hameln leer. Seit gut einem Jahr arbeiten die 14 Beschäftigten nur noch von Montag bis Donnerstag, dafür neun statt sieben Stunden am Tag. Der Lohn ist gleich geblieben. „Viele Kollegen aus der Branche haben mich für verrückt erklärt“, erzählt Inhaber Kerem Özdemir. „Aber ich hatte zwei Jahre lang keine einzige Bewerbung auf meine Ausbildungsplätze bekommen. Irgendetwas musste sich ändern.“ Nachdem er das neue Modell in den sozialen Medien vorgestellt hatte, meldeten sich innerhalb eines Monats 23 junge Leute. Drei von ihnen hat er als Auszubildende eingestellt. Auch die Zahl der Krankheitstage ist seither gesunken. Ganz ohne Nachteile ist das Modell allerdings nicht. Wer freitags anruft, landet auf dem Anrufbeantworter, und dringende Reparaturen müssen manchmal bis Montag warten. Einige ältere Mitarbeiter taten sich anfangs schwer mit den langen Tagen; zwei von ihnen arbeiten deshalb weiterhin an fünf Tagen, dafür kürzer. Die Handwerkskammer verfolgt das Experiment mit Interesse, warnt aber vor zu viel Euphorie: In Betrieben, die an feste Termine auf Baustellen gebunden seien, lasse sich das Modell nicht ohne Weiteres übertragen. Özdemir selbst will nicht mehr zurück. Den freien Freitag nutzt er inzwischen, um die Fußballmannschaft seiner Tochter zu trainieren – „zum ersten Mal, seit ich die Firma übernommen habe“."
+     ]
+    }
+   ],
+   "items": [
+    {
+     "no": "1",
+     "answer": "g"
+    },
+    {
+     "no": "2",
+     "answer": "c"
+    },
+    {
+     "no": "3",
+     "answer": "j"
+    },
+    {
+     "no": "4",
+     "answer": "d"
+    },
+    {
+     "no": "5",
+     "answer": "b"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Lesen Sie zuerst den Artikel und lösen Sie dann die Aufgaben 6–10 zu dem Text.",
+   "kind": "article",
+   "title": "Die unterschätzte Kraft flüchtiger Begegnungen",
+   "lead": "Ein kurzer Plausch beim Bäcker, ein Gruß im Treppenhaus – solche Kontakte gelten als belanglos. Die Forschung sieht das inzwischen anders.",
+   "paragraphs": [
+    "Jeden Morgen um halb acht kauft Katja Behrens zwei Brötchen in der Bäckerei an der Ecke. Den Namen der Verkäuferin kennt sie nicht, wohl aber deren Meinung zum Wetter, zum Stadtfest und zur Baustelle vor dem Rathaus. „Das dauert keine zwei Minuten“, sagt die 34-jährige Steuerberaterin, „aber wenn die Bäckerei Betriebsferien hat, fehlt mir etwas.“ Was sie beschreibt, nennen Soziologen „schwache Bindungen“: Beziehungen zu Menschen, denen wir regelmäßig begegnen, ohne sie wirklich zu kennen – die Nachbarin aus dem dritten Stock, der Busfahrer der Linie 12, die anderen Eltern vor dem Kindergarten.",
+    "Lange galten solche Kontakte als Nebensache. Wer soziale Beziehungen erforschte, interessierte sich für Familie, Partnerschaft und enge Freundschaften. Das änderte sich, als der US-Soziologe Mark Granovetter in den 1970er-Jahren untersuchte, wie Menschen zu ihrer Arbeitsstelle gekommen waren. Das überraschende Ergebnis: Den entscheidenden Hinweis hatten sie häufiger von entfernten Bekannten erhalten als von engen Freunden. Granovetters Erklärung leuchtet bis heute ein. Enge Freunde bewegen sich meist in denselben Kreisen wie wir und wissen deshalb ungefähr dasselbe. Flüchtige Bekannte dagegen öffnen uns Türen zu Welten, zu denen wir sonst keinen Zugang hätten.",
+    "Neuere Studien zeigen, dass schwache Bindungen nicht nur nützlich sind, sondern auch der Stimmung guttun. In einer Untersuchung notierten die Teilnehmenden mehrere Tage lang, mit wem sie gesprochen hatten und wie sie sich fühlten. An Tagen mit vielen kurzen Gesprächen – etwa mit Kolleginnen aus anderen Abteilungen oder mit dem Personal im Café – waren sie zufriedener und fühlten sich weniger einsam. Das galt für zurückhaltende Menschen ebenso wie für gesellige.",
+    "Hinzu kommt ein Denkfehler, den Psychologen immer wieder beobachten: Wir unterschätzen, wie gern andere mit uns ins Gespräch kommen. In Experimenten sollten Pendler im Zug eine fremde Person ansprechen. Die meisten rechneten mit einer peinlichen Situation. Hinterher bewerteten sie die Fahrt jedoch deutlich positiver als diejenigen, die still für sich geblieben waren – und auch die Angesprochenen hatten das Gespräch überwiegend genossen.",
+    "Gerade solche Begegnungen sind allerdings seltener geworden. Wer im Homeoffice arbeitet, grüßt morgens keinen Pförtner und trifft mittags niemanden an der Kaffeemaschine. Wer online bestellt und im Supermarkt an der Selbstbedienungskasse bezahlt, spricht unter Umständen den ganzen Tag mit keinem Menschen. Einige Fachleute sehen darin einen Grund, warum sich laut Umfragen auch viele junge Menschen einsam fühlen, obwohl sie ständig mit Freunden chatten. Einsamkeit, so ihr Argument, entsteht nicht nur dann, wenn enge Beziehungen fehlen, sondern auch, wenn der Alltag keine beiläufigen Kontakte mehr bietet.",
+    "Manche Städte ziehen daraus bereits Konsequenzen: Sie öffnen Bibliotheken auch am Sonntag, stellen Bänke dort auf, wo sich Wege kreuzen, oder unterstützen Cafés, in denen man ohne Verzehrzwang sitzen darf. Stadtplaner sprechen von „dritten Orten“ – Räumen zwischen Wohnung und Arbeitsplatz, an denen man anderen begegnet, ohne sich verabreden zu müssen.",
+    "Vor übertriebenen Erwartungen warnt allerdings die Psychologin Miriam Albers. „Ein Plausch an der Kasse ersetzt keine Freundin, die einen nachts aus dem Krankenhaus abholt“, sagt sie. Zudem seien Menschen verschieden: Wer unter sozialen Ängsten leide, dürfe sich durch gut gemeinte Ratschläge nicht zusätzlich unter Druck gesetzt fühlen. Aus dem kleinen Gespräch dürfe keine weitere Pflicht werden, die man – wie die täglichen Schritte oder das Glas Wasser – abhaken müsse. Ihr Vorschlag ist bescheidener: „Wer das nächste Mal an der Bushaltestelle wartet, kann das Handy ja einfach mal in der Tasche lassen.“"
+   ],
+   "source": "",
+   "taskInstruction": "Lösen Sie die Aufgaben 6–10. Entscheiden Sie, welche Lösung (a, b oder c) richtig ist, und tragen Sie Ihre Lösung in den Antwortbogen bei den Aufgaben 6–10 ein.",
+   "items": [
+    {
+     "no": "6",
+     "stem": "Für Frau Behrens ist das Gespräch beim Bäcker",
+     "options": {
+      "a": "ein Ritual, das sie vermisst, wenn es ausfällt.",
+      "b": "eine Chance, die Verkäuferin kennenzulernen.",
+      "c": "eine lästige Pflicht."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "7",
+     "stem": "Granovetters Untersuchung ergab, dass",
+     "options": {
+      "a": "enge Freunde die besseren Jobtipps geben.",
+      "b": "Menschen mit vielen Freunden schneller Arbeit finden.",
+      "c": "Jobtipps eher von flüchtigen Bekannten kamen."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "8",
+     "stem": "Laut den Studien",
+     "options": {
+      "a": "genießen Pendler ruhige Fahrten mehr.",
+      "b": "erwarten viele von Gesprächen mit Fremden zu wenig.",
+      "c": "leiden Schüchterne unter solchen Gesprächen."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "9",
+     "stem": "Einige Fachleute erklären die Einsamkeit junger Menschen mit",
+     "options": {
+      "a": "fehlenden Zufallsbegegnungen.",
+      "b": "zu viel Zeit am Handy.",
+      "c": "dem Mangel an engen Freundschaften."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "10",
+     "stem": "Miriam Albers",
+     "options": {
+      "a": "rät Ängstlichen, sich zu Gesprächen zu zwingen.",
+      "b": "sieht in flüchtigen Kontakten einen Ersatz für Freunde.",
+      "c": "warnt vor Smalltalk als Pflicht."
+     },
+     "answer": "c"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Lesen Sie zuerst die zehn Situationen (11–20) und dann die zwölf Info-Texte (a–l). Welcher Info-Text passt zu welcher Situation? Sie können jeden Info-Text nur einmal verwenden. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 11–20. Manchmal gibt es keine Lösung. Markieren Sie dann x.",
+   "items": [
+    {
+     "no": "11",
+     "text": "Ein Bekannter sucht sofort einen Musikkurs für seinen Sohn (5).",
+     "answer": "x"
+    },
+    {
+     "no": "12",
+     "text": "Ein Freund möchte auf dem Balkon Gemüse ziehen.",
+     "answer": "j"
+    },
+    {
+     "no": "13",
+     "text": "Ein Kollege möchte kostenlos und gemeinsam mit anderen gärtnern.",
+     "answer": "h"
+    },
+    {
+     "no": "14",
+     "text": "Eine Freundin will ihrer Tochter (8) nicht gleich eine Geige kaufen.",
+     "answer": "e"
+    },
+    {
+     "no": "15",
+     "text": "Eine Nachbarsfamilie wünscht sich einen eigenen Garten.",
+     "answer": "b"
+    },
+    {
+     "no": "16",
+     "text": "Ihr Neffe (16) sucht mit seiner Band einen Übungsraum.",
+     "answer": "g"
+    },
+    {
+     "no": "17",
+     "text": "Ihr Vater (66) will auf seinem E-Piano spielen lernen.",
+     "answer": "c"
+    },
+    {
+     "no": "18",
+     "text": "Ihre Kinder (6 und 9) sollen Instrumente ausprobieren.",
+     "answer": "k"
+    },
+    {
+     "no": "19",
+     "text": "Ihre Nachbarin will ihre alten Obstbäume selbst schneiden lernen.",
+     "answer": "l"
+    },
+    {
+     "no": "20",
+     "text": "Sie wüssten gern, warum Ihre Zimmerpflanzen gelbe Blätter bekommen.",
+     "answer": "f"
+    }
+   ],
+   "infos": [
+    {
+     "letter": "a",
+     "header": "Stimmwerk",
+     "tag": "",
+     "title": "SINGEN OHNE NOTEN",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Sie singen gern unter der Dusche, trauen sich aber nicht in einen Chor, weil Sie keine Noten lesen können? Bei uns ist das kein Problem: Unsere Chorleiterin bringt Ihnen alle Lieder nach Gehör bei, Notenkenntnisse sind ausdrücklich keine Voraussetzung. Mitsingen kann jeder ab 18 Jahren. Geprobt wird jeden Mittwoch von 19.30 bis 21.30 Uhr im Gemeindesaal St. Markus. Der Beitrag beträgt 15 Euro im Monat; die erste Probe ist kostenlos und unverbindlich."
+     ],
+     "footer": "Kontakt: stimmwerk-chor@web.de"
+    },
+    {
+     "letter": "b",
+     "header": "",
+     "tag": "KLEINGARTENVEREIN",
+     "title": "Sonnenhang e. V.",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Sie träumen von einem eigenen Stück Grün mitten in der Stadt? In unserer Anlage am Stadtpark werden regelmäßig Parzellen zwischen 250 und 400 Quadratmetern frei, die meisten davon mit Gartenlaube. Die Pacht beträgt rund 180 Euro im Jahr; für Laube und Bepflanzung zahlen Sie dem Vorgänger außerdem eine einmalige Ablöse. Bitte beachten Sie: Laut Satzung muss mindestens ein Drittel der Fläche für Obst und Gemüse genutzt werden, und jedes Mitglied leistet zehn Gemeinschaftsstunden im Jahr. Familien mit Kindern werden bei der Vergabe bevorzugt, die Wartezeit liegt derzeit bei etwa einem Jahr."
+     ],
+     "footer": "Sprechstunde: jeden ersten Samstag im Monat, 10–12 Uhr, Vereinsheim"
+    },
+    {
+     "letter": "c",
+     "header": "",
+     "tag": "",
+     "title": "Es ist nie zu spät für Chopin",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Sie wollten schon als Kind Klavier spielen und haben jetzt endlich Zeit dafür? Als Diplom-Pianistin unterrichte ich seit 20 Jahren ausschließlich Erwachsene – vom Berufseinsteiger bis zur Rentnerin mit 80. Ohne Leistungsdruck, dafür mit viel Geduld lernen Sie Stücke, die Ihnen wirklich gefallen, ob Klassik, Jazz oder Filmmusik. Der Unterricht findet bei Ihnen zu Hause statt; ein Klavier oder E-Piano sollte also vorhanden sein. Termine sind auch vormittags möglich, die erste Stunde ist kostenlos."
+     ],
+     "footer": "Martina Kessler · Tel. 0511 / 34 92 17"
+    },
+    {
+     "letter": "d",
+     "header": "",
+     "tag": "Saatgutbibliothek",
+     "title": "Samen leihen in der Stadtbibliothek",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Seit diesem Frühjahr können Sie bei uns nicht nur Bücher, sondern auch Saatgut ausleihen – kostenlos und ohne Bibliotheksausweis. In unserer Saatgutbibliothek finden Sie über 80 alte Gemüse- und Blumensorten, die im Handel kaum noch erhältlich sind. Das Prinzip ist einfach: Sie nehmen Samen mit, ziehen daraus Ihre Pflanzen und bringen nach der Ernte einen Teil der neuen Samen zurück. So bleiben seltene Sorten erhalten."
+     ],
+     "footer": "Stadtbibliothek, Erdgeschoss · zu den üblichen Öffnungszeiten"
+    },
+    {
+     "letter": "e",
+     "header": "",
+     "tag": "",
+     "title": "ERST MIETEN, DANN KAUFEN",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Ein gutes Instrument ist teuer – und ob Ihr Kind nach einem halben Jahr noch Freude daran hat, weiß niemand. Deshalb vermieten wir Geigen, Celli, Querflöten und Klarinetten, Kindergeigen sogar in allen Größen. Die Miete beginnt bei 15 Euro im Monat, die Mindestmietdauer beträgt drei Monate. Entscheiden Sie sich später für den Kauf, rechnen wir bis zu zwölf Monatsmieten auf den Kaufpreis an. Wächst Ihr Kind aus seiner Geige heraus, tauschen wir sie kostenlos gegen die nächste Größe. Alle Instrumente werden vor der Übergabe in unserer Werkstatt sorgfältig geprüft."
+     ],
+     "footer": "MUSIKHAUS BRANDES · GEORGSTRASSE 21"
+    },
+    {
+     "letter": "f",
+     "header": "",
+     "tag": "BOTANISCHER GARTEN",
+     "title": "Sprechstunde für kranke Pflanzen",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Die Rosen haben schwarze Flecken, die Tomaten welken, und am Gummibaum im Wohnzimmer fallen die Blätter ab? Im Botanischen Garten beraten Sie unsere Gärtnermeisterinnen und -meister jeden Dienstag von 14 bis 17 Uhr kostenlos. Bringen Sie am besten einige betroffene Blätter in einer Plastiktüte oder aussagekräftige Fotos mit. Gemeinsam finden wir heraus, ob Schädlinge, eine Krankheit oder einfach ein ungünstiger Standort dahinterstecken, und empfehlen Ihnen möglichst umweltfreundliche Gegenmittel. Eine Anmeldung ist nicht erforderlich, Hausbesuche sind allerdings nicht möglich."
+     ],
+     "footer": "Eingang Nord, Grünes Haus"
+    },
+    {
+     "letter": "g",
+     "header": "",
+     "tag": "",
+     "title": "LAUT SEIN ERWÜNSCHT!",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Ihr habt eine Band, aber die Nachbarn beschweren sich schon nach fünf Minuten? Im Keller des Jugendzentrums „Alte Post“ gibt es zwei schallgedämmte Proberäume mit Schlagzeug, Verstärkern und Mikrofonen. Nutzen dürfen sie Bands, deren Mitglieder zwischen 14 und 21 Jahre alt sind. Jede Band bekommt zwei feste Termine pro Woche, die Nutzung ist kostenlos. Einmal im Monat gibt euch außerdem ein erfahrener Musiker Tipps für das Zusammenspiel und den ersten Auftritt. Wer mitmachen will, kommt einfach mit der ganzen Band zu unserer Sprechstunde."
+     ],
+     "footer": "→ Jugendzentrum Alte Post · Sprechstunde Mo–Fr 15–20 Uhr"
+    },
+    {
+     "letter": "h",
+     "header": "",
+     "tag": "",
+     "title": "Grüne Lücke",
+     "subtitle": "Gemeinschaftsgarten am Güterbahnhof",
+     "facts": [],
+     "body": [
+      "Wo früher Autos parkten, wachsen heute Kartoffeln, Bohnen und Sonnenblumen. Rund 40 Menschen aus dem Viertel bewirtschaften unseren Garten gemeinsam – eigene Beete gibt es bei uns nicht, die Ernte wird geteilt. Werkzeug, Saatgut und Gießkannen sind vorhanden, Vorkenntnisse brauchen Sie keine. Mitmachen kostet nichts, über eine kleine Spende freuen wir uns trotzdem. Neue Gesichter sind jederzeit willkommen: Gerade Zugezogene finden bei uns schnell Anschluss. Wir treffen uns jeden Samstag von 10 bis 13 Uhr, danach wird oft zusammen gekocht."
+     ],
+     "footer": "www.gruene-luecke.de"
+    },
+    {
+     "letter": "i",
+     "header": "",
+     "tag": "",
+     "title": "Musikgarten",
+     "subtitle": "für die Kleinsten",
+     "facts": [],
+     "body": [
+      "Singen, tanzen, trommeln: In unseren Eltern-Kind-Kursen entdecken Kinder von 18 Monaten bis drei Jahren gemeinsam mit Mama, Papa oder den Großeltern die Welt der Musik. Die Gruppen mit höchstens acht Kindern treffen sich einmal pro Woche für 45 Minuten, wahlweise vormittags oder am frühen Nachmittag. Rasseln, Glockenspiele und kleine Trommeln zum Ausprobieren bringen wir mit. Unsere Kurse zur musikalischen Früherziehung für Vier- bis Sechsjährige sind leider bis zum Ende des Schuljahres ausgebucht, die Warteliste ist geschlossen."
+     ],
+     "footer": "Musikschule am Lindenplatz · Tel. 0511 / 12 30 45"
+    },
+    {
+     "letter": "j",
+     "header": "",
+     "tag": "17. APRIL",
+     "title": "Gemüse auf kleinstem Raum",
+     "subtitle": "",
+     "facts": [
+      "Do, 18–21 Uhr"
+     ],
+     "body": [
+      "Wer keinen Garten hat, muss auf frische Tomaten, Kräuter und Salat nicht verzichten. In unserem Abendworkshop erfahren Sie, welche Sorten sich für Töpfe und Kästen eignen, was auf einem schattigen Nordbalkon noch gedeiht und wie Sie mit wenig Wasser auskommen. Außerdem bauen Sie ein kleines Hochbeet aus Holz, das Sie anschließend mit nach Hause nehmen. Der Workshop richtet sich an Anfängerinnen und Anfänger, das Material ist im Preis inbegriffen."
+     ],
+     "footer": "45 € · Gartencenter Grünwerk · Anmeldung: www.gruenwerk.de"
+    },
+    {
+     "letter": "k",
+     "header": "PHILHARMONIE",
+     "tag": "",
+     "title": "Klassik zum Anfassen",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Einmal im Monat lädt die Philharmonie Familien mit Kindern von fünf bis zehn Jahren sonntags um 11 Uhr zu einem einstündigen Mitmachkonzert ein. Eine Moderatorin erklärt kindgerecht, was die Musikerinnen und Musiker gerade spielen, und das Publikum darf mitsingen und mitklatschen. Nach dem Konzert beginnt im Foyer das beliebte Instrumentenkarussell: Unter Anleitung von Orchestermitgliedern dürfen die Kinder Geige, Trompete, Harfe und Pauke selbst in die Hand nehmen und ihnen erste Töne entlocken. Karten kosten 8 Euro für Kinder und 14 Euro für Erwachsene."
+     ],
+     "footer": "Vorverkauf an der Konzertkasse und unter www.philharmonie-nord.de"
+    },
+    {
+     "letter": "l",
+     "header": "",
+     "tag": "NATURSCHUTZGRUPPE MÜHLBACH E. V.",
+     "title": "Der richtige Schnitt",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Alte Apfel- und Birnbäume tragen oft nur noch wenige Früchte, weil ihre Kronen zu dicht geworden sind. Die Naturschutzgruppe Mühlbach zeigt Ihnen an zwei Samstagen im Februar direkt auf der Streuobstwiese, wie Sie Ihre Bäume zurückschneiden, ohne ihnen zu schaden. Nach einer kurzen Einführung greifen Sie selbst zu Schere und Säge – selbstverständlich unter fachkundiger Anleitung. Das Werkzeug wird gestellt; bitte denken Sie an feste Schuhe, Handschuhe und warme Kleidung. Die Teilnahme kostet 25 Euro, für Mitglieder ist der Kurs kostenlos."
+     ],
+     "footer": "Anmeldung: kurse@ng-muehlbach.de"
+    }
+   ]
+  },
+  "sb1": {
+   "instruction": "Lesen Sie den folgenden Text und entscheiden Sie, welches Wort (a, b oder c) in die jeweilige Lücke passt. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 21–30.",
+   "paragraphs": [
+    "Sehr geehrte Frau Dr. Lindner,",
+    "vielleicht erinnern Sie sich noch an mich: Von März bis August letzten Jahres war ich Praktikantin in Ihrer Abteilung und habe Herrn Albrecht unterstützt, {{21}} Team damals die große Kundenbefragung durchgeführt hat. Besonders gern erinnere ich mich an die Präsentation der Ergebnisse vor der Geschäftsleitung, bei der Sie mir wertvolle Tipps gegeben haben. Die Zeit bei Ihnen hat mich stark geprägt, {{22}} ich mich inzwischen um einen Masterstudienplatz in Marktforschung beworben habe.",
+    "Für diese Bewerbung benötige ich zwei Empfehlungsschreiben, und dabei habe ich sofort an Sie gedacht. {{23}} Sie dazu bereit, würde mir das sehr helfen. Die Universität legt nämlich großen Wert {{24}}, dass Bewerberinnen und Bewerber bereits Erfahrungen in der Praxis gesammelt haben. Mein Studium der Betriebswirtschaft habe ich im Februar mit der Note 1,7 abgeschlossen.",
+    "Leider ist die Bewerbungsfrist in diesem Jahr deutlich verkürzt {{25}}: Alle Unterlagen müssen bis zum 15. Mai vorliegen. {{26}} der knappen Zeit wende ich mich schon heute an Sie. {{27}} Ihnen die Arbeit zu erleichtern, habe ich {{28}} erlaubt, eine kurze Übersicht über meine damaligen Aufgaben beizufügen. Sie können das Schreiben sowohl per Post schicken {{29}} direkt im Bewerbungsportal der Universität hochladen.",
+    "{{30}} ich eine Antwort der Universität erhalte, melde ich mich selbstverständlich wieder bei Ihnen. Falls Sie noch Fragen haben, erreichen Sie mich jederzeit unter 0176 / 52 48 19.",
+    "Mit freundlichen Grüßen",
+    "Julia Kowalski"
+   ],
+   "items": [
+    {
+     "no": "21",
+     "options": {
+      "a": "dem",
+      "b": "denen",
+      "c": "dessen"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "22",
+     "options": {
+      "a": "sodass",
+      "b": "weil",
+      "c": "wobei"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "23",
+     "options": {
+      "a": "Hätten",
+      "b": "Wären",
+      "c": "Würden"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "24",
+     "options": {
+      "a": "darauf",
+      "b": "davon",
+      "c": "dazu"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "25",
+     "options": {
+      "a": "geworden",
+      "b": "werden",
+      "c": "worden"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "26",
+     "options": {
+      "a": "Aufgrund",
+      "b": "Trotz",
+      "c": "Während"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "27",
+     "options": {
+      "a": "Anstatt",
+      "b": "Ohne",
+      "c": "Um"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "28",
+     "options": {
+      "a": "mich",
+      "b": "mir",
+      "c": "sich"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "29",
+     "options": {
+      "a": "als auch",
+      "b": "noch",
+      "c": "oder"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "30",
+     "options": {
+      "a": "Seitdem",
+      "b": "Sobald",
+      "c": "Solange"
+     },
+     "answer": "b"
+    }
+   ]
+  },
+  "sb2": {
+   "instruction": "Lesen Sie den folgenden Text und entscheiden Sie, welches Wort aus dem Kasten (a–o) in die Lücken 31–40 passt. Sie können jedes Wort im Kasten nur einmal verwenden. Nicht alle Wörter passen in den Text. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 31–40.",
+   "title": "Mehrweg statt Einweg: eine ernüchternde Bilanz",
+   "paragraphs": [
+    "Seit Januar 2023 sind Restaurants, Imbisse und Cafés, die Speisen und Getränke zum Mitnehmen verkaufen, {{31}} verpflichtet, neben Einwegverpackungen auch Mehrwegbehälter anzubieten. Ziel ist es, die Müllberge in den Innenstädten zu verringern. Allein bei Kaffeebechern zum Mitnehmen kommen in Deutschland jedes Jahr mehrere Milliarden Stück zusammen. Die Mehrwegvariante darf dabei nicht teurer sein als die Einwegverpackung. Ausgenommen {{32}} sind lediglich kleine Betriebe mit höchstens fünf Beschäftigten und maximal 80 Quadratmetern Verkaufsfläche. Sie müssen allerdings Gefäße befüllen, die Kundinnen und Kunden selbst mitbringen. Umweltverbände hatten sich von der neuen Regel viel {{33}}. Doch die Bilanz fällt bislang ernüchternd aus. {{34}} Schätzungen aus der Branche wird nur ein kleiner Teil der Speisen tatsächlich in Mehrweggefäßen über die Theke gereicht. Viele Gäste wissen gar nicht, dass sie {{35}} die Alternative einen Anspruch haben, und in manchen Lokalen wird sie nicht einmal aktiv angeboten. Hinzu kommt, dass zahlreiche Pfandsysteme nebeneinander bestehen, die nicht miteinander {{36}} sind. Wer seine Schüssel mittags beim Imbiss ausleiht, kann sie abends nicht {{37}} in der Bäckerei am Bahnhof zurückgeben. Den zusätzlichen Weg nehmen viele Kundinnen und Kunden nicht in {{38}}.",
+    "Kontrollen finden zudem kaum statt. Verstöße bleiben meist folgenlos. Zuständig sind die Behörden der Länder, und die sind nach eigenen Angaben personell {{39}} ausgestattet. Umweltverbände fordern deshalb ein einheitliches Pfandsystem für ganz Deutschland und eine Abgabe auf Einwegverpackungen. Die Branche selbst setzt dagegen auf Freiwilligkeit und eine bessere Information der Gäste. Nur so, argumentieren sie, könne sich Mehrweg im Alltag {{40}}. Einige Städte gehen bereits eigene Wege: In Tübingen wird seit 2022 eine Steuer auf Einwegbecher, -teller und -besteck erhoben. Nach Angaben der Stadt landen seitdem deutlich weniger Verpackungen in den öffentlichen Mülleimern."
+   ],
+   "words": {
+    "a": "ANGEWIESEN",
+    "b": "AUF",
+    "c": "DARAUF",
+    "d": "DAVON",
+    "e": "DURCHSETZEN",
+    "f": "EINFACH",
+    "g": "GESETZLICH",
+    "h": "KAUF",
+    "i": "KNAPP",
+    "j": "KOMPATIBEL",
+    "k": "NACH",
+    "l": "RECHNUNG",
+    "m": "TROTZ",
+    "n": "UMSETZEN",
+    "o": "VERSPROCHEN"
+   },
+   "items": [
+    {
+     "no": "31",
+     "answer": "g"
+    },
+    {
+     "no": "32",
+     "answer": "d"
+    },
+    {
+     "no": "33",
+     "answer": "o"
+    },
+    {
+     "no": "34",
+     "answer": "k"
+    },
+    {
+     "no": "35",
+     "answer": "b"
+    },
+    {
+     "no": "36",
+     "answer": "j"
+    },
+    {
+     "no": "37",
+     "answer": "f"
+    },
+    {
+     "no": "38",
+     "answer": "h"
+    },
+    {
+     "no": "39",
+     "answer": "i"
+    },
+    {
+     "no": "40",
+     "answer": "e"
+    }
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören nun eine Nachrichtensendung. Dazu sollen Sie fünf Aufgaben lösen. Sie hören die Nachrichtensendung nur einmal. Entscheiden Sie beim Hören, ob die Aussagen 41–45 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 41–45. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 41–45. Sie haben dazu 30 Sekunden Zeit.",
+   "items": [
+    {
+     "no": "41",
+     "text": "Die meisten Menschen über 65, die noch arbeiten, tun das vor allem aus finanziellen Gründen.",
+     "answer": "F"
+    },
+    {
+     "no": "42",
+     "text": "In den neuen Kleinbussen zahlen Fahrgäste denselben Preis wie für eine normale Fahrt.",
+     "answer": "R"
+    },
+    {
+     "no": "43",
+     "text": "Wegen der Unwetter in Norditalien ist neben dem Bahn- auch der Flugverkehr eingestellt worden.",
+     "answer": "F"
+    },
+    {
+     "no": "44",
+     "text": "Die Autorinnen der Studie raten Eltern, Smartphones nachts nicht im Kinderzimmer zu lassen.",
+     "answer": "R"
+    },
+    {
+     "no": "45",
+     "text": "Viele Störche verbringen den Winter inzwischen nicht mehr in Afrika.",
+     "answer": "R"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören ein Rundfunk-Interview. Dazu sollen Sie zehn Aufgaben lösen. Sie hören dieses Interview nur einmal. Entscheiden Sie beim Hören, ob die Aussagen 46–55 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 46–55. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 46–55. Sie haben dazu 60 Sekunden Zeit.",
+   "items": [
+    {
+     "no": "46",
+     "text": "Frau Sander hatte als Kind viel mit Tieren zu tun.",
+     "answer": "F"
+    },
+    {
+     "no": "47",
+     "text": "Frau Sander konnte ihre Ausbildung schneller abschließen als üblich.",
+     "answer": "R"
+    },
+    {
+     "no": "48",
+     "text": "Frau Sander empfindet ihren Arbeitsalltag meistens als Idylle.",
+     "answer": "F"
+    },
+    {
+     "no": "49",
+     "text": "Frau Sander verdient am meisten mit der Pflege von Flächen.",
+     "answer": "R"
+    },
+    {
+     "no": "50",
+     "text": "Die Border Collies schützen die Herde vor Wölfen.",
+     "answer": "F"
+    },
+    {
+     "no": "51",
+     "text": "Für gerissene Schafe zahlt das Land nur unter bestimmten Bedingungen.",
+     "answer": "R"
+    },
+    {
+     "no": "52",
+     "text": "Frau Sander verreist nur, wenn ihre Tiere im Stall stehen.",
+     "answer": "R"
+    },
+    {
+     "no": "53",
+     "text": "Heute versorgt ein Kollege aus dem Nachbardorf die Herde.",
+     "answer": "F"
+    },
+    {
+     "no": "54",
+     "text": "Frau Sander rät, den Beruf in der härtesten Zeit kennenzulernen.",
+     "answer": "R"
+    },
+    {
+     "no": "55",
+     "text": "An ihrem früheren Arbeitsplatz vermisst Frau Sander heute nichts mehr.",
+     "answer": "F"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören jetzt fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. Sie hören diese Ansagen nur einmal. Entscheiden Sie beim Hören, ob die Aussagen 56–60 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 56–60. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+   "readNote": "",
+   "items": [
+    {
+     "no": "56",
+     "text": "Während der zweiwöchigen Praxisferien bekommen Patientinnen und Patienten keine Rezepte für ihre Medikamente.",
+     "answer": "F"
+    },
+    {
+     "no": "57",
+     "text": "Reisende nach Rheine, die ein Fahrrad dabeihaben, müssen auf eine andere Verbindung ausweichen.",
+     "answer": "R"
+    },
+    {
+     "no": "58",
+     "text": "Den Jubiläumsrabatt von zwanzig Prozent gibt es auch auf Artikel, die bereits reduziert sind.",
+     "answer": "F"
+    },
+    {
+     "no": "59",
+     "text": "Wenn Frau Petrović morgen nicht zu Hause ist, bekommt sie ohne Kosten einen neuen Termin.",
+     "answer": "F"
+    },
+    {
+     "no": "60",
+     "text": "Mit der Eintrittskarte für die Museumsnacht kann man an diesem Abend auch Busse und Bahnen benutzen.",
+     "answer": "R"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "intro": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Entscheiden Sie schnell, denn die zur Verfügung stehende Zeit ist begrenzt auf 30 Minuten!",
+  "tasks": [
+   {
+    "letter": "A",
+    "kind": "Bitte um Informationen",
+    "lead": "Sie lesen im Internet folgende Anzeige:",
+    "ad": {
+     "header": "SicherDaheim",
+     "tag": "HAUSNOTRUF",
+     "title": "Allein leben – aber nie allein gelassen.",
+     "subtitle": "",
+     "facts": [
+      "Notrufknopf als Armband oder Kette, wasserdicht",
+      "Zentrale mit geschultem Personal, 24 Stunden am Tag",
+      "auf Wunsch Hinterlegung eines Wohnungsschlüssels",
+      "Installation durch unsere Techniker – ohne Bohren",
+      "Kostenübernahme durch die Pflegekasse möglich"
+     ],
+     "body": [
+      "Mit unserem Hausnotruf sind Sie rund um die Uhr mit unserer Zentrale verbunden. Ein Knopfdruck genügt – und wir kümmern uns um alles Weitere."
+     ],
+     "footer": "Jetzt vier Wochen unverbindlich testen! · info@sicherdaheim.de"
+    },
+    "situation": [
+     "Ihre Großmutter lebt allein und ist vor Kurzem in ihrer Wohnung gestürzt. Sie interessieren sich für den Hausnotruf und möchten mehr darüber erfahren. Schreiben Sie eine E-Mail an SicherDaheim."
+    ],
+    "choice": [
+     "Behandeln Sie darin entweder",
+     "a) drei der folgenden Punkte oder",
+     "b) zwei der folgenden Punkte und einen weiteren Aspekt Ihrer Wahl."
+    ],
+    "points": [
+     "Beschreiben Sie die Situation Ihrer Großmutter.",
+     "Erläutern Sie, welche Leistungen für Sie besonders wichtig sind.",
+     "Fragen Sie nach den Kosten und der Vertragslaufzeit.",
+     "Erkundigen Sie sich, wie die Testphase abläuft."
+    ],
+    "closing": "Überlegen Sie sich vor dem Schreiben eine passende Reihenfolge der Punkte, einen passenden Betreff, eine passende Anrede, Einleitung und einen passenden Schluss. Schreiben Sie mindestens 150 Wörter.",
+    "words": 150,
+    "model": {
+     "label": "Beispiel für Variante a): drei der vier Leitpunkte (ca. 190 Wörter)",
+     "text": "Betreff: Anfrage zu Ihrem Hausnotruf für meine Großmutter\n\nSehr geehrte Damen und Herren,\n\nauf Ihrer Internetseite bin ich auf Ihr Angebot aufmerksam geworden und möchte mich im Namen meiner Großmutter nach einigen Einzelheiten erkundigen.\n\nMeine Großmutter ist 84 Jahre alt und lebt seit dem Tod meines Großvaters allein. Vor drei Wochen ist sie im Bad gestürzt und lag fast eine Stunde auf dem Boden, bis eine Nachbarin sie gefunden hat. Seitdem machen wir uns große Sorgen, zumal ich 200 Kilometer entfernt wohne.\n\nBesonders wichtig ist uns, dass der Notrufknopf wasserdicht ist, da meine Großmutter ihn auch beim Duschen tragen soll. Außerdem würden wir gern einen Wohnungsschlüssel hinterlegen, damit im Notfall niemand die Tür aufbrechen muss.\n\nKönnten Sie mir bitte mitteilen, wie hoch die monatlichen Kosten sind und welchen Anteil die Pflegekasse übernimmt? Mich würde auch interessieren, ob es eine Mindestlaufzeit gibt und mit welcher Frist man den Vertrag kündigen kann.\n\nFür eine baldige Antwort wäre ich Ihnen sehr dankbar. Gern können Sie mich auch telefonisch unter 0170 / 33 81 42 erreichen.\n\nMit freundlichen Grüßen\nDaniel Moreno",
+     "notes": "Leitpunkte\n1 Situation → Sturz im Bad, lebt allein\n2 Leistungen → wasserdicht, Schlüssel\n3 Kosten, Laufzeit, Kündigung\n– Testphase bewusst weggelassen: drei Punkte genügen.\nAufbau\nBetreff · Anrede „Sehr geehrte Damen und Herren“ · Anlass der E-Mail · Leitpunkte in logischer Reihenfolge · Bitte um Antwort · Grußformel\nBewertung\nI Berücksichtigung der Leitpunkte: drei Punkte, jeweils ausgeführt.\nII Kommunikative Gestaltung: Register (Sie), Verknüpfungen wie seitdem, zumal, damit, höfliche Fragen im Konjunktiv II.\nIII Formale Richtigkeit: Fehler dürfen das Verständnis nicht beeinträchtigen.\nTypische Fehler: Leitpunkte nur aufzählen · „Hallo“ oder „Liebe Firma“ als Anrede · Fragen ohne Höflichkeitsform · unter 150 Wörtern bleiben."
+    }
+   },
+   {
+    "letter": "B",
+    "kind": "Beschwerde",
+    "lead": "Sie lesen folgende Werbeanzeige:",
+    "ad": {
+     "header": "",
+     "tag": "RADABO",
+     "title": "Ihr E-Bike für 49 € im Monat",
+     "subtitle": "",
+     "facts": [
+      "Wartung und Reparaturen inklusive",
+      "Ersatzrad innerhalb von 48 Stunden, falls Ihr Rad ausfällt",
+      "Diebstahlversicherung inklusive",
+      "Service-Hotline sieben Tage die Woche",
+      "monatlich kündbar"
+     ],
+     "body": [
+      "Kein Kaufpreis, keine Sorgen: Wir liefern Ihnen ein neues E-Bike direkt vor die Haustür – und Sie fahren einfach los."
+     ],
+     "footer": "www.radabo.de · service@radabo.de"
+    },
+    "situation": [
+     "Sie haben vor drei Monaten ein E-Bike bei RadAbo gemietet. Leider waren Sie mit dem Service überhaupt nicht zufrieden. Schreiben Sie eine Beschwerde an RadAbo."
+    ],
+    "choice": [
+     "Behandeln Sie darin entweder",
+     "a) drei der folgenden Punkte oder",
+     "b) zwei der folgenden Punkte und einen weiteren Aspekt Ihrer Wahl."
+    ],
+    "points": [
+     "Erklären Sie, warum Sie sich für das Angebot entschieden haben.",
+     "Beschreiben Sie, welche Probleme aufgetreten sind.",
+     "Schildern Sie, wie der Kundenservice reagiert hat.",
+     "Stellen Sie klar, was Sie nun von RadAbo erwarten."
+    ],
+    "closing": "Überlegen Sie sich vor dem Schreiben eine passende Reihenfolge der Punkte, einen passenden Betreff, eine passende Anrede, Einleitung und einen passenden Schluss. Schreiben Sie mindestens 150 Wörter.",
+    "words": 150,
+    "model": {
+     "label": "Beispiel für Variante b): zwei Leitpunkte und ein eigener Aspekt (ca. 190 Wörter)",
+     "text": "Betreff: Beschwerde über mein E-Bike-Abo (Kundennummer 48213)\n\nSehr geehrte Damen und Herren,\n\nseit drei Monaten miete ich bei Ihnen ein E-Bike. Leider bin ich mit Ihrem Service sehr unzufrieden und möchte mich hiermit beschweren.\n\nBereits nach sechs Wochen ließ sich der Akku nicht mehr laden. Ich habe den Defekt noch am selben Tag gemeldet. Obwohl Sie in Ihrer Werbung ein Ersatzrad innerhalb von 48 Stunden versprechen, wurde es erst nach neun Tagen geliefert. Zwei Wochen später sprang die Kette ab, und seitdem quietschen die Bremsen bei jeder Fahrt.\n\nFür mich hatte das erhebliche Folgen: Ich fahre täglich zwölf Kilometer zur Arbeit und musste in dieser Zeit auf Bus und Taxi ausweichen. Zweimal bin ich zu spät zu einem wichtigen Termin gekommen, und die Taxifahrten haben mich rund 80 Euro gekostet.\n\nIch erwarte daher, dass Sie mir diese Kosten erstatten und die Gebühr für den betreffenden Monat gutschreiben. Außerdem bitte ich Sie, die Bremsen umgehend überprüfen zu lassen. Sollte ich bis zum 30. Juni keine Antwort erhalten, werde ich den Vertrag kündigen und mich an die Verbraucherzentrale wenden.\n\nMit freundlichen Grüßen\nAylin Demir",
+     "notes": "Leitpunkte\n2 Probleme → Akku, Ersatzrad zu spät, Kette, Bremsen\n+ eigener Aspekt → Folgen für den Alltag, Kosten\n4 Erwartung → Erstattung, Gutschrift, Frist\nAufbau\nBetreff mit Kundennummer · sachlicher Einstieg · Problem mit Bezug auf das Werbeversprechen · Folgen · klare Forderung mit Frist · Grußformel\nRedemittel\nLeider muss ich mich über ... beschweren. · Obwohl Sie in Ihrer Anzeige ... versprechen, ... · Ich erwarte daher, dass ... · Sollte ich bis ... keine Antwort erhalten, ...\nTypische Fehler: unhöflicher oder drohender Ton · keine konkrete Forderung · Probleme nur behaupten, ohne Zeitangaben und Beispiele."
+    }
+   }
+  ]
+ },
+ "notes": "Checker artefacts (verified: character multiset of the JSON words is fully contained in the PDF raw text, and every PDF-only token is either furniture or a space-fused pair of JSON words): (1) pdftotext -raw loses the space between some words, so the PDF side shows fused tokens such as Bekanntersucht, IhrNeffe, Sanderempfindet, Pendlerruhige, derUniversität, fürSie, Gärtnermeisterinnenund, meisterjedenDienstagvon14, IhrE, für49, unter0176, undx4 etc., while the JSON side lists the same words separately (Bekannter, sucht, ...); (2) page furniture not filtered by the checker: '90 Minuten Leseverstehen und Sprachbausteine' header lines, 'Leseverstehen Teil n' / 'Sprachbausteine Teil n' / 'Hörverstehen Teil n' headings, 'Aufgabe A Bitte um Informationen', 'Aufgabe B Beschwerde', the rotated side labels split into single letters, item numbers 41-60, option letters a-l; (3) letter-spaced headings printed as single letters in the PDF (SINGEN OHNE NOTEN, PHILHARMONIE, KLEINGARTENVEREIN, BOTANISCHER GARTEN, LAUT SEIN ERWÜNSCHT, ERST MIETEN DANN KAUFEN, RADABO) appear as JSON-only words in normal spelling; (4) the model e-mail words in the JSON that the checker lists as 'not in PDF' (Sehr, geehrte, Großmutter, Fahrt, ...) are fused tokens in the PDF raw text of pages 21-22 (e.g. SehrgeehrteDamen). No word was left out and no typo remains. Decisions: page 12 hyphenation 'Bahn- auch' kept (real hyphen of 'Bahn- und Flugverkehr'); drop-cap 'D ie' of info f written 'Die'; info b tag=KLEINGARTENVEREIN, title='Sonnenhang e. V.'; info h/i use title+subtitle; info g footer keeps the printed arrow '→'; info j: tag '17. APRIL', fact 'Do, 18–21 Uhr'; Schreiben B ad: tag RADABO, header empty; model labels contain only the first sentence of the printed line (without the sentence about the grey digits on page 21); model.notes added from the margin column; page-21/22 numbered markers (1, 2, 3, 4, +) left out. Paragraph breaks of Teil 1 texts: each text is one paragraph. 'Sollte ich bis zum 30. Juni ...' in model B stays in the last paragraph (no visible gap)."
+}

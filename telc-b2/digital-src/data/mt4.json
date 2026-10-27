@@ -1,0 +1,803 @@
+{
+ "id": 4,
+ "roman": "IV",
+ "lesen": {
+  "t1": {
+   "instruction": "Lesen Sie zuerst die zehn Überschriften. Lesen Sie dann die fünf Texte und entscheiden Sie, welche Überschrift (a–j) am besten zu welchem Text (1–5) passt. Tragen Sie Ihre Lösungen in den Antwortbogen bei den Aufgaben 1–5 ein.",
+   "headlines": [
+    {
+     "letter": "a",
+     "text": "Das Land übernimmt die Mieten der Pop-up-Läden"
+    },
+    {
+     "letter": "b",
+     "text": "Die Bürger haben ihre Nachtbürgermeisterin selbst gewählt"
+    },
+    {
+     "letter": "c",
+     "text": "Ein Sommer lang Terrasse statt Parkplatz"
+    },
+    {
+     "letter": "d",
+     "text": "Eine Ausstellung macht sich über Erfinder lustig"
+    },
+    {
+     "letter": "e",
+     "text": "Eine Vermittlerin für ruhigere Nächte"
+    },
+    {
+     "letter": "f",
+     "text": "Gemeinde lockt Ärztin mit Startgeld aufs Land"
+    },
+    {
+     "letter": "g",
+     "text": "Gescheiterte Produkte als Lehrstück"
+    },
+    {
+     "letter": "h",
+     "text": "Jeder darf vor seiner Tür eine Terrasse bauen"
+    },
+    {
+     "letter": "i",
+     "text": "Kurze Mietzeiten bringen Leben in die Innenstadt"
+    },
+    {
+     "letter": "j",
+     "text": "Prämien beenden den Ärztemangel in der ganzen Region"
+    }
+   ],
+   "texts": [
+    {
+     "no": "1",
+     "paragraphs": [
+      "Als Hanna Wiesner vor zwei Jahren die Hausarztpraxis in Oberwaldach übernahm, war das Dorf seit acht Monaten ohne Arzt. Ältere Menschen mussten für jedes Rezept 30 Kilometer in die Kreisstadt fahren, oft mit dem Taxi. Dass die 36-Jährige heute hier arbeitet, hat mit einem ungewöhnlichen Angebot zu tun: Die Gemeinde zahlte ihr 50.000 Euro Starthilfe und stellt ihr die Praxisräume im alten Rathaus mietfrei zur Verfügung. Im Gegenzug hat sich Wiesner verpflichtet, mindestens fünf Jahre zu bleiben. „Das Geld war nicht der Hauptgrund“, sagt sie. „Aber es hat mir die Entscheidung erleichtert, mich selbstständig zu machen.“ In einer Klinik in der Stadt hätte sie als Angestellte ein sicheres Gehalt gehabt, aber weniger selbst bestimmen können. Inzwischen kennt sie viele ihrer Patientinnen und Patienten beim Vornamen, und nach der Sprechstunde fährt sie zu Hausbesuchen auf die umliegenden Höfe. Unterstützt wird sie von einer Praxisassistentin, die Blutdruck misst und Verbände wechselt, damit mehr Zeit für schwierige Fälle bleibt. Ganz so idyllisch, wie es klingt, ist der Alltag allerdings nicht: Eine Vertretung für den Urlaub zu finden, ist fast unmöglich, und nach Feierabend klingelt manchmal trotzdem das Telefon, weil jemand dringend Hilfe braucht. Mehrere Nachbargemeinden haben das Modell inzwischen übernommen – mit gemischtem Erfolg, denn nicht überall hat sich jemand gemeldet."
+     ]
+    },
+    {
+     "no": "2",
+     "paragraphs": [
+      "Wenn in der Altstadt von Kronstedt nachts die Musik aus den Clubs dringt, ruft heute seltener jemand die Polizei. Das liegt auch an Mira Jovanović. Seit einem Jahr ist die studierte Kulturmanagerin die erste Nachtbürgermeisterin der Stadt. Gewählt wurde sie nicht von der Bevölkerung, sondern von einem Gremium aus Clubbetreibern, Anwohnern und Verwaltung; ihre halbe Stelle bezahlt die Stadt. Ihre Aufgabe: zwischen denen vermitteln, die nachts feiern wollen, und denen, die schlafen müssen. Statt auf Strafen setzt sie auf Gespräche. So hat sie erreicht, dass zwei Clubs ihre Eingänge schalldicht umgebaut haben und die Gäste zum Rauchen in einen Innenhof gehen statt auf den Gehweg. Am Wochenende sind außerdem „Nachtlotsen“ unterwegs, die laute Gruppen freundlich um Ruhe bitten. Für Clubbetreiber ist Jovanović zudem die Ansprechpartnerin im Rathaus, wenn es um Genehmigungen geht. Mit Polizei und Ordnungsamt trifft sie sich einmal im Monat, um Konflikte früh zu erkennen. Seit ihrem Amtsantritt ist die Zahl der Beschwerden um ein Drittel gesunken. Ganz zufrieden sind aber nicht alle: Einige Anwohner fordern eine Sperrstunde um Mitternacht. Davon hält Jovanović wenig. „Eine lebendige Stadt braucht auch ein Nachtleben“, sagt sie."
+     ]
+    },
+    {
+     "no": "3",
+     "paragraphs": [
+      "Wo früher ein Schuhgeschäft war, verkauft heute eine junge Modedesignerin ihre erste Kollektion; zwei Häuser weiter bietet ein kleines Unternehmen Taschen aus alten Segeln an. Beide Läden sind nur auf Zeit geöffnet – und genau das ist die Idee. In Emmerstadt standen vor drei Jahren fast 40 Geschäfte in der Innenstadt leer. Seitdem mietet die Stadt einige dieser Flächen selbst an und gibt sie für drei bis sechs Monate günstig an Gründerinnen und Gründer, Kunsthandwerker oder Vereine weiter. Gefördert werden vor allem Angebote, die es in der Innenstadt bisher nicht gab. Die Miete beträgt nur einen Bruchteil des Üblichen; dafür müssen die Mieter die Räume selbst herrichten und an mindestens fünf Tagen pro Woche öffnen. Die Bilanz nach drei Jahren: 46 Pop-up-Läden wurden eröffnet, elf davon sind geblieben und zahlen inzwischen die normale Miete. Der Leerstand ist um ein Viertel gesunken, und mehrere Gründerinnen beschäftigen sogar schon Angestellte. Auch alteingesessene Geschäfte profitieren. „Wenn ein Schaufenster wieder hell ist, bleiben die Leute stehen – und kommen dann auch zu uns“, sagt der Inhaber eines Buchladens. Nicht jede Idee funktioniert allerdings: Ein Laden für Brettspiele gab schon nach sechs Wochen auf, weil kaum Kunden kamen. Das Risiko bleibt für die Gründer trotzdem überschaubar, denn lange Mietverträge müssen sie nicht unterschreiben. Kritik kommt von manchen Hauseigentümern. Sie befürchten, dass die niedrigen Mieten die Preise in der Innenstadt auf Dauer drücken. Die Stadt hält dagegen, dass leere Läden niemandem Geld bringen und ganze Straßen veröden lassen. Das Programm soll deshalb weiterlaufen; ab dem kommenden Jahr will sich auch das Land an den Kosten beteiligen."
+     ]
+    },
+    {
+     "no": "4",
+     "paragraphs": [
+      "Die Zahnpasta mit Kaffeegeschmack sieht harmlos aus, wie sie da in der Vitrine liegt. Daneben sind ein Kühlschrank mit eingebautem Radio, eine Gabel, die beim Essen die Bissen zählt, und ein Regenschirm zu sehen, der sich per App öffnen lässt – sofern der Akku nicht gerade leer ist. Diese Produkte haben eines gemeinsam: Kaum jemand wollte sie haben. Seit einem halben Jahr zeigt die Ausstellung „Daneben“ in einer ehemaligen Fabrikhalle in Aschenberg rund 120 solcher Fehlschläge. Die Idee stammt vom Wirtschaftshistoriker Veit Pfleiderer, der seit Jahren gescheiterte Erfindungen sammelt. Er will die Besucher nicht zum Lachen bringen – jedenfalls nicht in erster Linie. „In unserer Kultur werden Fehler meist versteckt“, sagt er. „Dabei lernt man aus ihnen oft mehr als aus Erfolgen.“ Zu jedem Objekt erklärt eine kurze Tafel, warum es gescheitert ist: Mal war die Technik noch nicht ausgereift, mal war das Produkt zu teuer, mal kam es schlicht zur falschen Zeit. Ein Telefon mit Bildschirm etwa scheiterte vor vierzig Jahren auch daran, dass es kaum jemanden gab, den man damit anrufen konnte. Manches, was in den Achtzigerjahren niemand kaufen wollte, ist heute übrigens selbstverständlich. Besonders gefragt sind Führungen für Unternehmen: Teams aus Entwicklungsabteilungen kommen, um über eigene Misserfolge zu sprechen, ohne sich dabei zu blamieren. Mit dem Geld aus diesen Führungen wird die Ausstellung finanziert. Auch Schulklassen kommen häufig. Eine Lehrerin erzählt, ihre Schüler hätten danach viel offener über schlechte Noten gesprochen. Ursprünglich sollte die Schau nur drei Monate dauern. Weil bereits mehr als 30.000 Menschen gekommen sind, wurde sie bis Ende nächsten Jahres verlängert. Einige Hersteller haben ihre Flops sogar selbst gespendet – wenn auch anonym."
+     ]
+    },
+    {
+     "no": "5",
+     "paragraphs": [
+      "Zwei Holzbänke, ein Tisch und Blumenkästen – dort, wo in der Gerberstraße sonst ein Auto parkt. Die Anwohner haben den Parkplatz vor ihrem Haus für den Sommer in eine kleine Terrasse verwandelt. Abends sitzen hier Nachbarn zusammen, die sich vorher kaum kannten. Dahinter steckt ein Versuch der Stadt Hallfeld: Wer vor der eigenen Haustür ein solches „Parklet“ einrichten möchte, muss einen Antrag stellen, die Zustimmung der direkten Nachbarn vorlegen und sich verpflichten, die Fläche sauber zu halten. Den Bausatz aus Holz und die Pflanzen bezahlt die Stadt, aufbauen müssen die Anwohner selbst – Werkzeug brauchen sie dafür nicht. Im Oktober wird alles wieder abgebaut. In diesem Jahr machen zwölf Straßen mit. Auch Kinder aus der Nachbarschaft nutzen die Bänke gern, etwa für ihre Hausaufgaben. Der Einzelhandel sieht die Aktion skeptisch, weil er befürchtet, dass Kunden keinen Parkplatz mehr finden. Im Herbst will die Stadt Bilanz ziehen."
+     ]
+    }
+   ],
+   "items": [
+    {
+     "no": "1",
+     "answer": "f"
+    },
+    {
+     "no": "2",
+     "answer": "e"
+    },
+    {
+     "no": "3",
+     "answer": "i"
+    },
+    {
+     "no": "4",
+     "answer": "g"
+    },
+    {
+     "no": "5",
+     "answer": "c"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Lesen Sie zuerst das Interview und lösen Sie dann die Aufgaben 6–10 zu dem Text.",
+   "kind": "interview",
+   "title": "„Die Hand denkt mit“",
+   "lead": "Schulen verteilen Tablets, Studierende tippen ihre Notizen in den Laptop. Die Lernforscherin Johanna Riedl erklärt, warum wir das Schreiben mit der Hand trotzdem nicht aufgeben sollten.",
+   "paragraphs": [
+    {
+     "q": true,
+     "text": "Frau Riedl, wann haben Sie zuletzt etwas mit der Hand geschrieben?"
+    },
+    {
+     "text": "Heute Morgen – einen Einkaufszettel. Damit bin ich ziemlich typisch: Die meisten Erwachsenen schreiben kaum noch mit der Hand, höchstens eine Glückwunschkarte oder eine Notiz für den Kühlschrank. Das ist an sich kein Problem. Bedenklich finde ich es erst, wenn Kinder und Jugendliche auch beim Lernen fast nur noch tippen. Bei meinen Studierenden sehe ich kaum noch Hefte."
+    },
+    {
+     "q": true,
+     "text": "Warum? Auf der Tastatur ist man doch viel schneller."
+    },
+    {
+     "text": "Genau darin liegt der Haken, denn die Tastatur verführt dazu, zur reinen Protokollmaschine zu werden. Wer tippt, kann einem Vortrag fast Wort für Wort folgen und schreibt deshalb vieles mit, ohne darüber nachzudenken. Wer mit der Hand schreibt, ist langsamer und muss auswählen: Was ist wichtig, und wie fasse ich es in eigenen Worten zusammen? Gerade dieses Verarbeiten sorgt dafür, dass man sich den Stoff besser merkt. In einem bekannten Experiment aus den USA konnten Studierende, die mit der Hand mitgeschrieben hatten, Verständnisfragen deutlich besser beantworten als ihre tippenden Kommilitonen – obwohl ihre Notizen kürzer waren."
+    },
+    {
+     "q": true,
+     "text": "Spielt auch die Bewegung der Hand selbst eine Rolle?"
+    },
+    {
+     "text": "Vieles spricht dafür. Beim Schreiben formt man jeden Buchstaben mit einer eigenen Bewegung, beim Tippen drückt man immer die gleiche Art von Taste. Das Gehirn muss sich also bei jedem Buchstaben neu orientieren, und das scheint das Behalten zu fördern. Messungen der Hirnaktivität zeigen, dass beim Schreiben mit der Hand deutlich mehr Bereiche des Gehirns zusammenarbeiten. Man sollte davon aber keine Wunder erwarten: Wer einen schlechten Aufsatz mit der Hand schreibt, hat hinterher immer noch einen schlechten Aufsatz."
+    },
+    {
+     "q": true,
+     "text": "Kann man diese Vorteile nicht auch am Computer nutzen?"
+    },
+    {
+     "text": "Zum Teil. Wer sich beim Tippen zwingt, nur Stichworte festzuhalten und alles in eigenen Worten zusammenzufassen, lernt ebenfalls besser. Das gelingt aber nur wenigen, weil die Versuchung, einfach alles mitzuschreiben, zu groß ist."
+    },
+    {
+     "q": true,
+     "text": "Sollten Schulen also auf Tablets verzichten?"
+    },
+    {
+     "text": "Nein, das wäre der falsche Schluss. Für Recherchen, für Präsentationen oder für Kinder mit einer Schreibschwäche sind digitale Geräte ein großer Gewinn. Es kommt darauf an, bewusst zu entscheiden, wann welches Werkzeug sinnvoll ist. Ein Tablet ersetzt nicht das Schreiben mit der Hand, aber es kann den Unterricht gut ergänzen. Schweden hat übrigens vor einigen Jahren begonnen, in den Grundschulen wieder mehr gedruckte Bücher und Hefte einzusetzen – nachdem die Leseleistungen der Kinder zurückgegangen waren."
+    },
+    {
+     "q": true,
+     "text": "In manchen Bundesländern lernen Kinder keine verbundene Schreibschrift mehr, sondern nur noch Druckbuchstaben. Ist das ein Verlust?"
+    },
+    {
+     "text": "Weniger, als viele glauben. Ob die Buchstaben verbunden sind oder nicht, ist zweitrangig; Kinder, die nur Druckschrift lernen, schreiben deshalb nicht automatisch schlechter. Entscheidend ist, dass Kinder flüssig und lesbar schreiben lernen. Wer über jeden einzelnen Buchstaben nachdenken muss, hat keine Kraft mehr für den Inhalt. Und flüssiges Schreiben braucht Übung – also Zeit, die im Stundenplan ohnehin knapp ist."
+    },
+    {
+     "q": true,
+     "text": "Was bedeutet das für Erwachsene, die sich weiterbilden?"
+    },
+    {
+     "text": "Wer etwas wirklich verstehen will, sollte zumindest die Kernpunkte von Hand notieren. Das geht übrigens auch mit einem Stift auf dem Tablet; entscheidend ist das Formulieren, nicht das Papier. Wenn es dagegen auf jedes Wort ankommt, etwa bei einem Protokoll, ist die Tastatur die bessere Wahl. Ich selbst halte es so: Stichworte von Hand, alles Weitere später am Computer."
+    }
+   ],
+   "source": "",
+   "taskInstruction": "Lösen Sie die Aufgaben 6–10. Entscheiden Sie, welche Lösung (a, b oder c) richtig ist, und tragen Sie Ihre Lösung in den Antwortbogen bei den Aufgaben 6–10 ein.",
+   "items": [
+    {
+     "no": "6",
+     "stem": "Bedenklich findet Frau Riedl, dass",
+     "options": {
+      "a": "Erwachsene im Alltag kaum noch etwas mit der Hand schreiben.",
+      "b": "auch Schüler beim Lernen kaum noch einen Stift benutzen.",
+      "c": "niemand mehr Glückwunschkarten verschickt."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "7",
+     "stem": "Im Experiment aus den USA",
+     "options": {
+      "a": "schrieben die Handschreibenden mehr mit.",
+      "b": "waren getippte Notizen weniger vollständig als handgeschriebene.",
+      "c": "verstanden die Handschreibenden den Stoff besser."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "8",
+     "stem": "Messungen der Hirnaktivität",
+     "options": {
+      "a": "sprechen für ein stärkeres Zusammenspiel im Gehirn.",
+      "b": "belegen, dass handgeschriebene Aufsätze besser sind.",
+      "c": "zeigen kaum Unterschiede zwischen Tippen und Schreiben."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "9",
+     "stem": "Digitale Geräte",
+     "options": {
+      "a": "hält Frau Riedl für grundsätzlich schädlich.",
+      "b": "können manchen Kindern das Lernen deutlich erleichtern.",
+      "c": "haben in Schweden die Leseleistungen verbessert."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "10",
+     "stem": "Erwachsenen rät Frau Riedl,",
+     "options": {
+      "a": "beim Lernen ganz auf digitale Geräte zu verzichten.",
+      "b": "möglichst jedes Wort mitzuschreiben.",
+      "c": "Wichtiges selbst formuliert von Hand festzuhalten."
+     },
+     "answer": "c"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Lesen Sie zuerst die zehn Situationen (11–20) und dann die zwölf Info-Texte (a–l). Welcher Info-Text passt zu welcher Situation? Sie können jeden Info-Text nur einmal verwenden. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 11–20. Manchmal gibt es keine Lösung. Markieren Sie dann x.",
+   "items": [
+    {
+     "no": "11",
+     "text": "Ein Freund möchte sich mit einem Café selbstständig machen.",
+     "answer": "g"
+    },
+    {
+     "no": "12",
+     "text": "Eine Bekannte möchte selbst ein Möbelstück aus Holz bauen.",
+     "answer": "b"
+    },
+    {
+     "no": "13",
+     "text": "Eine berufstätige Kollegin sucht ein Bewerbungstraining am Abend.",
+     "answer": "x"
+    },
+    {
+     "no": "14",
+     "text": "Ihr Bruder und seine Verlobte wollen ihre Eheringe selbst machen.",
+     "answer": "k"
+    },
+    {
+     "no": "15",
+     "text": "Ihr Nachbar (70) möchte mit Gleichaltrigen Aquarell malen.",
+     "answer": "d"
+    },
+    {
+     "no": "16",
+     "text": "Ihre Cousine will nach der Elternzeit zurück in den Beruf.",
+     "answer": "i"
+    },
+    {
+     "no": "17",
+     "text": "Ihre Mutter möchte ihre Kleidung selbst ändern können.",
+     "answer": "l"
+    },
+    {
+     "no": "18",
+     "text": "Ihre Nichte (8) sucht samstags eine kreative Beschäftigung.",
+     "answer": "f"
+    },
+    {
+     "no": "19",
+     "text": "Sie brauchen für den Job Deutsch auf B2-Niveau.",
+     "answer": "a"
+    },
+    {
+     "no": "20",
+     "text": "Sie müssen bald vor vielen Leuten sprechen und sind sehr aufgeregt.",
+     "answer": "c"
+    }
+   ],
+   "infos": [
+    {
+     "letter": "a",
+     "header": "",
+     "tag": "Neu ab Oktober",
+     "title": "Deutsch für den Beruf (B2)",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Sie arbeiten bereits in Deutschland und möchten sich im Job sicherer ausdrücken? In unserem berufsbegleitenden Kurs üben Sie, E-Mails zu formulieren, am Telefon Termine zu vereinbaren und in Besprechungen Ihre Meinung zu vertreten. Am Ende können Sie eine anerkannte B2-Prüfung ablegen. Der Unterricht findet dienstags und donnerstags von 18 bis 21 Uhr statt. Unter bestimmten Voraussetzungen übernimmt das Jobcenter oder Ihr Arbeitgeber die Kosten. Vor Kursbeginn machen alle Interessierten einen kurzen Einstufungstest."
+     ],
+     "footer": "Sprachenzentrum am Ring · Anmeldung im Sekretariat"
+    },
+    {
+     "letter": "b",
+     "header": "STADTTEILZENTRUM OSTPARK",
+     "tag": "",
+     "title": "Offene Holzwerkstatt",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Sie wollten schon immer ein Regal, einen Hocker oder ein Vogelhaus selbst bauen, haben aber weder das Werkzeug noch den Platz dafür? In unserer Werkstatt stehen Hobelbank, Säge und Bohrmaschine für Sie bereit. Ein erfahrener Tischler zeigt Ihnen, wie Sie sicher mit den Maschinen umgehen, und berät Sie bei Ihrem eigenen Projekt. Holz können Sie mitbringen oder günstig bei uns kaufen. Vorkenntnisse sind nicht nötig. Geöffnet ist mittwochs von 17 bis 21 Uhr; pro Abend zahlen Sie 8 Euro."
+     ],
+     "footer": "Anmeldung: werkstatt@ostpark-zentrum.de"
+    },
+    {
+     "letter": "c",
+     "header": "AKADEMIE FÜR WEITERBILDUNG",
+     "tag": "",
+     "title": "Keine Angst vor dem Publikum",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Zittrige Hände, trockener Mund, ein leerer Kopf: Lampenfieber kennen viele. In unserem Seminar lernen Sie, Ihre Nervosität in den Griff zu bekommen und vor Gruppen frei und überzeugend zu sprechen. Sie halten kurze Reden vor der Kamera und erhalten persönliche Rückmeldungen von einer erfahrenen Schauspielerin. Das Seminar findet an zwei Samstagen statt, jeweils von 10 bis 17 Uhr. Damit genug Zeit für alle bleibt, nehmen höchstens zehn Personen teil."
+     ],
+     "footer": "Tel. 0221 / 17 38 40 · 180 €"
+    },
+    {
+     "letter": "d",
+     "header": "",
+     "tag": "",
+     "title": "Farbe & Wasser",
+     "subtitle": "AQUARELLKURS AB 60",
+     "facts": [],
+     "body": [
+      "Leuchtende Farben, weiche Übergänge: Aquarellmalerei wirkt leicht und ist doch eine Kunst für sich. In unserem Kurs für Menschen ab 60 lernen Sie Schritt für Schritt, wie Sie Farben mischen, Flächen anlegen und Licht und Schatten darstellen. Gemalt werden Landschaften und Blumen, bei schönem Wetter auch draußen im Park. Pinsel, Papier und Farben stellen wir. Wir treffen uns an acht Dienstagvormittagen von 10 bis 12 Uhr."
+     ],
+     "footer": "Seniorenzentrum am Rosengarten · Tel. 0221 / 58 20 71"
+    },
+    {
+     "letter": "e",
+     "header": "WERKSTATT TONART",
+     "tag": "",
+     "title": "Töpfern am Abend",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Vom ersten Klumpen Ton bis zur fertigen Tasse: An acht Abenden lernen Sie bei uns die Grundlagen des Töpferns. Sie arbeiten an der Drehscheibe und mit der Hand, formen Schalen, Becher und Vasen und glasieren Ihre Stücke zum Schluss in Ihren Lieblingsfarben. Gebrannt wird in unserem eigenen Ofen. Der Kurs richtet sich an Erwachsene ohne Vorkenntnisse; die Gruppe ist klein, damit alle genug Zeit an der Scheibe haben. Termine: donnerstags von 19 bis 21.30 Uhr."
+     ],
+     "footer": "Brunnengasse 5 · 240 € inkl. Material"
+    },
+    {
+     "letter": "f",
+     "header": "JEDEN SAMSTAG",
+     "tag": "Sa",
+     "title": "Kleine Erfinder",
+     "subtitle": "",
+     "facts": [
+      "10–12.30 Uhr"
+     ],
+     "body": [
+      "Aus Kartons, Korken und Stoffresten bauen Kinder zwischen sechs und zehn Jahren in unserer Kreativwerkstatt Roboter, Burgen und Fantasietiere. Dabei geht es nicht um perfekte Ergebnisse, sondern um die Freude am Ausprobieren. Unsere Pädagoginnen helfen, wenn etwas nicht gleich klappt. Die Eltern können in der Zwischenzeit im Museumscafé warten oder die Ausstellung besuchen. Eine Anmeldung ist nicht erforderlich; der Eintritt kostet 4 Euro pro Kind, Material inklusive."
+     ],
+     "footer": "Kindermuseum Pfiffikus · Eingang Schlossplatz"
+    },
+    {
+     "letter": "g",
+     "header": "WIRTSCHAFT REGIONAL",
+     "tag": "",
+     "title": "Vom Traum zum eigenen Betrieb",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Wer ein eigenes Geschäft eröffnen möchte, hat viele Fragen: Wie schreibe ich einen Geschäftsplan? Welche Genehmigungen brauche ich? Wo bekomme ich einen Kredit? Die Industrie- und Handelskammer bietet Gründerinnen und Gründern kostenlose Einzelgespräche an. Erfahrene Beraterinnen und Berater prüfen die Geschäftsidee, rechnen gemeinsam mit Ihnen die Kosten durch und informieren über Fördermittel. Außerdem findet jeden ersten Mittwoch im Monat ein Informationsabend statt, an dem junge Unternehmer von ihren Erfahrungen berichten."
+     ],
+     "footer": "IHK-Gründerzentrum · Termine unter Tel. 0221 / 30 15 66"
+    },
+    {
+     "letter": "h",
+     "header": "",
+     "tag": "",
+     "title": "Fit für die Bewerbung",
+     "subtitle": "Training für Arbeitsuchende",
+     "facts": [],
+     "body": [
+      "Wie schreibe ich ein Anschreiben, das auffällt? Was gehört in einen Lebenslauf? Und wie bereite ich mich auf ein Vorstellungsgespräch vor? In unserem Kurs bekommen Sie Antworten auf diese Fragen und üben Gespräche mit Videoaufnahme. Zum Abschluss sehen wir uns Ihre Unterlagen einzeln an. Der Kurs läuft über vier Wochen, jeweils montags bis freitags von 9 bis 12 Uhr. Wer Arbeitslosengeld bezieht, kann kostenlos teilnehmen."
+     ],
+     "footer": "Bildungswerk Süd · Tel. 0221 / 49 11 03"
+    },
+    {
+     "letter": "i",
+     "header": "",
+     "tag": "",
+     "title": "ZURÜCK IN DEN JOB",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Sie haben einige Jahre Ihre Kinder betreut oder Angehörige gepflegt und möchten jetzt wieder arbeiten? In unserer Beratung finden wir gemeinsam heraus, welche Stellen zu Ihren Erfahrungen passen, wo Sie Ihr Wissen auffrischen sollten und wie sich Beruf und Familie vereinbaren lassen. Die Beratung ist kostenlos und vertraulich. Termine gibt es auch abends und am Samstagvormittag. Kinder dürfen Sie gern mitbringen – eine Spielecke ist vorhanden."
+     ],
+     "footer": "KONTAKTSTELLE FRAU & BERUF · TEL. 0221 / 22 70 45"
+    },
+    {
+     "letter": "j",
+     "header": "",
+     "tag": "",
+     "title": "WENIGER STRESS, MEHR ZEIT",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Sie haben das Gefühl, dass Ihr Tag nie genug Stunden hat? In unserem Online-Seminar lernen Sie Methoden, mit denen Sie Aufgaben planen, Prioritäten setzen und auch einmal Nein sagen. Die Techniken probieren Sie sofort in Ihrem eigenen Alltag aus und tauschen sich in kleinen Gruppen aus. Drei Abende, jeweils von 19 bis 21 Uhr, bequem von zu Hause aus – Sie brauchen nur einen Computer mit Kamera."
+     ],
+     "footer": "Nächster Start: 5. November · Anmeldung: www.zeit-gewinnen.de"
+    },
+    {
+     "letter": "k",
+     "header": "",
+     "tag": "",
+     "title": "Ringe, die Geschichten erzählen",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Unter fachkundiger Anleitung schmieden Sie in unserer Werkstatt Ihre Trauringe selbst – aus Silber, Gold oder Platin. Sie sägen, feilen und polieren das Metall und geben Ihren Ringen eine ganz persönliche Form. Eine Gravur ist im Preis enthalten. Vorkenntnisse brauchen Sie nicht, wir begleiten Sie bei jedem Schritt. Ein Termin dauert etwa sechs Stunden und findet für jedes Paar einzeln statt, auf Wunsch auch am Wochenende."
+     ],
+     "footer": "Ruth Hofbauer · Goldschmiedemeisterin · Tel. 0221 / 61 04 29"
+    },
+    {
+     "letter": "l",
+     "header": "",
+     "tag": "",
+     "title": "Nähcafé",
+     "subtitle": "jeden Freitag ab 16 Uhr",
+     "facts": [],
+     "body": [
+      "Eine Hose kürzen, einen Reißverschluss einsetzen oder ein Kleid enger machen: Bei uns lernen Sie, Ihre Kleidung selbst zu ändern. Nähmaschinen, Garn und Scheren sind vorhanden – bringen Sie einfach die Kleidungsstücke mit, an denen Sie arbeiten möchten. Zwei erfahrene Schneiderinnen geben Tipps und helfen, wenn es mal hakt. Anfängerinnen und Anfänger sind herzlich willkommen. Kaffee und Kuchen gibt es gegen eine kleine Spende."
+     ],
+     "footer": "Familientreff Kastanienhof, Raum 2"
+    }
+   ]
+  },
+  "sb1": {
+   "instruction": "Lesen Sie den folgenden Text und entscheiden Sie, welches Wort (a, b oder c) in die jeweilige Lücke passt. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 21–30.",
+   "paragraphs": [
+    "Sehr geehrte Frau Kaminski,",
+    "mit großem Interesse habe ich auf Ihrer Internetseite gelesen, dass Sie für die Kita Pusteblume eine Erzieherin oder einen Erzieher suchen. Da ich {{21}} fünf Jahren mit Kindern im Vorschulalter arbeite, bewerbe ich mich hiermit um die dort {{22}} Stelle.",
+    "Meine Ausbildung habe ich in Italien absolviert; sie {{23}} im vergangenen Jahr in Deutschland als gleichwertig anerkannt. Derzeit arbeite ich in einer Kita in Bonn, wo ich vor allem für die Sprachförderung zuständig bin. Dort habe ich unter anderem ein Theaterprojekt mit den Eltern aufgebaut, das bei Kindern und Familien sehr gut angekommen ist. Am meisten Freude machen mir Lieder und Geschichten, {{24}} die Kinder ganz nebenbei neue Wörter lernen.",
+    "Ihr Konzept mit Waldtagen und viel Bewegung hat mich sofort angesprochen. {{25}} meiner Erfahrung als Leiterin einer Wandergruppe für Familien könnte ich Ihr Team gerade bei den Ausflügen unterstützen. Ich kann {{26}} außerdem gut vorstellen, ein Projekt zum Thema Natur zu übernehmen. Zudem spreche ich {{27}} Italienisch, sondern auch Spanisch, was in Gesprächen mit Eltern oft hilfreich ist. Besonders interessiere ich mich {{28}}, wie Sie die Eingewöhnung der jüngsten Kinder gestalten. Ich würde mich sehr freuen, {{29}} Sie mich zu einem persönlichen Gespräch einladen. Gern {{30}} ich vorab auch zu einem Probetag in Ihre Einrichtung. Meine Unterlagen finden Sie im Anhang.",
+    "Mit freundlichen Grüßen",
+    "Giulia Rossi"
+   ],
+   "items": [
+    {
+     "no": "21",
+     "options": {
+      "a": "bis",
+      "b": "seit",
+      "c": "vor"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "22",
+     "options": {
+      "a": "genannte",
+      "b": "genannten",
+      "c": "genannter"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "23",
+     "options": {
+      "a": "hat",
+      "b": "ist",
+      "c": "wurde"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "24",
+     "options": {
+      "a": "bei denen",
+      "b": "bei deren",
+      "c": "bei die"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "25",
+     "options": {
+      "a": "Anstatt",
+      "b": "Aufgrund",
+      "c": "Außerhalb"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "26",
+     "options": {
+      "a": "mich",
+      "b": "mir",
+      "c": "sich"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "27",
+     "options": {
+      "a": "nicht nur",
+      "b": "sowohl",
+      "c": "weder"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "28",
+     "options": {
+      "a": "dabei",
+      "b": "dadurch",
+      "c": "dafür"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "29",
+     "options": {
+      "a": "als",
+      "b": "ob",
+      "c": "wenn"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "30",
+     "options": {
+      "a": "hätte",
+      "b": "käme",
+      "c": "würde"
+     },
+     "answer": "b"
+    }
+   ]
+  },
+  "sb2": {
+   "instruction": "Lesen Sie den folgenden Text und entscheiden Sie, welches Wort aus dem Kasten (a–o) in die Lücken 31–40 passt. Sie können jedes Wort im Kasten nur einmal verwenden. Nicht alle Wörter passen in den Text. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 31–40.",
+   "title": "Totgesagte leben länger",
+   "paragraphs": [
+    "Am 1. Oktober 1869 führte die österreichische Post eine Neuheit ein: die Correspondenz-Karte, eine Karte ohne Umschlag, für die man deutlich weniger Porto zahlte als für einen Brief. Die Idee war zunächst {{31}}: Viele fanden es unanständig, dass jeder Briefträger mitlesen konnte. Trotzdem wurden allein im ersten Monat fast anderthalb Millionen Karten verkauft. Nur ein Jahr später {{32}} der Norddeutsche Bund, und bald schrieben sich Menschen auf der ganzen Welt Postkarten.",
+    "Ihre große Zeit erlebte die Postkarte um 1900. Weil kaum jemand ein Telefon besaß, {{33}} sie als schnelles Kommunikationsmittel: In Großstädten wurde die Post mehrmals am Tag zugestellt, sodass man morgens eine Verabredung für den Abend treffen konnte. Besonders beliebt waren Ansichtskarten mit Fotos von Sehenswürdigkeiten, die {{34}} gesammelt und in dicke Alben geklebt wurden. Manche Sammler besaßen mehrere Tausend Stück.",
+    "Mit dem Telefon, später mit E-Mail und Kurznachrichten, verlor die Karte an {{35}}. Die Post befördert heute nur noch einen Bruchteil der Karten von früher. Viele Menschen schicken aus dem Urlaub lieber ein Foto per Messenger – das geht schneller und kostet nichts.",
+    "Ganz {{36}} ist die Postkarte jedoch nicht. Gerade weil sie selten geworden ist, {{37}} sie heute als Zeichen besonderer Aufmerksamkeit: Wer eine Karte im Briefkasten findet, freut sich meist mehr als über eine Nachricht auf dem Handy. Apps {{38}} es inzwischen, ein Urlaubsfoto vom Smartphone aus als echte Karte drucken und verschicken zu lassen. Und beim Internetprojekt Postcrossing tauschen Menschen aus über 200 Ländern Karten mit Fremden: Wer einem zufällig ausgewählten Mitglied eine Karte {{39}}, bekommt später selbst eine von einem anderen Mitglied zurück. Seit der Gründung im Jahr 2005 haben auf diesem Weg mehr als 70 Millionen Karten ihren {{40}} gefunden."
+   ],
+   "words": {
+    "a": "BEDEUTUNG",
+    "b": "DIENTE",
+    "c": "EMPFÄNGER",
+    "d": "ERMÖGLICHEN",
+    "e": "ERSCHWEREN",
+    "f": "FOLGTE",
+    "g": "GEHEIM",
+    "h": "GESCHWINDIGKEIT",
+    "i": "GILT",
+    "j": "LEIDENSCHAFTLICH",
+    "k": "SCHICKT",
+    "l": "UMSTRITTEN",
+    "m": "VERSCHWUNDEN",
+    "n": "VERSENDER",
+    "o": "ZÖGERTE"
+   },
+   "items": [
+    {
+     "no": "31",
+     "answer": "l"
+    },
+    {
+     "no": "32",
+     "answer": "f"
+    },
+    {
+     "no": "33",
+     "answer": "b"
+    },
+    {
+     "no": "34",
+     "answer": "j"
+    },
+    {
+     "no": "35",
+     "answer": "a"
+    },
+    {
+     "no": "36",
+     "answer": "m"
+    },
+    {
+     "no": "37",
+     "answer": "i"
+    },
+    {
+     "no": "38",
+     "answer": "d"
+    },
+    {
+     "no": "39",
+     "answer": "k"
+    },
+    {
+     "no": "40",
+     "answer": "c"
+    }
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören nun eine Nachrichtensendung. Dazu sollen Sie fünf Aufgaben lösen. Sie hören die Nachrichtensendung nur einmal. Entscheiden Sie beim Hören, ob die Aussagen 41–45 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 41–45. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 41–45. Sie haben dazu 30 Sekunden Zeit.",
+   "items": [
+    {
+     "no": "41",
+     "text": "Schon Zehnjährige sollen künftig in der Schule programmieren lernen.",
+     "answer": "R"
+    },
+    {
+     "no": "42",
+     "text": "Für die gestiegenen Kaffeepreise ist vor allem das Wetter in den Anbauländern verantwortlich.",
+     "answer": "R"
+    },
+    {
+     "no": "43",
+     "text": "Das Filmfestival konnte in diesem Jahr nicht an die Besucherzahlen früherer Jahre anknüpfen.",
+     "answer": "F"
+    },
+    {
+     "no": "44",
+     "text": "Die Grippewelle hat in diesem Jahr später eingesetzt, als es sonst üblich ist.",
+     "answer": "F"
+    },
+    {
+     "no": "45",
+     "text": "Um den Kometen am frühen Morgenhimmel zu entdecken, braucht man weder Fernglas noch Teleskop.",
+     "answer": "R"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören ein Rundfunk-Interview. Dazu sollen Sie zehn Aufgaben lösen. Sie hören dieses Interview nur einmal. Entscheiden Sie beim Hören, ob die Aussagen 46–55 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 46–55. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 46–55. Sie haben dazu 60 Sekunden Zeit.",
+   "items": [
+    {
+     "no": "46",
+     "text": "Frau Held wurde Schöffin, ohne sich darum beworben zu haben.",
+     "answer": "R"
+    },
+    {
+     "no": "47",
+     "text": "Das Amt kann man auch ohne besonderen Grund ablehnen.",
+     "answer": "F"
+    },
+    {
+     "no": "48",
+     "text": "Bei der Abstimmung haben die Schöffen so viel Gewicht wie die Richterin.",
+     "answer": "R"
+    },
+    {
+     "no": "49",
+     "text": "Zur Vorbereitung liest Frau Held vor jeder Verhandlung die Akten.",
+     "answer": "F"
+    },
+    {
+     "no": "50",
+     "text": "Frau Held ist jede Woche mehrere Tage im Gericht.",
+     "answer": "F"
+    },
+    {
+     "no": "51",
+     "text": "Ihr Arbeitgeber darf ihr die Teilnahme an Sitzungen nicht verweigern.",
+     "answer": "R"
+    },
+    {
+     "no": "52",
+     "text": "Schöffen tragen im Gericht dieselbe Robe wie die Richter.",
+     "answer": "F"
+    },
+    {
+     "no": "53",
+     "text": "Nach ihrer Amtszeit darf Frau Held über die Beratungen sprechen.",
+     "answer": "F"
+    },
+    {
+     "no": "54",
+     "text": "Juristisches Fachwissen ist für das Amt keine Voraussetzung.",
+     "answer": "R"
+    },
+    {
+     "no": "55",
+     "text": "Frau Held möchte eine weitere Amtszeit übernehmen.",
+     "answer": "R"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören jetzt fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. Sie hören diese Ansagen nur einmal. Entscheiden Sie beim Hören, ob die Aussagen 56–60 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 56–60. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+   "readNote": "",
+   "items": [
+    {
+     "no": "56",
+     "text": "Wer Patienten besuchen möchte, muss in den nächsten Tagen einen Seiteneingang des Krankenhauses benutzen.",
+     "answer": "R"
+    },
+    {
+     "no": "57",
+     "text": "Herr Petrov soll Frau Weigl am besten über die Telefonzentrale der Firma zurückrufen.",
+     "answer": "F"
+    },
+    {
+     "no": "58",
+     "text": "Wer die Lesung besuchen möchte, muss seine Eintrittskarte an diesem Abend in bar bezahlen.",
+     "answer": "R"
+    },
+    {
+     "no": "59",
+     "text": "Die Nachtwächterführungen beginnen auch in diesem Monat wie gewohnt auf dem Platz vor dem Rathaus.",
+     "answer": "F"
+    },
+    {
+     "no": "60",
+     "text": "Die Veranstalter raten, für die Tour Wechselkleidung einzupacken, da man nass werden könnte.",
+     "answer": "R"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "intro": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Entscheiden Sie schnell, denn die zur Verfügung stehende Zeit ist begrenzt auf 30 Minuten!",
+  "tasks": [
+   {
+    "letter": "A",
+    "kind": "Bitte um Informationen",
+    "lead": "Sie lesen in einer Zeitschrift folgende Anzeige:",
+    "ad": {
+     "header": "Wortbrücke",
+     "tag": "ÜBERSETZUNGSBÜRO",
+     "title": "Beglaubigte Übersetzungen – schnell und zuverlässig.",
+     "subtitle": "",
+     "facts": [
+      "beglaubigte Übersetzungen für Anerkennung, Studium und Visum",
+      "Express-Service innerhalb von 48 Stunden",
+      "Unterlagen bequem als Scan hochladen",
+      "Festpreis pro Seite",
+      "Versand per Post oder Abholung im Büro"
+     ],
+     "body": [
+      "Ob Zeugnis, Urkunde oder Arbeitsvertrag: Unsere öffentlich bestellten Übersetzerinnen und Übersetzer übertragen Ihre Dokumente aus mehr als 30 Sprachen ins Deutsche – anerkannt von Behörden und Hochschulen."
+     ],
+     "footer": "Jetzt unverbindlich anfragen! · kontakt@wortbruecke.de"
+    },
+    "situation": [
+     "Sie möchten Ihren ausländischen Berufsabschluss in Deutschland anerkennen lassen und brauchen dafür Übersetzungen Ihrer Unterlagen. Das Angebot interessiert Sie, und Sie möchten Genaueres wissen. Schreiben Sie eine E-Mail an das Übersetzungsbüro Wortbrücke."
+    ],
+    "choice": [
+     "Behandeln Sie darin entweder",
+     "a) drei der folgenden Punkte oder",
+     "b) zwei der folgenden Punkte und einen weiteren Aspekt Ihrer Wahl."
+    ],
+    "points": [
+     "Schildern Sie, wofür Sie die Übersetzungen benötigen.",
+     "Nennen Sie die Dokumente, um die es geht.",
+     "Erkundigen Sie sich nach dem Preis und der Bearbeitungszeit.",
+     "Fragen Sie, ob Behörden auch Übersetzungen akzeptieren, die nach einem Scan angefertigt wurden."
+    ],
+    "closing": "Überlegen Sie sich vor dem Schreiben eine passende Reihenfolge der Punkte, einen passenden Betreff, eine passende Anrede, Einleitung und einen passenden Schluss. Schreiben Sie mindestens 150 Wörter.",
+    "words": 150,
+    "model": {
+     "label": "Beispiel für Variante a): drei der vier Leitpunkte (ca. 180 Wörter)",
+     "text": "Betreff: Beglaubigte Übersetzung meiner Zeugnisse\n\nSehr geehrte Damen und Herren,\n\nin einer Zeitschrift bin ich auf Ihre Anzeige aufmerksam geworden und möchte mich nach Ihrem Angebot erkundigen.\n\nIch bin Elektroingenieur und habe mein Studium in Indien abgeschlossen. Seit einem halben Jahr lebe ich in Deutschland und arbeite bisher nur als Aushilfe in einem Lager, obwohl ich zehn Jahre Berufserfahrung habe. Deshalb möchte ich meinen Abschluss hier anerkennen lassen, damit ich mich auf passende Stellen bewerben kann. Für die Anerkennung verlangt die zuständige Behörde beglaubigte Übersetzungen aller Unterlagen.\n\nKonkret geht es um mein Bachelorzeugnis, eine Notenübersicht von sechs Seiten und zwei Arbeitszeugnisse meiner früheren Arbeitgeber. Alle Dokumente sind auf Englisch ausgestellt.\n\nKönnten Sie mir mitteilen, was die Übersetzung dieser Unterlagen insgesamt kosten würde und wie lange Sie dafür brauchen würden? Den Express-Service benötige ich vermutlich nicht, da meine Frist erst in zwei Monaten abläuft. Falls Sie nach Seiten abrechnen, wäre ich Ihnen für eine kurze Aufstellung dankbar. Außerdem würde mich interessieren, ob Sie mir die fertigen Übersetzungen per Post schicken oder ob ich sie abholen muss.\n\nFür Ihre Rückmeldung bedanke ich mich im Voraus.\n\nMit freundlichen Grüßen\nArjun Mehta",
+     "notes": "Leitpunkte\n1 Zweck → Ingenieur aus Indien, Anerkennung, Behörde verlangt Beglaubigung\n2 Dokumente → Bachelorzeugnis, Notenübersicht, zwei Arbeitszeugnisse\n3 Preis und Dauer → Gesamtkosten, Bearbeitungszeit, Aufstellung pro Seite\n– Scan-Frage bewusst weggelassen: drei Punkte genügen.\nAufbau\nBetreff · Anrede „Sehr geehrte Damen und Herren“ · Bezug auf die Anzeige · Leitpunkte in logischer Reihenfolge · Dank im Voraus · Grußformel\nBewertung\nI Berücksichtigung der Leitpunkte: drei Punkte, jeweils mit Einzelheiten ausgeführt.\nII Kommunikative Gestaltung: Register (Sie), Verknüpfungen wie damit, da, falls, indirekte Fragen und Konjunktiv II (Könnten Sie …? wäre ich Ihnen dankbar).\nIII Formale Richtigkeit: Fehler dürfen das Verständnis nicht beeinträchtigen.\nTypische Fehler: Dokumente nur aufzählen, ohne den Zweck zu nennen · Fragen ohne Höflichkeitsform · kein Bezug zur Anzeige · unter 150 Wörtern bleiben."
+    }
+   },
+   {
+    "letter": "B",
+    "kind": "Beschwerde",
+    "lead": "Sie sehen am Flughafen folgendes Werbeplakat:",
+    "ad": {
+     "header": "RENT&GO · IHR MIETWAGEN AM FLUGHAFEN",
+     "tag": "",
+     "title": "Einsteigen und losfahren",
+     "subtitle": "",
+     "facts": [
+      "Übergabe in höchstens 10 Minuten",
+      "neuwertige Fahrzeuge, gereinigt und vollgetankt",
+      "Vollkasko ohne Selbstbeteiligung inklusive",
+      "kostenlose Stornierung bis 24 Stunden vorher",
+      "Kaution innerhalb von 3 Tagen zurück"
+     ],
+     "body": [
+      "Buchen Sie online und holen Sie Ihr Auto direkt am Terminal ab – ohne Wartezeit und ohne versteckte Kosten."
+     ],
+     "footer": "Rent&Go Kundenservice · service@rentandgo.de"
+    },
+    "situation": [
+     "Sie haben bei Rent&Go für Ihren Urlaub einen Mietwagen gebucht. Der Service hat Sie jedoch sehr enttäuscht. Schreiben Sie eine Beschwerde an Rent&Go."
+    ],
+    "choice": [
+     "Behandeln Sie darin entweder",
+     "a) drei der folgenden Punkte oder",
+     "b) zwei der folgenden Punkte und einen weiteren Aspekt Ihrer Wahl."
+    ],
+    "points": [
+     "Gehen Sie darauf ein, was Sie nach der Werbung erwarten durften.",
+     "Schildern Sie, was bei der Abholung des Wagens passiert ist.",
+     "Beschreiben Sie, welche Probleme es bei der Rückgabe und mit der Kaution gab.",
+     "Machen Sie deutlich, wie Rent&Go den Schaden wiedergutmachen soll."
+    ],
+    "closing": "Überlegen Sie sich vor dem Schreiben eine passende Reihenfolge der Punkte, einen passenden Betreff, eine passende Anrede, Einleitung und einen passenden Schluss. Schreiben Sie mindestens 150 Wörter.",
+    "words": 150,
+    "model": {
+     "label": "Beispiel für Variante b): zwei Leitpunkte und ein eigener Aspekt (ca. 180 Wörter)",
+     "text": "Betreff: Beschwerde über meine Anmietung vom 12. August (Buchungsnummer RG-48213)\n\nSehr geehrte Damen und Herren,\n\nfür meinen Sommerurlaub habe ich bei Ihnen einen Mietwagen am Flughafen gebucht. Leider hatte Ihr Service mit den Versprechen auf Ihrem Werbeplakat kaum etwas zu tun.\n\nStatt der zugesicherten zehn Minuten musste ich über eine Stunde auf die Übergabe warten, weil nur ein einziger Mitarbeiter am Schalter war. Das Auto, das ich schließlich bekam, war weder gereinigt noch vollgetankt. Außerdem hatte es einen Kratzer an der Stoßstange, den ich sofort gemeldet und fotografiert habe.\n\nBesonders ärgerlich war, dass mir am Schalter eine zusätzliche Versicherung für 15 Euro pro Tag verkauft wurde. Man sagte mir, ohne diese Versicherung könne ich das Auto nicht mitnehmen – obwohl Sie eine Vollkasko ohne Selbstbeteiligung versprechen. Nach der langen Wartezeit habe ich unter Druck unterschrieben.\n\nDeshalb bitte ich Sie, mir die Kosten für diese Versicherung von insgesamt 105 Euro zu erstatten und mir für die Wartezeit eine angemessene Entschädigung anzubieten. Bitte bestätigen Sie mir außerdem schriftlich, dass der Kratzer bereits vor meiner Anmietung vorhanden war. Für Ihre Antwort setze ich Ihnen eine Frist bis zum 15. Oktober.\n\nMit freundlichen Grüßen\nKatarzyna Wójcik",
+     "notes": "Leitpunkte\n2 Abholung → eine Stunde Wartezeit, Auto nicht gereinigt und nicht getankt, Kratzer gemeldet\n+ eigener Aspekt → Zusatzversicherung trotz versprochener Vollkasko\n4 Wiedergutmachung → 105 € zurück, Entschädigung, Bestätigung zum Kratzer, Frist\n– Rückgabe und Kaution (Leitpunkt 3) bewusst weggelassen.\nAufbau\nBetreff mit Buchungsnummer · sachlicher Einstieg mit Bezug auf die Werbung · Probleme mit Einzelheiten · klare Forderung mit Frist · Grußformel\nRedemittel\nLeider hatte … kaum etwas zu tun. · Statt der zugesicherten … musste ich … · Besonders ärgerlich war, dass … · Deshalb bitte ich Sie, … zu … · Für Ihre Antwort setze ich Ihnen eine Frist bis …\nTypische Fehler: Vorwürfe ohne Belege · Forderung ohne Betrag oder Frist · Beleidigungen statt sachlicher Kritik · den eigenen Aspekt nicht vom Leitpunkt trennen."
+    }
+   }
+  ]
+ },
+ "notes": "Checker artefacts (all verified, no real differences): (1) The PDF text layer of Modelltest 4 drops spaces at many line positions, so pdftotext -raw glues words ('Jahrspäter', 'Nurein', 'Bürgerhaben', 'derHand', ...); validate.py therefore lists about 130 glued tokens as 'only in PDF' and their split parts as 'only in JSON'. A separate check segmenting every glued token into JSON words left zero unexplained words in both directions. (2) Page furniture not removed by the checker: '90', 'Leseverstehen', 'Sprachbausteine', 'Hörverstehen', 'Schriftlicher Ausdruck' (running headers), and the headings 'Aufgabe A Bitte um Informationen' / 'Aufgabe B Beschwerde' (kept as task kind). (3) Letter-spaced headings WERKSTATT TONART (info e) and AQUARELLKURS AB 60 (info d, 'AB' only) appear as single letters in the PDF and were written normally, as SCHEMA requires. (4) Musterloesungen (p. 21-22): the same glued-word artefact; every sentence of both e-mails was verified as present in the page text with spaces ignored. Decisions: Lesen Teil 2 is an interview (kind 'interview'); the t2 instruction's '6–10' is printed with word joiners and was normalised to plain '6–10'. Info f: 'Sa' as tag, 'JEDEN SAMSTAG' as header, '10–12.30 Uhr' as fact. Info e decorative '· · ·' separator left out. Info g: drop-cap 'W' joined to 'er'. Hören t3 has no readNote printed (empty). Aufgabe A ad is a magazine ad (lead 'Sie lesen in einer Zeitschrift folgende Anzeige:'). Model label for A/B taken from the first printed sentence under the heading (without the sentence about the grey digits); model.notes holds the margin column. Sb1/sb2 gap followed by comma written as '{{28}},' without space."
+}

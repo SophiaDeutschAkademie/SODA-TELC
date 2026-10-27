@@ -1,0 +1,759 @@
+{
+ "id": 2,
+ "roman": "II",
+ "lesen": {
+  "t1": {
+   "instruction": "Lesen Sie zuerst die zehn Überschriften. Lesen Sie dann die fünf Texte und entscheiden Sie, welche Überschrift (a–j) am besten zu welchem Text (1–5) passt. Tragen Sie Ihre Lösungen in den Antwortbogen bei den Aufgaben 1–5 ein.",
+   "headlines": [
+    {
+     "letter": "a",
+     "text": "Bücherei verkauft Werke heimischer Künstler"
+    },
+    {
+     "letter": "b",
+     "text": "Die Oberstufe darf eine Stunde länger schlafen"
+    },
+    {
+     "letter": "c",
+     "text": "Eine Stunde Stille für reizempfindliche Kunden"
+    },
+    {
+     "letter": "d",
+     "text": "Hersteller müssen Ersatzteile künftig länger liefern"
+    },
+    {
+     "letter": "e",
+     "text": "Kunstwerke auf Zeit für die eigenen vier Wände"
+    },
+    {
+     "letter": "f",
+     "text": "Rentner übernehmen die Ausbildung im Betrieb"
+    },
+    {
+     "letter": "g",
+     "text": "Ruheständler helfen Lehrlingen durch schwere Zeiten"
+    },
+    {
+     "letter": "h",
+     "text": "Ruhige Einkaufsstunde vertreibt die Stammkundschaft"
+    },
+    {
+     "letter": "i",
+     "text": "Späterer Schulbeginn bringt nachweislich bessere Noten"
+    },
+    {
+     "letter": "j",
+     "text": "Zuschuss bewahrt kaputte Geräte vor dem Müll"
+    }
+   ],
+   "texts": [
+    {
+     "no": "1",
+     "paragraphs": [
+      "Dienstags zwischen 18 und 19 Uhr ist es im Supermarkt von Christian Wendt in Bielefeld ungewöhnlich ruhig. Die Musik ist ausgeschaltet, das Licht über den Regalen gedimmt, und die Scanner an den Kassen piepen nur leise. Es gibt keine Durchsagen, und niemand füllt Regale auf. Die „stille Stunde“ soll vor allem Menschen helfen, für die ein gewöhnlicher Einkauf eine Qual ist: etwa Autistinnen und Autisten, aber auch Menschen, die unter Migräne oder Angstzuständen leiden. Den Anstoß gab eine Kundin, deren autistischer Sohn beim Betreten des Marktes regelmäßig in Panik geriet. Wendt probierte die Idee zunächst einen Monat lang aus – und behielt sie bei. Die Mitarbeiterinnen und Mitarbeiter waren anfangs skeptisch, inzwischen schätzen viele von ihnen die ruhigere Stunde selbst. „Für manche ist das die einzige Stunde in der Woche, in der sie ohne Begleitung einkaufen können“, sagt Wendt. Inzwischen nutzen auch ganz andere Kunden das Angebot: ältere Menschen, die in Ruhe die Preisschilder lesen wollen, oder Eltern, deren Babys bei Lärm unruhig werden. Die Befürchtung, der Umsatz könnte sinken, hat sich nicht bestätigt – im Gegenteil: Zwischen 18 und 19 Uhr kommen heute sogar etwas mehr Kunden als früher. Eine Vorschrift für solche Angebote gibt es nicht, und Wendt hält auch nichts davon. „Das muss jeder Markt für sich entscheiden“, sagt er. Mehrere Geschäfte in der Region, darunter zwei Drogeriemärkte, haben sich inzwischen angeschlossen. Ein Nachbarmarkt hat den Versuch allerdings nach wenigen Wochen wieder aufgegeben: Dort hatten die Kunden die Ruhe kaum bemerkt."
+     ]
+    },
+    {
+     "no": "2",
+     "paragraphs": [
+      "Der Toaster ist kaputt, der Staubsauger saugt nicht mehr richtig – früher landeten solche Geräte in Neustadt meist im Müll. Seit einem Jahr übernimmt die Stadt die Hälfte der Reparaturkosten für Elektrogeräte, höchstens aber 100 Euro pro Haushalt und Jahr. Wer den Bonus nutzen will, lässt sein Gerät in einem der teilnehmenden Fachbetriebe reparieren und reicht die Rechnung anschließend online ein; das Geld kommt nach etwa zwei Wochen aufs Konto. Am häufigsten geht es um Kaffeevollautomaten, Waschmaschinen und Fernseher. Bei Elektro-Weber, einem kleinen Laden in der Altstadt, hat sich die Zahl der Aufträge seither fast verdoppelt; Inhaber Stefan Weber hat sogar einen zusätzlichen Mitarbeiter eingestellt. „Bei vielen Kunden lohnt sich die Reparatur erst durch den Zuschuss“, sagt er. Neue Geräte seien oft so billig, dass viele den Weg in die Werkstatt sonst gar nicht erst antreten würden. Allerdings kann Weber nicht jeden Wunsch erfüllen: Für manche Handys und Kopfhörer gibt es schlicht keine Ersatzteile, andere sind so verklebt, dass man sie nicht öffnen kann. Umweltverbände loben das Programm, fordern aber mehr: Die Hersteller müssten verpflichtet werden, Ersatzteile über viele Jahre bereitzuhalten. Die Stadt will den Bonus zunächst zwei weitere Jahre anbieten und danach Bilanz ziehen."
+     ]
+    },
+    {
+     "no": "3",
+     "paragraphs": [
+      "Als Jonas Berger im zweiten Lehrjahr zum ersten Mal ernsthaft ans Aufhören dachte, lag es nicht an der Arbeit in der Kfz-Werkstatt. „Da lief es gut, aber in der Berufsschule habe ich in Mathe nichts mehr verstanden“, erzählt der 18-Jährige. Hinzu kam Ärger mit seinem Meister, weil er morgens oft zu spät kam. Dass Jonas heute kurz vor der Gesellenprüfung steht, verdankt er auch Horst Wiegand. Der 69-Jährige war vierzig Jahre lang Ingenieur in der Autoindustrie und begleitet seit seinem Ruhestand ehrenamtlich Auszubildende. Einmal pro Woche treffen sich die beiden in der Stadtbibliothek, rechnen Aufgaben durch oder üben für Prüfungen. Kennengelernt haben sie sich über die Berufsschule, deren Sozialarbeiterin Jonas auf das Angebot aufmerksam machte. Wiegand hat Jonas auch geholfen, einen Lernplan aufzustellen – und morgens pünktlich aus dem Bett zu kommen. „Manchmal reden wir aber auch einfach darüber, wie man mit einem schwierigen Chef umgeht“, sagt Wiegand. Vermittelt werden solche Tandems von einem bundesweiten Programm, in dem sich Tausende Ruheständlerinnen und Ruheständler engagieren. Der Bedarf ist groß: Seit Jahren wird in Deutschland mehr als jeder vierte Ausbildungsvertrag vorzeitig gelöst, während viele Betriebe kaum noch Nachwuchs finden. Für die Jugendlichen und die Betriebe ist die Begleitung kostenlos; finanziert wird sie vom Bund. Wichtig ist den Verantwortlichen allerdings eine klare Grenze: Die Ehrenamtlichen sind keine Ersatz-Ausbilder. Für die fachliche Ausbildung bleibt allein der Betrieb zuständig; die Begleiter sollen vor allem zuhören, Mut machen und beim Lernen helfen. Nach Angaben des Programms schließen rund drei Viertel der begleiteten Jugendlichen ihre Ausbildung erfolgreich ab. Jonas’ Meister war anfangs skeptisch, weil er Einmischung in seinen Betrieb befürchtete. Inzwischen hat er selbst bei dem Programm angerufen – für seinen nächsten Azubi."
+     ]
+    },
+    {
+     "no": "4",
+     "paragraphs": [
+      "In der Stadtbücherei von Lindenfeld kann man sich nicht nur Romane und Kochbücher ausleihen, sondern auch Kunst. Rund 600 Originale regionaler Künstlerinnen und Künstler – Gemälde, Grafiken und Fotografien – lagern im Untergeschoss. Für fünf Euro darf man sich ein Werk drei Monate lang ins Wohnzimmer hängen. Ausgesucht wird vor Ort oder bequem über einen Online-Katalog. „Viele sind überrascht, wie sehr ein einziges Bild einen Raum verändert“, sagt die Leiterin Sabine Ortmann. Besonders gefragt sind großformatige Landschaften; abstrakte Werke bleiben dagegen oft monatelang im Depot. Gefällt ein Bild besonders gut, stellt die Bücherei den Kontakt zur Künstlerin oder zum Künstler her – verkaufen darf sie selbst allerdings nichts. Die anfängliche Sorge, die Bilder könnten in fremden Wohnungen Schaden nehmen, hat sich als unbegründet erwiesen: In zehn Jahren ist lediglich ein Rahmen zu Bruch gegangen. Versichert sind die Werke trotzdem, und zwar über die Stadt."
+     ]
+    },
+    {
+     "no": "5",
+     "paragraphs": [
+      "Am Humboldt-Gymnasium in Waldheim beginnt der Unterricht für die Oberstufe seit diesem Schuljahr erst um 8.50 Uhr – fast eine Stunde später als bisher. Hintergrund sind Erkenntnisse der Schlafforschung: In der Pubertät verschiebt sich die innere Uhr, sodass Jugendliche abends später müde werden und morgens eigentlich länger schlafen müssten. „In der ersten Stunde saßen viele mit halb geschlossenen Augen im Klassenraum“, erinnert sich Schulleiterin Petra Unger. Ganz reibungslos lief die Umstellung allerdings nicht. Weil der Unterricht am Nachmittag nun länger dauert, mussten einige Schülerinnen und Schüler ihr Training im Sportverein verschieben, und die Busse fuhren in den ersten Wochen noch nach dem alten Fahrplan. Wer früher kommen möchte, kann ab 7.45 Uhr in der Bibliothek lernen – ein Angebot, das überraschend viele nutzen. Eine erste Umfrage fällt dennoch positiv aus: Die meisten fühlen sich im Unterricht wacher und können sich besser konzentrieren. Auch die Lehrkräfte berichten, dass in den ersten Stunden weniger gegähnt und mehr diskutiert werde. Ob sich auch die Noten verbessern, untersucht derzeit ein Team von Schlafforschern; Ergebnisse werden im nächsten Sommer erwartet. Für die Klassen fünf bis zehn bleibt es vorerst beim bisherigen Stundenplan, weil dort viele Eltern auf einen frühen Unterrichtsbeginn angewiesen sind."
+     ]
+    }
+   ],
+   "items": [
+    {
+     "no": "1",
+     "answer": "c"
+    },
+    {
+     "no": "2",
+     "answer": "j"
+    },
+    {
+     "no": "3",
+     "answer": "g"
+    },
+    {
+     "no": "4",
+     "answer": "e"
+    },
+    {
+     "no": "5",
+     "answer": "b"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Lesen Sie zuerst den Artikel und lösen Sie dann die Aufgaben 6–10 zu dem Text.",
+   "kind": "article",
+   "title": "Warum Langeweile besser ist als ihr Ruf",
+   "lead": "Kaum haben wir eine freie Minute, greifen wir zum Smartphone. Dabei kann gerade das Nichtstun wertvoll sein – allerdings nicht in jeder Form.",
+   "paragraphs": [
+    "Die Schlange an der Supermarktkasse ist lang, der Bus hat Verspätung, im Wartezimmer sitzen noch sechs Leute. Früher hätte man in solchen Momenten aus dem Fenster geschaut oder die Gedanken schweifen lassen. Heute zieht fast jeder nach wenigen Sekunden das Handy aus der Tasche. „Wir haben verlernt, uns zu langweilen“, sagt der Psychologe Thomas Brandl, der seit Jahren zu diesem Thema forscht. „Und zwar nicht, weil unser Leben so spannend geworden wäre, sondern weil wir jede Lücke sofort füllen.“",
+    "Wie schwer vielen Menschen das Nichtstun fällt, zeigte ein Experiment an der University of Virginia, das vor einigen Jahren für Aufsehen sorgte. Die Teilnehmenden sollten eine Viertelstunde allein in einem kahlen Raum sitzen und ihren Gedanken nachhängen. Nur eine Möglichkeit, sich zu beschäftigen, gab es: Per Knopfdruck konnten sie sich selbst einen leichten Stromschlag versetzen. Zuvor hatten viele von ihnen angegeben, sie würden sogar Geld bezahlen, um diesen Schmerz nicht noch einmal spüren zu müssen. Trotzdem drückten zwei Drittel der Männer und ein Viertel der Frauen mindestens einmal auf den Knopf.",
+    "Dabei spricht einiges dafür, dass Langeweile durchaus nützlich sein kann. In einer britischen Studie mussten Versuchspersonen zunächst eine Viertelstunde lang Nummern aus einem Telefonbuch abschreiben – eine bewusst eintönige Aufgabe. Anschließend sollten sie sich möglichst viele Verwendungsmöglichkeiten für Plastikbecher ausdenken. Die Gelangweilten waren dabei deutlich einfallsreicher als eine Vergleichsgruppe, die ohne die langweilige Vorarbeit direkt begonnen hatte. Eine dritte Gruppe, die die Nummern nur lesen musste, war sogar noch kreativer. Die Forscherinnen vermuten, dass sich der Kopf in eintönigen Phasen auf die Suche nach Anregung begibt und dabei auf ungewöhnliche Ideen stößt.",
+    "Für Kinder gilt das nach Ansicht vieler Fachleute in besonderem Maße. „Viele Eltern sehen es als ihre Pflicht an, ein Kind sofort zu beschäftigen, sobald es sich beklagt, dass ihm langweilig ist“, sagt die Erziehungswissenschaftlerin Karin Lorenz. „Dabei lernen Kinder gerade in solchen Momenten, selbst etwas mit sich anzufangen.“ Wer immer ein Programm geboten bekomme, verlasse sich später auch als Erwachsener darauf, dass andere für Unterhaltung sorgen.",
+    "Allerdings ist Langeweile nicht gleich Langeweile. Die Forschung unterscheidet zwischen kurzen Momenten des Leerlaufs und einem Zustand, der über Wochen oder Monate anhält – etwa bei einer Arbeit, die dauerhaft unterfordert. Auch in der Schule führt ständige Unterforderung häufig dazu, dass Kinder abschalten oder den Unterricht stören. Menschen, die sich ständig langweilen, neigen Studien zufolge eher zu Heißhungerattacken, riskantem Verhalten und Niedergeschlagenheit. „Chronische Langeweile ist keine Quelle der Kreativität, sondern ein Warnsignal“, betont Brandl. Wer sich im Job über Monate hinweg nutzlos fühle, solle das nicht als Chance zur Selbstfindung verklären, sondern etwas ändern.",
+    "Was folgt daraus? Brandl warnt davor, aus der Langeweile gleich ein neues Projekt zur Selbstoptimierung zu machen. Von Seminaren, in denen man das „richtige Nichtstun“ trainieren soll, hält er wenig: Wer auch noch die Pause nach Plan gestalte, lasse wieder keine Lücke. Wichtiger sei es, Leerlauf nicht sofort als Problem zu betrachten, das gelöst werden müsse. Arbeitgebern und Schulen rät er, genauer hinzusehen: Wenn sich jemand dauerhaft langweile, liege das häufig nicht an der Person, sondern an den Aufgaben. „Die ersten Minuten fühlen sich leer an“, räumt er ein. „Aber genau dann fängt der Kopf an, von selbst zu arbeiten.“"
+   ],
+   "source": "",
+   "taskInstruction": "Lösen Sie die Aufgaben 6–10. Entscheiden Sie, welche Lösung (a, b oder c) richtig ist, und tragen Sie Ihre Lösung in den Antwortbogen bei den Aufgaben 6–10 ein.",
+   "items": [
+    {
+     "no": "6",
+     "stem": "Thomas Brandl meint, dass viele Menschen heute",
+     "options": {
+      "a": "ein besonders spannendes Leben führen.",
+      "b": "kaum noch Leerlauf zulassen.",
+      "c": "Wartezeiten lieber nutzen, um aus dem Fenster zu schauen."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "7",
+     "stem": "Das Experiment in Virginia zeigte, dass",
+     "options": {
+      "a": "manche lieber Schmerzen ertrugen, als nur nachzudenken.",
+      "b": "fast alle den Knopf drückten.",
+      "c": "Frauen das Alleinsein schlechter ertrugen als Männer."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "8",
+     "stem": "In der britischen Studie",
+     "options": {
+      "a": "schrieben alle Gruppen Nummern ab.",
+      "b": "machte die eintönige Aufgabe vor allem müde.",
+      "c": "hatten die Gelangweilten mehr Ideen."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "9",
+     "stem": "Karin Lorenz",
+     "options": {
+      "a": "rät, gelangweilte Kinder sofort zu beschäftigen.",
+      "b": "hält Langeweile für lehrreich.",
+      "c": "fordert mehr feste Freizeitprogramme für Kinder."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "10",
+     "stem": "Nach Ansicht von Thomas Brandl",
+     "options": {
+      "a": "sollte man bei dauerhafter Langeweile im Beruf etwas ändern.",
+      "b": "ist Unterforderung eine Chance zur Selbstfindung.",
+      "c": "lernt man das Nichtstun am besten in Seminaren."
+     },
+     "answer": "a"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Lesen Sie zuerst die zehn Situationen (11–20) und dann die zwölf Info-Texte (a–l). Welcher Info-Text passt zu welcher Situation? Sie können jeden Info-Text nur einmal verwenden. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 11–20. Manchmal gibt es keine Lösung. Markieren Sie dann x.",
+   "items": [
+    {
+     "no": "11",
+     "text": "Ein erfahrener Läufer möchte mit seinem Hund laufen gehen.",
+     "answer": "i"
+    },
+    {
+     "no": "12",
+     "text": "Ein unsportlicher Freund möchte mit dem Joggen anfangen.",
+     "answer": "e"
+    },
+    {
+     "no": "13",
+     "text": "Eine Freundin sucht eine Urlaubsbetreuung für ihre Katze.",
+     "answer": "f"
+    },
+    {
+     "no": "14",
+     "text": "Ihr Hund hat sich am Sonntagabend die Pfote verletzt.",
+     "answer": "b"
+    },
+    {
+     "no": "15",
+     "text": "Ihr Kollege hat kein Tier, möchte aber Hunden helfen.",
+     "answer": "j"
+    },
+    {
+     "no": "16",
+     "text": "Ihr Onkel möchte tanzen lernen, hat aber keine Partnerin.",
+     "answer": "c"
+    },
+    {
+     "no": "17",
+     "text": "Ihr Schwager möchte sich zum Rettungsschwimmer ausbilden lassen.",
+     "answer": "x"
+    },
+    {
+     "no": "18",
+     "text": "Ihre Großmutter (78) stürzt oft und will etwas dagegen tun.",
+     "answer": "h"
+    },
+    {
+     "no": "19",
+     "text": "Ihre Nachbarin kann nicht schwimmen und möchte es lernen.",
+     "answer": "k"
+    },
+    {
+     "no": "20",
+     "text": "Sie möchten Ihren acht Wochen alten Hund erziehen.",
+     "answer": "d"
+    }
+   ],
+   "infos": [
+    {
+     "letter": "a",
+     "header": "Seepferdchen",
+     "tag": "",
+     "title": "",
+     "subtitle": "Schwimmkurse für Kinder",
+     "facts": [],
+     "body": [
+      "Ihr Kind soll sicher schwimmen lernen? In unseren Kursen üben Kinder zwischen fünf und acht Jahren in Gruppen von höchstens sechs Kindern im warmen Lehrschwimmbecken der Grundschule am Park. Zehnmal 45 Minuten, immer mittwochs oder freitags am Nachmittag – am Ende steht die Prüfung für das Seepferdchen-Abzeichen. Eltern dürfen in der ersten und in der letzten Stunde zuschauen. Der Kurs kostet 110 Euro. Für Kinder unter fünf Jahren bieten wir leider keine Kurse an."
+     ],
+     "footer": "Schwimmschule Delfin · Tel. 0231 / 55 81 20"
+    },
+    {
+     "letter": "b",
+     "header": "",
+     "tag": "Notdienst",
+     "title": "Tierklinik am Kanal – rund um die Uhr",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Ihr Tier hat sich verletzt, frisst plötzlich nicht mehr oder hat etwas Giftiges verschluckt? Die Tierklinik am Kanal ist auch nachts, an Wochenenden und an Feiertagen für Hunde, Katzen und andere Kleintiere da. Bitte rufen Sie vor Ihrem Besuch kurz an, damit wir uns auf Ihr Tier vorbereiten können. Außerhalb der regulären Sprechzeiten fällt eine Notdienstgebühr an. Impfungen, Kontrolluntersuchungen und andere planbare Behandlungen führen wir ausschließlich werktags nach Terminvereinbarung durch."
+     ],
+     "footer": "Hafenweg 3 · Tel. 0231 / 77 40 90"
+    },
+    {
+     "letter": "c",
+     "header": "",
+     "tag": "",
+     "title": "LINE DANCE OHNE PARTNER",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Beim Line Dance stehen alle in Reihen nebeneinander und tanzen dieselben Schritte – eine Partnerin oder einen Partner brauchen Sie also nicht. Zu Country, Pop und Rock lernen Sie nach und nach einfache Choreografien. Vorkenntnisse sind nicht nötig, und das Alter spielt keine Rolle: Unsere jüngste Tänzerin ist 19, der älteste Tänzer 81. Wir treffen uns jeden Montag um 19 Uhr im Bürgerhaus West; eine Stunde kostet fünf Euro. Cowboystiefel sind nicht nötig – bequeme Schuhe reichen völlig."
+     ],
+     "footer": "BÜRGERHAUS WEST · MÜHLENWEG 8"
+    },
+    {
+     "letter": "d",
+     "header": "HUNDESCHULE PFOTENPFAD",
+     "tag": "",
+     "title": "Welpenkurs",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Die ersten Lebensmonate prägen einen Hund für sein ganzes Leben. In unserem Welpenkurs lernen junge Hunde im Alter von acht bis sechzehn Wochen spielerisch, mit Artgenossen, fremden Menschen und ungewohnten Geräuschen umzugehen. Sie als Halterin oder Halter erfahren, wie Sie Ihren Hund ohne Druck erziehen und seine Körpersprache richtig deuten. Der Kurs umfasst acht Treffen zu je einer Stunde, immer samstags um 10 Uhr auf unserem Übungsplatz am Stadtwald. Bitte bringen Sie zur ersten Stunde den Impfpass mit. Für ältere Hunde bieten wir Einzeltraining an."
+     ],
+     "footer": "Anmeldung: www.pfotenpfad.de · 120 € pro Kurs"
+    },
+    {
+     "letter": "e",
+     "header": "",
+     "tag": "3. MÄRZ",
+     "title": "Laufen lernen in zehn Wochen",
+     "subtitle": "",
+     "facts": [
+      "Di, 18.30 Uhr"
+     ],
+     "body": [
+      "Sie haben lange keinen Sport gemacht und schaffen kaum zehn Minuten am Stück? Genau dafür ist unser Einsteigerkurs gedacht. Im Wechsel von Gehen und Laufen steigern Sie sich langsam, bis Sie nach zehn Wochen eine halbe Stunde ohne Pause durchhalten. Wir treffen uns dienstags und donnerstags am Eingang des Stadtparks, Trainerinnen des Vereins begleiten jede Gruppe. Die Teilnahme ist kostenlos. Hunde müssen leider zu Hause bleiben."
+     ],
+     "footer": "LSV Nordstadt · Anmeldung: www.lsv-nordstadt.de"
+    },
+    {
+     "letter": "f",
+     "header": "",
+     "tag": "",
+     "title": "Ihre Katze bleibt zu Hause!",
+     "subtitle": "Urlaubsbetreuung in Ihrer Wohnung",
+     "facts": [],
+     "body": [
+      "Katzen hängen an ihrem Revier – eine Tierpension bedeutet für viele puren Stress. Deshalb komme ich während Ihrer Abwesenheit ein- oder zweimal täglich zu Ihnen, fülle Futter- und Wassernapf, reinige das Katzenklo und nehme mir Zeit zum Spielen. Auf Wunsch gieße ich auch Ihre Blumen und leere den Briefkasten. Ich habe selbst drei Katzen und kann auch Medikamente geben. Pro Besuch berechne ich 14 Euro."
+     ],
+     "footer": "Lisa Engel · 0176 / 22 71 08 45"
+    },
+    {
+     "letter": "g",
+     "header": "",
+     "tag": "",
+     "title": "Walzer, Tango, Discofox",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Sie möchten endlich sicher übers Parkett schweben – zur Hochzeit, beim Abiball oder einfach so? In unserem Grundkurs für Paare lernen Sie an zehn Abenden die wichtigsten Gesellschaftstänze, vom Wiener Walzer bis zum Discofox. Der Kurs beginnt am 12. März, jeweils donnerstags von 20 bis 21.30 Uhr; in den Pausen ist unsere Bar geöffnet. Bitte melden Sie sich nur gemeinsam mit Ihrer Tanzpartnerin oder Ihrem Tanzpartner an; Einzelpersonen können wir leider nicht vermitteln."
+     ],
+     "footer": "Tanzschule Hartwig · Tel. 0231 / 43 19 60"
+    },
+    {
+     "letter": "h",
+     "header": "",
+     "tag": "SENIORENTREFF AM MARKT",
+     "title": "Sicher auf den Beinen",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Jeder dritte Mensch über 65 stürzt mindestens einmal im Jahr. Viele dieser Stürze ließen sich vermeiden, wenn Kraft und Gleichgewicht regelmäßig trainiert würden. Genau das tun wir in unserem Kurs: Mit einfachen Übungen im Stehen und im Sitzen stärken Sie Beine und Rumpf und bewegen sich bald sicherer, auch auf unebenem Boden. Eine Physiotherapeutin leitet die Gruppen mit höchstens zehn Personen. Die Kosten von 80 Euro für zwölf Termine übernehmen viele Krankenkassen zu einem großen Teil."
+     ],
+     "footer": "Anmeldung im Seniorentreff, Marktplatz 5"
+    },
+    {
+     "letter": "i",
+     "header": "",
+     "tag": "",
+     "title": "CANICROSS – LAUFEN MIT HUND",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Beim Canicross laufen Sie gemeinsam mit Ihrem Hund durch den Wald, verbunden durch eine elastische Leine und einen speziellen Brustgurt. Das trainiert die Ausdauer und das Zusammenspiel zwischen Mensch und Tier. Mitmachen können gesunde Hunde ab einem Jahr, die sich mit anderen Hunden vertragen. Sie selbst sollten bereits fünf Kilometer am Stück laufen können – Anfängerkurse bieten wir nicht an. Gurte für das erste Training leihen wir Ihnen gern."
+     ],
+     "footer": "Hundesportverein Waldlauf e. V. · Training: sonntags 9 Uhr, Parkplatz Försterweg"
+    },
+    {
+     "letter": "j",
+     "header": "TIERSCHUTZVEREIN NORDSTADT E. V.",
+     "tag": "",
+     "title": "Gassigeher gesucht",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Viele unserer Hunde warten seit Monaten auf ein neues Zuhause. Bis es so weit ist, brauchen sie vor allem Bewegung und Zuwendung. Deshalb suchen wir Menschen ab 18 Jahren, die ehrenamtlich mit unseren Hunden spazieren gehen – ohne feste Verpflichtung, so oft Sie Zeit haben. Einen eigenen Hund brauchen Sie dafür nicht. Vorher besuchen Sie einmal eine kurze Einführung, in der Sie lernen, worauf es im Umgang mit den Tieren ankommt. Über Hilfe bei der Pflege unserer Katzen freuen wir uns ebenfalls."
+     ],
+     "footer": "Tierheim Nordstadt · Tel. 0231 / 61 22 30"
+    },
+    {
+     "letter": "k",
+     "header": "Wasserzeit",
+     "tag": "",
+     "title": "",
+     "subtitle": "SCHWIMMEN FÜR ERWACHSENE",
+     "facts": [],
+     "body": [
+      "Schwimmen lernen ist keine Frage des Alters. In Gruppen von höchstens sechs Personen gewöhnen Sie sich zunächst im flachen Wasser an das nasse Element, bevor Sie Schritt für Schritt Brust- und Rückenschwimmen lernen. Unsere Trainerinnen und Trainer arbeiten seit vielen Jahren mit Erwachsenen, die noch nie geschwommen sind, und nehmen sich für jede Frage Zeit. Der Kurs umfasst zehn Abende im Hallenbad Süd; mittwochs gibt es eine Gruppe nur für Frauen. Teilnahme ab 18 Jahren."
+     ],
+     "footer": "Kontakt: info@wasserzeit-kurse.de"
+    },
+    {
+     "letter": "l",
+     "header": "LANDHAUS BIRKENHOF",
+     "tag": "",
+     "title": "Ferien für Ihren Hund",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Sie verreisen, und Ihr Hund kann nicht mit? Auf unserem Hof am Waldrand verbringt er seine Ferien in kleinen Gruppen – mit viel Auslauf auf zwei Hektar eingezäunter Wiese und täglichen Spaziergängen. Nachts schläft jeder Gast in einem eigenen, beheizten Zimmer. Wir nehmen ausschließlich gesunde, geimpfte Hunde auf, die sich mit Artgenossen vertragen; bitte vereinbaren Sie vorab einen Kennenlerntag. Katzen und andere Kleintiere können wir leider nicht betreuen. Ein Tag kostet 28 Euro, Futter inklusive."
+     ],
+     "footer": "Reservierung unter www.birkenhof-hundepension.de"
+    }
+   ]
+  },
+  "sb1": {
+   "instruction": "Lesen Sie den folgenden Text und entscheiden Sie, welches Wort (a, b oder c) in die jeweilige Lücke passt. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 21–30.",
+   "paragraphs": [
+    "Sehr geehrte Frau Ritter,",
+    "seit fünf Jahren wohne ich in der Zweizimmerwohnung im zweiten Stock der Gartenstraße 12 und habe mich dort immer sehr wohlgefühlt. Nun hat mir mein Arbeitgeber angeboten, von Oktober bis März in unserer Niederlassung in Lyon zu arbeiten. {{21}} ich die Wohnung in dieser Zeit nicht aufgeben möchte, bitte ich Sie um Erlaubnis, sie für sechs Monate unterzuvermieten. {{22}} ich sie kündigen, fände ich nach meiner Rückkehr kaum eine vergleichbare Wohnung zu einem ähnlichen Preis.",
+    "Als Untermieterin käme Frau Anna Nowak infrage, mit {{23}} ich bereits ausführlich gesprochen habe. Sie ist 29 Jahre alt, arbeitet als Ingenieurin bei den Stadtwerken und hat {{24}} bereit erklärt, auch meine Zimmerpflanzen zu versorgen. Frau Nowak sucht nur eine Übergangslösung, bis ihre eigene Wohnung im Frühjahr fertig ist. Sie raucht nicht und hat keine Haustiere. Eine Kopie ihres Arbeitsvertrags lasse ich Ihnen gern zukommen.",
+    "Die Miete würde ich wie bisher {{25}} der ersten drei Werktage des Monats überweisen. Außerdem würde ich mich selbstverständlich {{26}} kümmern, dass Frau Nowak die Hausordnung kennt. Für Sie hätte das Ganze den Vorteil, dass die Wohnung nicht leer steht, sondern regelmäßig gelüftet und geheizt {{27}}.",
+    "Ich möchte allerdings niemanden einziehen lassen, {{28}} vorher Ihre schriftliche Zustimmung einzuholen. Je früher ich Ihre Antwort erhalte, {{29}} besser kann ich meinen Umzug nach Lyon planen. Ich {{30}} Ihnen daher sehr dankbar, wenn Sie mir bis Ende August Bescheid geben könnten.",
+    "Mit freundlichen Grüßen",
+    "Tobias Hartmann"
+   ],
+   "items": [
+    {
+     "no": "21",
+     "options": {
+      "a": "Damit",
+      "b": "Deshalb",
+      "c": "Weil"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "22",
+     "options": {
+      "a": "Muss",
+      "b": "Musste",
+      "c": "Müsste"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "23",
+     "options": {
+      "a": "der",
+      "b": "deren",
+      "c": "die"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "24",
+     "options": {
+      "a": "ihnen",
+      "b": "ihr",
+      "c": "sich"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "25",
+     "options": {
+      "a": "bis",
+      "b": "innerhalb",
+      "c": "seit"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "26",
+     "options": {
+      "a": "dafür",
+      "b": "darauf",
+      "c": "darum"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "27",
+     "options": {
+      "a": "wird",
+      "b": "worden",
+      "c": "wurde"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "28",
+     "options": {
+      "a": "ohne",
+      "b": "statt",
+      "c": "um"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "29",
+     "options": {
+      "a": "als",
+      "b": "desto",
+      "c": "so"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "30",
+     "options": {
+      "a": "hätte",
+      "b": "wäre",
+      "c": "würde"
+     },
+     "answer": "b"
+    }
+   ]
+  },
+  "sb2": {
+   "instruction": "Lesen Sie den folgenden Text und entscheiden Sie, welches Wort aus dem Kasten (a–o) in die Lücken 31–40 passt. Sie können jedes Wort im Kasten nur einmal verwenden. Nicht alle Wörter passen in den Text. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 31–40.",
+   "title": "Wenn die Nacht zu hell wird",
+   "paragraphs": [
+    "Wer nachts in einer deutschen Großstadt zum Himmel schaut, sieht mit etwas Glück ein paar Dutzend Sterne. Die Milchstraße dagegen ist für die meisten Menschen in Europa längst {{31}} geworden. Schuld daran ist das künstliche Licht: Straßenlaternen, Schaufenster, Werbetafeln und angestrahlte Gebäude tauchen den Himmel in einen orangefarbenen Schein, der noch aus vielen Kilometern Entfernung zu sehen ist. Rund um viele Städte wird es nachts nie mehr richtig dunkel. Fachleute sprechen in diesem {{32}} von Lichtverschmutzung.",
+    "Dass das nicht nur Hobbyastronomen stört, belegen zahlreiche Studien. Nachtaktive Insekten werden von Lampen geradezu {{33}} angezogen und umkreisen sie, bis sie vor Erschöpfung sterben. Zugvögel verlieren die Orientierung, und auch beim Menschen kann zu viel Licht in der Nacht den Schlaf {{34}}. {{35}} einer internationalen Auswertung wird der Nachthimmel jedes Jahr um fast zehn Prozent heller. Ein Grund dafür ist ausgerechnet eine sparsame Technik: Seit LED-Lampen verstärkt zum {{36}} kommen, ist Licht so billig geworden, dass Kommunen und Privatleute mehr Lampen aufstellen als früher. Ein Teil der eingesparten Energie geht dadurch wieder {{37}}.",
+    "Dabei ließe sich das Problem mit einfachen Mitteln deutlich {{38}}. Leuchten, die ihr Licht nur nach unten abgeben, blenden weniger und machen den Weg trotzdem hell genug. Warmweißes Licht lockt erheblich weniger Insekten an als kaltweißes. Und nicht jede Straße muss die ganze Nacht über hell erleuchtet sein: Bewegungsmelder schalten das Licht nur dann ein, wenn tatsächlich jemand vorbeikommt. Manche Gemeinden schalten ihre Straßenlaternen nach Mitternacht sogar ganz ab.",
+    "Einige Städte haben {{39}} bereits reagiert. Fulda erhielt 2019 als erste deutsche Stadt die Auszeichnung „Sternenstadt“ und stellt seitdem Schritt für Schritt seine Straßenbeleuchtung um. In Frankreich sind Geschäfte sogar gesetzlich {{40}}, ihre Schaufensterbeleuchtung in der Nacht auszuschalten. Für die Händler hat das einen angenehmen Nebeneffekt: Sie sparen Strom."
+   ],
+   "words": {
+    "a": "AUSDRUCK",
+    "b": "BEEINTRÄCHTIGEN",
+    "c": "BEHANDELN",
+    "d": "BERECHTIGT",
+    "e": "DARAUF",
+    "f": "EINSATZ",
+    "g": "ENTSCHÄRFEN",
+    "h": "HEIMLICH",
+    "i": "LAUT",
+    "j": "MAGISCH",
+    "k": "UNSICHTBAR",
+    "l": "VERLOREN",
+    "m": "VERPFLICHTET",
+    "n": "WÄHREND",
+    "o": "ZUSAMMENHANG"
+   },
+   "items": [
+    {
+     "no": "31",
+     "answer": "k"
+    },
+    {
+     "no": "32",
+     "answer": "o"
+    },
+    {
+     "no": "33",
+     "answer": "j"
+    },
+    {
+     "no": "34",
+     "answer": "b"
+    },
+    {
+     "no": "35",
+     "answer": "i"
+    },
+    {
+     "no": "36",
+     "answer": "f"
+    },
+    {
+     "no": "37",
+     "answer": "l"
+    },
+    {
+     "no": "38",
+     "answer": "g"
+    },
+    {
+     "no": "39",
+     "answer": "e"
+    },
+    {
+     "no": "40",
+     "answer": "m"
+    }
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören nun eine Nachrichtensendung. Dazu sollen Sie fünf Aufgaben lösen. Sie hören die Nachrichtensendung nur einmal. Entscheiden Sie beim Hören, ob die Aussagen 41–45 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 41–45. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 41–45. Sie haben dazu 30 Sekunden Zeit.",
+   "items": [
+    {
+     "no": "41",
+     "text": "Laut der Umfrage lesen die meisten Jugendlichen ihre Bücher inzwischen lieber auf dem Bildschirm.",
+     "answer": "F"
+    },
+    {
+     "no": "42",
+     "text": "Anders als Lastwagen können Pkw die Brücke mit Einschränkungen weiterhin nutzen.",
+     "answer": "R"
+    },
+    {
+     "no": "43",
+     "text": "Wer den zurückgerufenen Frischkäse zurückbringt, bekommt sein Geld nur gegen Vorlage des Kassenbons.",
+     "answer": "F"
+    },
+    {
+     "no": "44",
+     "text": "Wegen des archäologischen Fundes werden die Arbeiten an der Tiefgarage vorübergehend unterbrochen.",
+     "answer": "R"
+    },
+    {
+     "no": "45",
+     "text": "Fachleute empfehlen Allergikern in der Stadt, die Wohnung am besten abends zu lüften.",
+     "answer": "F"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören ein Rundfunk-Interview. Dazu sollen Sie zehn Aufgaben lösen. Sie hören dieses Interview nur einmal. Entscheiden Sie beim Hören, ob die Aussagen 46–55 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 46–55. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 46–55. Sie haben dazu 60 Sekunden Zeit.",
+   "items": [
+    {
+     "no": "46",
+     "text": "Frau Neumeier kennt vor der Arbeit meist den ganzen Film.",
+     "answer": "F"
+    },
+    {
+     "no": "47",
+     "text": "Die Regisseurin beschreibt vor jeder Aufnahme die Lage der Figur.",
+     "answer": "R"
+    },
+    {
+     "no": "48",
+     "text": "Der deutsche Text weicht manchmal deutlich vom Original ab.",
+     "answer": "R"
+    },
+    {
+     "no": "49",
+     "text": "Heute sprechen die meisten ihre Rollen gemeinsam ein.",
+     "answer": "F"
+    },
+    {
+     "no": "50",
+     "text": "Schauspielerisches Können ist wichtiger als eine schöne Stimme.",
+     "answer": "R"
+    },
+    {
+     "no": "51",
+     "text": "Frau Neumeier bekommt meist pro Film einen festen Betrag.",
+     "answer": "F"
+    },
+    {
+     "no": "52",
+     "text": "Als Frau Neumeier einmal vertreten wurde, gab es viele Beschwerden.",
+     "answer": "R"
+    },
+    {
+     "no": "53",
+     "text": "Szenen mit viel Geschrei werden am Tagesende aufgenommen.",
+     "answer": "R"
+    },
+    {
+     "no": "54",
+     "text": "Frau Neumeier lehnt den Einsatz künstlicher Intelligenz grundsätzlich ab.",
+     "answer": "F"
+    },
+    {
+     "no": "55",
+     "text": "Die meisten Deutschen sehen Filme lieber mit Untertiteln.",
+     "answer": "F"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören jetzt fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. Sie hören diese Ansagen nur einmal. Entscheiden Sie beim Hören, ob die Aussagen 56–60 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 56–60. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+   "readNote": "",
+   "items": [
+    {
+     "no": "56",
+     "text": "Wer eine Theaterkarte rechtzeitig zurückgibt, bekommt den Preis nicht bar, sondern als Gutschein erstattet.",
+     "answer": "R"
+    },
+    {
+     "no": "57",
+     "text": "Kundinnen und Kunden im ersten Obergeschoss können ihre Einkäufe bis zum Ladenschluss dort noch bezahlen.",
+     "answer": "F"
+    },
+    {
+     "no": "58",
+     "text": "Den kostenlosen Sehtest gibt es bei Optik Weiland im März nur samstags.",
+     "answer": "F"
+    },
+    {
+     "no": "59",
+     "text": "Um seinen verlorenen Rucksack im Kundenzentrum abzuholen, muss Herr Okafor einen Ausweis vorlegen.",
+     "answer": "R"
+    },
+    {
+     "no": "60",
+     "text": "Beim Drachenfest am Deich können Kinder ab sechs Jahren ohne vorherige Anmeldung einen Drachen bauen.",
+     "answer": "F"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "intro": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Entscheiden Sie schnell, denn die zur Verfügung stehende Zeit ist begrenzt auf 30 Minuten!",
+  "tasks": [
+   {
+    "letter": "A",
+    "kind": "Bitte um Informationen",
+    "lead": "Sie lesen im Internet folgende Anzeige:",
+    "ad": {
+     "header": "Umzugsprofi Nord",
+     "tag": "UMZUGSSERVICE",
+     "title": "Ihr Umzug in guten Händen.",
+     "subtitle": "",
+     "facts": [
+      "Komplettservice: Einpacken, Transport, Auspacken",
+      "Ab- und Aufbau von Möbeln und Küchen",
+      "Einrichtung von Halteverbotszonen",
+      "Einlagerung, falls die neue Wohnung noch nicht frei ist",
+      "kostenlose Besichtigung und Angebot zum Festpreis"
+     ],
+     "body": [
+      "Wir packen an – damit Sie sich ganz auf Ihr neues Zuhause freuen können. Seit 30 Jahren bringen wir Möbel und Kartons sicher an ihr Ziel, in der Region und in ganz Deutschland."
+     ],
+     "footer": "Jetzt unverbindlich anfragen! · anfrage@umzugsprofi-nord.de"
+    },
+    "situation": [
+     "Sie ziehen in einigen Monaten mit Ihrer Familie in eine andere Stadt und möchten den Umzug nicht allein organisieren. Sie interessieren sich für das Angebot und möchten mehr darüber erfahren. Schreiben Sie eine E-Mail an Umzugsprofi Nord."
+    ],
+    "choice": [
+     "Behandeln Sie darin entweder",
+     "a) drei der folgenden Punkte oder",
+     "b) zwei der folgenden Punkte und einen weiteren Aspekt Ihrer Wahl."
+    ],
+    "points": [
+     "Beschreiben Sie Ihre Umzugspläne.",
+     "Erläutern Sie, welche Leistungen Sie brauchen.",
+     "Fragen Sie nach den Kosten und der Versicherung.",
+     "Erkundigen Sie sich, wie die Besichtigung abläuft."
+    ],
+    "closing": "Überlegen Sie sich vor dem Schreiben eine passende Reihenfolge der Punkte, einen passenden Betreff, eine passende Anrede, Einleitung und einen passenden Schluss. Schreiben Sie mindestens 150 Wörter.",
+    "words": 150,
+    "model": {
+     "label": "Beispiel für Variante b): zwei Leitpunkte und ein eigener Aspekt (ca. 170 Wörter).",
+     "text": "Betreff: Anfrage zu Ihrem Umzugsservice\n\nSehr geehrte Damen und Herren,\n\nim Internet bin ich auf Ihre Anzeige gestoßen und möchte mich nach einigen Einzelheiten erkundigen.\n\nIm Sommer ziehe ich mit meiner Frau und unseren beiden Kindern von Bremen nach Regensburg, weil ich dort eine neue Stelle antrete. Unsere jetzige Wohnung liegt im dritten Stock eines Altbaus ohne Aufzug; in Regensburg haben wir ein Reihenhaus gemietet. Insgesamt geht es um etwa 80 Kartons und die Möbel für vier Zimmer.\n\nDa wir beide voll berufstätig sind, würden wir gern Ihren Komplettservice in Anspruch nehmen, also auch das Ein- und Auspacken. Besonders wichtig ist uns, dass Sie die Einbauküche ab- und wieder aufbauen. Außerdem besitzen wir ein Klavier. Transportieren Sie auch solche schweren Einzelstücke?\n\nLeider können wir das Haus erst zwei Wochen nach unserem Auszug beziehen. Wäre es möglich, unsere Möbel so lange bei Ihnen einzulagern? Wichtig wäre für uns, dass wir in dieser Zeit an einzelne Kartons herankommen, zum Beispiel an Unterlagen für die Arbeit.\n\nIch freue mich auf Ihre Antwort und auf ein Angebot.\n\nMit freundlichen Grüßen\nDaniel Fischer"
+    }
+   },
+   {
+    "letter": "B",
+    "kind": "Beschwerde",
+    "lead": "Sie lesen folgende Anzeige:",
+    "ad": {
+     "header": "TEXTILREINIGUNG GLANZPUNKT · SEIT 1987 IN DER ALTSTADT",
+     "tag": "",
+     "title": "Ihre Kleidung in besten Händen",
+     "subtitle": "",
+     "facts": [
+      "Expressservice: fertig in 24 Stunden",
+      "kostenlose Abholung und Lieferung im Stadtgebiet",
+      "Fleckentfernung ohne Aufpreis",
+      "Zufriedenheitsgarantie: Wir reinigen kostenlos nach",
+      "persönliche Beratung Mo–Sa 8–19 Uhr"
+     ],
+     "body": [
+      "Ob Anzug, Abendkleid oder Wintermantel: Wir reinigen Ihre Kleidung schonend und sorgfältig – auch empfindliche Stoffe wie Seide und Wolle."
+     ],
+     "footer": "Glanzpunkt · Marktgasse 7 · service@glanzpunkt-reinigung.de"
+    },
+    "situation": [
+     "Sie haben einen Wintermantel und ein Seidenkleid mit dem Expressservice reinigen lassen. Leider waren Sie mit dem Ergebnis überhaupt nicht zufrieden. Schreiben Sie eine Beschwerde an die Textilreinigung Glanzpunkt."
+    ],
+    "choice": [
+     "Behandeln Sie darin entweder",
+     "a) drei der folgenden Punkte oder",
+     "b) zwei der folgenden Punkte und einen weiteren Aspekt Ihrer Wahl."
+    ],
+    "points": [
+     "Erklären Sie, warum Sie sich für diese Reinigung entschieden haben.",
+     "Beschreiben Sie, was nicht in Ordnung war.",
+     "Schildern Sie, wie man im Geschäft auf Ihre Reklamation reagiert hat.",
+     "Stellen Sie klar, was Sie nun erwarten."
+    ],
+    "closing": "Überlegen Sie sich vor dem Schreiben eine passende Reihenfolge der Punkte, einen passenden Betreff, eine passende Anrede, Einleitung und einen passenden Schluss. Schreiben Sie mindestens 150 Wörter.",
+    "words": 150,
+    "model": {
+     "label": "Beispiel für Variante a): drei der vier Leitpunkte (ca. 170 Wörter).",
+     "text": "Betreff: Beschwerde über die Reinigung meines Mantels und Kleides (Auftrag Nr. 4418 vom 12. Oktober)\n\nSehr geehrte Damen und Herren,\n\nam 12. Oktober habe ich Ihnen einen Wintermantel und ein Seidenkleid zur Reinigung gegeben. Leider bin ich mit Ihrer Arbeit überhaupt nicht zufrieden, deshalb möchte ich mich hiermit beschweren.\n\nObwohl ich extra den Expressservice bezahlt hatte, wurden die Sachen nicht nach 24 Stunden, sondern erst nach vier Tagen geliefert – dabei hatte ich ausdrücklich gesagt, dass ich den Mantel für eine Reise brauche. Der Rotweinfleck auf dem Kleid ist immer noch deutlich zu sehen, und am Mantel fehlen seitdem zwei Knöpfe.\n\nAls ich Ihrer Mitarbeiterin die Mängel im Geschäft gezeigt habe, meinte sie nur, bei Seide könne man nichts garantieren. Von der Zufriedenheitsgarantie aus Ihrer Anzeige wollte sie nichts wissen; stattdessen verlangte sie für eine zweite Reinigung noch einmal 18 Euro.\n\nIch erwarte daher, dass Sie mir den Aufpreis für den Expressservice erstatten, das Kleid kostenlos nachreinigen und die fehlenden Knöpfe ersetzen. Sollte ich bis zum 31. Oktober nichts von Ihnen hören, werde ich mich an die Verbraucherzentrale wenden.\n\nMit freundlichen Grüßen\nSevgi Arslan"
+    }
+   }
+  ]
+ },
+ "notes": "Validator differences are checker artefacts, all verified by comparing the JSON with the PDF text with spaces removed: (1) pdftotext -raw drops the spaces in short lines of the answer options and items (Lesen Teil 2 options 6-10, Aufgaben 11-20 lines, Hören statements, writing bullets), so the PDF side shows joined tokens such as 'liebernutzen', 'Fensterzu', 'IhrHund', 'wirMöbel', 'derfolgenden', and the JSON side shows the separate words; (2) page furniture and headings not stored as text fields: '90 Minuten', 'ca. 20 Minuten', Teil headings (Leseverstehen, Sprachbausteine, Hörverstehen, Schriftlicher Ausdruck), 'Aufgabe A/B', 'Bitte um Informationen', 'Beschwerde' (kept in letter/kind); (3) letter-spaced headings in info texts k and l (SCHWIMMEN FÜR ERWACHSENE, LANDHAUS BIRKENHOF) come out of the PDF as single letters and are ignored by the checker, so they appear only in the JSON; (4) the model e-mail check lists words such as Fraux1, Sommerx1 because the margin and body text of pages 21-22 are joined by -raw; the e-mails were copied from the page text. Decisions: Info a subtitle '' style fields: header=brand, subtitle=second line; info k has header 'Wasserzeit' and subtitle 'SCHWIMMEN FÜR ERWACHSENE' (printed as small letter-spaced line); info e tag '3. MÄRZ' and fact 'Di, 18.30 Uhr'; info h drop cap J joined to 'Jeder'; the decorative '· · ·' in info l is left out. Writing ad B header is the letter-spaced line 'TEXTILREINIGUNG GLANZPUNKT · SEIT 1987 IN DER ALTSTADT'; its 4th bullet 'Zufriedenheitsgarantie: Wir reinigen kostenlos nach' is printed that way (sentence ends without object). Hören t3 has no readNote (none printed)."
+}

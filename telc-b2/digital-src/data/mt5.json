@@ -1,0 +1,761 @@
+{
+ "id": 5,
+ "roman": "V",
+ "lesen": {
+  "t1": {
+   "instruction": "Lesen Sie zuerst die zehn Überschriften. Lesen Sie dann die fünf Texte und entscheiden Sie, welche Überschrift (a–j) am besten zu welchem Text (1–5) passt. Tragen Sie Ihre Lösungen in den Antwortbogen bei den Aufgaben 1–5 ein.",
+   "headlines": [
+    {
+     "letter": "a",
+     "text": "Ausleihen, wenn niemand mehr am Schalter sitzt"
+    },
+    {
+     "letter": "b",
+     "text": "Ein Schulfach, das zufriedener machen soll"
+    },
+    {
+     "letter": "c",
+     "text": "Humor als Teil der Behandlung"
+    },
+    {
+     "letter": "d",
+     "text": "Jeden Tag eine Stunde Glück"
+    },
+    {
+     "letter": "e",
+     "text": "Mehr Mädchen als Jungen beim Mitternachtssport"
+    },
+    {
+     "letter": "f",
+     "text": "Ohne Aufsicht verschwinden immer mehr Bücher"
+    },
+    {
+     "letter": "g",
+     "text": "Rote Nase nur für Kinder, denen es gut geht"
+    },
+    {
+     "letter": "h",
+     "text": "Seltener Rasenschnitt bringt Vielfalt zurück"
+    },
+    {
+     "letter": "i",
+     "text": "Spätabends in die Halle statt auf die Straße"
+    },
+    {
+     "letter": "j",
+     "text": "Weniger mähen, weil die Insekten zurück sind"
+    }
+   ],
+   "texts": [
+    {
+     "no": "1",
+     "paragraphs": [
+      "Bettina Laux trägt eine rote Nase, ein viel zu großes Sakko und Schuhe, die bei jedem Schritt quietschen. Zweimal pro Woche besucht die 41-Jährige als „Doktor Wirbelwind“ die Kinderstation der Uniklinik in Wernau. Bevor sie ein Zimmer betritt, spricht sie mit den Pflegekräften: Wie geht es dem Kind heute, hat es Schmerzen, braucht es eher Ruhe oder Ablenkung? Erst dann klopft sie an – und wenn ein Kind an diesem Tag keinen Besuch möchte, geht sie wieder. Mal spielt sie mit Seifenblasen, mal singt sie absichtlich falsch, mal lässt sie sich von einem Fünfjährigen „untersuchen“. „Die Kinder bestimmen, was passiert – im Krankenhaus dürfen sie sonst kaum etwas selbst entscheiden“, sagt sie. Laux ist ausgebildete Schauspielerin und hat eine zweijährige Weiterbildung zur Klinikclownin gemacht. Ärztinnen und Ärzte schätzen ihre Arbeit: Kinder, die gerade gelacht haben, lassen sich oft leichter Blut abnehmen oder eine Spritze geben. Deshalb begleitet Laux auch Untersuchungen, vor denen Kinder Angst haben. Nach jedem Besuch notiert sie kurz, wie das Kind reagiert hat, damit das Pflegeteam Bescheid weiß. Bezahlt werden ihre Besuche von einem Verein, der sich aus Spenden finanziert; die Klinik stellt ihr einen Raum zum Umziehen zur Verfügung. Viele Eltern sind dankbar, manche begegnen ihr anfangs allerdings mit Zurückhaltung. Traurige Momente gehören zu ihrem Beruf. „Wenn ein Kind sehr krank ist, werde ich leiser“, sagt Laux. „Auch dann kann eine rote Nase helfen.“"
+     ]
+    },
+    {
+     "no": "2",
+     "paragraphs": [
+      "Zwischen hohen Gräsern leuchten Margeriten und Kornblumen, Wildbienen fliegen von Blüte zu Blüte. Noch vor drei Jahren lag hier im Stadtpark von Falkenau ein kurz geschorener Rasen. Dann beschloss das Grünflächenamt, ein Drittel der städtischen Wiesen nur noch zweimal im Jahr zu mähen statt alle zwei Wochen; betroffen sind mehr als 20 Hektar, verteilt auf Parks, Straßenränder und Böschungen. Anfangs hagelte es Beschwerden: Der Park sehe ungepflegt aus, im hohen Gras lauerten Zecken, und die Kinder könnten nicht mehr Fußball spielen. Die Stadt stellte daraufhin Schilder auf, die erklären, warum die Flächen wild wachsen dürfen, und hielt an den Rändern breite Streifen kurz, damit Wege und Spielflächen frei bleiben. Inzwischen ist die Stimmung umgeschlagen. „Ich habe mich zuerst auch geärgert“, gibt eine Anwohnerin zu, die jeden Morgen mit ihrem Hund durch den Park geht. „Heute bleibe ich oft stehen und schaue den Schmetterlingen zu.“ Ein Biologe, der die Flächen im Auftrag der Stadt untersucht, zählte im vergangenen Sommer fast dreimal so viele Insektenarten wie vor Beginn des Versuchs, und auch Vögel finden auf den Wiesen mehr Futter. Nebenbei spart die Stadt Geld, weil die Mähfahrzeuge seltener ausrücken müssen; Gärtner Paul Sieber nutzt die gewonnene Zeit für neue Baumpflanzungen. Ganz ohne Arbeit geht es aber nicht: Damit der Boden mager bleibt und die Blumen nicht verdrängt werden, muss das geschnittene Gras jedes Mal abtransportiert werden. Im nächsten Jahr sollen auch Grünflächen an Schulen und Friedhöfen folgen."
+     ]
+    },
+    {
+     "no": "3",
+     "paragraphs": [
+      "Jeden Samstag um zehn Uhr abends gehen in drei Turnhallen der Stadt Kirchhausen noch einmal die Lichter an. Bis ein Uhr nachts spielen dort Jugendliche zwischen 14 und 21 Jahren Basketball oder Fußball – kostenlos und ohne Anmeldung. Rund 120 junge Leute kommen inzwischen an jedem Wochenende; viele von ihnen würden den Abend sonst an Bushaltestellen oder auf Parkplätzen verbringen. Die Hallen gehören zu Schulen und stünden nachts ohnehin leer. „Hier haben sie einen Ort, an dem sie willkommen sind, und jemanden, der ihnen zuhört“, sagt der Sozialarbeiter Malik Osei, der das Projekt vor vier Jahren ins Leben gerufen hat. Neben zwei Trainern ist an jedem Abend eine Fachkraft der Jugendhilfe dabei, an die sich die Jugendlichen wenden können, wenn es in der Schule oder zu Hause Probleme gibt. Die Regeln sind einfach: kein Alkohol, kein Rauchen, und wer grob foult, setzt eine Runde aus. Der 17-jährige Emre kommt seit zwei Jahren jeden Samstag; inzwischen pfeift er selbst die Spiele der Jüngeren. Nach Angaben der Polizei sind die Beschwerden über nächtlichen Lärm in den beteiligten Stadtteilen seit dem Projektstart um ein Fünftel zurückgegangen; ob das allein am Sportangebot liegt, lässt sich allerdings nicht sagen. Ein Ziel hat das Projekt noch nicht erreicht: Es kommen deutlich mehr Jungen als Mädchen. Seit es freitags einen eigenen Abend nur für Mädchen gibt, ist ihr Anteil zwar von fünf auf 15 Prozent gestiegen, doch damit ist Osei noch nicht zufrieden. Finanziert wird das Angebot von der Stadt und einer Stiftung, die zusammen rund 60.000 Euro im Jahr bereitstellen. Weil die Nachfrage so groß ist, sollen im kommenden Jahr zwei weitere Hallen hinzukommen."
+     ]
+    },
+    {
+     "no": "4",
+     "paragraphs": [
+      "„Glück kann man nicht kaufen, aber man kann einiges dafür tun“, sagt Corinna Haberl. Die Lehrerin unterrichtet an der Gesamtschule Ostring in Talheim ein ungewöhnliches Fach: Glück. Wie die anderen Lehrkräfte im Team hat sie dafür eine einjährige Fortbildung besucht. Gearbeitet wird oft im Stuhlkreis. Zwei Stunden pro Woche lernen die Schülerinnen und Schüler der siebten Klassen, mit Stress umzugehen, Konflikte fair zu lösen und ihre eigenen Stärken zu erkennen. Noten gibt es nicht; stattdessen berichten die Jugendlichen am Ende des Schuljahres über ein eigenes Projekt, etwa eine Woche ohne Handy oder einen Nachmittag im Altenheim. Viele Eltern waren zunächst skeptisch und befürchteten, dafür würden Stunden in Mathematik oder Deutsch gestrichen. Tatsächlich ersetzt das neue Fach jedoch eine freiwillige Lernzeit am Nachmittag. Lehrkräfte berichten von einem besseren Klima in den Klassen; auch mit Streitfällen müsse sich die Schulleitung seltener beschäftigen. „Früher habe ich mich nie getraut, vor der Klasse zu sprechen“, erzählt die 13-jährige Mia. „Jetzt melde ich mich in fast jeder Stunde.“ Ob sich der Unterricht auch langfristig auf die Gesundheit oder die Leistungen auswirkt, untersucht eine Universität in einer Begleitstudie, deren Ergebnisse frühestens in zwei Jahren vorliegen. Schon jetzt fragen andere Schulen nach dem Konzept."
+     ]
+    },
+    {
+     "no": "5",
+     "paragraphs": [
+      "Die Stadtbücherei Ahrenfeld ist seit März auch dann geöffnet, wenn kein Personal mehr im Haus ist. Wer sich einmalig freischalten lässt, kommt mit Bibliotheksausweis und Geheimzahl täglich von 8 bis 22 Uhr hinein, auch am Sonntag. Bücher und Filme leiht man an Automaten aus und gibt sie dort auch zurück; Zeitungen und Zeitschriften kann man vor Ort lesen, vorbestellte Medien liegen in Schließfächern bereit. Kinder unter 14 Jahren dürfen nur in Begleitung eines Erwachsenen kommen. Beratung gibt es allerdings weiterhin nur zu den bisherigen Öffnungszeiten. Kameras am Eingang sorgen für Sicherheit. Die Idee stammt aus Skandinavien, wo solche Büchereien längst verbreitet sind. Rund 2.300 Leserinnen und Leser nutzen das Angebot bereits, besonders beliebt ist der Sonntagnachmittag. Kritiker hatten befürchtet, dass ohne Aufsicht Bücher verschwinden oder beschädigt würden. Nach einem halben Jahr zieht die Verwaltung jedoch eine positive Bilanz: Verluste habe es kaum gegeben, und das Personal habe nun sogar mehr Zeit für Lesungen und Kurse."
+     ]
+    }
+   ],
+   "items": [
+    {
+     "no": "1",
+     "answer": "c"
+    },
+    {
+     "no": "2",
+     "answer": "h"
+    },
+    {
+     "no": "3",
+     "answer": "i"
+    },
+    {
+     "no": "4",
+     "answer": "b"
+    },
+    {
+     "no": "5",
+     "answer": "a"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Lesen Sie zuerst den Artikel und lösen Sie dann die Aufgaben 6–10 zu dem Text.",
+   "kind": "article",
+   "title": "Der Weg im Kopf",
+   "lead": "Das Smartphone zeigt uns jeden Weg. Doch wer sich nur noch auf die Stimme aus dem Handy verlässt, verlernt nach und nach eine wichtige Fähigkeit, warnen Hirnforscher.",
+   "paragraphs": [
+    "Als Tom Reinhardt und seine Freundin im vergangenen Sommer im Schwarzwald wandern gingen, verließen sie sich ganz auf die App auf seinem Handy. Am Nachmittag war der Akku leer – und die beiden standen mitten im Wald, ohne zu wissen, aus welcher Richtung sie gekommen waren. Erst nach zwei Stunden erreichten sie eine Straße. „Ich hatte mir die Route vorher überhaupt nicht angesehen“, gibt der 29-Jährige zu. „Ich bin einfach dem blauen Punkt gefolgt.“",
+    "Fachleute überrascht das nicht. Wer sich in einer fremden Umgebung zurechtfinden will, muss ständig Informationen sammeln und miteinander verknüpfen: Wo steht die Sonne? An welcher Kreuzung bin ich abgebogen? Was liegt rechts, was links? Aus solchen Beobachtungen entsteht nach und nach eine Art Karte im Kopf. Eine zentrale Rolle spielt dabei der Hippocampus, eine Hirnregion, die auch für das Gedächtnis wichtig ist. Folgt man dagegen nur den Anweisungen eines Navigationsgeräts, fällt diese Arbeit weg. „Man kommt ans Ziel, aber man weiß hinterher nicht, wie“, sagt die Neuropsychologin Annika Brehm. Die Umgebung bleibt dann fremd, selbst wenn man eine Strecke schon zehnmal gefahren ist.",
+    "Wie anpassungsfähig das Gehirn ist, zeigen Untersuchungen an Londoner Taxifahrern. Bevor sie ihre Lizenz bekommen, müssen sie jahrelang Tausende Straßen auswendig lernen. Bei erfahrenen Fahrern war ein Teil des Hippocampus deutlich größer als bei Vergleichspersonen – und zwar umso größer, je länger sie den Beruf schon ausübten. Kanadische Forscher wiederum fanden Hinweise darauf, dass Menschen, die besonders häufig GPS nutzen, sich neue Wege schlechter merken. Brehm warnt allerdings vor voreiligen Schlüssen: Möglicherweise greifen Menschen mit einem schwachen Orientierungssinn einfach öfter zum Navi, und nicht umgekehrt.",
+    "Und stimmt es, dass Männer sich besser zurechtfinden als Frauen? Brehm hält davon wenig. In Tests schneiden Männer im Durchschnitt zwar etwas besser ab, doch die Unterschiede innerhalb der Geschlechter sind weit größer als zwischen ihnen. Eine internationale Studie mit Daten aus einem Handyspiel ergab zudem, dass der Abstand in Ländern mit mehr Gleichberechtigung kleiner ausfällt; biologische Gründe allein können das kaum erklären. Daten aus demselben Spiel zeigen übrigens, dass sich Menschen vom Land besser orientieren als Personen, die in Städten mit schachbrettartig angelegten Straßen groß geworden sind. Entscheidend ist nach Brehms Ansicht vor allem die Übung – etwa, ob man als Kind allein zur Schule gehen durfte. Mit dem Alter lässt das räumliche Gedächtnis zwar nach, doch auch ältere Menschen können es trainieren.",
+    "Auf das Navi verzichten muss trotzdem niemand. Brehm empfiehlt aber, es bewusster einzusetzen: vor einer Fahrt kurz auf die Karte zu schauen und sich zwei, drei markante Punkte einzuprägen, die Anzeige so einzustellen, dass Norden immer oben bleibt, und auf bekannten Strecken das Gerät ganz auszuschalten. Wer zu Fuß in einer fremden Stadt unterwegs ist, sollte sich hin und wieder umdrehen und den Rückweg ansehen – von der anderen Seite sieht eine Straße oft ganz anders aus. Auch wer nach dem Weg fragt, trainiert sein Gedächtnis, denn er muss sich die Beschreibung merken.",
+    "Einige Entwickler arbeiten bereits an Programmen, die nicht nur Anweisungen geben, sondern auf auffällige Gebäude oder Plätze hinweisen, damit sich Nutzer die Umgebung besser merken. Tom Reinhardt hat aus seinem Erlebnis im Wald jedenfalls gelernt: Auf Wanderungen steckt jetzt immer eine Papierkarte in seinem Rucksack – und ein voll geladener Zusatzakku."
+   ],
+   "source": "",
+   "taskInstruction": "Lösen Sie die Aufgaben 6–10. Entscheiden Sie, welche Lösung (a, b oder c) richtig ist, und tragen Sie Ihre Lösung in den Antwortbogen bei den Aufgaben 6–10 ein.",
+   "items": [
+    {
+     "no": "6",
+     "stem": "Tom und seine Freundin",
+     "options": {
+      "a": "hatten sich die Strecke vorher genau eingeprägt.",
+      "b": "fanden mithilfe der Sonne schnell zurück.",
+      "c": "verirrten sich, weil das Handy ausfiel."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "7",
+     "stem": "Eine „Karte im Kopf“ entsteht,",
+     "options": {
+      "a": "wenn man unterwegs Eindrücke verknüpft.",
+      "b": "indem man genau den Anweisungen eines Geräts folgt.",
+      "c": "durch auswendig gelernte Straßennamen."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "8",
+     "stem": "Die Studien aus London und Kanada",
+     "options": {
+      "a": "beweisen, dass Navigationsgeräte dem Gedächtnis schaden.",
+      "b": "deuten darauf hin, dass Übung das Gehirn verändert.",
+      "c": "stammen von Annika Brehm selbst."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "9",
+     "stem": "Beim Orientierungssinn von Männern und Frauen",
+     "options": {
+      "a": "zeigen Tests überhaupt keine Unterschiede.",
+      "b": "ist der Abstand kleiner als oft angenommen.",
+      "c": "hängt der Abstand vor allem vom Lebensalter ab."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "10",
+     "stem": "Annika Brehm empfiehlt,",
+     "options": {
+      "a": "die Kartenansicht nicht mitdrehen zu lassen.",
+      "b": "bei Ausflügen ganz auf Apps zu verzichten.",
+      "c": "sich nur an auffälligen Gebäuden zu orientieren."
+     },
+     "answer": "a"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Lesen Sie zuerst die zehn Situationen (11–20) und dann die zwölf Info-Texte (a–l). Welcher Info-Text passt zu welcher Situation? Sie können jeden Info-Text nur einmal verwenden. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 11–20. Manchmal gibt es keine Lösung. Markieren Sie dann x.",
+   "items": [
+    {
+     "no": "11",
+     "text": "Ein Bekannter will sich mit einer Nachbarin verständigen, die nicht hören kann.",
+     "answer": "a"
+    },
+    {
+     "no": "12",
+     "text": "Ein Freund braucht beim Bürgeramt jemanden, der dolmetscht.",
+     "answer": "d"
+    },
+    {
+     "no": "13",
+     "text": "Eine Kollegin sucht online einen Partner für ihr Spanisch.",
+     "answer": "i"
+    },
+    {
+     "no": "14",
+     "text": "Ihr Mitbewohner will zwanglos in einer Gruppe Englisch sprechen.",
+     "answer": "h"
+    },
+    {
+     "no": "15",
+     "text": "Ihr Onkel möchte wissen, wie Menschen vor Jahrhunderten lebten.",
+     "answer": "b"
+    },
+    {
+     "no": "16",
+     "text": "Ihre Freundin will Französisch üben, aber nur bei persönlichen Treffen.",
+     "answer": "x"
+    },
+    {
+     "no": "17",
+     "text": "Ihre Mutter möchte morgens Nachrichten in einfachem Deutsch hören.",
+     "answer": "e"
+    },
+    {
+     "no": "18",
+     "text": "Ihre Nachbarin würde gern einen Austauschschüler bei sich aufnehmen.",
+     "answer": "j"
+    },
+    {
+     "no": "19",
+     "text": "Ihre Nichte (9) will Fachleuten eine Wissensfrage stellen.",
+     "answer": "g"
+    },
+    {
+     "no": "20",
+     "text": "Sie wollen sich live im Radio zum Handyvertrag beraten lassen.",
+     "answer": "l"
+    }
+   ],
+   "infos": [
+    {
+     "letter": "a",
+     "header": "AB 14. JANUAR",
+     "tag": "Di",
+     "title": "Gebärdensprache für Einsteiger",
+     "subtitle": "",
+     "facts": [
+      "18–19.30 Uhr"
+     ],
+     "body": [
+      "Mit Händen, Mimik und Körperhaltung sprechen: An zehn Abenden lernen Sie die Grundlagen der Deutschen Gebärdensprache – genug, um sich vorzustellen, nach dem Weg zu fragen und einfache Gespräche im Alltag zu führen. Es unterrichtet eine gehörlose Dozentin, die Ihnen auch zeigt, worauf es im Kontakt mit tauben Menschen ankommt. Vorkenntnisse sind nicht nötig. Die Gruppe ist auf zwölf Personen begrenzt. Die Gebühr von 95 Euro schließt ein Übungsheft ein."
+     ],
+     "footer": "Volkshochschule im Kornhaus · Raum 104"
+    },
+    {
+     "letter": "b",
+     "header": "",
+     "tag": "DER GESCHICHTSPODCAST",
+     "title": "Zeitfenster",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Wie hat man vor 300, 500 oder 1.000 Jahren gewohnt, gekocht und gearbeitet? Womit haben Kinder gespielt, und was tat man gegen Zahnschmerzen? In „Zeitfenster“ sprechen die Historikerin Leonie Faber und der Journalist Ole Lindqvist über den Alltag vergangener Zeiten – unterhaltsam und trotzdem genau. Jeden Dienstag erscheint eine neue Folge von etwa 40 Minuten; alle bisherigen können Sie kostenlos nachhören. Dazu gibt es jeweils eine Leseliste für alle, die mehr wissen wollen."
+     ],
+     "footer": "In allen Podcast-Apps · www.zeitfenster-podcast.de"
+    },
+    {
+     "letter": "c",
+     "header": "",
+     "tag": "FERNSEHTIPP DER WOCHE",
+     "title": "Wildes Moor",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Moore wirken auf den ersten Blick eintönig. Wer genauer hinsieht, entdeckt fleischfressende Pflanzen, seltene Libellen und Vögel, die nur hier brüten. Ein Jahr lang hat ein Filmteam ein Hochmoor im Allgäu begleitet – vom ersten Frost bis zur Hitze im August. Wärmebildkameras zeigen sogar, was nachts im Moor geschieht. Der Film erklärt außerdem, warum trockengelegte Moore dem Klima schaden und wie man sie wieder vernässt. Gut geeignet für die ganze Familie."
+     ],
+     "footer": "Sonntag, 19.30 Uhr · danach in der Mediathek"
+    },
+    {
+     "letter": "d",
+     "header": "",
+     "tag": "",
+     "title": "Wir begleiten Sie",
+     "subtitle": "Sprachmittler im Ehrenamt",
+     "facts": [],
+     "body": [
+      "Ein Termin beim Amt, beim Arzt oder in der Schule, und Sie verstehen nicht alles? Unsere ehrenamtlichen Sprachmittlerinnen und Sprachmittler gehen mit und übertragen das Gespräch mündlich, zum Beispiel aus dem Arabischen, Türkischen, Russischen oder Persischen; zusammen sprechen sie mehr als 15 Sprachen. Die Begleitung ist kostenlos. Bitte melden Sie sich mindestens eine Woche vor Ihrem Termin. Schriftliche Übersetzungen von Dokumenten können wir leider nicht anbieten."
+     ],
+     "footer": "Begegnungshaus Eichengrund · Tel. 0681 / 52 18 30"
+    },
+    {
+     "letter": "e",
+     "header": "",
+     "tag": "",
+     "title": "NACHRICHTEN, LANGSAM GESPROCHEN",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Montag bis Freitag, jeden Morgen: die wichtigsten Meldungen des Tages, in einfachen Sätzen und in ruhigem Tempo vorgelesen. Eine Folge dauert nur sechs Minuten – ideal für den Weg zur Arbeit. Schwierige Wörter erklären wir am Ende jeder Folge, auf unserer Internetseite finden Sie außerdem den vollständigen Text. Der Podcast richtet sich an alle, die Deutsch lernen. Freitags gibt es zusätzlich ein kurzes Quiz zum Mitraten. Kostenlos und ohne Anmeldung."
+     ],
+     "footer": "Neue Folge werktags ab 6 Uhr · www.langsam-news.de"
+    },
+    {
+     "letter": "f",
+     "header": "CAFÉ MOSAIK",
+     "tag": "",
+     "title": "Erzählcafé: Heimat heute",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Einmal im Monat berichten Menschen, die in unserer Stadt leben, aus ihren Herkunftsländern: Wie feiert man in Ghana Hochzeit? Wie sieht ein Schultag in Georgien aus? Was isst man in Peru zum Frühstück? Die Gäste erzählen auf Deutsch, anschließend kann das Publikum Fragen stellen. Bei Tee und Gebäck entstehen oft lange Gespräche. Der Eintritt ist frei, um eine Spende für die Getränke wird gebeten. Wer selbst einmal erzählen möchte, meldet sich einfach bei uns."
+     ],
+     "footer": "jeden ersten Freitag im Monat · 19 Uhr"
+    },
+    {
+     "letter": "g",
+     "header": "",
+     "tag": "",
+     "title": "Frag doch mal!",
+     "subtitle": "Wissen für Kinder",
+     "facts": [],
+     "body": [
+      "Warum ist der Himmel blau? Können Fische schlafen? In unserer Sendung beantworten Forscherinnen und Forscher die Fragen von Kindern zwischen acht und zwölf Jahren. Die Fragen kommen von euch: Nehmt einfach ein kurzes Video auf und schickt es uns über unsere Internetseite. Jede Woche wählen wir fünf Fragen aus und gehen ihnen mit Experimenten auf den Grund. Mit etwas Glück seid ihr selbst im Fernsehen zu sehen! Alle Folgen findet ihr auch in unserer App."
+     ],
+     "footer": "samstags, 9.30 Uhr · im Kinderprogramm"
+    },
+    {
+     "letter": "h",
+     "header": "STADTBIBLIOTHEK AM WALL",
+     "tag": "",
+     "title": "Sprachcafé",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Sie möchten eine Fremdsprache sprechen, ohne gleich einen Kurs zu besuchen? Dann kommen Sie in unser Sprachcafé! An drei Tischen wird Englisch, Spanisch und Arabisch gesprochen; Muttersprachlerinnen und Muttersprachler halten die Gespräche in Gang und helfen, wenn ein Wort fehlt. Sie können jederzeit dazukommen oder den Tisch wechseln. Anmelden müssen Sie sich nicht, und es entstehen keine Kosten. Wir treffen uns jeden Mittwoch von 18 bis 20 Uhr im Lesesaal; einmal im Monat gibt es zusätzlich einen Spieleabend."
+     ],
+     "footer": "Fragen an: sprachcafe@bibliothek-am-wall.de"
+    },
+    {
+     "letter": "i",
+     "header": "",
+     "tag": "Online-Tandem",
+     "title": "Sprachpartner gesucht?",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Auf unserer Plattform finden Sie Menschen, die Ihre Muttersprache lernen und Ihnen dafür bei Ihrer Zielsprache helfen – ob Französisch, Spanisch, Polnisch oder Japanisch. Sie legen ein kurzes Profil an, und wir schlagen Ihnen passende Partnerinnen und Partner vor. Wie oft Sie miteinander sprechen, entscheiden Sie selbst. Die Gespräche führen Sie ausschließlich per Video über unsere Seite; persönliche Treffen vermitteln wir aus Sicherheitsgründen nicht. Jedes Profil wird vor der Freischaltung geprüft. Die Nutzung ist kostenlos."
+     ],
+     "footer": "www.tandemwelt.de"
+    },
+    {
+     "letter": "j",
+     "header": "",
+     "tag": "",
+     "title": "Ein Jahr, eine neue Familie",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Jedes Jahr kommen über unseren Verein rund 40 Jugendliche aus aller Welt nach Deutschland, um hier zehn Monate lang zur Schule zu gehen. Dafür suchen wir Familien, Paare oder auch Alleinstehende, die einem Gastschüler ein Zimmer und einen Platz am Familientisch geben. Eine Bezahlung gibt es nicht; wir bereiten Sie aber in einem Seminar vor und sind das ganze Jahr über für Sie da. Vielleicht entsteht daraus eine Freundschaft fürs Leben."
+     ],
+     "footer": "Mareike Strobel · Austauschverein Weltoffen · Tel. 0681 / 39 27 45"
+    },
+    {
+     "letter": "k",
+     "header": "",
+     "tag": "",
+     "title": "DIE FÄHRFRAU",
+     "subtitle": "NEUE STAFFEL",
+     "facts": [],
+     "body": [
+      "An der Mosel verschwindet ein junger Winzer, und Fährfrau Hanne Lohmeyer, früher Kommissarin in Koblenz, ermittelt auf eigene Faust. In sechs neuen Folgen kommt sie einem alten Familienstreit auf die Spur, der ein ganzes Dorf in Atem hält. Spannend, mit trockenem Humor und viel Gefühl für die Landschaft; gedreht wurde ausschließlich an Originalschauplätzen. Die erste Folge läuft am Donnerstag; danach stehen alle Folgen 30 Tage lang in der Mediathek bereit."
+     ],
+     "footer": "DONNERSTAG · 20.15 UHR"
+    },
+    {
+     "letter": "l",
+     "header": "RADIO MAINBLICK",
+     "tag": "",
+     "title": "Recht so! Ihr Verbrauchermagazin",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Ärger mit dem Handyvertrag, eine Rechnung, die nicht stimmt, oder ein Paket, das nie angekommen ist? Jeden Donnerstag von 12 bis 13 Uhr beantworten Fachleute der Verbraucherberatung Ihre Fragen in der Sendung. Rufen Sie einfach an – unser Team stellt Sie direkt ins Studio durch. Wer lieber schreibt, kann seine Frage auch per E-Mail schicken; ausgewählte Fragen besprechen wir dann in der folgenden Woche. Die Beratung ist für Sie kostenlos."
+     ],
+     "footer": "Hörertelefon: Tel. 0800 / 44 55 66 (gebührenfrei)"
+    }
+   ]
+  },
+  "sb1": {
+   "instruction": "Lesen Sie den folgenden Text und entscheiden Sie, welches Wort (a, b oder c) in die jeweilige Lücke passt. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 21–30.",
+   "paragraphs": [
+    "Sehr geehrte Damen und Herren,",
+    "mit großem Bedauern habe ich Ihren Bericht über die Pläne der Stadt gelesen, den Wochenmarkt im Frühjahr vom Marktplatz auf den Parkplatz am Sportzentrum zu verlegen. Als Kundin, {{21}} seit über dreißig Jahren jeden Samstag dort einkauft, möchte ich dazu Stellung nehmen.",
+    "Die Stadt begründet ihre Entscheidung {{22}} dem Lärm, über den sich einige Anwohner beschwert haben. Das kann ich durchaus verstehen. {{23}} halte ich den neuen Standort für falsch. Gerade ältere Menschen ohne Auto {{24}} dann auf eine lange Busfahrt angewiesen, und manche würden den Weg wohl gar nicht mehr auf sich nehmen. Diese Kundinnen und Kunden dürfen bei der Planung nicht vergessen {{25}}.",
+    "Für mich ist der Markt mehr als ein Ort zum Einkaufen. Man trifft Nachbarn, unterhält sich mit den Händlern und erfährt, {{26}} das Obst und das Gemüse stammen. Auf den Markt kommen ganze Familien, und auch Touristen bleiben gern an den Ständen stehen. {{27}} lebendiger die Innenstadt am Samstag ist, desto besser geht es auch den Geschäften rund um den Marktplatz. Davon profitiert am Ende die ganze Stadt.",
+    "Ich schlage deshalb vor, die Stände so aufzustellen, {{28}} die Lieferwagen nicht mehr direkt an den Wohnhäusern vorbeifahren müssen. Außerdem könnte man den Aufbau eine Stunde später beginnen {{29}}. Ich hoffe sehr, dass die Stadt noch einmal mit allen Beteiligten {{30}} spricht, bevor eine endgültige Entscheidung fällt.",
+    "Mit freundlichen Grüßen",
+    "Helga Weißhaupt"
+   ],
+   "items": [
+    {
+     "no": "21",
+     "options": {
+      "a": "der",
+      "b": "die",
+      "c": "deren"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "22",
+     "options": {
+      "a": "für",
+      "b": "von",
+      "c": "mit"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "23",
+     "options": {
+      "a": "Trotzdem",
+      "b": "Deshalb",
+      "c": "Obwohl"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "24",
+     "options": {
+      "a": "wären",
+      "b": "würden",
+      "c": "hätten"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "25",
+     "options": {
+      "a": "wurden",
+      "b": "worden",
+      "c": "werden"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "26",
+     "options": {
+      "a": "wovon",
+      "b": "woher",
+      "c": "worauf"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "27",
+     "options": {
+      "a": "Je",
+      "b": "Umso",
+      "c": "Desto"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "28",
+     "options": {
+      "a": "sodass",
+      "b": "dass",
+      "c": "ob"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "29",
+     "options": {
+      "a": "machen",
+      "b": "werden",
+      "c": "lassen"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "30",
+     "options": {
+      "a": "darüber",
+      "b": "dafür",
+      "c": "daran"
+     },
+     "answer": "a"
+    }
+   ]
+  },
+  "sb2": {
+   "instruction": "Lesen Sie den folgenden Text und entscheiden Sie, welches Wort aus dem Kasten (a–o) in die Lücken 31–40 passt. Sie können jedes Wort im Kasten nur einmal verwenden. Nicht alle Wörter passen in den Text. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 31–40.",
+   "title": "Die unterschätzte Pause",
+   "paragraphs": [
+    "Ein belegtes Brötchen am Schreibtisch, nebenbei noch schnell ein paar E-Mails: So sieht für viele Beschäftigte die Mittagspause aus. Einer Umfrage zufolge isst fast jeder Dritte {{31}} am Arbeitsplatz. Manche wollen damit Zeit sparen, andere fürchten, als weniger fleißig zu gelten, wenn sie das Büro verlassen. Nicht wenige schieben die Pause so lange auf, bis sie ganz ausfällt.",
+    "Arbeitsforscher halten das für einen Fehler. Nach einigen Stunden konzentrierter Arbeit braucht das Gehirn Zeit zur {{32}}, um wieder aufnahmefähig zu werden. Wer durcharbeitet, spürt die {{33}} oft erst am Nachmittag: Die Aufmerksamkeit lässt nach, und es passieren mehr Fehler. Studien zeigen, dass Beschäftigte, die mittags wirklich abschalten, in den Stunden danach deutlich {{34}} sind. Besonders wirksam ist eine Pause, wenn sie {{35}} zur Arbeit schafft. Wer kann, sollte deshalb nach draußen gehen: Schon ein kurzer Spaziergang bringt den Körper in {{36}} und den Kopf auf andere Gedanken. Auch ein leichtes Essen hilft, denn nach einer schweren Mahlzeit wird man schnell müde.",
+    "Übrigens ist die Pause kein Entgegenkommen des Arbeitgebers. Wer mehr als sechs Stunden arbeitet, hat einen {{37}} Anspruch auf mindestens 30 Minuten, die man auch in Abschnitte von je 15 Minuten aufteilen darf. Bei mehr als neun Stunden sind es sogar 45 Minuten. Auf die Pause ganz zu {{38}}, um früher nach Hause zu gehen, ist dagegen nicht erlaubt.",
+    "Eine wichtige Rolle spielen auch die Führungskräfte. In Teams, deren Chefin oder Chef mittags selbst den Schreibtisch verlässt, machen die Beschäftigten häufiger eine richtige Pause, wie Forscher {{39}} haben. Manche Firmen gehen noch weiter und richten Ruheräume ein, andere vereinbaren Zeiten, in denen keine Besprechungen stattfinden dürfen. Denn eine gute Pause ist keine {{40}} von Arbeitszeit, sondern eine Investition in sie."
+   ],
+   "words": {
+    "a": "ABSTAND",
+    "b": "ACHTEN",
+    "c": "BEOBACHTET",
+    "d": "BEWEGUNG",
+    "e": "ERHOLUNG",
+    "f": "FOLGEN",
+    "g": "GEMÜTLICH",
+    "h": "GESETZLICHEN",
+    "i": "KONTAKT",
+    "j": "LEISTUNGSFÄHIGER",
+    "k": "REGELMÄSSIG",
+    "l": "URSACHEN",
+    "m": "VERSCHWENDUNG",
+    "n": "VERZICHTEN",
+    "o": "ZUFÄLLIG"
+   },
+   "items": [
+    {
+     "no": "31",
+     "answer": "k"
+    },
+    {
+     "no": "32",
+     "answer": "e"
+    },
+    {
+     "no": "33",
+     "answer": "f"
+    },
+    {
+     "no": "34",
+     "answer": "j"
+    },
+    {
+     "no": "35",
+     "answer": "a"
+    },
+    {
+     "no": "36",
+     "answer": "d"
+    },
+    {
+     "no": "37",
+     "answer": "h"
+    },
+    {
+     "no": "38",
+     "answer": "n"
+    },
+    {
+     "no": "39",
+     "answer": "c"
+    },
+    {
+     "no": "40",
+     "answer": "m"
+    }
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören nun eine Nachrichtensendung. Dazu sollen Sie fünf Aufgaben lösen. Sie hören die Nachrichtensendung nur einmal. Entscheiden Sie beim Hören, ob die Aussagen 41–45 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 41–45. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 41–45. Sie haben dazu 30 Sekunden Zeit.",
+   "items": [
+    {
+     "no": "41",
+     "text": "Die Kosten für die neue Kläranlage werden vollständig auf die privaten Haushalte umgelegt.",
+     "answer": "F"
+    },
+    {
+     "no": "42",
+     "text": "In der warmen Jahreszeit wird der Bioabfall künftig öfter abgeholt als bisher.",
+     "answer": "R"
+    },
+    {
+     "no": "43",
+     "text": "Knapp ein Drittel der Jugendlichen bei der Feuerwehr sind inzwischen Mädchen.",
+     "answer": "R"
+    },
+    {
+     "no": "44",
+     "text": "An den Hauptstraßen müssen Hausbesitzer den Gehweg im Winter weiterhin selbst räumen.",
+     "answer": "F"
+    },
+    {
+     "no": "45",
+     "text": "Die sanitären Anlagen in den Schulen werden früher erneuert als die Sporthallen.",
+     "answer": "R"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören ein Rundfunk-Interview. Dazu sollen Sie zehn Aufgaben lösen. Sie hören dieses Interview nur einmal. Entscheiden Sie beim Hören, ob die Aussagen 46–55 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 46–55. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 46–55. Sie haben dazu 60 Sekunden Zeit.",
+   "items": [
+    {
+     "no": "46",
+     "text": "Den Anstoß zu dem Experiment gab vor allem der Umweltschutz.",
+     "answer": "F"
+    },
+    {
+     "no": "47",
+     "text": "Die Familie hat die Regeln gemeinsam aufgestellt.",
+     "answer": "R"
+    },
+    {
+     "no": "48",
+     "text": "Auch gebrauchte Dinge waren in diesem Jahr tabu.",
+     "answer": "F"
+    },
+    {
+     "no": "49",
+     "text": "Die Familie hat mehr gespart, als die meisten vermuten.",
+     "answer": "F"
+    },
+    {
+     "no": "50",
+     "text": "Am meisten Mühe machten Herrn Wendling die Geschenke für andere.",
+     "answer": "R"
+    },
+    {
+     "no": "51",
+     "text": "Die kaputte Waschmaschine konnte mithilfe eines Nachbarn repariert werden.",
+     "answer": "R"
+    },
+    {
+     "no": "52",
+     "text": "Auf seinen Blog bekam Herr Wendling überwiegend ablehnende Reaktionen.",
+     "answer": "F"
+    },
+    {
+     "no": "53",
+     "text": "Nach dem Kauf des Helms blieben die Regeln der Familie unverändert.",
+     "answer": "F"
+    },
+    {
+     "no": "54",
+     "text": "Auch nach dem Experiment hält sich die Familie an eine der Regeln.",
+     "answer": "R"
+    },
+    {
+     "no": "55",
+     "text": "Herr Wendling hält auch einen kürzeren Versuch für lohnend.",
+     "answer": "R"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören jetzt fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. Sie hören diese Ansagen nur einmal. Entscheiden Sie beim Hören, ob die Aussagen 56–60 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 56–60. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+   "readNote": "",
+   "items": [
+    {
+     "no": "56",
+     "text": "Wer mit kleinen Kindern reist, gehört zu den Ersten, die an Bord gehen dürfen.",
+     "answer": "R"
+    },
+    {
+     "no": "57",
+     "text": "Mit dem Abendtarif kann man ohne Aufpreis so lange in der Therme bleiben, wie man möchte.",
+     "answer": "F"
+    },
+    {
+     "no": "58",
+     "text": "Für die Musik bei der Hochzeit ist jetzt eine andere Person zuständig als ursprünglich geplant.",
+     "answer": "R"
+    },
+    {
+     "no": "59",
+     "text": "Wer nach Kitzbühel fahren möchte, sollte sich gleich in einen der vorderen Wagen setzen.",
+     "answer": "F"
+    },
+    {
+     "no": "60",
+     "text": "Beim Lichterfest im Schlosspark dürfen Besucherinnen und Besucher ihre Hunde mitbringen.",
+     "answer": "F"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "intro": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Entscheiden Sie schnell, denn die zur Verfügung stehende Zeit ist begrenzt auf 30 Minuten!",
+  "tasks": [
+   {
+    "letter": "A",
+    "kind": "Bitte um Informationen",
+    "lead": "Sie haben folgenden Flyer in Ihrem Briefkasten gefunden:",
+    "ad": {
+     "header": "Lernstudio Treppauf",
+     "tag": "NACHHILFE",
+     "title": "Besser in der Schule – und wieder Freude am Lernen.",
+     "subtitle": "",
+     "facts": [
+      "Unterricht in kleinen Gruppen oder einzeln",
+      "kostenlose Probestunde",
+      "flexible Termine am Nachmittag",
+      "regelmäßige Lernberichte für die Eltern",
+      "Einstieg jederzeit möglich"
+     ],
+     "body": [
+      "Ob Mathematik, Deutsch oder Englisch: Unsere erfahrenen Lehrkräfte helfen Schülerinnen und Schülern der Klassen 5 bis 13, Lücken zu schließen und sich gezielt auf Klassenarbeiten und Prüfungen vorzubereiten."
+     ],
+     "footer": "Jetzt informieren! · info@lernstudio-treppauf.de"
+    },
+    "situation": [
+     "Ihr Sohn hat seit einiger Zeit Schwierigkeiten in der Schule, und Sie überlegen, ob Nachhilfe ihm helfen könnte. Das Angebot interessiert Sie. Schreiben Sie eine E-Mail an das Lernstudio Treppauf."
+    ],
+    "choice": [
+     "Behandeln Sie darin entweder",
+     "a) drei der folgenden Punkte oder",
+     "b) zwei der folgenden Punkte und einen weiteren Aspekt Ihrer Wahl."
+    ],
+    "points": [
+     "Beschreiben Sie, in welchen Fächern Ihr Sohn Unterstützung braucht.",
+     "Fragen Sie, wie viele Schülerinnen und Schüler in einer Gruppe lernen.",
+     "Informieren Sie sich über die Preise und die Mindestlaufzeit.",
+     "Erkundigen Sie sich, ob auch Unterricht per Video möglich ist."
+    ],
+    "closing": "Überlegen Sie sich vor dem Schreiben eine passende Reihenfolge der Punkte, einen passenden Betreff, eine passende Anrede, Einleitung und einen passenden Schluss. Schreiben Sie mindestens 150 Wörter.",
+    "words": 150,
+    "model": {
+     "label": "Beispiel für Variante b): zwei Leitpunkte und ein eigener Aspekt (ca. 180 Wörter)",
+     "text": "Betreff: Nachhilfe für meinen Sohn (8. Klasse)\n\nSehr geehrte Damen und Herren,\n\nIhren Flyer habe ich gestern in meinem Briefkasten gefunden, und Ihr Angebot interessiert mich sehr.\n\nMein Sohn Artem besucht die achte Klasse eines Gymnasiums. Seit dem letzten Halbjahr hat er große Probleme in Mathematik, vor allem bei Gleichungen und Textaufgaben. In Englisch sind seine Noten ebenfalls schlechter geworden. Da ich selbst Vollzeit arbeite und Mathematik nie mein bestes Fach war, kann ich ihm zu Hause leider kaum helfen.\n\nWeil Artem dreimal pro Woche Fußballtraining hat und wir ziemlich weit vom Stadtzentrum entfernt wohnen, wäre es für uns sehr praktisch, wenn ein Teil der Stunden per Video stattfinden könnte. Ist das bei Ihnen möglich, und braucht er dafür eine bestimmte Software?\n\nAußerdem würde mich interessieren, wie Sie mit den Lehrkräften der Schule zusammenarbeiten. Wäre es zum Beispiel möglich, dass Sie sich vor Klassenarbeiten mit seinem Mathematiklehrer abstimmen? Und wie oft bekommen Eltern einen Lernbericht?\n\nIch freue mich auf Ihre Rückmeldung und komme gern auch zu einem persönlichen Gespräch vorbei.\n\nMit freundlichen Grüßen\nOksana Kovalenko",
+     "notes": "Leitpunkte\n1 Fächer → Mathematik, Englisch; Mutter kann nicht helfen\n4 Video → Training, weiter Weg, Frage nach Software\n+ eigener Aspekt → Absprache mit der Schule, Lernberichte\n– Gruppengröße und Kosten bewusst weggelassen.\nAufbau\nBetreff · Anrede „Sehr geehrte Damen und Herren“ · Flyer als Anlass · Lage des Sohnes, Video, eigener Aspekt · Bitte um Rückmeldung · Grußformel\nBewertung\nI Berücksichtigung der Leitpunkte: zwei Leitpunkte und ein eigener Aspekt, alle mit konkreten Einzelheiten.\nII Kommunikative Gestaltung: Register (Sie), Höflichkeit durch Konjunktiv II (wäre es möglich) und indirekte Fragen, Verknüpfungen wie vor allem, da, außerdem.\nIII Formale Richtigkeit: Fehler dürfen das Verständnis nicht beeinträchtigen.\nTypische Fehler: die Lage des Kindes nur in einem Satz schildern · Fragen ohne Höflichkeitsform · den eigenen Aspekt nicht abgrenzen · unter 150 Wörtern bleiben."
+    }
+   },
+   {
+    "letter": "B",
+    "kind": "Beschwerde",
+    "lead": "Sie lesen auf der Internetseite eines Fitnessstudios folgendes Angebot:",
+    "ad": {
+     "header": "FITWERK · DEIN STUDIO IN DER INNENSTADT",
+     "tag": "",
+     "title": "Fit werden ohne Wartezeit",
+     "subtitle": "",
+     "facts": [
+      "täglich geöffnet von 6 bis 23 Uhr",
+      "kostenloses Einführungstraining mit einem Trainer",
+      "über 40 Kurse pro Woche",
+      "Kündigung jederzeit mit vier Wochen Frist",
+      "Getränke inklusive"
+     ],
+     "body": [
+      "Trainiere, wann du willst – mit modernen Geräten, persönlicher Betreuung und Kursen für jedes Niveau."
+     ],
+     "footer": "FitWerk Mitgliederservice · service@fitwerk-studio.de"
+    },
+    "situation": [
+     "Sie haben vor einigen Monaten einen Vertrag mit FitWerk abgeschlossen. Inzwischen haben Sie gekündigt, doch der Ärger ist noch nicht vorbei. Schreiben Sie eine Beschwerde an FitWerk."
+    ],
+    "choice": [
+     "Behandeln Sie darin entweder",
+     "a) drei der folgenden Punkte oder",
+     "b) zwei der folgenden Punkte und einen weiteren Aspekt Ihrer Wahl."
+    ],
+    "points": [
+     "Nennen Sie die Gründe, aus denen Sie sich für FitWerk entschieden haben.",
+     "Beschreiben Sie, welche Probleme es beim Training gab.",
+     "Schildern Sie, was nach Ihrer Kündigung passiert ist.",
+     "Teilen Sie mit, was Sie jetzt von FitWerk erwarten."
+    ],
+    "closing": "Überlegen Sie sich vor dem Schreiben eine passende Reihenfolge der Punkte, einen passenden Betreff, eine passende Anrede, Einleitung und einen passenden Schluss. Schreiben Sie mindestens 150 Wörter.",
+    "words": 150,
+    "model": {
+     "label": "Beispiel für Variante a): drei der vier Leitpunkte (ca. 180 Wörter)",
+     "text": "Betreff: Beschwerde – Abbuchungen nach meiner Kündigung (Mitgliedsnummer FW-30715)\n\nSehr geehrte Damen und Herren,\n\nim Februar bin ich Mitglied bei FitWerk geworden. Entschieden habe ich mich für Ihr Studio, weil es nur zehn Minuten von meiner Arbeitsstelle entfernt ist und Sie mit einem kostenlosen Einführungstraining sowie einer Kündigungsfrist von nur vier Wochen werben. Außerdem wollte ich morgens vor der Arbeit trainieren, und Ihr Studio öffnet bereits um 6 Uhr.\n\nDa ich beruflich nach Mannheim wechsle, habe ich meinen Vertrag am 25. Mai schriftlich zum 30. Juni gekündigt. Eine Bestätigung habe ich nie erhalten. Stattdessen wurden auch im Juli und August jeweils 39,90 Euro von meinem Konto abgebucht. Am Telefon hieß es, meine Kündigung sei nicht angekommen, obwohl ich einen Einschreibebeleg besitze. Auch meine E-Mail vom 20. Juli blieb unbeantwortet.\n\nDaher erwarte ich, dass Sie mir die beiden Beiträge von insgesamt 79,80 Euro umgehend zurückzahlen und mir die Kündigung zum 30. Juni schriftlich bestätigen. Weitere Abbuchungen werde ich nicht akzeptieren. Sollte ich bis zum 15. September keine Antwort erhalten, werde ich die Verbraucherzentrale einschalten.\n\nMit freundlichen Grüßen\nRafael Moreira",
+     "notes": "Leitpunkte\n1 Gründe für das Studio → Nähe zur Arbeit, Einführungstraining, kurze Kündigungsfrist, Öffnung ab 6 Uhr\n3 nach der Kündigung → keine Bestätigung, zwei Abbuchungen, Kündigung angeblich nicht angekommen, E-Mail unbeantwortet\n4 Erwartung → 79,80 € zurück, schriftliche Bestätigung, Frist\n– Probleme beim Training (Leitpunkt 2) bewusst weggelassen: drei Punkte genügen.\nAufbau\nBetreff mit Mitgliedsnummer · Einstieg mit den Gründen für den Vertrag · Ablauf der Kündigung mit Daten und Beträgen · klare Forderung mit Frist · Grußformel\nRedemittel\nEntschieden habe ich mich für …, weil … · Stattdessen wurden … abgebucht. · Am Telefon hieß es, … · Daher erwarte ich, dass Sie … · Sollte ich bis zum … keine Antwort erhalten, werde ich …\nTypische Fehler: keine Daten und Beträge nennen · Wut statt Belegen · Forderung ohne Frist · die Gründe für den Vertrag (Leitpunkt 1) mit dem Ärger vermischen."
+    }
+   }
+  ]
+ },
+ "notes": "Checker artefacts (all verified): the PDF text layer of Modelltest 5 drops spaces at many line positions (about 130 glued tokens such as 'derStadt', 'mehrals', 'Wermit'); validate.py therefore lists them as 'only in PDF' and their split parts as 'only in JSON'. A separate check segmenting every PDF-only token into JSON words left only page furniture and the letter-spaced running headers (90, Minuten, ca, Leseverstehen, Sprachbausteine, Hörverstehen, Schriftlicher Ausdruck, Aufgabe A/B heading words, 'und' of the header line), and the reverse check found no JSON word missing from the PDF text except the letter-spaced headings GESCHICHTSPODCAST (info b) and MOSAIK (info e/f 'CAFÉ MOSAIK'), which the PDF extracts as single letters. Musterloesungen (p. 21-22): same glued-word artefact; the e-mails were checked against the page images. Decisions: Lesen Teil 2 is an article (kind 'article', no source line, 6 paragraphs, lead = the grey teaser line); the t2 instruction's '6–10' is printed with word joiners and was normalised to plain '6–10'. Lesen Teil 1 texts and Sprachbausteine/Lesen Teil 2 paragraphs checked on page images; headline b 'zufriedener machen' (PDF 'zufriedenermachen'). Info a: 'Di' as tag, 'AB 14. JANUAR' as header, '18–19.30 Uhr' as fact. Info j: signature 'Mareike Strobel' put into footer before 'Austauschverein Weltoffen'. Info f: decorative '· · ·' separator left out; footer printed in small caps, written in normal case. Info c drop-cap 'M' joined to 'oore'. Info e title written 'NACHRICHTEN, LANGSAM GESPROCHEN' (two lines). Hören t3 has no readNote printed (empty). Aufgabe A is a flyer (lead 'Sie haben folgenden Flyer in Ihrem Briefkasten gefunden:'), Aufgabe B an internet offer (header 'FITWERK · DEIN STUDIO IN DER INNENSTADT' as printed in the dark box, 'Fit werden ohne Wartezeit' as title). Model label from the first printed sentence under the heading without the sentence about the grey digits; model.notes holds the margin column. Model B starts lowercase 'im Februar' exactly as printed. Sb1/sb2 gap followed by comma or full stop written as '{{28}},' / '{{25}}.' without space. No design/deco fields set."
+}
