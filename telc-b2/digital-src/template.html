@@ -455,6 +455,7 @@ textarea.ed:focus{outline:none;border-color:var(--acc);box-shadow:0 0 0 3px var(
 .txs .tb:last-child{border-bottom:0;margin-bottom:0}
 .txs p,.doc p{margin:0 0 .75em}
 .art .iq{font-weight:700;color:var(--ink-2)}
+.art .who{font-weight:700;color:var(--ink)}
 .rh{font-size:.8em;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin:0 0 8px}
 .hlist{list-style:none;padding:0;margin:0 0 18px;border:1px solid var(--line);border-radius:6px;background:#f8f9fb}
 .hlist li{display:grid;grid-template-columns:26px minmax(0,1fr);gap:8px;padding:7px 12px;border-bottom:1px solid var(--line-2);line-height:1.4}
@@ -470,6 +471,7 @@ textarea.ed:focus{outline:none;border-color:var(--acc);box-shadow:0 0 0 3px var(
 .gapx:hover{background:#e3eaf4}
 .wbox{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:2px 14px;border:1px solid var(--line);border-radius:6px;background:#f8f9fb;padding:10px 14px;margin:0 0 18px;font-size:.92em}
 .wbox span{display:flex;gap:8px;padding:3px 0;letter-spacing:.03em}
+.wbox.w2{grid-template-columns:repeat(2,minmax(0,1fr))}
 .wbox span b{color:var(--ink-2);min-width:14px}
 .wbox span.used{color:#8a929d;text-decoration:line-through;text-decoration-color:#b4bbc4}
 .opts.row.w .opt{min-width:132px}
@@ -478,7 +480,7 @@ textarea.ed:focus{outline:none;border-color:var(--acc);box-shadow:0 0 0 3px var(
 .task ol,.task ul.pts{margin:.2em 0 .9em;padding-left:1.25em}
 .task .chl p{margin:0 0 .25em}
 .wc.low b{color:var(--warn)}
-@media (max-width:560px){.wbox{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:560px){.wbox{grid-template-columns:repeat(2,minmax(0,1fr))}.wbox.w2{grid-template-columns:minmax(0,1fr)}}
 
 /* ---------- footer ---------- */
 .foot{display:flex;align-items:center;gap:14px;min-height:60px;padding:8px 16px;background:#fff;border-top:1px solid var(--line);flex:none}
@@ -744,7 +746,7 @@ details summary{cursor:pointer;font-weight:700;font-size:14px;color:var(--acc-2)
     var body = (t.paragraphs || []).map(function (p) {
       if (typeof p === 'string') return '<p>' + esc(p) + '</p>';
       if (p.h) return '<h4 class="sh">' + esc(p.h) + '</h4>';
-      return '<p' + (p.q ? ' class="iq"' : '') + '>' + esc(p.text) + '</p>';
+      return '<p' + (p.q ? ' class="iq"' : '') + '>' + (p.who ? '<b class="who">' + esc(p.who) + ':</b> ' : '') + esc(p.text) + '</p>';
     }).join('');
     return '<article class="card art"><h3>' + esc(t.title) + '</h3>' + (t.lead ? '<p class="lead">' + esc(t.lead) + '</p>' : '') + body +
       (t.source ? '<p class="src">' + esc(t.source) + '</p>' : '') + '</article>';
@@ -757,7 +759,8 @@ details summary{cursor:pointer;font-weight:700;font-size:14px;color:var(--acc-2)
     }).join('');
   }
   function wboxHTML(words) {
-    return '<div class="wbox" id="wbox">' + L15.map(function (k) { return '<span data-k="' + k + '"><b>' + k + '</b>' + esc(words[k]) + '</span>'; }).join('') + '</div>';
+    var wide = L15.some(function (k) { return String(words[k] || '').length >= 10; });   // lange Woerter: 2 Spalten statt 3
+    return '<div class="wbox' + (wide ? ' w2' : '') + '" id="wbox">' + L15.map(function (k) { return '<span data-k="' + k + '"><b>' + k + '</b>' + esc(words[k]) + '</span>'; }).join('') + '</div>';
   }
 
   /* ---------- Anzeigen (Lesen Teil 3): Layouts ---------- */

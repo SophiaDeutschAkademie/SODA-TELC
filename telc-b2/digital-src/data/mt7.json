@@ -1,0 +1,816 @@
+{
+ "id": 7,
+ "roman": "VII",
+ "lesen": {
+  "t1": {
+   "instruction": "Lesen Sie zuerst die zehn Überschriften. Lesen Sie dann die fünf Texte und entscheiden Sie, welche Überschrift (a–j) am besten zu welchem Text (1–5) passt. Tragen Sie Ihre Lösungen in den Antwortbogen bei den Aufgaben 1–5 ein.",
+   "headlines": [
+    {
+     "letter": "a",
+     "text": "Ein gemütlicher Kick für die Generation 60 plus"
+    },
+    {
+     "letter": "b",
+     "text": "Gemeinsam laufen statt um die Wette"
+    },
+    {
+     "letter": "c",
+     "text": "Grüne Dächer sollen Wartende vor Hitze schützen"
+    },
+    {
+     "letter": "d",
+     "text": "Hier summt es jetzt über der Haltestelle"
+    },
+    {
+     "letter": "e",
+     "text": "Im Schritttempo zurück auf den Platz"
+    },
+    {
+     "letter": "f",
+     "text": "Jagd nach neuen Bestzeiten im Stadtwald"
+    },
+    {
+     "letter": "g",
+     "text": "Leise Laubbläser lösen das Problem"
+    },
+    {
+     "letter": "h",
+     "text": "Mehr Rechen, weniger Laubbläser im eigenen Garten"
+    },
+    {
+     "letter": "i",
+     "text": "Seit Jahrzehnten im Dienst der Vogelforschung"
+    },
+    {
+     "letter": "j",
+     "text": "Über das Vogelzählen zur Naturfotografie"
+    }
+   ],
+   "texts": [
+    {
+     "no": "1",
+     "paragraphs": [
+      "„Wer rennt, bekommt einen Freistoß gegen sich.“ Mit diesem Satz beginnt Bernd Ahlers jedes Training, und meistens lachen dann alle. Der 67-Jährige leitet bei einem Sportverein im Oldenburger Stadtteil Kreyenbrück eine Gruppe, die Gehfußball spielt. Die Regeln sind schnell erklärt: Ein Fuß muss immer den Boden berühren, Zweikämpfe mit Körperkontakt sind verboten, und der Ball soll flach bleiben – Kopfbälle gibt es nicht. „Am Anfang haben wir ständig gepfiffen, weil doch wieder einer losgerannt ist“, erzählt Ahlers. Gespielt wird auf einem kleinen Feld mit sechs Spielern pro Mannschaft. Das klingt nach einem gemütlichen Nachmittag, ist es aber nicht. Nach einer Stunde haben die Spieler oft mehrere Kilometer zurückgelegt, und mancher ist danach erschöpfter als früher nach einem Ligaspiel. Weil Sprints und harte Zweikämpfe fehlen, verletzt sich dagegen kaum jemand. Angefangen hat die Gruppe vor drei Jahren mit fünf Männern. Inzwischen kommen jeden Dienstag mehr als zwanzig, darunter drei Frauen; die meisten sind zwischen 60 und 80 Jahre alt. Viele hatten wegen Knie- oder Rückenproblemen jahrelang keinen Ball mehr berührt. „Ich dachte, Fußball ist für mich vorbei“, sagt Heiner Bruns, der mit 45 nach seiner dritten schweren Knieverletzung aufgehört hatte. Heute fehlt er bei keinem Training. Für Ahlers geht es dabei um mehr als Bewegung: Nach dem Spiel sitzt die Gruppe im Vereinsheim zusammen, und wer krank ist, bekommt Besuch. Im Juni will die Mannschaft zum ersten Mal bei einem Turnier in Osnabrück antreten."
+     ]
+    },
+    {
+     "no": "2",
+     "paragraphs": [
+      "Seit 31 Jahren steht Annegret Thien von September bis April einmal im Monat am Ufer des Zwischenahner Meeres, ein Fernglas um den Hals und ein Notizbuch in der Hand. An einem festgelegten Sonntag zählt die 72-Jährige, auch bei Regen und Frost, alle Wasservögel, die sie auf dem See entdeckt: Stockenten und Reiherenten, Haubentaucher, Blässhühner und Gänse. Ihre Zahlen fließen in eine bundesweite Zählung ein, an der sich Tausende Freiwillige beteiligen. Fachleute können daraus ablesen, wie sich die Bestände über Jahrzehnte entwickeln. Zur Vogelkunde kam die frühere Postbeamtin eher zufällig. Eigentlich suchte sie nach der Geburt ihres zweiten Kindes nur ein Hobby für die Wochenenden und begann, Landschaften am See zu fotografieren. Die Vögel auf ihren Bildern konnte sie nicht benennen, also kaufte sie sich ein Bestimmungsbuch. Bald interessierte sie das Fotografieren kaum noch; die Kamera liegt seit Jahren im Schrank. Heute erkennt sie über 40 Arten schon an ihrer Silhouette, auch aus großer Entfernung. In ihren Notizbüchern lässt sich nachlesen, wie sich der See verändert hat. „Früher lagen im Januar oft Tausende Gänse auf dem See, heute sind es selten mehr als ein paar Hundert“, erzählt sie. Dafür tauchen Arten auf, die es hier früher nicht gab. Seit zwei Jahren kommen zwei Biologiestudentinnen aus Oldenburg mit, denen sie ihr Wissen weitergibt. „Irgendwann muss jemand anderes zählen“, sagt Thien. „Aber hoffentlich noch nicht so bald.“"
+     ]
+    },
+    {
+     "no": "3",
+     "paragraphs": [
+      "Samstag, kurz vor neun im Eversten Holz. Rund 150 Menschen stehen an einer Linie aus Kreide auf dem Waldweg: Läuferinnen in bunten Trikots, ein Vater mit Kinderwagen, ein älterer Herr mit seinem Hund. Eine Frau in Warnweste steigt auf eine Bank. „Wer ist heute zum ersten Mal dabei?“, ruft sie. Ein Dutzend Hände geht nach oben, die anderen klatschen. Es ist kalt und windig, doch das stört hier niemanden. Dann geht es los: fünf Kilometer, zwei Runden durch den Wald. Den Samstagslauf gibt es seit vier Jahren, jede Woche und bei jedem Wetter. Er kostet nichts, eine Anmeldung vor Ort ist nicht nötig. Wer möchte, registriert sich einmal im Internet und bekommt einen Strichcode, mit dem im Ziel die Zeit erfasst wird. Die Ergebnisliste steht am Nachmittag online, doch für die meisten spielt sie kaum eine Rolle. „Das ist ein Lauf, kein Rennen“, sagt Kerstin Wübbenhorst, die die Veranstaltung mit zwei Freundinnen ins Leben gerufen hat. Tatsächlich geht etwa ein Viertel der Teilnehmenden die Strecke im Spaziertempo. Damit niemand allein als Letzter ins Ziel kommt, läuft jede Woche eine Freiwillige ganz am Ende mit. Überhaupt funktioniert hier nichts ohne Ehrenamtliche: Etwa zehn Helferinnen und Helfer stehen an den Abzweigungen, scannen die Strichcodes und bauen hinterher die Schilder ab. Wer regelmäßig mitläuft, übernimmt ein paarmal im Jahr selbst eine Aufgabe. Nach gut einer Stunde ist auch die letzte Gruppe im Ziel. Im Café am Waldrand ist samstags um zehn kaum ein Tisch frei. Ein Mann, der vor drei Jahren kaum einen Kilometer am Stück laufen konnte, hat inzwischen über hundert Samstagsläufe hinter sich. „Ohne diese Gruppe hätte ich längst aufgegeben“, sagt er."
+     ]
+    },
+    {
+     "no": "4",
+     "paragraphs": [
+      "Auf den Dächern von zwölf Bushaltestellen in Oldenburg wachsen seit dem Frühjahr Pflanzen. Die Verkehrsbetriebe haben die Wartehäuschen mit Fetthenne, Thymian und Wildblumen begrünt. Ziel ist es vor allem, Wildbienen, Schmetterlingen und anderen Insekten mitten in der Stadt Nahrung zu bieten. Außerdem speichern die Pflanzen Regenwasser und binden Staub. Weil sie nur flach wurzeln, reicht eine dünne Erdschicht, und die Dächer werden nicht zu schwer. Dass es an heißen Tagen unter den Dächern etwas kühler bleibt, ist ein willkommener Nebeneffekt. Gegossen werden müssen die Pflanzen nicht; zweimal im Jahr schneidet ein Gartenbaubetrieb sie zurück. Pro Haltestelle hat die Begrünung rund 3.000 Euro gekostet; bezahlt wurde sie aus einem Förderprogramm des Landes. Vorbild ist die niederländische Stadt Utrecht, wo es solche Haltestellen bereits zu Hunderten gibt. Erste Zählungen zeigen, dass die Dächer schon im ersten Sommer von mehr als 20 Bienenarten besucht wurden. Ob weitere Haltestellen folgen, entscheidet der Stadtrat im Herbst."
+     ]
+    },
+    {
+     "no": "5",
+     "paragraphs": [
+      "Jedes Jahr im Herbst beginnt in vielen Wohnstraßen dasselbe Konzert: Kaum liegen die ersten Blätter im Garten, heulen die Laubbläser los, gern schon am Samstagmorgen um acht. Manche Hausbesitzer pusten jedes einzelne Blatt vom Rasen, bis er aussieht wie ein Teppich. Es wird Zeit, sich zu fragen, wozu wir diese Geräte eigentlich brauchen. Zugegeben: Die neuen Akku-Geräte sind leiser als die alten Benziner, und sie stinken nicht. Das ist ein Fortschritt. Gelöst ist das Problem damit aber nicht. Denn jeder Laubbläser, ob mit Akku oder mit Benzin, wirbelt Staub und Pilzsporen auf, und mit dem Laub werden Käfer, Spinnen und andere Kleintiere fortgeblasen, die darin den Winter verbringen wollen. Für Stadtparks und lange Gehwege mögen die Geräte eine Hilfe sein. Im eigenen Vorgarten ist der Rechen dagegen kaum langsamer, er verbraucht keinen Strom, und er stört niemanden. Noch besser wäre es, einen Teil des Laubs einfach unter Hecken und Sträuchern liegen zu lassen. Dort zersetzt es sich bis zum Frühjahr und düngt den Boden. Ein Verbot braucht es dafür nicht. Es würde schon reichen, wenn mehr Gartenbesitzer ihren Laubbläser im Schuppen ließen. Die Nachbarn würden es ihnen danken – und die Amsel, die im Laub nach Futter sucht, ebenso."
+     ]
+    }
+   ],
+   "items": [
+    {
+     "no": "1",
+     "answer": "e"
+    },
+    {
+     "no": "2",
+     "answer": "i"
+    },
+    {
+     "no": "3",
+     "answer": "b"
+    },
+    {
+     "no": "4",
+     "answer": "d"
+    },
+    {
+     "no": "5",
+     "answer": "h"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Lesen Sie zuerst das Gespräch und lösen Sie dann die Aufgaben 6–10 zu dem Text.",
+   "kind": "interview",
+   "title": "Wie viel Lob tut Kindern gut?",
+   "lead": "„Super gemacht!“ – kaum ein Satz fällt in deutschen Familien so oft. Doch hilft das viele Lob den Kindern wirklich? Darüber diskutieren die Entwicklungspsychologin Ulrike Brinkmann und Jens Rademacher, der eine Grundschule in Oldenburg leitet.",
+   "paragraphs": [
+    {
+     "q": true,
+     "text": "Frau Brinkmann, Eltern loben ihre Kinder heute so viel wie keine Generation vor ihnen. Ist das ein Problem?"
+    },
+    {
+     "who": "Brinkmann",
+     "text": "Nicht die Menge ist das Problem, sondern die Art. Wer einem Kind ständig sagt, wie klug oder begabt es ist, tut ihm keinen Gefallen. In einer bekannten Studie aus den USA wählten Kinder, die für ihre Intelligenz gelobt worden waren, danach lieber leichte Aufgaben. Sie wollten ihr Bild vom klugen Kind nicht gefährden. Kinder, die man für ihre Mühe gelobt hatte, wagten sich dagegen an schwierigere Aufgaben."
+    },
+    {
+     "who": "Rademacher",
+     "text": "Das mag im Labor so sein. Im Schulalltag erlebe ich aber vor allem Kinder, die zu wenig Anerkennung bekommen, nicht zu viel. Wer zu Hause nie hört, dass ihm etwas gelungen ist, gibt bei der ersten Schwierigkeit auf. Gerade diese Kinder brauchen in der Schule viel Ermutigung."
+    },
+    {
+     "q": true,
+     "text": "Herr Rademacher, müssen Eltern also jedes Lob genau abwägen?"
+    },
+    {
+     "who": "Rademacher",
+     "text": "Davon halte ich wenig. Wenn meine Tochter mir ein Bild zeigt, sage ich ihr, dass es mir gefällt, und denke nicht lange über die richtige Formulierung nach. Kinder spüren sehr genau, ob man sich ehrlich freut. Das ist wichtiger als jede pädagogische Regel."
+    },
+    {
+     "who": "Brinkmann",
+     "text": "Da stimme ich zu: Ehrlichkeit ist entscheidend. Schwierig wird es erst, wenn das Lob übertrieben ist. Ein Kind, das für jedes Gekritzel hört, es habe das schönste Bild der Welt gemalt, merkt irgendwann, dass das nicht stimmen kann. Und ausgerechnet Kinder mit wenig Selbstvertrauen fühlen sich durch solche Übertreibungen eher unter Druck gesetzt als ermutigt."
+    },
+    {
+     "q": true,
+     "text": "An vielen Grundschulen gibt es Stempel oder Punkte für gutes Verhalten. Was halten Sie davon?"
+    },
+    {
+     "who": "Rademacher",
+     "text": "Wir haben die Stempelkarten an unserer Schule vor drei Jahren abgeschafft. Vorher haben die Kinder bei jeder Aufgabe zuerst gefragt, was sie dafür bekommen. Nur für den Ordnungsdienst in der Klasse gibt es noch Punkte – ohne sie hätte sich niemand mehr zum Fegen gemeldet."
+    },
+    {
+     "who": "Brinkmann",
+     "text": "Das passt zu dem, was wir aus der Forschung wissen. Wer für etwas belohnt wird, das ihm ohnehin Spaß macht, verliert oft das Interesse daran, sobald die Belohnung wegfällt. Bei unbeliebten Pflichten wie dem Fegen können Belohnungen dagegen durchaus helfen, zumindest für eine Weile."
+    },
+    {
+     "q": true,
+     "text": "Und wie steht es mit Kritik? Darf man einem Kind sagen, dass ihm etwas nicht gelungen ist?"
+    },
+    {
+     "who": "Brinkmann",
+     "text": "Unbedingt, solange man das Ergebnis kritisiert und nicht das Kind. „Dein Aufsatz ist noch zu kurz“ ist etwas ganz anderes als „Du kannst eben nicht schreiben“. Und man sollte dazusagen, wie es besser geht."
+    },
+    {
+     "who": "Rademacher",
+     "text": "Hier erlebe ich bei Eltern die größte Unsicherheit. Viele haben Angst, ihr Kind zu entmutigen, und sagen deshalb lieber gar nichts. Dabei wollen Kinder wissen, woran sie sind. Eine ehrliche Rückmeldung nehmen die meisten erstaunlich gelassen auf."
+    },
+    {
+     "q": true,
+     "text": "Was würden Sie Eltern zum Schluss mit auf den Weg geben?"
+    },
+    {
+     "who": "Rademacher",
+     "text": "Weniger bewerten, mehr nachfragen. Statt „Toll!“ zu sagen, kann man fragen: „Erzähl mal, wie bist du darauf gekommen?“ Dann merkt das Kind, dass man sich wirklich für seine Arbeit interessiert."
+    },
+    {
+     "who": "Brinkmann",
+     "text": "Und sie sollten mit sich selbst nicht so streng sein. Wer meistens ehrlich und aufmerksam reagiert, macht schon vieles richtig. Ein „Super!“ zu viel hat noch keinem Kind geschadet."
+    }
+   ],
+   "source": "",
+   "taskInstruction": "Lösen Sie die Aufgaben 6–10. Entscheiden Sie, welche Lösung (a, b oder c) richtig ist, und tragen Sie Ihre Lösung in den Antwortbogen bei den Aufgaben 6–10 ein.",
+   "items": [
+    {
+     "no": "6",
+     "stem": "Ulrike Brinkmann ist der Ansicht, dass",
+     "options": {
+      "a": "Lob für Begabung Kinder vorsichtiger machen kann.",
+      "b": "Eltern ihre Kinder heute grundsätzlich zu häufig loben.",
+      "c": "Lob für Anstrengung Kinder entmutigt."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "7",
+     "stem": "Jens Rademacher",
+     "options": {
+      "a": "erlebt in der Schule vor allem Kinder, die zu viel gelobt werden.",
+      "b": "beobachtet bei vielen Kindern einen Mangel an Bestätigung.",
+      "c": "wägt jedes Lob für seine Tochter ab."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "8",
+     "stem": "Übertriebenes Lob",
+     "options": {
+      "a": "fällt Kindern kaum auf.",
+      "b": "kann unsichere Kinder belasten.",
+      "c": "macht schüchterne Kinder mutiger."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "9",
+     "stem": "Belohnungen wie Stempel oder Punkte",
+     "options": {
+      "a": "gibt es an Rademachers Schule nicht mehr.",
+      "b": "sind nach Ansicht beider Gesprächspartner nutzlos.",
+      "c": "können die Freude an einer Sache mindern."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "10",
+     "stem": "Zum Schluss rät Jens Rademacher Eltern,",
+     "options": {
+      "a": "nach dem Vorgehen des Kindes zu fragen.",
+      "b": "Misserfolge des Kindes lieber nicht anzusprechen.",
+      "c": "Ergebnisse genauer zu bewerten."
+     },
+     "answer": "a"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Lesen Sie zuerst die zehn Situationen (11–20) und dann die zwölf Info-Texte (a–l). Welcher Info-Text passt zu welcher Situation? Sie können jeden Info-Text nur einmal verwenden. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 11–20. Manchmal gibt es keine Lösung. Markieren Sie dann x.",
+   "items": [
+    {
+     "no": "11",
+     "text": "Ein Bekannter möchte vom Nikotin loskommen.",
+     "answer": "b"
+    },
+    {
+     "no": "12",
+     "text": "Ein Kollege möchte helfen, sich aber nicht regelmäßig verpflichten.",
+     "answer": "k"
+    },
+    {
+     "no": "13",
+     "text": "Ihr Neffe (15) will sich engagieren, hat aber noch keine Idee.",
+     "answer": "c"
+    },
+    {
+     "no": "14",
+     "text": "Ihr Onkel (66) möchte Kranken regelmäßig Gesellschaft leisten.",
+     "answer": "a"
+    },
+    {
+     "no": "15",
+     "text": "Ihr Vater hat vom langen Sitzen oft Kreuzschmerzen.",
+     "answer": "l"
+    },
+    {
+     "no": "16",
+     "text": "Ihre Freundin fährt nicht Auto, will aber Senioren bei Besorgungen helfen.",
+     "answer": "x"
+    },
+    {
+     "no": "17",
+     "text": "Ihre Großmutter versteht beim Fernsehen kaum noch etwas.",
+     "answer": "j"
+    },
+    {
+     "no": "18",
+     "text": "Ihre Nachbarin will mit ihren Kindern Wildtiere retten.",
+     "answer": "g"
+    },
+    {
+     "no": "19",
+     "text": "Ihre schwangere Schwester will für Ernstfälle beim Baby gerüstet sein.",
+     "answer": "d"
+    },
+    {
+     "no": "20",
+     "text": "Ihre Tante betreut ihren Mann und sucht Menschen in ähnlicher Lage.",
+     "answer": "f"
+    }
+   ],
+   "infos": [
+    {
+     "letter": "a",
+     "header": "KLINIKUM DONNERSCHWEE",
+     "tag": "",
+     "title": "Zeit schenken am Krankenbett",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Viele unserer Patientinnen und Patienten bekommen nur selten Besuch. Als ehrenamtliche Begleiterin oder ehrenamtlicher Begleiter hören Sie ihnen zu, lesen aus der Zeitung vor, spielen eine Runde Karten oder gehen mit ihnen im Klinikpark spazieren. Pflegerische Aufgaben übernehmen Sie nicht. Wir suchen Menschen ab 18 Jahren, die einmal pro Woche zwei bis drei Stunden Zeit haben. Vor dem ersten Einsatz besuchen Sie einen kostenlosen Einführungskurs; danach treffen sich alle Ehrenamtlichen einmal im Monat zum Austausch."
+     ],
+     "footer": "Ansprechpartnerin: Elke Rüdebusch · Tel. 0441 / 40 33 12"
+    },
+    {
+     "letter": "b",
+     "header": "",
+     "tag": "",
+     "title": "RAUCHFREI IN SECHS WOCHEN",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Sie wollen endlich aufhören und haben es allein schon mehrmals versucht? In unserem Kurs erfahren Sie in einer kleinen Gruppe, was hinter Ihrer Gewohnheit steckt und wie Sie mit dem Verlangen nach einer Zigarette umgehen. Gemeinsam legen wir einen Tag fest, an dem alle aufhören, und begleiten Sie durch die schwierigen Wochen danach. Der Kurs umfasst sechs Abende und kostet 120 Euro; viele Krankenkassen erstatten einen großen Teil davon."
+     ],
+     "footer": "GESUNDHEITSZENTRUM AM PFERDEMARKT · TEL. 0441 / 21 08 64"
+    },
+    {
+     "letter": "c",
+     "header": "",
+     "tag": "",
+     "title": "WAS KANNST DU BEWEGEN?",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Du bist zwischen 14 und 17 und möchtest dich in deiner Freizeit für andere einsetzen, weißt aber noch nicht, wo? Wir stellen dir Projekte aus ganz Oldenburg vor: vom Tierheim über die Hausaufgabenhilfe bis zum Umweltverband. Im persönlichen Gespräch finden wir gemeinsam heraus, was zu dir passt. Danach kannst du zwei Projekte ausprobieren, bevor du dich entscheidest. Die Beratung ist kostenlos, und du kannst ohne Termin vorbeikommen."
+     ],
+     "footer": "Jugend-Freiwilligenagentur „Mitmachen!“ · Di und Do 15–18 Uhr · Haus der Jugend"
+    },
+    {
+     "letter": "d",
+     "header": "13. MÄRZ",
+     "tag": "Sa",
+     "title": "Erste Hilfe am Kind",
+     "subtitle": "",
+     "facts": [
+      "9–16 Uhr"
+     ],
+     "body": [
+      "Was tun, wenn sich ein Baby verschluckt, ein Kleinkind hohes Fieber bekommt oder vom Klettergerüst fällt? In diesem Kurs lernen Eltern, Großeltern und werdende Eltern, bei Säuglingen und Kindern in Notfällen richtig zu handeln. Eine erfahrene Kinderkrankenpflegerin zeigt die wichtigsten Handgriffe, die Sie anschließend an Übungspuppen selbst ausprobieren. Der Kurs dauert einen Tag und kostet 45 Euro pro Person, Paare zahlen zusammen 80 Euro."
+     ],
+     "footer": "Elternschule Osternburg · Anmeldung bis 5. März"
+    },
+    {
+     "letter": "e",
+     "header": "",
+     "tag": "",
+     "title": "Fahrerinnen und Fahrer gesucht",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Viele ältere Menschen in Eversten können nicht mehr selbst zum Einkaufen oder zum Arzt fahren. Unser Verein bringt sie mit einem Kleinbus zum Supermarkt, zur Apotheke oder in die Praxis und hilft beim Tragen der Taschen. Für diese Fahrten suchen wir ehrenamtliche Helferinnen und Helfer, die etwa einen Vormittag pro Woche Zeit haben. Voraussetzung ist ein gültiger Führerschein der Klasse B. Die Kosten für Benzin und Versicherung übernimmt der Verein."
+     ],
+     "footer": "Ingrid Oltmanns · Nachbarschaftshilfe Eversten e. V. · Tel. 0441 / 50 17 93"
+    },
+    {
+     "letter": "f",
+     "header": "SELBSTHILFE-KONTAKTSTELLE OLDENBURG",
+     "tag": "",
+     "title": "Atempause für Angehörige",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Sie versorgen zu Hause Ihren Partner, Ihre Mutter oder Ihren Vater und kommen dabei oft an Ihre Grenzen? In unserer Gesprächsgruppe treffen Sie Menschen, denen es genauso geht. Hier können Sie offen über Sorgen und Erschöpfung sprechen und sich gegenseitig Tipps geben, etwa zu Anträgen bei der Pflegekasse. Die Gruppe trifft sich jeden zweiten Donnerstag um 19 Uhr, die Teilnahme ist kostenlos. Wer in dieser Zeit jemanden für die gepflegte Person braucht, bekommt von uns Hilfe bei der Suche."
+     ],
+     "footer": "Kontakt: Tel. 0441 / 77 42 05"
+    },
+    {
+     "letter": "g",
+     "header": "",
+     "tag": "",
+     "title": "Kröten über die Straße helfen",
+     "subtitle": "Amphibienschutz am Bornhorster See",
+     "facts": [],
+     "body": [
+      "Jedes Frühjahr wandern Tausende Kröten, Frösche und Molche zu den Gewässern, in denen sie ihre Eier ablegen, und viele werden dabei überfahren. Deshalb stellen wir an der Straße am See einen Schutzzaun auf. Die Tiere fallen in Eimer, die wir morgens und abends einsammeln und auf der anderen Straßenseite ausleeren. Dafür suchen wir Helferinnen und Helfer, die von März bis April regelmäßig mitmachen. Familien sind herzlich willkommen; Kinder unter 16 Jahren kommen bitte in Begleitung eines Erwachsenen."
+     ],
+     "footer": "Umweltgruppe Bornhorst · Treffpunkt Parkplatz am See",
+     "design": "greyband"
+    },
+    {
+     "letter": "h",
+     "header": "",
+     "tag": "",
+     "title": "Gesundheitstag",
+     "subtitle": "MESSEN · BERATEN · INFORMIEREN",
+     "facts": [],
+     "body": [
+      "Am Sonntag, dem 18. April, verwandelt sich das Foyer des Rathauses in eine Gesundheitsmeile. Ärztinnen, Apotheker und Krankenkassen messen kostenlos Ihren Blutdruck, Ihren Blutzucker und Ihre Lungenfunktion; außerdem können Sie einen Sehtest machen. Hörtests können wir in diesem Jahr leider nicht anbieten. In kurzen Vorträgen geht es um gesunde Ernährung, Impfungen und den Umgang mit Stress. Eine Anmeldung ist nicht nötig."
+     ],
+     "footer": "Rathaus · 11–17 Uhr · Eintritt frei"
+    },
+    {
+     "letter": "i",
+     "header": "",
+     "tag": "EHRENAMT IM SPORT",
+     "title": "Trainerinnen und Trainer gesucht",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Für unsere Kinderturngruppen suchen wir Menschen, die Freude an der Arbeit mit Kindern haben. Sie leiten einmal pro Woche eine Gruppe, am Anfang gemeinsam mit einer erfahrenen Trainerin. Mitmachen kann jeder ab 16 Jahren. Die Ausbildung zur Übungsleiterin oder zum Übungsleiter bezahlt der Verein. Wir erwarten allerdings, dass Sie mindestens ein Jahr lang regelmäßig dabei sind. Für jede Trainingsstunde zahlen wir eine kleine Aufwandsentschädigung."
+     ],
+     "footer": "Sportverein Bürgerfelde · Tel. 0441 / 30 61 44"
+    },
+    {
+     "letter": "j",
+     "header": "",
+     "tag": "Kostenlos und unverbindlich",
+     "title": "Der Hörbus kommt",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Müssen Sie in Gesprächen oft nachfragen, und beschwert sich Ihre Familie, dass das Radio zu laut ist? Dann lassen Sie Ihr Gehör in unserem Hörbus testen. Im April steht er jeden Mittwoch vor einem anderen Einkaufszentrum der Stadt. Der Test dauert etwa 20 Minuten. Anschließend erklären wir Ihnen das Ergebnis und beraten Sie, ob ein Hörgerät sinnvoll ist. Wer möchte, kann verschiedene Geräte einige Wochen lang zu Hause ausprobieren."
+     ],
+     "footer": "Hörakustik Eilers · Tel. 0441 / 26 95 30"
+    },
+    {
+     "letter": "k",
+     "header": "",
+     "tag": "DIE STADT INFORMIERT",
+     "title": "Ein Sonntag für die Demokratie",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Für die Landtagswahl im Herbst sucht die Stadt noch Wahlhelferinnen und Wahlhelfer. Sie empfangen die Wählerinnen und Wähler im Wahllokal, prüfen die Wahlbenachrichtigungen, geben die Stimmzettel aus und zählen am Abend gemeinsam die Stimmen. Mitmachen kann jeder, der bei dieser Wahl selbst wählen darf. Der Einsatz beschränkt sich auf den Wahltag; vorher gibt es eine kurze Schulung. Als Dankeschön zahlt die Stadt ein Erfrischungsgeld von 50 Euro."
+     ],
+     "footer": "Wahlamt der Stadt Oldenburg · Tel. 0441 / 23 55 10"
+    },
+    {
+     "letter": "l",
+     "header": "",
+     "tag": "",
+     "title": "Starker Rücken",
+     "subtitle": "Ein Kurs für alle mit Schreibtischjob",
+     "facts": [],
+     "body": [
+      "Stundenlang am Bildschirm, abends auf dem Sofa – und dann tut alles weh? In unserem Kurs lernen Sie Übungen, die Ihre Muskulatur stärken und Verspannungen lösen. Außerdem zeigen wir Ihnen, wie Sie Ihren Arbeitsplatz richtig einrichten und im Arbeitsalltag zwischendurch in Bewegung bleiben. Der Kurs umfasst zehn Termine zu je 60 Minuten, jeweils montags um 18 Uhr. Die gesetzlichen Krankenkassen übernehmen in der Regel 80 Prozent der Kosten."
+     ],
+     "footer": "Physiotherapie Ziegelhof · Tel. 0441 / 92 04 18"
+    }
+   ]
+  },
+  "sb1": {
+   "instruction": "Lesen Sie den folgenden Text und entscheiden Sie, welches Wort (a, b oder c) in die jeweilige Lücke passt. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 21–30.",
+   "paragraphs": [
+    "Liebe Frau Steenken,",
+    "vielleicht wissen Sie noch, wer ich bin: Ich war bis zum Abitur 2007 in Ihrer Klasse und arbeite heute, {{21}} ich damals nie für möglich gehalten hätte, selbst als Lehrerin. In diesem Sommer ist unser Abitur zwanzig Jahre her, und das möchten wir mit einem Klassentreffen feiern. Die Organisation habe ich gemeinsam mit zwei ehemaligen Mitschülern übernommen.",
+    "Das Treffen findet am Samstag, dem 12. Juni, ab 18 Uhr im Restaurant „Hafenblick“ statt, {{22}} Terrasse direkt an der Hunte liegt. Am Nachmittag ist außerdem ein Rundgang durch unsere alte Schule geplant. Herr Diekmann, der damals Hausmeister war, hat sich sofort {{23}} bereit erklärt, uns durch das Gebäude zu führen. Dabei können wir auch die neue Mensa und die renovierte Turnhalle besichtigen.",
+    "Wir laden auch unsere früheren Lehrerinnen und Lehrer ein. {{24}} mehr von ihnen kommen, desto schöner wird der Abend für uns alle. Ich erinnere {{25}} noch gut an Ihre {{26}} Englischstunden und an unsere Klassenfahrt nach Krakau, auf der wir viel gelacht haben, {{27}} es fast jeden Tag geregnet hat. Viele von uns erzählen heute noch davon.",
+    "{{28}} der großen Entfernung können leider nicht alle aus unserer Klasse kommen; einige wohnen inzwischen im Ausland. Die Kosten für Ihr Essen {{29}} selbstverständlich aus unserer Klassenkasse bezahlt. Gern dürfen Sie auch eine Begleitung mitbringen. Es {{30}} schön, wenn Sie mir bis Ende April kurz Bescheid geben könnten.",
+    "Herzliche Grüße",
+    "Merle Gerdes"
+   ],
+   "items": [
+    {
+     "no": "21",
+     "options": {
+      "a": "das",
+      "b": "dass",
+      "c": "was"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "22",
+     "options": {
+      "a": "deren",
+      "b": "dessen",
+      "c": "denen"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "23",
+     "options": {
+      "a": "dazu",
+      "b": "damit",
+      "c": "daran"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "24",
+     "options": {
+      "a": "Umso",
+      "b": "Wie",
+      "c": "Je"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "25",
+     "options": {
+      "a": "mich",
+      "b": "mir",
+      "c": "sich"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "26",
+     "options": {
+      "a": "lebendige",
+      "b": "lebendigen",
+      "c": "lebendiger"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "27",
+     "options": {
+      "a": "dennoch",
+      "b": "obwohl",
+      "c": "damit"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "28",
+     "options": {
+      "a": "Trotz",
+      "b": "Statt",
+      "c": "Wegen"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "29",
+     "options": {
+      "a": "werden",
+      "b": "wird",
+      "c": "worden"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "30",
+     "options": {
+      "a": "würde",
+      "b": "wäre",
+      "c": "hätte"
+     },
+     "answer": "b"
+    }
+   ]
+  },
+  "sb2": {
+   "instruction": "Lesen Sie den folgenden Text und entscheiden Sie, welches Wort aus dem Kasten (a–o) in die Lücken 31–40 passt. Sie können jedes Wort im Kasten nur einmal verwenden. Nicht alle Wörter passen in den Text. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 31–40.",
+   "title": "Zweimal im Jahr an der Uhr drehen",
+   "paragraphs": [
+    "Ende März eine Stunde vor, Ende Oktober eine Stunde zurück: Die Zeitumstellung {{31}} für viele Menschen so selbstverständlich zum Jahr wie Ostern und Weihnachten. Dabei ist sie jünger, als viele glauben. In Deutschland wurde die Sommerzeit zum ersten Mal 1916 eingeführt, mitten im Ersten Weltkrieg. Man wollte das Tageslicht besser {{32}} und so Kohle für die Beleuchtung sparen. Nach dem Krieg schaffte man sie wieder ab, und auch später galt sie nur {{33}}.",
+    "Die heutige Regelung gibt es in Deutschland erst seit 1980. Nach der Ölkrise der Siebzigerjahre hoffte man, auf diese Weise Energie zu sparen. Diese Hoffnung hat sich allerdings kaum {{34}}: Zwar braucht man abends weniger Licht, dafür wird morgens mehr geheizt. Seit 1996 stellen alle Länder der Europäischen Union ihre Uhren am selben Tag um.",
+    "Viele Menschen haben mit der Umstellung {{35}}. Besonders im Frühjahr fühlen sie sich tagelang müde und unkonzentriert, als hätten sie einen kleinen Jetlag. Kinder brauchen oft eine ganze Woche, bis sie wieder ausgeschlafen in die Schule kommen. Auch Landwirte klagen: Ihre Kühe {{36}} sich nicht nach der Uhr und wollen zur gewohnten Zeit gemolken werden.",
+    "2018 fragte die EU-Kommission die Bürgerinnen und Bürger nach ihrer Meinung. Rund 4,6 Millionen Menschen nahmen an der Online-Umfrage teil, so viele wie noch nie bei einer solchen {{37}}. 84 Prozent sprachen sich dafür aus, die Zeitumstellung abzuschaffen, und ein Jahr später stimmte auch das Europäische Parlament dafür. Seitdem ist jedoch wenig {{38}}. Die Mitgliedstaaten konnten sich nicht einigen, ob dauerhaft die Sommer- oder die Winterzeit gelten soll. Manche fürchten außerdem einen {{39}} aus verschiedenen Zeitzonen mitten in Europa. Bis auf Weiteres heißt es also: zweimal im Jahr die Uhren umstellen und dem eigenen Körper ein paar Tage {{40}} gönnen."
+   ],
+   "words": {
+    "a": "BEFRAGUNG",
+    "b": "BELEUCHTEN",
+    "c": "DAUERHAFT",
+    "d": "ERFÜLLT",
+    "e": "FLICKENTEPPICH",
+    "f": "GEHÖRT",
+    "g": "GESCHEHEN",
+    "h": "GILT",
+    "i": "HALTEN",
+    "j": "NUTZEN",
+    "k": "RICHTEN",
+    "l": "RUHE",
+    "m": "SCHWIERIGKEITEN",
+    "n": "STREIT",
+    "o": "VORÜBERGEHEND"
+   },
+   "items": [
+    {
+     "no": "31",
+     "answer": "f"
+    },
+    {
+     "no": "32",
+     "answer": "j"
+    },
+    {
+     "no": "33",
+     "answer": "o"
+    },
+    {
+     "no": "34",
+     "answer": "d"
+    },
+    {
+     "no": "35",
+     "answer": "m"
+    },
+    {
+     "no": "36",
+     "answer": "k"
+    },
+    {
+     "no": "37",
+     "answer": "a"
+    },
+    {
+     "no": "38",
+     "answer": "g"
+    },
+    {
+     "no": "39",
+     "answer": "e"
+    },
+    {
+     "no": "40",
+     "answer": "l"
+    }
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören nun eine Nachrichtensendung. Dazu sollen Sie fünf Aufgaben lösen. Sie hören die Nachrichtensendung nur einmal. Entscheiden Sie beim Hören, ob die Aussagen 41–45 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 41–45. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 41–45. Sie haben dazu 30 Sekunden Zeit.",
+   "items": [
+    {
+     "no": "41",
+     "text": "Wer seinen Leihroller in der Innenstadt falsch abstellt, muss weiter bezahlen.",
+     "answer": "R"
+    },
+    {
+     "no": "42",
+     "text": "Im Handwerk haben in diesem Jahr 15 Jugendliche mehr eine Ausbildung begonnen als im Vorjahr.",
+     "answer": "F"
+    },
+    {
+     "no": "43",
+     "text": "Für die Eissportler soll in den nächsten Jahren eine neue Halle gebaut werden.",
+     "answer": "F"
+    },
+    {
+     "no": "44",
+     "text": "Seit Jahresbeginn ist die Zahl der Unfälle gestiegen, die der Fahrradunfälle aber gesunken.",
+     "answer": "R"
+    },
+    {
+     "no": "45",
+     "text": "Gegen den Spitzenreiter haben die Volleyballerinnen ohne große Mühe gewonnen.",
+     "answer": "F"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören ein Rundfunk-Interview. Dazu sollen Sie zehn Aufgaben lösen. Sie hören dieses Interview nur einmal. Entscheiden Sie beim Hören, ob die Aussagen 46–55 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 46–55. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 46–55. Sie haben dazu 60 Sekunden Zeit.",
+   "items": [
+    {
+     "no": "46",
+     "text": "Laut Frau Frerichs hat die Pandemie den Brettspiel-Boom ausgelöst.",
+     "answer": "F"
+    },
+    {
+     "no": "47",
+     "text": "Im Englischen sind bestimmte Spiele nach Deutschland benannt.",
+     "answer": "R"
+    },
+    {
+     "no": "48",
+     "text": "Heute kaufen vor allem Erwachsene Spiele für Abende mit Freunden.",
+     "answer": "R"
+    },
+    {
+     "no": "49",
+     "text": "Bei kooperativen Spielen will jeder die anderen übertreffen.",
+     "answer": "F"
+    },
+    {
+     "no": "50",
+     "text": "Ob Ältere durch das Spielen an sich geistig fit bleiben, ist noch unklar.",
+     "answer": "R"
+    },
+    {
+     "no": "51",
+     "text": "Junge Leute verlieren wegen digitaler Spiele das Interesse an Brettspielen.",
+     "answer": "F"
+    },
+    {
+     "no": "52",
+     "text": "Die meisten neuen Spiele sind jahrelang im Handel erhältlich.",
+     "answer": "F"
+    },
+    {
+     "no": "53",
+     "text": "In Spielecafés kann man sich die Regeln erklären lassen.",
+     "answer": "R"
+    },
+    {
+     "no": "54",
+     "text": "Ein gutes Spiel dauert für Frau Frerichs höchstens zehn Minuten.",
+     "answer": "F"
+    },
+    {
+     "no": "55",
+     "text": "Privat spielt Frau Frerichs seltener, als man vermuten könnte.",
+     "answer": "R"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören jetzt fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. Sie hören diese Ansagen nur einmal. Entscheiden Sie beim Hören, ob die Aussagen 56–60 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 56–60. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+   "readNote": "",
+   "items": [
+    {
+     "no": "56",
+     "text": "Wer mit dem Auto zum Hoffest kommt, kann es wie sonst direkt am Hof abstellen.",
+     "answer": "F"
+    },
+    {
+     "no": "57",
+     "text": "Wer nicht in der Warteschleife bleiben will, kann sich vom Kundenservice zurückrufen lassen.",
+     "answer": "R"
+    },
+    {
+     "no": "58",
+     "text": "Wegen des Gewitters sollen die Besucherinnen und Besucher den Tierpark so schnell wie möglich verlassen.",
+     "answer": "F"
+    },
+    {
+     "no": "59",
+     "text": "Für das Mittagessen in Lübeck müssen die Reisenden nichts zusätzlich zum Reisepreis bezahlen.",
+     "answer": "R"
+    },
+    {
+     "no": "60",
+     "text": "Okan will für das Mitnehmen kein Geld, freut sich aber über eine kleine Aufmerksamkeit.",
+     "answer": "R"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "intro": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Entscheiden Sie schnell, denn die zur Verfügung stehende Zeit ist begrenzt auf 30 Minuten!",
+  "tasks": [
+   {
+    "letter": "A",
+    "kind": "Bitte um Informationen",
+    "lead": "Sie haben in einem Stadtmagazin folgende Anzeige gelesen:",
+    "ad": {
+     "header": "Feldfrisch",
+     "tag": "GEMÜSE IM ABO",
+     "title": "Frisch vom Hof bis an Ihre Haustür",
+     "subtitle": "",
+     "facts": [
+      "drei Kistengrößen für 1 bis 5 Personen",
+      "Lieferung dienstags oder freitags",
+      "alles aus ökologischem Anbau",
+      "Probekiste zum halben Preis",
+      "jederzeit pausieren oder kündigen"
+     ],
+     "body": [
+      "Regelmäßig eine Kiste mit Obst und Gemüse aus der Region – am Vortag geerntet und direkt zu Ihnen geliefert. Sie entscheiden, wie groß die Kiste ist und wie oft sie kommt."
+     ],
+     "footer": "Jetzt Probekiste bestellen! · info@feldfrisch-kiste.de"
+    },
+    "situation": [
+     "Sie interessieren sich für eine Gemüsekiste von Feldfrisch, haben aber vor der Bestellung noch einige Fragen. Schreiben Sie eine E-Mail an Feldfrisch."
+    ],
+    "choice": [
+     "Behandeln Sie darin entweder",
+     "a) drei der folgenden Punkte oder",
+     "b) zwei der folgenden Punkte und einen weiteren Aspekt Ihrer Wahl."
+    ],
+    "points": [
+     "Beschreiben Sie, für wie viele Personen Sie die Kiste brauchen und was Sie gern essen.",
+     "Fragen Sie, ob man einzelne Produkte aus der Kiste austauschen kann.",
+     "Erkundigen Sie sich, was passiert, wenn bei der Lieferung niemand zu Hause ist.",
+     "Bitten Sie um eine Übersicht über die Preise der einzelnen Kistengrößen."
+    ],
+    "closing": "Überlegen Sie sich vor dem Schreiben eine passende Reihenfolge der Punkte, einen passenden Betreff, eine passende Anrede, Einleitung und einen passenden Schluss. Schreiben Sie mindestens 150 Wörter.",
+    "words": 150,
+    "model": {
+     "label": "Beispiel für Variante b): zwei Leitpunkte und ein eigener Aspekt (ca. 160 Wörter)",
+     "text": "Betreff: Fragen zu Ihrer Gemüsekiste\n\nSehr geehrte Damen und Herren,\n\nin einem Stadtmagazin habe ich Ihre Anzeige gelesen. Ein Kollege bekommt Ihre Kiste schon seit einem Jahr und ist sehr zufrieden. Bevor ich eine Probekiste bestelle, habe ich aber noch einige Fragen.\n\nWir sind eine Familie mit zwei Kindern im Grundschulalter. Bei uns kommt viel Gemüse auf den Tisch, vor allem Möhren, Paprika und Kürbis, und die Kinder essen jeden Tag Äpfel. Welche Kistengröße würden Sie uns empfehlen?\n\nDa mein Mann und ich berufstätig sind, ist tagsüber niemand zu Hause. Was passiert in diesem Fall mit der Lieferung? Darf Ihr Fahrer die Kiste vor der Haustür abstellen, oder könnte er sie bei unseren Nachbarn abgeben?\n\nAußerdem wüsste ich gern, ob Sie das Gemüse ohne Plastikverpackung liefern. Nehmen Sie die leeren Kisten bei der nächsten Lieferung wieder mit, oder müssen wir sie selbst zurückbringen?\n\nFür Ihre Antwort danke ich Ihnen schon jetzt.\n\nMit freundlichen Grüßen\nAna Ribeiro",
+     "notes": "Leitpunkte\n1 Personen und Vorlieben → Familie mit zwei Kindern, Lieblingsgemüse, Frage nach der Kistengröße\n3 niemand zu Hause → beide berufstätig, Haustür oder Nachbarn\n+ eigener Aspekt → Verpackung und Rücknahme der leeren Kisten\n– Austausch (Leitpunkt 2) und Preise (Leitpunkt 4) bewusst weggelassen.\nAufbau\nBetreff · förmliche Anrede · Anzeige und Empfehlung eines Kollegen als Anlass · zwei Leitpunkte · eigener Aspekt · Dank · Gruß\nBewertung\nI Berücksichtigung der Leitpunkte: zwei Leitpunkte und ein eigener Aspekt, jeder mit Einzelheiten und einer konkreten Frage.\nII Kommunikative Gestaltung: höfliche Fragen im Konjunktiv II (würden Sie uns empfehlen, wüsste ich gern, könnte er), Verknüpfungen wie da, außerdem, oder.\nIII Formale Richtigkeit: Fehler dürfen das Verständnis nicht beeinträchtigen.\nTypische Fehler: eigener Aspekt, der nur einen Leitpunkt wiederholt (etwa die Preise) · Fragen ohne Bezug zur eigenen Situation · Bestellung statt Anfrage · unter 150 Wörtern bleiben."
+    }
+   },
+   {
+    "letter": "B",
+    "kind": "Beschwerde",
+    "lead": "Sie haben im Schaufenster eines Fotostudios folgendes Plakat gesehen:",
+    "ad": {
+     "header": "FOTOSTUDIO BILDSCHÖN · DER ERSTE EINDRUCK ZÄHLT",
+     "tag": "",
+     "title": "Bewerbungsfotos, die überzeugen",
+     "subtitle": "",
+     "facts": [
+      "Fototermin ohne Wartezeit",
+      "Bildbearbeitung inklusive",
+      "alle Fotos auch als Datei",
+      "Paket mit 4 Fotos für 49 Euro",
+      "Geld zurück, wenn Ihnen kein Bild gefällt"
+     ],
+     "body": [
+      "Professionelle Fotos in entspannter Atmosphäre, mit persönlicher Beratung zu Kleidung und Hintergrund. Ihre Bilder erhalten Sie schon am nächsten Tag."
+     ],
+     "footer": "Fotostudio Bildschön · Termine online · service@fotostudio-bildschoen.de"
+    },
+    "situation": [
+     "Sie haben bei Bildschön Bewerbungsfotos machen lassen. Beim Termin und bei den fertigen Fotos lief jedoch einiges schief. Schreiben Sie eine Beschwerde an das Fotostudio."
+    ],
+    "choice": [
+     "Behandeln Sie darin entweder",
+     "a) drei der folgenden Punkte oder",
+     "b) zwei der folgenden Punkte und einen weiteren Aspekt Ihrer Wahl."
+    ],
+    "points": [
+     "Beschreiben Sie, warum Sie sich für dieses Fotostudio entschieden haben.",
+     "Schildern Sie, was bei Ihrem Termin anders war als angekündigt.",
+     "Beschreiben Sie, welche Probleme es mit den fertigen Fotos gab.",
+     "Machen Sie einen Vorschlag, wie das Studio den Fehler wiedergutmachen kann."
+    ],
+    "closing": "Überlegen Sie sich vor dem Schreiben eine passende Reihenfolge der Punkte, einen passenden Betreff, eine passende Anrede, Einleitung und einen passenden Schluss. Schreiben Sie mindestens 150 Wörter.",
+    "words": 150,
+    "model": {
+     "label": "Beispiel für Variante a): drei der vier Leitpunkte (ca. 160 Wörter)",
+     "text": "Betreff: Beschwerde über meinen Fototermin am 3. März\n\nSehr geehrte Damen und Herren,\n\nam 3. März habe ich in Ihrem Studio Bewerbungsfotos machen lassen; den Termin hatte ich zwei Wochen vorher online gebucht. Leider hat Ihr Service fast nichts von dem gehalten, was Ihr Plakat verspricht.\n\nObwohl ich pünktlich um 10 Uhr da war, musste ich über 40 Minuten warten – dabei verspricht Ihr Plakat einen Fototermin ohne Wartezeit. Die angekündigte Beratung zu Kleidung und Hintergrund fand gar nicht statt; der Fotograf hatte es offensichtlich eilig.\n\nDie Fotos habe ich erst nach fünf Tagen bekommen, und zwar nur ausgedruckt, nicht als Datei. Außerdem ist der Hintergrund auf zwei der vier Bilder fleckig. Weil die Bewerbungsfrist schon vorher endete, musste ich ein altes Foto verwenden.\n\nIch schlage vor, dass Sie mir die Dateien bis Ende dieser Woche per E-Mail schicken und mir die Hälfte des Preises, also 24,50 Euro, erstatten. Andernfalls lasse ich mich von der Verbraucherzentrale beraten.\n\nMit freundlichen Grüßen\nViktor Lehmann",
+     "notes": "Leitpunkte\n2 Termin → 40 Minuten Wartezeit trotz „ohne Wartezeit“, keine Beratung\n3 Fotos → fünf Tage zu spät, keine Dateien, Hintergrund fleckig, Folge für die Bewerbung\n4 Vorschlag → Dateien mit Frist, Hälfte des Preises zurück\n– Grund für die Wahl des Studios (Leitpunkt 1) weggelassen; der Anlass steht nur im Einstieg.\nAufbau\nBetreff mit Datum · Anlass und Kernvorwurf im Einstieg · Mängel beim Termin · Mängel bei den Fotos mit Folge · Lösungsvorschlag mit Betrag, Frist und Hinweis auf die Verbraucherzentrale · Gruß\nRedemittel\nLeider hat Ihr Service fast nichts von dem gehalten, was … · Obwohl ich pünktlich … war, musste ich … – dabei verspricht … · Die angekündigte … fand gar nicht statt · Ich schlage vor, dass Sie … · Andernfalls …\nTypische Fehler: Mängel ohne Zeit- und Mengenangaben · Vorwürfe ohne Bezug zur Anzeige · Vorschlag ohne Betrag oder Frist · Drohungen statt eines sachlichen Hinweises."
+    }
+   }
+  ]
+ },
+ "notes": ""
+}

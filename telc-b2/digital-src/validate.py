@@ -143,6 +143,8 @@ def check_structure(d, n):
                 err(f"lesen.t2.paragraphs[{i}]: bei interview Objekt mit 'text' erwartet")
             else:
                 check_text(p["text"], f"lesen.t2.paragraphs[{i}]")
+                if "who" in p and not is_str(p["who"]):
+                    err(f"lesen.t2.paragraphs[{i}].who: Text erwartet")
         elif isinstance(p, dict) and set(p) == {"h"}:
             check_text(p["h"], f"lesen.t2.paragraphs[{i}].h")  # Zwischenueberschrift im Artikel
         else:
