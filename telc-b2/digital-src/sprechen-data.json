@@ -1,0 +1,968 @@
+{
+ "title": "말하기 시험 대비 가이드",
+ "eyebrow": "telc Deutsch B2 · Mündlicher Ausdruck",
+ "lead": "말하기 시험은 파트너와 함께 보는 세 개의 Teil로 이루어집니다. 시험 구조와 채점 방식, 준비 방법, Teil별 진행과 표현, 모범 대화 14편, 막힐 때 쓰는 표현, 필수 문법을 정리했습니다.",
+ "closing": "Sprich mit deinem Partner, nicht mit dem Zettel – das ist der ganze Trick.",
+ "sources_title": "근거 자료",
+ "sources": [
+  [
+   "telc Deutsch B2, Lernzielbeschreibung (Prüfungsformat, Bewertungskriterien, Punkte, Bestehen)",
+   "https://www.dsh-germany.com/_downloads/certificates/telc/pdf/telc-deutsch-b2-lernzielbeschreibung.pdf"
+  ],
+  [
+   "이 앱의 telc B2 Modelltest 7 (Mündlicher Ausdruck 17–19쪽, 모범 대화와 „Worauf die Prüfenden achten“ 23쪽). SODA의 연습 자료이며 telc 본사의 공식 자료가 아닙니다",
+   "telc%20B2%20Modelltest%207.pdf#page=17"
+  ]
+ ],
+ "overview": {
+  "id": "uebersicht",
+  "title": "시험 한눈에 보기",
+  "rows": [
+   [
+    "형태",
+    "파트너 시험입니다. 응시자가 두 명이면 둘이 함께 보고, 세 명이면 셋이 함께 봅니다(이 앱의 과제지에 Teilnehmer/in A/B/(C)로 표시됩니다)."
+   ],
+   [
+    "시간",
+    "약 15분입니다. 세 명이 함께 보면 약 25분으로 길어집니다(telc 공식 Lernzielbeschreibung)."
+   ],
+   [
+    "준비",
+    "이 앱의 Modelltest는 준비 시간을 20분으로 안내합니다. 공식 Lernzielbeschreibung에서는 준비 시간을 확인하지 못했습니다. 준비 시간과 메모 가능 여부는 시험 센터의 안내를 따르세요."
+   ],
+   [
+    "도입",
+    "시험 첫머리의 Einander kennenlernen(서로 소개)은 이 앱의 Modelltest 7 기준으로 채점하지 않습니다."
+   ],
+   [
+    "Teil 1",
+    "Präsentation(발표)입니다. 이 앱의 Modelltest는 „Über Erfahrungen sprechen(경험 말하기)“로 표기합니다. 7개 주제 중 하나를 골라 약 1분 30초 동안 말하고, 파트너의 질문에 답합니다."
+   ],
+   [
+    "Teil 2",
+    "Diskussion(토론)입니다. 읽은 글의 내용을 소개하고, 의견과 경험을 말하고, 해결책을 이야기합니다."
+   ],
+   [
+    "Teil 3",
+    "Problemlösung(문제 해결)입니다. 이 앱의 Modelltest는 „Gemeinsam etwas planen(함께 계획하기)“로 표기합니다. 상황을 읽고 파트너와 계획을 세웁니다."
+   ],
+   [
+    "배점",
+    "Teil마다 25점이고 합계 75점입니다. 전체 300점의 25%입니다."
+   ],
+   [
+    "합격",
+    "구술 75점 중 45점(60%)이고, 필기 225점 중 135점과 따로 충족해야 합니다. 서로 보완할 수 없습니다."
+   ]
+  ]
+ },
+ "diff": {
+  "title": "Goethe B2와 달라지는 점",
+  "text": "Goethe B2 말하기는 발표와 토론의 두 부분입니다. telc B2는 세 부분(경험 발표, 토론, 함께 계획하기)이고, 모두 파트너와 함께 보며 부분마다 25점으로 같은 비중입니다. 세 번째 부분에서 합의를 만들어 가는 연습이 따로 필요합니다."
+ },
+ "scoring": {
+  "id": "bewertung",
+  "title": "채점 방식",
+  "intro": "Teil마다 네 가지 기준으로 평가합니다. 각 기준의 점수는 telc 공식 Lernzielbeschreibung에서 확인했습니다.",
+  "head": [
+   "기준",
+   "보는 것",
+   "점수 (A · B · C · D)"
+  ],
+  "criteria": [
+   [
+    "Ⅰ. Ausdrucksfähigkeit (표현력)",
+    "어휘의 폭, 표현의 다양성, 하려는 말을 전달하는 능력을 봅니다.",
+    "7 · 5 · 3 · 0"
+   ],
+   [
+    "Ⅱ. Aufgabenbewältigung (과제 수행)",
+    "과제가 요구한 것을 다뤘는지, 대화에 참여하고 파트너에게 반응하는지 봅니다.",
+    "7 · 5 · 3 · 0"
+   ],
+   [
+    "Ⅲ. Formale Richtigkeit (형식적 정확성)",
+    "문장 구조와 어형 변화의 정확성을 봅니다. B2에서는 단순한 문장만으로는 부족합니다.",
+    "7 · 5 · 3 · 0"
+   ],
+   [
+    "Ⅳ. Aussprache und Intonation (발음·억양)",
+    "이해를 방해하지 않는 발음과 자연스러운 억양을 봅니다.",
+    "4 · 2 · 1 · 0"
+   ]
+  ],
+  "sum_note": "네 기준의 최고점을 더하면 7+7+7+4=25점이고, 세 Teil을 합하면 75점입니다.",
+  "rules_title": "채점에서 알아 둘 것",
+  "rules": [
+   "시험관 두 명이 응시자의 말하기 능력을 독립적으로 평가합니다(telc 공식 Lernzielbeschreibung). 응시자는 각자 평가됩니다.",
+   "이 앱 Modelltest 7의 „Worauf die Prüfenden achten“ 안내는 Teil 1에서 약 1분 30초 동안 자유롭고 구조적으로 말하고, 평가를 이유와 함께 말하고, 그 뒤 질문하고 답하는 것을 봅니다.",
+   "같은 안내는 Teil 2에서 글을 1분 이내로 소개하고, 자기 논거와 경험을 말하고, 파트너에게 반응하고, 해결책을 찾는 것을 봅니다.",
+   "같은 안내는 Teil 3에서 제안하고 이유를 대고, 제안에 반응하고, 일을 나누고, 결과를 정리하는 것을 봅니다.",
+   "발음·억양은 4점으로 비중이 가장 작습니다. 완벽한 발음보다 이해되는 말하기를 목표로 하세요."
+  ]
+ },
+ "strategy": {
+  "id": "strategie",
+  "title": "점수 전략",
+  "intro": "합격선 45점은 Teil당 평균 15점입니다. 네 기준에서 B만 받아도 5+5+5+2=17점이라 세 Teil 합계 51점입니다. 발음이 C(1점)여도 나머지가 B이면 Teil당 16점, 합계 48점으로 합격합니다. 발음 걱정으로 위축될 이유가 없습니다.",
+  "tips": [
+   [
+    "①",
+    "과제 수행(Aufgabenbewältigung)에서 높은 등급을 노립니다. 과제가 요구한 것을 빠짐없이 다루고, 상대의 말에 반응하면 됩니다. 어학 실력보다 준비로 결정되는 기준입니다."
+   ],
+   [
+    "②",
+    "Teil 1은 구조를 외워 두고 안정적으로 합니다. 도입 · 본문 · 평가 · 마무리 4단 공식을 쓰면 주제가 바뀌어도 같은 틀로 말할 수 있습니다."
+   ],
+   [
+    "③",
+    "세 Teil이 따로 채점되므로 한 Teil이 약해도 다른 Teil로 보완됩니다. Teil 2가 13점이어도 Teil 1과 Teil 3에서 16점씩 받으면 45점입니다."
+   ]
+  ],
+  "sim_head": [
+   "유형",
+   "Teil 1",
+   "Teil 2",
+   "Teil 3",
+   "합계",
+   "결과"
+  ],
+  "sim": [
+   [
+    "모든 기준 B",
+    "17",
+    "17",
+    "17",
+    "51",
+    "합격"
+   ],
+   [
+    "발음만 C, 나머지 B",
+    "16",
+    "16",
+    "16",
+    "48",
+    "합격"
+   ],
+   [
+    "Teil 2만 약함",
+    "16",
+    "13",
+    "16",
+    "45",
+    "합격선"
+   ],
+   [
+    "Teil 2·3이 약함",
+    "17",
+    "12",
+    "12",
+    "41",
+    "불합격"
+   ],
+   [
+    "모든 기준 C",
+    "10",
+    "10",
+    "10",
+    "30",
+    "불합격"
+   ]
+  ],
+  "sim_note": "점수 구조를 이해하기 위한 예시이고, 실제 점수는 평가에 따라 달라집니다."
+ },
+ "steps": {
+  "id": "vorbereitung",
+  "title": "20분 준비 시간 활용법",
+  "intro": "이 앱의 Modelltest는 준비 시간 20분을 안내합니다. 아래 배분은 SODA의 권장안입니다. 준비 시간에 어떤 자료를 받는지는 시험 센터의 안내를 따릅니다.",
+  "head": [
+   "시간",
+   "할 일"
+  ],
+  "rows": [
+   [
+    "0~5분",
+    "Teil 1: 7개 주제 중 하나를 고르고, 키워드 6~8개만 적습니다."
+   ],
+   [
+    "5~13분",
+    "Teil 2: 글을 두 번 읽고, 소개용 한 문장 · 찬성 논거 2개 · 반대 논거 2개 · 내 경험 1개 · 해결책 1개를 키워드로 적습니다."
+   ],
+   [
+    "13~18분",
+    "Teil 3: 상황을 읽고 정해야 할 항목을 목록으로 만든 뒤, 항목마다 제안 1개와 대안 1개를 적습니다."
+   ],
+   [
+    "18~20분",
+    "각 Teil의 첫 문장과 마지막 문장만 다시 확인합니다."
+   ]
+  ],
+  "warn": "완성된 문장을 적지 마세요. 문장이 보이면 눈이 읽게 되고, 읽는 말투는 자연스러운 대화로 들리지 않습니다. 명사와 동사 키워드만 적습니다."
+ },
+ "plan": {
+  "id": "plan",
+  "title": "준비 4단계",
+  "intro": "기간은 SODA의 권장안입니다.",
+  "head": [
+   "단계",
+   "기간",
+   "학습 내용"
+  ],
+  "rows": [
+   [
+    "1. 틀 암기",
+    "1주",
+    "아래 Teil별 표현표 3개를 외웁니다. Teil 1은 자주 나오는 경험 주제(여행, 만남, 실수, 이사 등)마다 키워드 카드를 만들어 4단 공식으로 말해 봅니다."
+   ],
+   [
+    "2. Teil별 훈련",
+    "2~3주",
+    "발표는 녹음해서 다시 들으며 오류를 표시합니다. 토론은 주제 20개를 정해 논거(찬성 2개, 반대 2개, 내 경험 1개)를 준비합니다. 계획 대화는 파트너와 역할을 바꿔 가며 연습합니다."
+   ],
+   [
+    "3. 실전 시뮬레이션",
+    "2주",
+    "준비 20분과 시험 약 15분의 전체 흐름을 타이머로 재현합니다. 파트너 역할을 해 줄 사람과 3회 이상 합니다."
+   ],
+   [
+    "4. 교정",
+    "상시",
+    "녹음을 받아 적으면 자기 오류가 보입니다. 관사, 동사 위치, 어미처럼 반복되는 오류는 목록으로 관리합니다."
+   ]
+  ]
+ },
+ "teil1": {
+  "id": "teil1",
+  "no": "Teil 1",
+  "title": "Über Erfahrungen sprechen · 경험 발표",
+  "lead": "7개 주제 중 하나를 고르고, 약 1분 30초 동안 내 경험을 말합니다. 주제마다 괄호 안에 준비 포인트가 있습니다. 이어서 파트너가 질문하고 내가 답합니다. 그다음 파트너가 자기 주제로 말하고, 내가 질문합니다. 주제는 회차마다 다르고, 이 앱의 Modelltest 1~7은 모두 내가 겪은 일을 묻는 7개 주제를 줍니다. 같은 경험을 여러 주제에 쓸 수 있게 준비해 두면 효율적입니다.",
+  "topics_title": "Modelltest 7의 주제 7개",
+  "topics_head": [
+   "주제",
+   "뜻",
+   "준비 포인트"
+  ],
+  "topics": [
+   [
+    "Ein Foto, das Ihnen viel bedeutet",
+    "의미 있는 사진",
+    "무엇이 보이는지 · 언제 찍었는지 · 왜 중요한지"
+   ],
+   [
+    "Eine gelungene Überraschung",
+    "성공한 깜짝 이벤트",
+    "누구에게 · 무엇을 준비했는지 · 반응"
+   ],
+   [
+    "Ein Abschied, der Ihnen schwergefallen ist",
+    "힘들었던 작별",
+    "누구·무엇과 · 이유 · 그 뒤"
+   ],
+   [
+    "Eine Begegnung mit einem fremden Menschen",
+    "낯선 사람과의 만남",
+    "어디서 · 무슨 일이 있었는지 · 남은 것"
+   ],
+   [
+    "Ein Fehler, aus dem Sie etwas gelernt haben",
+    "실수에서 배운 점",
+    "무엇 · 결과 · 지금은 어떻게 다르게 하는지"
+   ],
+   [
+    "Ein Ausflug in die Natur",
+    "자연 속 나들이",
+    "어디로 · 누구와 · 특별한 경험"
+   ],
+   [
+    "Eine Wohnung, in der Sie gern gewohnt haben",
+    "살기 좋았던 집",
+    "어디 · 모습 · 왜 편안했는지"
+   ]
+  ],
+  "tips_title": "발표 구조 — 4단 공식",
+  "tips": [
+   "도입(1~2문장): 주제를 소개하고 고른 이유를 말합니다. Ich möchte von … erzählen, weil …",
+   "본문: 과제지의 준비 포인트를 순서대로 말합니다. 언제 · 어디서 · 누구와, 구체적인 장면 1~2개를 넣습니다.",
+   "평가(2~3문장): 인상과 배운 점을 말합니다. Besonders beeindruckt hat mich … / Diese Erfahrung hat mir gezeigt, dass …",
+   "마무리(1문장): 질문을 유도합니다. Wenn du Fragen hast, beantworte ich sie gern.",
+   "파트너의 질문에는 2~3문장으로 답하고, 내가 질문할 때는 상대가 한 말을 짚어서 묻습니다. Du hast erzählt, dass …"
+  ],
+  "phrases_title": "고득점 만능 표현 — Teil 1",
+  "phrases_head": [
+   "기능",
+   "표현 (B2)"
+  ],
+  "phrases": [
+   [
+    "발표 시작",
+    "Ich möchte heute von einer Reise erzählen, die mir viel bedeutet hat."
+   ],
+   [
+    "주제 선택 이유",
+    "Ich habe dieses Thema gewählt, weil es mich bis heute beschäftigt."
+   ],
+   [
+    "시점 소개",
+    "Das Ganze liegt inzwischen zwei Jahre zurück."
+   ],
+   [
+    "깊은 인상",
+    "Besonders beeindruckt hat mich, wie offen die Menschen dort waren."
+   ],
+   [
+    "구체적 예",
+    "Ein Beispiel, das mir sofort einfällt, ist …"
+   ],
+   [
+    "문제·반전",
+    "Natürlich lief nicht alles perfekt: …"
+   ],
+   [
+    "배운 점",
+    "Diese Erfahrung hat mir gezeigt, dass … / Dabei habe ich gelernt, …"
+   ],
+   [
+    "추천",
+    "Deshalb kann ich … jedem empfehlen, der …"
+   ],
+   [
+    "발표 마무리",
+    "Wenn du Fragen hast, beantworte ich sie gern."
+   ],
+   [
+    "질문에 답하기",
+    "Das ist eine interessante Frage. Ehrlich gesagt …"
+   ],
+   [
+    "파트너에게 질문",
+    "Du hast erwähnt, dass … – kannst du das genauer erklären?"
+   ]
+  ],
+  "dialogs_title": "모범 대화 7편",
+  "dialogs_note": "A가 약 1분 30초 분량의 발표(140~150단어)를 하고, B가 질문하고, A가 답합니다. 실제 시험에서는 이어서 역할이 바뀝니다. 주제는 Modelltest의 주제와 같은 형식으로 적었습니다.",
+  "dialogs": [
+   {
+    "title": "Eine Reise nach Portugal",
+    "aufgabe": "Eine Reise, die Ihnen viel bedeutet hat (Ziel, Zeit, Land und Leute, Sehenswürdigkeiten usw.)",
+    "lines": [
+     "A: Ich möchte heute von einer Reise erzählen, die mir viel bedeutet hat. Vor zwei Jahren bin ich mit meiner Schwester drei Wochen durch Portugal gereist. Wir haben in Lissabon angefangen und sind dann mit dem Zug die Küste entlang in den Süden gefahren. Am besten hat mir Porto gefallen: Die Stadt liegt an einem Fluss, und abends sitzen die Leute einfach am Ufer und reden miteinander. Besonders beeindruckt hat mich, wie offen die Menschen dort waren. Obwohl wir kein Portugiesisch sprechen, sind wir überall schnell ins Gespräch gekommen. Natürlich lief nicht alles perfekt: Unser Gepäck kam zwei Tage zu spät an, und wir mussten uns die ersten Tage mit Dingen aus dem Supermarkt behelfen. Heute lachen wir darüber. Diese Reise hat mir gezeigt, dass man unterwegs vor allem Geduld und Humor braucht — und gar nicht so viel Gepäck, um glücklich zu sein. Wenn du Fragen hast, beantworte ich sie gern.",
+     "B: Du hast erzählt, dass euer Gepäck zu spät kam. Was hat dir in den ersten Tagen am meisten gefehlt?",
+     "A: Ehrlich gesagt mein Ladekabel! Ohne Handy hatten wir weder eine Karte noch unsere Tickets. Zum Glück konnten wir am zweiten Tag eins kaufen — seitdem packe ich die wichtigsten Sachen immer ins Handgepäck."
+    ]
+   },
+   {
+    "title": "Ein Buch: „Tschick“",
+    "aufgabe": "Ein Buch, das Sie beeindruckt hat (Thema, Autor, Ihre Meinung usw.)",
+    "lines": [
+     "A: Ich möchte ein Buch vorstellen, das mich sehr beeindruckt hat: „Tschick“ von Wolfgang Herrndorf. Der Roman handelt von zwei Vierzehnjährigen aus Berlin, die in den Sommerferien mit einem gestohlenen alten Auto durch Ostdeutschland fahren. Maik kommt aus einer reichen, aber unglücklichen Familie, Tschick ist ein russischer Einwanderer, den in der Klasse niemand ernst nimmt. Unterwegs erleben die beiden viele verrückte Situationen und werden echte Freunde. Gelesen habe ich das Buch im Deutschkurs — zuerst, ehrlich gesagt, nur weil es Pflicht war. Aber nach dreißig Seiten konnte ich nicht mehr aufhören. Besonders gefallen hat mir die Sprache: Sie ist einfach, aber sehr lebendig, und deshalb kann ich den Roman jedem empfehlen, der Deutsch lernt. Für mich geht es in der Geschichte vor allem darum, dass man Menschen nicht nach ihrem Aussehen oder ihrer Herkunft beurteilen sollte. Wenn du Fragen hast, beantworte ich sie gern.",
+     "B: Gibt es das Buch auch als Film? Und was würdest du eher empfehlen?",
+     "A: Ja, der Film ist 2016 erschienen und gut gemacht. Trotzdem mag ich das Buch lieber, weil man darin Maiks Gedanken mitbekommt. Ich würde zuerst das Buch lesen und mir den Film danach als Belohnung ansehen."
+    ]
+   },
+   {
+    "title": "Mein Umzug nach Deutschland",
+    "aufgabe": "Eine Erfahrung, die Ihr Leben verändert hat (was, wann, wo, mit wem, warum wichtig usw.)",
+    "lines": [
+     "A: Ich möchte über eine Erfahrung sprechen, die mein Leben verändert hat: meinen Umzug von Seoul nach Deutschland vor drei Jahren. Ich hatte damals eine feste Stelle, eine Wohnung und meine Familie in der Nähe — eigentlich gab es keinen Grund wegzugehen. Trotzdem hatte ich das Gefühl, dass ich etwas Neues ausprobieren sollte, solange ich jung bin. Die ersten Monate waren härter, als ich erwartet hatte. Ich musste jede Kleinigkeit neu lernen: einen Handyvertrag abschließen, Formulare ausfüllen, beim Arzt das Richtige sagen. Es gab Abende, an denen ich am liebsten zurückgeflogen wäre. Aber genau in dieser Zeit habe ich gelernt, Probleme selbstständig zu lösen und rechtzeitig um Hilfe zu bitten — das konnte ich vorher nicht gut. Heute bin ich stolz auf diese Entscheidung. Ich habe hier Freunde aus der ganzen Welt gefunden, und ich weiß jetzt, dass ich auch mit schwierigen Situationen zurechtkomme. Wenn du etwas wissen möchtest, frag gern.",
+     "B: Was würdest du jemandem raten, der auch allein ins Ausland gehen möchte?",
+     "A: Zwei Dinge: Lern die Sprache schon vor dem Umzug, wenigstens die Grundlagen. Und such dir schnell eine feste Routine, zum Beispiel einen Sportverein — dort findet man am leichtesten Anschluss."
+    ]
+   },
+   {
+    "title": "Ein Film: „Systemsprenger“",
+    "aufgabe": "Ein Film, der Sie nachdenklich gemacht hat (Thema, Handlung, Schauspieler, Ihre Meinung usw.)",
+    "lines": [
+     "A: Ich möchte einen Film vorstellen, der mich nachdenklich gemacht hat: „Systemsprenger“ von Nora Fingscheidt. Der Film handelt von der neunjährigen Benni, die so wütend und unberechenbar ist, dass kein Heim und keine Pflegefamilie sie lange aufnehmen will. Ihre Mutter liebt sie, ist aber mit ihr überfordert. Eine Sozialarbeiterin versucht trotzdem immer wieder, einen Platz für sie zu finden. Die Hauptrolle spielt Helena Zengel, die damals noch ein Kind war und dennoch erstaunlich überzeugend wirkt. Ich habe den Film im Kino gesehen und bin danach lange schweigend nach Hause gelaufen. Besonders beeindruckt hat mich, dass es keine einfachen Lösungen gibt und niemand als böse dargestellt wird. Der Film hat mir gezeigt, wie schwierig es für ein Kind sein kann, wenn es sich nirgendwo zugehörig fühlt. Ich kann ihn jedem empfehlen, der keine leichte Unterhaltung sucht. Wenn du Fragen hast, beantworte ich sie gern.",
+     "B: Ist der Film eher traurig, oder gibt es auch hoffnungsvolle Momente?",
+     "A: Beides. Es gibt Szenen, in denen Benni richtig glücklich ist, zum Beispiel bei einem Ausflug in den Wald. Gerade deshalb sind die traurigen Momente danach so schwer auszuhalten."
+    ]
+   },
+   {
+    "title": "Der Berlin-Marathon",
+    "aufgabe": "Ein Sportereignis, das Sie erlebt haben (Sportart, Ort, Menschen, Ergebnis usw.)",
+    "lines": [
+     "A: Ich möchte über ein Sportereignis berichten, das ich live erlebt habe: den Berlin-Marathon vor zwei Jahren. Mein Bruder ist damals selbst mitgelaufen, deshalb bin ich mit meinen Eltern extra nach Berlin gefahren, um ihn anzufeuern. Der Lauf findet jedes Jahr im September statt, und rund vierzigtausend Menschen aus der ganzen Welt nehmen teil. Wir standen bei Kilometer 35 und haben Schilder hochgehalten. Meine Mutter hatte sogar selbstgemachte Fahnen mit seinem Namen dabei. Besonders beeindruckt hat mich die Stimmung: Fremde jubeln Fremden zu, Kinder reichen den Läufern Wasser, und an jeder Ecke spielt eine Band. Mein Bruder ist nach vier Stunden und zehn Minuten ins Ziel gekommen, völlig erschöpft, aber glücklich. Natürlich war es nicht nur schön: Wir standen stundenlang in der Kälte und konnten ihn nur wenige Sekunden sehen. Trotzdem hat mich dieser Tag motiviert, selbst mit dem Laufen anzufangen. Wenn du Fragen hast, beantworte ich sie gern.",
+     "B: Und? Bist du inzwischen auch einmal einen Marathon gelaufen?",
+     "A: Noch nicht, aber im Frühjahr habe ich einen Halbmarathon geschafft. Ein ganzer Marathon steht für nächstes Jahr auf meiner Liste, vorausgesetzt, mein Knie macht mit."
+    ]
+   },
+   {
+    "title": "Ein Konzert von Silbermond",
+    "aufgabe": "Ein Konzert, das Sie nicht vergessen werden (Musikrichtung, Musiker, Ort usw.)",
+    "lines": [
+     "A: Ich möchte von einem Konzert erzählen, das ich nie vergessen werde. Vor einem Jahr war ich mit zwei Freundinnen bei einem Konzert der Band Silbermond in München. Die Karten hatten wir schon im Frühjahr gekauft, weil das Konzert sehr schnell ausverkauft war. Die Band spielt deutschen Pop-Rock mit Texten, die man gut verstehen kann, deshalb höre ich ihre Lieder oft, um Deutsch zu üben. Besonders beeindruckt hat mich, dass die Sängerin zwischen den Liedern lange mit dem Publikum gesprochen hat, fast so, als würde sie jeden Einzelnen kennen. Am Ende haben alle gemeinsam ein ruhiges Lied gesungen, und ich hatte Gänsehaut, obwohl ich nicht jedes Wort verstanden habe. Natürlich war es in der Halle sehr voll und heiß, und wir mussten nach dem Konzert über eine Stunde auf die Bahn warten. Trotzdem würde ich sofort wieder hingehen. Wenn du Fragen hast, beantworte ich sie gern.",
+     "B: Konntest du die Texte verstehen? Waren sie nicht zu schnell?",
+     "A: Ehrlich gesagt nicht alle. Ich hatte die Lieder aber vorher so oft gehört, dass ich viele Zeilen mitsingen konnte. Das Konzert war also fast ein Hörtraining mit Live-Musik."
+    ]
+   },
+   {
+    "title": "Meine Deutschlehrerin",
+    "aufgabe": "Ein Mensch, der in Ihrem Leben wichtig ist (wer, seit wann, warum wichtig usw.)",
+    "lines": [
+     "A: Ich möchte über einen Menschen sprechen, der in meinem Leben eine wichtige Rolle spielt: meine Deutschlehrerin Frau Klein. Ich kenne sie seit vier Jahren, seitdem ich in Seoul angefangen habe, Deutsch zu lernen. Damals konnte ich kaum einen Satz bilden und hatte große Angst, Fehler zu machen. Frau Klein hat uns immer wieder gesagt, dass Fehler zum Lernen gehören, und sie hat jede Stunde mit einer kleinen Geschichte aus ihrem Alltag in Deutschland begonnen. Besonders beeindruckt hat mich ihre Geduld: Sie hat denselben Punkt sogar fünfmal erklärt, ohne ungeduldig zu werden. Ohne sie hätte ich vermutlich schon nach einem halben Jahr aufgegeben. Sie hat uns auch Mut gemacht, im Unterricht zu sprechen, selbst wenn wir unsicher waren. Dank ihr bin ich heute hier und kann diese Prüfung ablegen. Diese Erfahrung hat mir gezeigt, wie viel eine gute Lehrerin verändern kann. Wenn du Fragen hast, beantworte ich sie gern.",
+     "B: Hast du noch Kontakt zu ihr?",
+     "A: Ja, wir schreiben uns ein paarmal im Jahr. Als ich meinen Prüfungstermin bekommen habe, war sie die Erste, der ich davon erzählt habe."
+    ]
+   }
+  ],
+  "range": [
+   170,
+   205
+  ]
+ },
+ "teil2": {
+  "id": "teil2",
+  "no": "Teil 2",
+  "title": "Diskussion · 글을 두고 토론하기",
+  "lead": "글을 읽고 파트너와 토론합니다(Modelltest 7: „Bus und Bahn zum Nulltarif?“). 과제지는 글의 내용에 대해 이야기하고, 자기 경험을 넣고, 의견을 말하고, 논거를 대고, 가능한 해결책을 이야기하라고 합니다. Modelltest 7의 안내는 글을 소개하는 부분을 1분 이내로 제한합니다. 합의까지 가야 하는지는 확인하지 못했고, 과제지는 가능한 해결책에 대해 말하라고만 적습니다.",
+  "warn": "글 요약이 시험의 전부가 아닙니다. 소개는 1분 안에 끝내고, 이어서 의견과 경험을 말하고, 파트너의 논거에 반응하고, 해결책까지 이야기하세요.",
+  "steps_title": "Teil 2 진행 4단계",
+  "steps_head": [
+   "단계",
+   "할 일",
+   "시작 문장"
+  ],
+  "steps": [
+   [
+    "① 글 소개",
+    "제목 → 주제 → 저자의 입장(간접 인용) → 파트너에게 넘기기. 최대 1분이고, 문장을 베끼지 않습니다.",
+    "In dem Text geht es um die Frage, ob … / Der Autor vertritt die Ansicht, dass …"
+   ],
+   [
+    "② 입장 밝히기",
+    "내 의견 + 이유 1개 + 경험이나 예 1개를 말합니다.",
+    "Ich bin der Meinung, dass … / Ich habe die Erfahrung gemacht, dass …"
+   ],
+   [
+    "③ 논거 교환",
+    "동의, 부분 동의, 반박으로 상대 논거에 직접 반응하고 되묻습니다.",
+    "Da hast du zwar recht, aber … / Da muss ich dir widersprechen: …"
+   ],
+   [
+    "④ 해결책·정리",
+    "가능한 해결책을 제안하고, 공통점이나 정중한 의견 차이를 정리합니다.",
+    "Eine Lösung könnte sein, … / Wir sind uns also einig, dass …"
+   ]
+  ],
+  "steps_note": "모든 단계에서 파트너의 말에 반응하고 되묻는 것을 최소 2번 합니다(SODA 권장).",
+  "phrases_title": "고득점 만능 표현 — Teil 2",
+  "phrases_head": [
+   "기능",
+   "표현 (B2)"
+  ],
+  "phrases": [
+   [
+    "텍스트 소개",
+    "In dem Text, den wir gelesen haben, geht es um die Frage, ob …"
+   ],
+   [
+    "저자 입장 인용",
+    "Der Autor vertritt die Ansicht, dass … / Im Text wird behauptet, dass …"
+   ],
+   [
+    "의견 말하기",
+    "Ich bin der Meinung, dass … / Meiner Ansicht nach …"
+   ],
+   [
+    "강한 확신",
+    "Ich bin fest davon überzeugt, dass …"
+   ],
+   [
+    "동의",
+    "Da stimme ich dir völlig zu. / Das sehe ich genauso wie du."
+   ],
+   [
+    "부분 동의",
+    "Da hast du zwar recht, aber man darf nicht vergessen, dass …"
+   ],
+   [
+    "정중한 반박",
+    "Da muss ich dir widersprechen: … / Das sehe ich anders, denn …"
+   ],
+   [
+    "양보·인정",
+    "Ich gebe zu, dass … / Da ist etwas dran, trotzdem …"
+   ],
+   [
+    "경험 근거",
+    "Ich habe die Erfahrung gemacht, dass …"
+   ],
+   [
+    "예시 들기",
+    "Ein gutes Beispiel dafür ist … / Denk nur an …"
+   ],
+   [
+    "해결책 제안",
+    "Eine Lösung könnte sein, … / Man könnte zum Beispiel …"
+   ],
+   [
+    "되묻기",
+    "Wie siehst du das? / Wie stehst du dazu?"
+   ],
+   [
+    "요약·마무리",
+    "Zusammenfassend kann man sagen, dass … / Wir sind uns also einig, dass …"
+   ]
+  ],
+  "dialogs_title": "모범 대화 4편",
+  "dialogs_note": "글은 실제 시험보다 훨씬 짧은 발췌문입니다. 두 사람이 같은 글을 읽은 설정이고, 12~15턴 · 약 370~410단어로 쓰여 있습니다.",
+  "dialogs": [
+   {
+    "title": "Zurück ins Büro",
+    "text": "„Zurück ins Büro! Immer mehr Firmen holen ihre Mitarbeiter aus dem Homeoffice zurück. Die Chefs klagen: Wer zu Hause arbeitet, ist schwer erreichbar, und der Teamgeist leidet. Doch viele Beschäftigte wollen die gewonnene Freiheit nicht mehr aufgeben.“",
+    "lines": [
+     "A: Der Text, den wir gelesen haben, trägt den Titel „Zurück ins Büro“. Darin geht es um die Frage, ob Beschäftigte weiter von zu Hause arbeiten sollten. Im Text wird behauptet, dass viele Firmen ihre Mitarbeiter zurückholen, weil der Teamgeist leidet und die Kollegen schwer erreichbar sind. Gleichzeitig wird erwähnt, dass viele Beschäftigte ihre neue Freiheit nicht mehr aufgeben wollen. Wie siehst du das?",
+     "B: Danke, das hast du gut zusammengefasst. Mir ist beim Lesen aufgefallen, dass vor allem die Sicht der Chefs dargestellt wird. Ich arbeite selbst zwei Tage pro Woche im Homeoffice und bin fest davon überzeugt, dass ich zu Hause konzentrierter arbeite. Außerdem spare ich jeden Tag fast zwei Stunden Fahrzeit. Deshalb halte ich es für einen Rückschritt, wenn alle wieder täglich ins Büro müssen.",
+     "A: Das kann ich einerseits gut verstehen, andererseits sehe ich auch die Probleme. Bei uns in der Firma sind die jüngeren Kollegen oft allein zu Hause und lernen kaum jemanden kennen. Gerade am Anfang lernt man doch am meisten, wenn man erfahrenen Kollegen über die Schulter schauen kann.",
+     "B: Da hast du zwar recht, aber man darf nicht vergessen, dass sich beides kombinieren lässt. Neue Mitarbeiter könnten zum Beispiel in den ersten Monaten täglich kommen, während erfahrene Kollegen flexibel bleiben.",
+     "A: Das wäre ein vernünftiger Kompromiss. Ich gebe allerdings zu, dass es mir zu Hause schwerfällt, nach Feierabend wirklich abzuschalten. Der Laptop steht ja immer auf dem Tisch.",
+     "B: Diese Erfahrung habe ich auch schon gemacht. Genau deshalb finde ich feste Regeln wichtig — zum Beispiel, dass nach 18 Uhr keine E-Mails mehr beantwortet werden müssen.",
+     "A: Einverstanden. Interessant finde ich auch das Argument mit dem Teamgeist. Meiner Erfahrung nach entstehen die besten Ideen tatsächlich in der Kaffeeküche und nicht in Videokonferenzen.",
+     "B: Das stimmt zum Teil. Trotzdem würde ich behaupten, dass gute Zusammenarbeit weniger vom Ort als von der Organisation abhängt. Mit klaren Absprachen funktioniert auch ein digitales Team.",
+     "A: Wie stehst du denn zu einer festen Regelung, zum Beispiel drei Tage Büro und zwei Tage zu Hause?",
+     "B: Das halte ich für die beste Lösung, denn so hat man beides: den Kontakt zum Team und ruhige Tage für konzentrierte Arbeit.",
+     "A: Zusammenfassend können wir also sagen: Wir sind uns einig, dass die Mischung entscheidend ist — weder nur Büro noch nur Homeoffice.",
+     "B: Genau. Und Firmen, die das ignorieren, verlieren am Ende ihre besten Leute."
+    ]
+   },
+   {
+    "title": "Handyverbot an Schulen",
+    "text": "„Frankreich hat es vorgemacht: Handys haben an Schulen nichts zu suchen. Wer den Unterricht stört und in der Pause nur auf den Bildschirm starrt, lernt weniger und bewegt sich kaum noch. Kritiker halten ein Verbot dagegen für weltfremd – Medienkompetenz lerne man nicht durch Verbote.“",
+    "lines": [
+     "A: In dem Text, den wir bekommen haben, geht es um die Frage, ob Handys an Schulen verboten werden sollten. Als Beispiel wird Frankreich genannt, wo es ein solches Verbot bereits gibt. Der Autor führt an, dass Schüler durch das Handy abgelenkt werden, weniger lernen und sich in den Pausen kaum noch bewegen. Am Ende werden aber auch Kritiker zitiert, die meinen, dass man Medienkompetenz nicht durch Verbote lernt. Wie ist deine Meinung dazu?",
+     "B: Du hast das Wichtigste schon genannt. Ich habe dazu eine klare Meinung: Ich bin für ein Verbot im Unterricht, aber gegen ein totales Verbot. Meine Nichte ist dreizehn, und ich sehe bei ihr, wie stark das Handy ablenkt. Sobald es vibriert, ist die Konzentration weg.",
+     "A: Das Beispiel kenne ich aus meiner eigenen Familie. Trotzdem frage ich mich, ob ein Verbot das Problem wirklich löst. Verbotene Dinge werden für Jugendliche doch erst richtig interessant.",
+     "B: Da ist etwas dran. Andererseits brauchen Kinder meiner Ansicht nach klare Grenzen, weil sie die Folgen selbst noch nicht einschätzen können. Beim Rauchen diskutieren wir ja auch nicht über Selbstverantwortung.",
+     "A: Der Vergleich hinkt meiner Meinung nach ein wenig, denn das Handy ist nicht nur schädlich. Im Unterricht kann es sogar nützlich sein, zum Beispiel für Recherchen oder Vokabel-Apps.",
+     "B: Ich gebe zu, dass es sinnvolle Anwendungen gibt. Dann müsste aber die Lehrkraft entscheiden, wann das Handy benutzt wird — und nicht die Schüler.",
+     "A: Genau das wäre auch mein Vorschlag: feste Handyzeiten statt eines totalen Verbots. In der Pause sehe ich es allerdings kritischer als du denkst. Früher haben wir Fußball gespielt, heute sitzen viele nur noch schweigend nebeneinander.",
+     "B: Diese Beobachtung mache ich auch immer wieder. Vielleicht wäre ein Kompromiss möglich: ein Verbot in den Pausen für die Jüngeren und mehr Freiheit für die Älteren.",
+     "A: Damit könnte ich leben. Wichtig fände ich zusätzlich, dass die Schule den richtigen Umgang mit Medien aktiv unterrichtet, statt das Thema zu ignorieren.",
+     "B: Genau, das wird oft vergessen. Eine Freundin von mir ist Lehrerin, und an ihrer Schule gibt es einen Medienführerschein: Die Schüler lernen dort, Falschmeldungen zu erkennen und ihre Daten zu schützen. So etwas bringt meiner Meinung nach mehr als jedes Verbot.",
+     "A: Von solchen Projekten habe ich auch schon gehört. Wenn Schulen das Thema ernst nehmen, verliert das Handy vielleicht von selbst an Reiz.",
+     "B: Da sind wir uns einig. Zusammenfassend würde ich sagen: Ein komplettes Verbot ist der falsche Weg, aber ohne Regeln geht es auch nicht.",
+     "A: Das trifft es genau. Die Mischung aus klaren Regeln und Medienerziehung überzeugt mich am meisten."
+    ]
+   },
+   {
+    "title": "Autofreie Innenstädte",
+    "text": "„Immer mehr europäische Städte sperren ihre Zentren für Autos. Die Luft wird besser, der Lärm weniger, und die Menschen erobern die Straßen zurück. Händler warnen jedoch: Ohne Kunden, die mit dem Auto kommen, sterben die Geschäfte in der Innenstadt.“",
+    "lines": [
+     "A: Der Text trägt die Überschrift „Autofreie Innenstädte“. Darin wird berichtet, dass immer mehr europäische Städte ihre Zentren für Autos sperren. Als Vorteile werden die bessere Luft und der geringere Lärm genannt. Es kommen aber auch Händler zu Wort, die davor warnen, dass ihre Geschäfte ohne Autokunden nicht überleben können. Soll ich zuerst meine Meinung sagen, oder möchtest du anfangen?",
+     "B: Fang ruhig an, ich bin gespannt.",
+     "A: Also, ich bin grundsätzlich dafür, Innenstädte autofrei zu machen. Ich habe ein Jahr in Freiburg gewohnt, wo das Zentrum weitgehend autofrei ist, und die Lebensqualität dort war deutlich höher: weniger Lärm, mehr Cafés, mehr Platz für Fußgänger.",
+     "B: Das klingt überzeugend, trotzdem muss ich dir teilweise widersprechen. Meine Eltern sind über siebzig und können nicht mehr gut zu Fuß gehen. Für solche Menschen ist das Auto oft die einzige Möglichkeit, in die Stadt zu kommen.",
+     "A: Dieses Argument höre ich oft, und ich nehme es ernst. Allerdings ließe sich das Problem lösen, indem man Ausnahmen erlaubt — etwa für Menschen mit Behinderung, für den Lieferverkehr und für Taxis.",
+     "B: Vorausgesetzt, die öffentlichen Verkehrsmittel funktionieren. Genau da sehe ich das größte Problem: Bei uns fährt der Bus abends nur einmal pro Stunde. Solange das so bleibt, ist ein Autoverbot unfair gegenüber den Leuten vom Stadtrand.",
+     "A: Da hast du einen wichtigen Punkt angesprochen. Zuerst muss das Angebot besser werden, dann kann man den Verkehr einschränken — nicht umgekehrt.",
+     "B: Und was sagst du zu der Sorge der Händler? Im Text klingt das ziemlich dramatisch.",
+     "A: Ehrlich gesagt halte ich diese Angst für übertrieben. Fußgänger und Radfahrer geben in der Innenstadt oft mehr Geld aus als Autofahrer, weil sie öfter kommen.",
+     "B: Interessant, das wusste ich nicht. Bei uns haben allerdings zwei Möbelgeschäfte geschlossen, nachdem die Parkplätze weggefallen waren. Für Geschäfte mit großen Produkten ist das Auto eben doch wichtig.",
+     "A: Zugegeben, für solche Geschäfte braucht es Lösungen — zum Beispiel Lieferservices oder Parkhäuser am Rand des Zentrums.",
+     "B: Parkhäuser am Rand finde ich sinnvoll, wenn von dort Busse ins Zentrum fahren. In Straßburg funktioniert das angeblich sehr gut: Man parkt günstig und bekommt das Straßenbahnticket dazu.",
+     "A: So ein System würde ich mir auch für meine Stadt wünschen. Es zeigt, dass es nicht um ein Verbot geht, sondern um bessere Alternativen.",
+     "B: Zusammenfassend sind wir uns also einig: autofreie Zentren ja, aber nur mit gutem Nahverkehr, mit Ausnahmen und mit Unterstützung für den Handel.",
+     "A: Genau. Die Richtung stimmt, aber auf die Umsetzung kommt es an."
+    ]
+   },
+   {
+    "title": "Verkaufsoffene Sonntage",
+    "text": "„Sonntags shoppen wie in London oder Seoul? In Deutschland bleiben die Geschäfte am Sonntag zu – noch. Der Handel fordert mehr verkaufsoffene Sonntage, denn viele Berufstätige haben unter der Woche kaum Zeit zum Einkaufen. Gewerkschaften und Kirchen verteidigen dagegen den freien Sonntag als gemeinsame Ruhepause.“",
+    "lines": [
+     "A: In unserem Text geht es um die Frage, ob Geschäfte in Deutschland auch sonntags öffnen sollten. Der Handel fordert mehr verkaufsoffene Sonntage, weil viele Berufstätige unter der Woche kaum Zeit zum Einkaufen haben. Gewerkschaften und Kirchen verteidigen dagegen den freien Sonntag als gemeinsame Ruhepause. Für mich ist das Thema besonders interessant, weil in Seoul fast alles am Sonntag geöffnet ist.",
+     "B: Dann erzähl mal: Vermisst du das hier in Deutschland?",
+     "A: Am Anfang fand ich es wirklich unpraktisch. Inzwischen sehe ich aber auch die Vorteile: Der Sonntag ist hier viel ruhiger. Man trifft Freunde oder geht in den Park, statt einkaufen zu gehen.",
+     "B: Genau das ist für mich das stärkste Argument. Wenn die Geschäfte öffnen, müssen Hunderttausende Verkäuferinnen und Verkäufer arbeiten — und ihre Familien sehen sie dann noch seltener.",
+     "A: Das stimmt, aber man darf nicht vergessen, dass viele Menschen im Krankenhaus, bei der Bahn oder im Restaurant längst sonntags arbeiten. Warum soll ausgerechnet der Handel eine Ausnahme sein?",
+     "B: Der Unterschied ist meiner Ansicht nach, dass ein Krankenhaus notwendig ist — einkaufen kann man auch am Samstag. Außerdem würden vor allem die großen Ketten profitieren, während sich kleine Läden die zusätzlichen Stunden gar nicht leisten können.",
+     "A: Dieses Argument finde ich überzeugend, das gebe ich zu. Trotzdem hätte ich gern mehr Flexibilität — zum Beispiel einige verkaufsoffene Sonntage im Jahr.",
+     "B: Die gibt es ja zum Teil schon. Damit könnte ich mich anfreunden, solange es die Ausnahme bleibt, die Beschäftigten freiwillig arbeiten und einen Ausgleich bekommen.",
+     "A: Einverstanden. Interessant finde ich übrigens, dass das Online-Shopping die ganze Diskussion verändert hat: Bestellen kann man rund um die Uhr.",
+     "B: Richtig, und genau deshalb glaube ich nicht, dass längere Öffnungszeiten die Innenstädte retten würden. Wer online bestellt, tut das auch dann, wenn die Läden länger geöffnet haben.",
+     "A: Andererseits frage ich mich, ob der freie Sonntag nicht auch ein Nachteil ist. Touristen wundern sich oft, dass in einer Großstadt sonntags fast alles geschlossen ist.",
+     "B: Das mag sein, aber ich habe die Erfahrung gemacht, dass sich Besucher schnell daran gewöhnen. Viele finden es am Ende sogar sympathisch, dass hier nicht alles dem Konsum untergeordnet wird.",
+     "A: Zusammenfassend können wir festhalten: Wir sind beide für den freien Sonntag, aber mit wenigen, gut geregelten Ausnahmen.",
+     "B: Genau. Und bis dahin kaufe ich meine Milch eben samstags."
+    ]
+   }
+  ],
+  "range": [
+   360,
+   420
+  ],
+  "practice_title": "추가 연습 주제",
+  "practice": [
+   "Bus und Bahn zum Nulltarif? (Modelltest 7)",
+   "Homeoffice oder Büro?",
+   "Handys an Schulen verbieten?",
+   "Autofreie Innenstädte",
+   "Verkaufsoffene Sonntage"
+  ]
+ },
+ "teil3": {
+  "id": "teil3",
+  "no": "Teil 3",
+  "title": "Gemeinsam etwas planen · 함께 계획하기",
+  "lead": "상황이 주어지고 파트너와 무엇을 정해야 하는지 생각합니다. 과제지는 무엇을 계획해야 하는지 생각하고, 파트너에게 제안하고, 파트너의 제안에 반응하고, 함께 계획을 세우라고 적습니다(Modelltest 7: 이사하는 수강생을 돕는 계획). 이 앱의 과제지는 정해야 할 항목 목록을 주지 않습니다. 아래 모범 대화의 항목 목록은 연습용 힌트입니다.",
+  "steps_title": "계획 6단계 흐름",
+  "steps_head": [
+   "단계",
+   "할 일",
+   "문장"
+  ],
+  "steps": [
+   [
+    "① 시작",
+    "무엇부터 정할지 순서를 제안합니다.",
+    "Sollen wir zuerst über den Termin sprechen?"
+   ],
+   [
+    "② 제안",
+    "구체안과 이유를 말합니다.",
+    "Ich schlage vor, dass … Dann sind noch alle da."
+   ],
+   [
+    "③ 이의",
+    "부드럽게 의심을 말하고 이유를 댑니다.",
+    "Da bin ich etwas skeptisch, weil …"
+   ],
+   [
+    "④ 대안·절충",
+    "대안을 내거나 둘을 합칩니다.",
+    "Eine andere Möglichkeit wäre, … / Dann machen wir es so: …"
+   ],
+   [
+    "⑤ 역할 분담",
+    "누가 무엇을 맡을지 정합니다.",
+    "Übernimmst du …? Dann kümmere ich mich um …"
+   ],
+   [
+    "⑥ 정리",
+    "합의한 내용을 한 번에 요약합니다.",
+    "Dann halten wir fest: …"
+   ]
+  ],
+  "warn": "한 번은 반대하세요. 모든 제안에 „Einverstanden.“만 하면 대화가 짧아지고 쓸 수 있는 표현의 폭도 좁아집니다. Modelltest 7의 안내도 제안에 반응하는 것을 따로 적습니다.",
+  "phrases_title": "고득점 만능 표현 — Teil 3",
+  "phrases_head": [
+   "기능",
+   "표현 (B2)"
+  ],
+  "phrases": [
+   [
+    "대화 시작",
+    "Sollen wir zuerst über den Termin sprechen?"
+   ],
+   [
+    "제안하기",
+    "Ich schlage vor, dass … / Wie wäre es, wenn wir …?"
+   ],
+   [
+    "대안 제시",
+    "Eine andere Möglichkeit wäre, …"
+   ],
+   [
+    "긍정 반응",
+    "Das halte ich für eine sehr gute Idee. / Einverstanden, so machen wir es."
+   ],
+   [
+    "회의적 반응",
+    "Da bin ich etwas skeptisch, weil … / Ich weiß nicht, ob das die beste Lösung ist."
+   ],
+   [
+    "조건부 동의",
+    "Damit wäre ich einverstanden, vorausgesetzt, dass …"
+   ],
+   [
+    "절충안",
+    "Dann machen wir es so: Wir planen … und halten … als Ausweichmöglichkeit bereit."
+   ],
+   [
+    "일 맡기",
+    "Ich könnte mich um … kümmern. / Das würde ich übernehmen."
+   ],
+   [
+    "상대 의향 묻기",
+    "Wärst du bereit, … zu übernehmen?"
+   ],
+   [
+    "우선순위",
+    "Am wichtigsten ist meiner Meinung nach, dass …"
+   ],
+   [
+    "합의 확인",
+    "Dann halten wir fest: … / Fassen wir kurz zusammen, was wir vereinbart haben."
+   ]
+  ],
+  "dialogs_title": "모범 대화 3편",
+  "dialogs_note": "턴이 짧고 많은 것이 정상입니다. 18~20턴 · 약 320~335단어로 쓰여 있고, 마지막에 합의 내용을 요약합니다.",
+  "dialogs": [
+   {
+    "title": "Abschiedsfeier für eine Kollegin",
+    "aufgabe": "Ihre Kollegin Frau Martens verlässt nach acht Jahren die Firma und zieht nach Wien. Sie und Ihre Partnerin bzw. Ihr Partner möchten eine Abschiedsfeier für sie planen.",
+    "hint": "Termin und Ort · Essen und Getränke · Geschenk · Programm · Aufgabenverteilung",
+    "lines": [
+     "A: Sollen wir zuerst über den Termin sprechen? Frau Martens hat am Freitag, dem 25. September, ihren letzten Arbeitstag.",
+     "B: Gute Idee. Ich schlage vor, die Feier direkt an diesem Freitag nach der Arbeit zu machen, dann sind noch alle da.",
+     "A: Einverstanden. Bleibt die Frage nach dem Ort: im Besprechungsraum oder lieber woanders?",
+     "B: Der Besprechungsraum ist mir zu nüchtern. Wie wäre es mit der Dachterrasse? Ende September kann das Wetter allerdings riskant sein.",
+     "A: Stimmt. Dann machen wir es so: Wir planen die Terrasse und reservieren den Besprechungsraum als Ausweichmöglichkeit.",
+     "B: Perfekt. Beim Essen wäre ich für ein Buffet, zu dem jeder etwas mitbringt. Das ist persönlicher als ein Catering.",
+     "A: Da bin ich etwas skeptisch, weil am Ende oft fünf Nudelsalate auf dem Tisch stehen. Ich würde eine Liste im Intranet anlegen, in die sich jeder einträgt.",
+     "B: Sehr gut — übernimmst du die Liste? Dann kümmere ich mich um die Getränke.",
+     "A: Mache ich. Jetzt zum Geschenk: Hast du eine Idee?",
+     "B: Sie zieht nach Wien — wie wäre ein Gutschein für ein gutes Restaurant dort? Dazu ein Fotoalbum mit Erinnerungen aus acht Jahren.",
+     "A: Das halte ich für eine sehr schöne Idee. Für das Album könnte ich die Kollegen um Fotos und einen kurzen Text bitten.",
+     "B: Und ich sammle das Geld ein — sagen wir zehn Euro pro Person, natürlich freiwillig.",
+     "A: Gut. Soll jemand eine kleine Rede halten?",
+     "B: Auf jeden Fall unser Abteilungsleiter, er hat sie damals eingestellt. Ich frage ihn gleich morgen.",
+     "A: Gut. Sollen wir Frau Martens eigentlich überraschen, oder sagen wir ihr vorher Bescheid?",
+     "B: Lieber vorher Bescheid sagen. Wenn sie an dem Tag früher nach Hause geht, stehen wir mit dem Kuchen allein da.",
+     "A: Brauchen wir noch Musik oder Dekoration?",
+     "B: Ein bisschen Dekoration wäre schön. Ich bringe Lichterketten mit, und für die Musik reicht eine Playlist über die Box aus dem Pausenraum.",
+     "A: Dann fassen wir zusammen: Feier am 25. September auf der Terrasse, Buffet mit Liste, du übernimmst Getränke, Geld und Dekoration, ich die Liste und das Album — und die Rede hält der Abteilungsleiter.",
+     "B: Genau so machen wir es. Frau Martens wird sich freuen."
+    ]
+   },
+   {
+    "title": "Einführungstag für neue Kollegen",
+    "aufgabe": "In Ihrer Firma fangen nächsten Monat sechs neue Kolleginnen und Kollegen aus dem Ausland an. Ihre Abteilung soll einen Einführungstag organisieren.",
+    "hint": "Termin · Programm · Räume · Begleitpersonen · Mittagessen",
+    "lines": [
+     "A: Am besten legen wir zuerst das Datum fest. Die neuen Kollegen fangen am 1. Oktober an.",
+     "B: Ich schlage vor, den Einführungstag gleich am 1. Oktober zu machen. Nichts ist schlimmer als eine erste Woche, in der sich niemand zuständig fühlt.",
+     "A: Da stimme ich dir zu. Vormittags könnten wir mit einer Begrüßung durch die Geschäftsführung anfangen, danach eine Führung durchs Haus.",
+     "B: Gut, aber bitte keine dreistündigen Präsentationen. Nach der Führung wäre eine kurze Vorstellungsrunde in den Teams sinnvoller.",
+     "A: Sehe ich genauso. Für den Nachmittag schlage ich ein Patensystem vor: Jeder neue Kollege bekommt einen erfahrenen Kollegen als festen Ansprechpartner.",
+     "B: Die Idee gefällt mir. Wärst du bereit, die Paten auszusuchen? Du kennst die Abteilungen besser als ich.",
+     "A: Das übernehme ich. Wichtig wäre, dass die Paten gut Englisch sprechen, falls es am Anfang mit dem Deutschen noch schwierig ist.",
+     "B: Guter Hinweis. Beim Mittagessen bin ich unsicher: Kantine oder Restaurant?",
+     "A: Die Kantine ist praktischer, aber etwas unpersönlich. Eine andere Möglichkeit wäre, das Essen beim Italiener um die Ecke zu bestellen und gemeinsam im großen Besprechungsraum zu essen.",
+     "B: Damit wäre ich einverstanden, vorausgesetzt, das Budget reicht. Ich kläre das mit Frau Berg aus der Verwaltung.",
+     "A: Prima. Denk bitte daran, zu fragen, ob jemand vegetarisch isst oder etwas nicht verträgt.",
+     "B: Notiert. Den großen Besprechungsraum reserviere ich gleich für den ganzen Tag.",
+     "A: Ich fände es außerdem schön, den Tag gemeinsam ausklingen zu lassen — zum Beispiel mit Kaffee und Kuchen am Nachmittag, zu dem das ganze Team eingeladen ist.",
+     "B: Das wäre ein schöner Abschluss. Dann können auch die Kollegen vorbeikommen, die tagsüber in Terminen waren. Den Kuchen bestelle ich bei der Bäckerei gegenüber.",
+     "A: Dann bleibt noch die Mappe mit den wichtigsten Informationen: Pläne, Passwörter, Ansprechpartner.",
+     "B: Die stelle ich mit der IT zusammen. Fassen wir kurz zusammen, was wir vereinbart haben?",
+     "A: Gern: Einführungstag am 1. Oktober, vormittags Begrüßung und Führung, nachmittags das Patenprogramm, Mittagessen vom Italiener im Besprechungsraum. Du klärst Budget, Raum und Mappe, ich organisiere die Paten.",
+     "B: Perfekt, dann sind wir gut vorbereitet."
+    ]
+   },
+   {
+    "title": "Internationaler Abend im Deutschkurs",
+    "aufgabe": "Ihr Deutschkurs möchte zum Semesterende einen internationalen Abend organisieren, zu dem auch Familien und Freunde eingeladen sind.",
+    "hint": "Termin und Raum · Essen und Getränke · Programm · Kosten · Einladung",
+    "lines": [
+     "A: Sollen wir mit dem Termin anfangen? Der Kurs endet am 18. Dezember.",
+     "B: Wie wäre es mit Freitag, dem 11. Dezember? Am letzten Kurstag selbst haben alle zu viel Stress.",
+     "A: Einverstanden. Unsere Lehrerin hat gesagt, dass wir die Aula der Volkshochschule kostenlos nutzen dürfen, wenn wir hinterher selbst aufräumen.",
+     "B: Perfekt, das spart Miete. Beim Essen schlage ich ein internationales Buffet vor: Jeder bringt ein Gericht aus seinem Land mit.",
+     "A: Das halte ich für die beste Idee, das passt genau zum Motto. Wir sollten nur eine Liste machen, damit nicht alle Nachtisch mitbringen.",
+     "B: Die Liste lege ich an und stelle sie in unsere Kursgruppe. Was machen wir mit den Getränken?",
+     "A: Getränke kaufen wir besser zentral ein, sonst wird es chaotisch. Dafür sammeln wir einen kleinen Beitrag — ich würde sagen, fünf Euro pro Familie.",
+     "B: Das klingt fair. Kommen wir zum Programm: Nur essen und reden wäre mir zu wenig.",
+     "A: Mir auch. Ich schlage vor, dass jedes Land sich kurz vorstellt — mit Fotos, einem Lied oder einem kleinen Quiz.",
+     "B: Gute Idee, aber wir sollten die Beiträge auf fünf Minuten begrenzen, sonst dauert der Abend ewig.",
+     "A: Unbedingt. Zusätzlich könnten wir ein gemeinsames Quiz über Deutschland machen, das verbindet alle.",
+     "B: Das übernehme ich gern, Quizfragen ausdenken macht mir Spaß. Kümmerst du dich dann um die Technik, also Beamer und Musik?",
+     "A: Mache ich. Bleibt noch die Einladung: Reicht eine Nachricht in der Kursgruppe?",
+     "B: Für die Teilnehmer ja, aber für die Familien wäre eine richtige Einladung schöner. Ich entwerfe eine einfache Karte, die jeder weiterschicken kann.",
+     "A: Super. Sollten wir für die Kinder etwas vorbereiten? Einige bringen bestimmt ihre Familien mit.",
+     "B: Gute Idee — eine kleine Mal-Ecke reicht schon. Ich frage Marta, ob sie Stifte und Papier mitbringen kann.",
+     "A: Sehr gut. Dann halten wir fest: 11. Dezember in der Aula, internationales Buffet mit Liste, fünf Euro pro Familie für Getränke, Länderbeiträge plus Deutschland-Quiz. Du machst Liste, Quiz und Einladung, ich Getränke und Technik.",
+     "B: Genau. Das wird ein schöner Abschluss für den Kurs."
+    ]
+   }
+  ],
+  "range": [
+   315,
+   345
+  ],
+  "practice_title": "추가 연습 과제",
+  "practice": [
+   "Umzug einer Kursteilnehmerin (Modelltest 7)",
+   "Einen Geburtstag für eine gemeinsame Freundin organisieren",
+   "Einen Gast aus dem Ausland ein Wochenende lang betreuen",
+   "Ein gemeinsames Abschiedsgeschenk für die Kursleiterin aussuchen",
+   "Einen Ausflug mit dem Deutschkurs planen"
+  ]
+ },
+ "sos": {
+  "id": "sos",
+  "title": "막힐 때 SOS — 침묵 대신 쓰는 표현",
+  "intro": "침묵과 채움말(ähm, also)이 길어지면 표현력과 과제 수행이 낮아질 수 있습니다(SODA 해석). 막히는 순간마다 정해 둔 표현으로 시간을 벌고, 단어가 없으면 돌려 말하세요.",
+  "head": [
+   "상황",
+   "이렇게 말하세요"
+  ],
+  "rows": [
+   [
+    "질문을 못 알아들었을 때",
+    "Entschuldigung, könntest du die Frage bitte wiederholen? / Meinst du damit, dass …?"
+   ],
+   [
+    "생각할 시간이 필요할 때",
+    "Das ist eine interessante Frage. Lass mich kurz überlegen."
+   ],
+   [
+    "단어가 떠오르지 않을 때",
+    "Wie sagt man das noch mal? / Ich meine dieses Ding, mit dem man … / Das ist so etwas wie …"
+   ],
+   [
+    "말을 고칠 때",
+    "Ich meine eigentlich … / Oder besser gesagt, …"
+   ],
+   [
+    "대화가 끊겼을 때 (Teil 2·3)",
+    "Was meinst du dazu? / Fällt dir dazu noch etwas ein?"
+   ],
+   [
+    "마지막 문장이 막힐 때",
+    "Alles in allem kann ich sagen, dass …"
+   ]
+  ]
+ },
+ "mistakes": {
+  "id": "fehler",
+  "title": "한국 학습자가 자주 하는 실수",
+  "head": [
+   "실수",
+   "올바른 방법",
+   "설명"
+  ],
+  "rows": [
+   [
+    "시험관을 보고 말함",
+    "파트너 쪽을 보고 말하기",
+    "이 시험은 파트너와의 대화를 평가합니다. 몸을 파트너 쪽으로 향하고 말에 반응하세요."
+   ],
+   [
+    "발표를 통째로 외워 낭독",
+    "키워드에서 말을 만들기",
+    "외운 낭독은 티가 나고, 파트너의 질문이 나오면 막히기 쉽습니다."
+   ],
+   [
+    "Teil 2에서 글의 문장을 그대로 읽음",
+    "Im Text wird behauptet, dass …",
+    "간접 인용으로 바꿔 말해야 표현력을 보여 줄 수 있습니다."
+   ],
+   [
+    "Teil 2에서 소개만 하고 끝냄",
+    "의견 · 경험 · 반응 · 해결책까지",
+    "Modelltest 7의 안내가 이 순서를 모두 요구합니다."
+   ],
+   [
+    "준비한 문장만 말하고 상대 말을 안 들음",
+    "Da hast du zwar recht, aber …",
+    "과제 수행의 핵심은 서로의 말에 반응하는 것입니다."
+   ],
+   [
+    "혼자 대화를 독점함",
+    "Wie siehst du das?",
+    "말이 길어지면 질문으로 파트너에게 넘깁니다."
+   ],
+   [
+    "Teil 3에서 제안만 하고 반응이 없음",
+    "Ja, aber … / Einverstanden, wenn …",
+    "제안에 반응하는 것이 평가 항목입니다."
+   ],
+   [
+    "Teil 3에서 정리 없이 끝남",
+    "Dann halten wir fest: …",
+    "마지막에 합의 내용과 역할을 요약합니다."
+   ],
+   [
+    "침묵이 생기면 얼어붙음",
+    "Das ist eine interessante Frage. Lass mich kurz überlegen.",
+    "정해 둔 표현으로 시간을 벌면 침묵보다 낫습니다."
+   ],
+   [
+    "du와 Sie를 섞어 씀",
+    "한 시험에서는 한 가지로 통일",
+    "Modelltest 7의 모범 대화는 du를 쓰고, „Worauf die Prüfenden achten“의 표현 예시는 Sie입니다. 어느 쪽이든 시작할 때 정해서 끝까지 유지하세요."
+   ],
+   [
+    "같은 접속사만 반복",
+    "weil, denn, deshalb, außerdem, allerdings",
+    "연결어를 바꿔 쓰면 표현력이 올라갑니다."
+   ],
+   [
+    "모르는 단어에서 멈춤",
+    "Das ist so etwas wie …",
+    "돌려 말하기는 감점이 아니라 대화 전략입니다."
+   ]
+  ]
+ },
+ "grammar": {
+  "id": "grammatik",
+  "title": "B2 말하기 필수 문법",
+  "intro": "아래 문법이 대화에 자연스럽게 들어가면 표현력과 정확성 기준에서 B2 수준을 보여 줄 수 있습니다. 모두 쓸 필요는 없고 확실한 것을 정확하게 씁니다. 예문은 이 가이드의 모범 대화에서 가져왔습니다.",
+  "head": [
+   "문법",
+   "예문",
+   "쓰는 자리"
+  ],
+  "rows": [
+   [
+    "Konjunktiv II",
+    "Das wäre ein vernünftiger Kompromiss. / Es gab Abende, an denen ich am liebsten zurückgeflogen wäre.",
+    "제안, 가정"
+   ],
+   [
+    "간접 인용",
+    "Im Text wird behauptet, dass … / Der Autor vertritt die Ansicht, dass …",
+    "Teil 2 — 글 소개"
+   ],
+   [
+    "수동태와 수동 대체형",
+    "Handys sollten verboten werden. / Das Problem ließe sich lösen, indem man Ausnahmen erlaubt.",
+    "Teil 2 — 해결책"
+   ],
+   [
+    "전치사 + 관계대명사",
+    "ein Buffet, zu dem jeder etwas mitbringt / eine Liste, in die sich jeder einträgt",
+    "Teil 3 — 계획 설명"
+   ],
+   [
+    "양보",
+    "Obwohl wir kein Portugiesisch sprechen, sind wir schnell ins Gespräch gekommen. / Ich gebe allerdings zu, dass …",
+    "모든 Teil"
+   ],
+   [
+    "einerseits … andererseits / weder … noch",
+    "Das kann ich einerseits gut verstehen, andererseits sehe ich auch die Probleme.",
+    "Teil 2 — 반박"
+   ],
+   [
+    "indem / statt … zu",
+    "…, indem man Ausnahmen erlaubt. / Man geht in den Park, statt einkaufen zu gehen.",
+    "방법, 대조"
+   ],
+   [
+    "비교",
+    "Die ersten Monate waren härter, als ich erwartet hatte. / weniger vom Ort als von der Organisation",
+    "모든 Teil"
+   ]
+  ]
+ },
+ "checklist": {
+  "id": "checkliste",
+  "title": "시험 당일 체크리스트 — 12항목",
+  "items": [
+   "준비 시간에 키워드만 적었는가? (완성 문장은 쓰지 않았는가?)",
+   "Teil 1 주제를 4단 공식으로 말할 수 있는가?",
+   "Teil 2용 내 경험 1개와 해결책 1개를 정해 두었는가?",
+   "Teil 3의 항목 목록을 적어 두었는가?",
+   "파트너 쪽을 보고 말하는가?",
+   "파트너가 말할 때 키워드를 적고 질문이나 반응에 쓰는가?",
+   "Teil 2의 글 소개를 1분 안에 끝내는가?",
+   "한 번은 정중하게 반대하거나 의심을 말했는가?",
+   "말이 길어질 때 질문으로 파트너에게 넘기는가?",
+   "막힐 때 SOS 표현을 쓰는가?",
+   "Teil 3 끝에서 합의 내용과 역할을 요약했는가?",
+   "du와 Sie를 섞지 않았는가?"
+  ]
+ },
+ "advice": "telc B2 말하기는 완벽한 독일어를 보는 시험이 아니라, 파트너와 대화를 이어 갈 수 있는지 보는 시험입니다. 문법이 조금 틀려도 말하고, 반응하고, 되묻고, 결론을 내면 점수가 따라옵니다. 준비 시간에는 키워드만 적고, 시험 중에는 파트너를 보고 말하세요."
+}
