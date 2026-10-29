@@ -10,6 +10,7 @@
 | `build-index.py` | `data`, PDF, MP3로 이 앱 폴더의 `index.html`(표지·응시 방식·목록·시험별 페이지)을 만듭니다 |
 | `index-style.css` | `index.html`의 스타일 |
 | `validate.py` | `data/mtN.json` 형식 검사. 정답 64개를 PDF 20쪽 Lösungsschlüssel과 대조하고 본문이 PDF에 모두 있는지 찾습니다 |
+| `guidelib.py`, `build-guide.py`, `build-sprechen.py` | 쓰기·말하기 시험 대비 가이드(`../schreiben-guide.html`, `../sprechen-guide.html`)를 만듭니다. 글은 `guide-data.json`, `sprechen-data.json`에 있고, 모범 답안(350~420단어)과 모범 발표·요약·토론의 단어 수가 범위를 벗어나면 빌드가 멈춥니다 |
 | `logo-small.png`, `logo-index.png` | 시험 화면, 목록 페이지의 로고 |
 | `fonts/pretendard-soda.woff`, `fonts/pretendard-index.woff` | Pretendard 중 시험 화면, 목록 페이지에 쓰는 글자만 담은 파일(SIL OFL 1.1) |
 | `make-font.py` | 시험 화면에 새 한글 문구를 넣어 글자가 빠지면 Pretendard 원본에서 글꼴 파일을 다시 만듭니다 |
@@ -20,6 +21,8 @@
 python3 digital-src/validate.py 1 2 3 4 5
 python3 digital-src/build-digital.py
 python3 digital-src/build-index.py
+python3 -I digital-src/build-guide.py
+python3 -I digital-src/build-sprechen.py
 ```
 
 `ffprobe`(ffmpeg)와 `pdftotext`·`pdfinfo`(poppler)가 필요합니다. 명령은 이 앱 폴더(`telc-c1-hs/`)에서 실행합니다. 파일을 다시 만들 때마다 `../tools/soda-theme.py`가 Lehrwerk 공통 다크 모드 스위치를 자동으로 넣습니다.

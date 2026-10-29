@@ -1,0 +1,1019 @@
+{
+ "title": "쓰기 시험 대비 가이드",
+ "eyebrow": "telc Deutsch C1 Hochschule · Schriftlicher Ausdruck",
+ "lead": "쓰기 시험은 70분 동안 주제 2개 중 하나를 골라 350단어 이상의 글 한 편을 씁니다. 시험 구조와 채점 방식, 70분 운용 전략, 5단 구조와 표현, 모범 답안 10편, 필수 문법을 정리했습니다.",
+ "closing": "Zwei Zitate, ein Standpunkt, fünf Absätze – so wird aus siebzig Minuten ein überzeugender Text.",
+ "sources_title": "근거 자료",
+ "sources": [
+  [
+   "telc Deutsch C1 Hochschule, Handbuch (Schreibaufgabe 1 aus 2, 70 Minuten, 48 Punkte; mündliche Prüfung 20 Minuten Vorbereitung)",
+   "https://www.telc.net/fileadmin/user_upload/pdfs/Handbuch_und_Tipps_fuer_Pruefungsvorbereitung/Deutsch_c1_hochschule_Handbuch.pdf"
+  ],
+  [
+   "telc Deutsch C1 Hochschule, Übungstest 4 (Bewertungskriterien des Schriftlichen Ausdrucks)",
+   "https://shop.telc.net/media/catalog/product/file/5032B00040102BiB.pdf"
+  ],
+  [
+   "이 앱의 telc C1 HS Modelltest 5 (쓰기 과제 15쪽, 모범 답안 21–23쪽, 채점·합격선 2쪽과 34쪽). SODA의 연습 자료이며 telc 본사의 공식 자료가 아닙니다",
+   "telc%20C1%20HS%20Modelltest%205.pdf#page=15"
+  ]
+ ],
+ "overview": {
+  "id": "uebersicht",
+  "title": "시험 한눈에 보기",
+  "rows": [
+   [
+    "과제",
+    "주제 2개(Thema 1·2) 중 하나를 골라 글 한 편을 씁니다. 각 주제에는 상황 설명(Situierung), 과제 문장, 짧은 인용문(Zitat) 2개가 있습니다. 읽기 지문이나 그래프는 없습니다. telc 핸드북도 „1 Schreibaufgabe (aus 2 Aufgaben auswählen)“이고 과제마다 Situierung이 있다고 적고 있습니다."
+   ],
+   [
+    "글의 유형",
+    "Erörterung(논증문) 또는 Stellungnahme(의견문)입니다. 이 앱의 Modelltest 5는 Thema 1이 세미나용 Erörterung, Thema 2가 학내 잡지용 Stellungnahme입니다. 상황 설명을 읽고 어떤 유형인지, 누구에게 쓰는 글인지 먼저 확인하세요."
+   ],
+   [
+    "시간",
+    "70분입니다. 주제 선택, 구상, 작성, 검토가 모두 이 70분 안에 들어갑니다. 별도 준비 시간은 없습니다."
+   ],
+   [
+    "분량",
+    "최소 350단어입니다. 이 앱의 Modelltest 지시문마다 적혀 있고, 350단어 미만이면 Aufgabengerechtheit(과제 충실도)에서 감점됩니다(Modelltest 해설)."
+   ],
+   [
+    "배점",
+    "48점입니다. 4개 기준을 각각 12·8·4·0점으로 평가합니다(Modelltest 해설). telc 핸드북은 평가자를 „kalibrierte und lizenzierte Fachleute“라고만 적고 있어서, 채점자 수와 점수 조정 방식은 확인하지 못했습니다."
+   ],
+   [
+    "합격선",
+    "이 앱의 Modelltest 표기는 필기 166점 중 99점(60%), 말하기 48점 중 29점, 합계 214점 중 128점입니다. 쓰기만의 최저 점수가 있는지는 확인하지 못했습니다. 정확한 합격 규정은 telc와 응시 센터의 안내를 확인하세요."
+   ]
+  ]
+ },
+ "diff": {
+  "title": "telc C1(일반)·Beruf와는 다른 시험입니다",
+  "text": "이 가이드는 telc Deutsch C1 Hochschule 기준입니다. C1(일반)이나 Beruf는 다른 시험이어서 쓰기 형식이 다를 수 있으니, 반드시 Hochschule용 Modelltest로 연습하세요. 독일 대학 입학에 인정되는지와 요구 점수는 지원하려는 대학의 안내에서 확인하세요."
+ },
+ "scoring": {
+  "id": "bewertung",
+  "title": "채점 방식",
+  "intro": "4개 기준을 각각 4단계로 평가합니다. 기준 이름은 telc Übungstest 4, 단계별 점수와 감점 사례는 이 앱의 Modelltest 해설에서 가져왔습니다.",
+  "criteria": [
+   [
+    "Ⅰ. Aufgabengerechtheit (과제 충실도)",
+    "두 Zitat를 모두 다뤘는지, 상황 설명과 과제 문장의 요구(Vor- und Nachteile, 개인 의견, 경험, 결론)를 채웠는지, 350단어를 넘겼는지 봅니다."
+   ],
+   [
+    "Ⅱ. Kommunikative Gestaltung (의사소통 구성)",
+    "문단 구분, 연결어로 이어지는 논리, 글의 유형과 독자(세미나인지 학내 잡지인지)에 맞는 문체를 봅니다."
+   ],
+   [
+    "Ⅲ. Repertoire (표현 폭)",
+    "어휘와 문장 구조의 다양성을 봅니다. 명사문, 수동, 기능동사구 같은 학술 문체와 정확한 연어가 해당됩니다."
+   ],
+   [
+    "Ⅳ. Korrektheit (정확성)",
+    "문법, 철자, 구두점을 봅니다. 형용사 어미, 전치사, 부문장 동사 위치, 쉼표가 대표적입니다."
+   ]
+  ],
+  "levels_head": [
+   "등급",
+   "점수",
+   "telc 표현",
+   "뜻"
+  ],
+  "levels": [
+   [
+    "A",
+    "12",
+    "in jeder Hinsicht",
+    "모든 면에서 C1 수준으로 충족합니다."
+   ],
+   [
+    "B",
+    "8",
+    "vorwiegend",
+    "대체로 충족합니다."
+   ],
+   [
+    "C",
+    "4",
+    "vorwiegend nicht",
+    "대체로 충족하지 못합니다."
+   ],
+   [
+    "D",
+    "0",
+    "überhaupt nicht",
+    "전혀 충족하지 못합니다."
+   ]
+  ],
+  "levels_note": "A~D 점수는 이 앱의 Modelltest 해설(„vier Kriterien zu je 12 / 8 / 4 / 0 Punkten“)을 따랐고, 단계 이름과 A~D의 대응은 telc Übungstest 4의 표기를 순서대로 맞춘 것입니다.",
+  "zero": "Modelltest 해설은 다음 사례를 감점으로 듭니다. 350단어 미만은 Aufgabengerechtheit이 내려갑니다. 전체를 대문자나 소문자로만 쓰면 Korrektheit이 한 단계 내려갑니다. 학생 상황이나 Zitat를 다루지 않으면 Aufgabengerechtheit이 내려갑니다. 두 주제 중 어느 것도 다루지 않은 글은 „Thema verfehlt“로 모든 기준이 D입니다.",
+  "sim_title": "점수 환산 예시",
+  "sim_head": [
+   "등급 (Ⅰ Ⅱ Ⅲ Ⅳ)",
+   "합계",
+   "해석"
+  ],
+  "sim": [
+   [
+    "A A A A",
+    "48점",
+    "만점입니다."
+   ],
+   [
+    "A A A B",
+    "44점",
+    "정확성에서 한 등급만 내려간 경우입니다."
+   ],
+   [
+    "A A B B",
+    "40점",
+    "내용은 충실하고 표현 폭과 정확성이 대체로 충족된 경우입니다."
+   ],
+   [
+    "A B B B",
+    "36점",
+    "과제는 충실하고 나머지는 대체로 충족된 경우입니다."
+   ],
+   [
+    "B B B B",
+    "32점",
+    "모든 기준이 대체로 충족된 경우입니다."
+   ],
+   [
+    "B B B C",
+    "28점",
+    "정확성이 부족해 이해에 방해가 되기 시작하는 단계입니다."
+   ],
+   [
+    "B B C C",
+    "24점",
+    "표현 폭과 정확성이 모두 부족합니다."
+   ],
+   [
+    "C C C C",
+    "16점",
+    "모든 기준이 부분 충족입니다."
+   ]
+  ],
+  "sim_note": "필기 합격선 99점을 필기 전체 합계로 판정한다고 가정하면(Modelltest 표기), 쓰기에서 32점(B B B B)을 받을 때 나머지 세 영역(Lesen 48 + Sprachbausteine 22 + Hören 48 = 118점)에서 67점(약 57%)이 필요합니다. 쓰기 40점이면 59점(50%), 쓰기 24점이면 75점(약 64%)이 필요합니다. 쓰기에서 한 단계를 올리는 일이 다른 영역의 부담을 크게 줄입니다."
+ },
+ "strategy": {
+  "id": "strategie",
+  "title": "70분 운용 전략",
+  "intro": "아래 시간 배분은 SODA의 권장안입니다. 시험지는 전체 70분만 알려 주고 단계별 시간은 정하지 않습니다.",
+  "time_title": "70분 배분 (권장)",
+  "time_head": [
+   "단계",
+   "시간",
+   "할 일"
+  ],
+  "time": [
+   [
+    "① 읽기·선택",
+    "5분",
+    "두 주제의 상황 설명과 Zitat를 읽습니다. 글의 유형(Erörterung인지 Stellungnahme인지)과 독자를 확인합니다. 각 Zitat에 대해 „인정할 점 1개와 한계 1개“가 바로 떠오르는 주제를 고릅니다. 쓰다가 주제를 바꾸면 시간을 만회할 수 없습니다."
+   ],
+   [
+    "② 개요",
+    "10분",
+    "문단 5개의 키워드를 적습니다. 두 Zitat 문단의 „인정 → 한계“와 자기 입장 문단의 „주장 → 근거 → 예시“를 먼저 정합니다. 문장을 통째로 쓰지 않습니다."
+   ],
+   [
+    "③ 작성",
+    "40분",
+    "문단 순서대로 씁니다. 문단 하나를 8분 안에 쓰는 속도가 필요합니다."
+   ],
+   [
+    "④ 검토",
+    "15분",
+    "1회차는 내용만 봅니다(두 Zitat, 입장, 결론, 단어 수). 2회차는 형식만 봅니다(동사 위치, 형용사 어미, 전치사, 쉼표)."
+   ]
+  ],
+  "tips_title": "핵심 원칙 4가지",
+  "tips": [
+   [
+    "①",
+    "Situierung과 과제 문장이 요구하는 동사를 그대로 수행합니다. „Erörtern Sie“이면 장단점을, „Nehmen Sie Stellung“이면 내 의견과 이유를 분명히 씁니다."
+   ],
+   [
+    "②",
+    "두 Zitat를 모두 문단 안에 넣습니다. 한쪽만 다루면 Aufgabengerechtheit에서 감점됩니다."
+   ],
+   [
+    "③",
+    "예시는 장소, 전공, 숫자, 내 경험으로 구체화합니다. „viele Leute“, „in vielen Ländern“은 피합니다."
+   ],
+   [
+    "④",
+    "결론에는 새 논점을 넣지 않습니다. 새 근거가 떠오르면 자기 입장 문단에 넣습니다."
+   ]
+  ]
+ },
+ "plan": {
+  "id": "plan",
+  "title": "준비 4단계",
+  "intro": "기간은 SODA의 권장안입니다.",
+  "head": [
+   "단계",
+   "기간",
+   "학습 내용"
+  ],
+  "rows": [
+   [
+    "1. 구조 익히기",
+    "1~2주",
+    "5단 구조와 아래 표현표를 외웁니다. 모범 답안 10편을 문단별로 나누어 각 문단의 역할을 표시해 봅니다."
+   ],
+   [
+    "2. 문단 훈련",
+    "2~3주",
+    "Zitat 하나에 문단 하나를 씁니다. „의견 재현 → 인정 → 한계“와 „입장 → 근거 → 예시“ 문단을 70~100단어로 반복해서 씁니다."
+   ],
+   [
+    "3. 실전 시뮬레이션",
+    "주 1~2회",
+    "70분 타이머를 켜고 주제 2개 중 하나를 고르는 것부터 검토까지 실제 시험처럼 합니다. 끝나면 단어 수를 직접 셉니다. 이 앱의 Modelltest 5개 쓰기 과제를 쓰고 PDF의 Musterlösung과 비교하세요."
+   ],
+   [
+    "4. 교정과 다시 쓰기",
+    "매 회",
+    "첨삭 뒤에 오류를 유형별(어미, 전치사, 동사 위치, 쉼표)로 기록하고, 같은 주제를 일주일 뒤 다시 씁니다."
+   ]
+  ]
+ },
+ "structure": {
+  "id": "aufbau",
+  "title": "글의 구조와 유형",
+  "lead": "아래 5단 구조는 이 앱 Modelltest 5의 Musterlösung(도입 → Zitat 1 → Zitat 2 → 자기 입장·경험 → 결론)과 같은 순서입니다. 분량은 모범 답안 10편의 문단 길이에서 잡은 범위입니다.",
+  "head": [
+   "문단",
+   "분량",
+   "역할",
+   "쓰는 법"
+  ],
+  "rows": [
+   [
+    "1. Einleitung",
+    "45~65단어",
+    "주제의 현재성, 쟁점을 질문으로, 두 Zitat 예고",
+    "Kaum ein Thema wird derzeit so kontrovers diskutiert wie … / Dabei stellt sich die Frage, ob …"
+   ],
+   [
+    "2. Position 1",
+    "65~95단어",
+    "첫 Zitat: 핵심 재현, 타당한 점 인정, 한계 지적",
+    "Die erste Position stützt sich auf … / Diesem Argument ist insofern zuzustimmen, als … / Allerdings greift diese Sichtweise zu kurz, da …"
+   ],
+   [
+    "3. Position 2",
+    "70~95단어",
+    "둘째 Zitat: 대조 연결어로 시작, 근거 인정, 반박 또는 보완",
+    "Demgegenüber verweist die zweite Aussage auf … / Dieser Einwand wiegt schwer, denn … / Dem lässt sich jedoch entgegenhalten, dass …"
+   ],
+   [
+    "4. Eigene Position",
+    "95~120단어",
+    "입장 한 문장, 결정적 근거, 구체적 예(경험·고향·연구), 대안이나 조건",
+    "Ich vertrete die Auffassung, dass … / Ausschlaggebend ist für mich, dass … / Ein Blick auf … verdeutlicht, dass …"
+   ],
+   [
+    "5. Fazit",
+    "40~55단어",
+    "요약, 전망 또는 제안 (새 논점 금지)",
+    "Zusammenfassend lässt sich festhalten, dass … / Es wäre daher wünschenswert, dass …"
+   ]
+  ],
+  "para_note": "합계는 모범 답안 10편 기준 358~387단어입니다. 최소 350단어에 아슬아슬하게 걸리므로, 직접 쓸 때는 380단어 이상을 목표로 하세요. 문단은 빈 줄로 눈에 보이게 나눕니다.",
+  "type_title": "Erörterung과 Stellungnahme, 무엇이 다른가",
+  "type_head": [
+   "",
+   "Erörterung (예: 세미나)",
+   "Stellungnahme (예: 학내 잡지)"
+  ],
+  "types": [
+   [
+    "과제 문장",
+    "Erörtern Sie Vor- und Nachteile …",
+    "Nehmen Sie persönlich Stellung …"
+   ],
+   [
+    "인칭",
+    "비인칭 문체가 중심입니다. Ich는 경험과 결론에서만 씁니다.",
+    "Ich-Perspektive와 평가 표현(aus meiner Sicht, Ich bin dennoch für …)이 어울립니다."
+   ],
+   [
+    "도입",
+    "일상 예시와 Leitfrage",
+    "내가 겪은 일로 시작해도 됩니다."
+   ],
+   [
+    "결론",
+    "조건이 붙은 Fazit",
+    "도입의 이야기로 돌아가는 마무리도 가능합니다."
+   ]
+  ],
+  "type_note": "위 비교는 Modelltest 5 Musterlösung의 Hinweis(Thema 1은 sachlich·unpersönlich, Thema 2는 Ich-Perspektive)를 정리한 것입니다. 이 가이드의 모범 답안 10편은 두 유형에 모두 쓸 수 있는 중간 문체로 썼습니다. 시험에서는 과제 문장에 맞게 Ich의 비중을 조절하세요.",
+  "zitat_title": "Zitat를 글에 넣는 방법",
+  "zitat_head": [
+   "방법",
+   "표현"
+  ],
+  "zitat": [
+   [
+    "간접화법으로 재현",
+    "Dem ersten Zitat zufolge sei … / Die Befürworterin verweist darauf, dass …"
+   ],
+   [
+    "뜻을 풀어 쓰기",
+    "Das erste Zitat bringt zum Ausdruck, dass … / Gemeint ist damit, dass …"
+   ],
+   [
+    "동의하거나 한계 짓기",
+    "Insofern ist dem ersten Zitat zuzustimmen. / Ernst zu nehmen ist jedoch der Einwand, der im zweiten Zitat zum Ausdruck kommt."
+   ]
+  ],
+  "zitat_note": "Zitat를 그대로 베껴 쓰지 않고 내 말로 바꾸는 것이 핵심입니다. 이 앱 Modelltest 5의 Musterlösung도 Zitat마다 이런 식으로 받아서 동의와 한계를 함께 씁니다."
+ },
+ "official": {
+  "id": "musterloesung",
+  "title": "공식 느낌의 모범 답안에서 배울 점",
+  "intro": "이 앱 Modelltest 5의 Musterlösung(약 375단어와 379단어)이 보여 주는 공통점입니다.",
+  "items": [
+   "두 Zitat를 모두 받아서 각각 동의할 부분과 한계를 씁니다.",
+   "도입은 일상 장면이나 겪은 일로 시작하고 쟁점을 밝힙니다.",
+   "내 경험이 양쪽 입장을 모두 뒷받침하는 예로 들어갑니다.",
+   "결론은 „원칙적으로 찬성, 단 조건이 있다“처럼 조건이 붙은 입장입니다.",
+   "Nominalstil(Begutachtung, Annahme), 수동, 접속사(zunächst, hinzu kommt, jedoch, zudem, insgesamt)를 고르게 씁니다."
+  ]
+ },
+ "phrases": {
+  "id": "ausdruecke",
+  "title": "고득점 표현",
+  "intro": "왼쪽 표현도 틀린 것은 아니지만 B2 수준에 머뭅니다. Repertoire에서 높은 단계를 받으려면 오른쪽처럼 쓰세요. 기능별로 하나씩 통째로 외워 두면 문단마다 쓸 수 있습니다.",
+  "head": [
+   "기능",
+   "기본 (B2급)",
+   "고득점 (C1급)"
+  ],
+  "groups": [
+   {
+    "title": "도입과 쟁점",
+    "rows": [
+     [
+      "주제 도입",
+      "Heute ist X ein wichtiges Thema.",
+      "Kaum ein Thema wird derzeit so kontrovers diskutiert wie … / Seit einigen Jahren rückt … zunehmend in den Mittelpunkt der öffentlichen Debatte."
+     ],
+     [
+      "쟁점 제기",
+      "Die Frage ist, ob …",
+      "Dabei stellt sich die Frage, inwiefern … / Vor diesem Hintergrund ist zu klären, ob …"
+     ]
+    ]
+   },
+   {
+    "title": "Zitat 검토",
+    "rows": [
+     [
+      "의견 재현",
+      "A sagt, dass …",
+      "Die erste Position stützt sich auf die Annahme, dass … / Der zweiten Aussage zufolge …"
+     ],
+     [
+      "타당성 인정",
+      "Das stimmt, weil …",
+      "Diesem Argument ist insofern zuzustimmen, als … / Diese Einschätzung ist keineswegs unbegründet, denn …"
+     ],
+     [
+      "한계 지적",
+      "Aber das ist nicht ganz richtig.",
+      "Allerdings greift diese Sichtweise zu kurz, da sie … außer Acht lässt. / Dabei wird jedoch übersehen, dass …"
+     ],
+     [
+      "대조·반론",
+      "Auf der anderen Seite …",
+      "Demgegenüber lässt sich einwenden, dass … / Dem steht jedoch gegenüber, dass …"
+     ]
+    ]
+   },
+   {
+    "title": "자기 입장과 근거",
+    "rows": [
+     [
+      "자기 입장",
+      "Ich finde, dass …",
+      "Ich vertrete die Auffassung, dass … / Meines Erachtens überwiegen die Argumente für …"
+     ],
+     [
+      "결정적 근거",
+      "Der Grund ist …",
+      "Ausschlaggebend ist für mich, dass … / Dafür spricht vor allem, dass …"
+     ],
+     [
+      "예시 도입",
+      "Zum Beispiel …",
+      "Dies lässt sich am Beispiel … veranschaulichen. / Ein Blick auf mein Heimatland verdeutlicht, dass …"
+     ],
+     [
+      "연구·경향",
+      "Viele Leute sagen …",
+      "Studien belegen, dass … / Es ist zu beobachten, dass …"
+     ]
+    ]
+   },
+   {
+    "title": "문체와 논리",
+    "rows": [
+     [
+      "조건·결과",
+      "Wenn …, dann …",
+      "Sollte …, so hätte dies zur Folge, dass … / Dies würde dazu führen, dass …"
+     ],
+     [
+      "양보",
+      "Obwohl …",
+      "Wenngleich …, darf nicht übersehen werden, dass … / So berechtigt dieser Einwand ist, …"
+     ],
+     [
+      "명사 문체",
+      "Weil viele Studierende arbeiten, …",
+      "Aufgrund der Erwerbstätigkeit vieler Studierender … / Angesichts steigender Lebenshaltungskosten …"
+     ],
+     [
+      "비인칭 표현",
+      "Ich denke, …",
+      "Es lässt sich nicht bestreiten, dass … / Es ist davon auszugehen, dass …"
+     ]
+    ]
+   },
+   {
+    "title": "대안과 결론",
+    "rows": [
+     [
+      "대안 제시",
+      "Man sollte lieber …",
+      "Sinnvoller erscheint mir ein Modell, bei dem … / Eine Alternative bestünde darin, …"
+     ],
+     [
+      "요약",
+      "Zusammenfassend …",
+      "Zusammenfassend lässt sich festhalten, dass … / Abschließend bleibt festzuhalten, dass …"
+     ],
+     [
+      "전망·제안",
+      "Man sollte …",
+      "Es wäre daher wünschenswert, dass … / Künftig gilt es, … zu …"
+     ]
+    ]
+   }
+  ],
+  "closing_note": "위 표현은 모두 이 가이드의 모범 답안에 실제로 쓰였습니다. 한 문단에 하나씩만 넣어도 충분합니다. 뜻을 정확히 아는 것만 쓰세요."
+ },
+ "answers": {
+  "id": "beispiele",
+  "title": "모범 답안 10편",
+  "lead": "실제 시험처럼 주제마다 상황 설명, 과제 문장, 상반된 Zitat 2개를 제시합니다. 모든 답안은 5단 구조이고 350단어 이상입니다.",
+  "note": "실제 시험의 Zitat는 이보다 짧고 출처가 없는 경우가 많습니다(Modelltest 5). 답안 속 „나의 경험“(서울의 대학, 가족 이야기 등)은 예시입니다. 직접 쓸 때는 본인의 경험으로 바꾸세요.",
+  "items": [
+   {
+    "title": "Studiengebühren",
+    "textsorte": "Erörterung",
+    "situation": "In einem Seminar wird diskutiert, ob Hochschulen wieder allgemeine Studiengebühren erheben sollten.",
+    "task": "Erörtern Sie Vor- und Nachteile einer Wiedereinführung von Studiengebühren, greifen Sie die Zitate auf und beziehen Sie eigene Erfahrungen ein. Ziehen Sie ein begründetes Fazit.",
+    "quotes": [
+     [
+      "„Wer studiert, verdient später deutlich mehr. Es ist nur gerecht, wenn Studierende sich mit moderaten Gebühren an den Kosten ihrer Ausbildung beteiligen.\"",
+      "Prof. Dr. Martina Keller, Hochschulökonomin"
+     ],
+     [
+      "„Studiengebühren schrecken genau die jungen Menschen ab, die wir an den Hochschulen am dringendsten brauchen: Kinder aus Familien ohne akademischen Hintergrund.\"",
+      "Jonas Weber, Studierendenvertreter"
+     ]
+    ],
+    "paras": [
+     [
+      "Einleitung",
+      "Seit der Abschaffung der allgemeinen Studiengebühren in Deutschland flammt die Debatte über ihre Wiedereinführung in regelmäßigen Abständen erneut auf. Angesichts überfüllter Hörsäle und sanierungsbedürftiger Gebäude stellt sich die Frage, wer die Kosten der akademischen Ausbildung tragen sollte: die Allgemeinheit oder diejenigen, die unmittelbar davon profitieren. Zwei Aussagen aus der aktuellen Diskussion verdeutlichen, wie weit die Positionen auseinanderliegen."
+     ],
+     [
+      "Position 1",
+      "Die erste Position stützt sich auf das Prinzip der Leistungsgerechtigkeit. Da Akademikerinnen und Akademiker im Laufe ihres Berufslebens im Durchschnitt erheblich höhere Einkommen erzielen, erscheint eine finanzielle Beteiligung an der eigenen Ausbildung zunächst plausibel. Zudem könnten zusätzliche Mittel die Studienbedingungen spürbar verbessern, etwa durch kleinere Seminare oder eine bessere Betreuung. Allerdings greift diese Argumentation zu kurz, da sie den Zeitpunkt der Belastung außer Acht lässt: Gebühren fallen an, bevor überhaupt ein Einkommen erzielt wird."
+     ],
+     [
+      "Position 2",
+      "Genau hier setzt die Gegenposition an. Ihr zufolge wirken Gebühren vor allem auf Jugendliche aus nichtakademischen Familien abschreckend, selbst wenn Stipendien oder Kredite angeboten werden. Diese Sorge ist keineswegs unbegründet, denn die Entscheidung für ein Studium wird in solchen Familien häufig von der Angst vor Verschuldung geprägt. Dem lässt sich jedoch entgegenhalten, dass die soziale Selektion in Deutschland bereits lange vor dem Studium, nämlich beim Übergang auf das Gymnasium, stattfindet. Gebührenfreiheit allein löst dieses Problem also nicht."
+     ],
+     [
+      "Eigene Position",
+      "Meines Erachtens überwiegen dennoch die Argumente gegen allgemeine Studiengebühren. Ausschlaggebend ist für mich, dass Bildung eine gesellschaftliche Investition darstellt, deren Erträge nicht nur dem Einzelnen, sondern der gesamten Volkswirtschaft zugutekommen. Ein Blick auf mein Heimatland Korea verdeutlicht die Risiken des Gegenmodells: Dort zahlen Studierende an privaten Universitäten jährlich umgerechnet mehrere tausend Euro, was zahlreiche Familien in eine langfristige Verschuldung treibt und den Leistungsdruck erheblich verstärkt. Eine sozial verträglichere Alternative wäre eine nachgelagerte Beteiligung, bei der Absolventinnen und Absolventen erst ab einem bestimmten Einkommen einen Beitrag leisten. Ein solches Modell würde die Hochschulen finanziell entlasten, ohne den Zugang zum Studium von der Herkunft abhängig zu machen."
+     ],
+     [
+      "Fazit",
+      "Zusammenfassend lässt sich festhalten, dass beide Positionen berechtigte Anliegen formulieren, die Gebührenfreiheit jedoch das gerechtere Modell bleibt. Statt die Studierenden zur Kasse zu bitten, sollte der Staat die Hochschulfinanzierung als Zukunftsaufgabe begreifen und die notwendigen Mittel bereitstellen. Nur so lässt sich sicherstellen, dass über einen Studienplatz das Talent entscheidet und nicht der Kontostand der Eltern."
+     ]
+    ]
+   },
+   {
+    "title": "Auslandssemester als Pflicht",
+    "textsorte": "Erörterung",
+    "situation": "An Ihrer Hochschule wird überlegt, ein Auslandssemester für alle Studiengänge verpflichtend zu machen.",
+    "task": "Erörtern Sie, was für und was gegen eine solche Pflicht spricht, greifen Sie die Zitate auf und beziehen Sie eigene Erfahrungen ein. Ziehen Sie ein begründetes Fazit.",
+    "quotes": [
+     [
+      "„Ein Auslandssemester sollte in jedem Studiengang verpflichtend sein. Nichts fördert Sprachkenntnisse, Selbstständigkeit und interkulturelle Kompetenz so nachhaltig wie ein halbes Jahr im Ausland.\"",
+      "Dr. Claudia Berger, Leiterin des International Office"
+     ],
+     [
+      "„Eine Pflicht wäre ungerecht. Wer nebenbei arbeiten muss oder Familie hat, kann nicht einfach für ein halbes Jahr ins Ausland gehen.\"",
+      "Tarek Yilmaz, Student im fünften Semester"
+     ]
+    ],
+    "paras": [
+     [
+      "Einleitung",
+      "Internationale Erfahrung gilt heute als Schlüsselqualifikation, und kaum eine Hochschule wirbt nicht mit ihren Partneruniversitäten im Ausland. Dennoch verbringt nach wie vor nur eine Minderheit der Studierenden einen Teil des Studiums außerhalb Deutschlands. Vor diesem Hintergrund wird zunehmend diskutiert, ob ein Auslandssemester verpflichtend eingeführt werden sollte. Die beiden vorliegenden Aussagen bringen die zentralen Argumente dieser Debatte auf den Punkt."
+     ],
+     [
+      "Position 1",
+      "Die Befürworterin einer Pflicht verweist auf den unbestreitbaren Nutzen eines Auslandsaufenthalts. Tatsächlich belegen zahlreiche Studien, dass Studierende nach einem Semester im Ausland nicht nur über bessere Fremdsprachenkenntnisse verfügen, sondern auch selbstständiger und offener gegenüber anderen Kulturen sind. Darüber hinaus werden diese Kompetenzen auf dem Arbeitsmarkt zunehmend vorausgesetzt, insbesondere in international tätigen Unternehmen. Diesem Argument ist insofern zuzustimmen, als freiwillige Angebote offenbar nicht ausreichen, um breite Teile der Studierendenschaft zu erreichen."
+     ],
+     [
+      "Position 2",
+      "Demgegenüber macht die zweite Aussage auf die soziale Dimension aufmerksam. Für Studierende, die auf einen Nebenjob angewiesen sind oder Angehörige betreuen, stellt ein halbes Jahr im Ausland eine kaum zu bewältigende Hürde dar. Eine allgemeine Pflicht würde folglich genau jene benachteiligen, die ohnehin unter erschwerten Bedingungen studieren und deren Abschluss sich dadurch weiter verzögern würde. Dieser Einwand wiegt schwer, denn Chancengleichheit gehört zu den zentralen Aufgaben einer öffentlichen Hochschule. Allerdings ließe sich der Einwand zumindest teilweise entkräften, wenn Stipendien ausgebaut und Ausnahmeregelungen für Härtefälle geschaffen würden."
+     ],
+     [
+      "Eigene Position",
+      "Ich vertrete die Auffassung, dass eine verpflichtende Regelung dennoch der falsche Weg ist. Zum einen widerspricht Zwang dem Grundgedanken des Auslandsaufenthalts, der von Neugier und Eigeninitiative leben sollte. Zum anderen zeigt meine eigene Erfahrung, dass die größten Hindernisse nicht im fehlenden Willen, sondern in der Organisation liegen: Viele meiner Kommilitoninnen und Kommilitonen in Korea haben auf ein Austauschsemester verzichtet, weil im Ausland erbrachte Leistungen nicht anerkannt wurden und sich das Studium dadurch verlängert hätte. Statt einer Pflicht wären daher verbindliche Anerkennungsregeln, mehr finanzielle Unterstützung und flexible Formate wie Kurzprogramme in den Semesterferien sinnvoller. So könnte die Zahl der Auslandsaufenthalte erhöht werden, ohne einzelne Gruppen auszuschließen."
+     ],
+     [
+      "Fazit",
+      "Abschließend bleibt festzuhalten, dass beide Seiten ein berechtigtes Ziel verfolgen, nämlich möglichst vielen Studierenden internationale Erfahrungen zu ermöglichen. Der Weg dorthin sollte jedoch über Anreize und den Abbau von Hürden führen und nicht über eine Verpflichtung, die soziale Ungleichheiten eher verschärfen als beseitigen würde."
+     ]
+    ]
+   },
+   {
+    "title": "Digitale Lehre oder Präsenz",
+    "textsorte": "Erörterung",
+    "situation": "In einem Seminar wird diskutiert, ob Vorlesungen künftig überwiegend digital stattfinden sollten.",
+    "task": "Erörtern Sie Vor- und Nachteile digitaler Lehre, greifen Sie die Zitate auf und beziehen Sie eigene Erfahrungen ein. Ziehen Sie ein begründetes Fazit.",
+    "quotes": [
+     [
+      "„Online-Vorlesungen sind kein Notbehelf, sondern die Zukunft. Sie machen das Studium flexibler, ortsunabhängig und für berufstätige Studierende überhaupt erst möglich.\"",
+      "Prof. Dr. Stefan Lorenz, Hochschuldidaktiker"
+     ],
+     [
+      "„Ein Studium besteht nicht aus dem Abspielen von Videos. Ohne den direkten Austausch im Hörsaal und in der Bibliothek geht genau das verloren, was eine Universität ausmacht.\"",
+      "Lea Hoffmann, Studentin"
+     ]
+    ],
+    "paras": [
+     [
+      "Einleitung",
+      "Die pandemiebedingte Umstellung auf digitale Lehrformate hat die Hochschulen innerhalb weniger Wochen grundlegend verändert. Während viele Universitäten inzwischen zur Präsenzlehre zurückgekehrt sind, wird kontrovers darüber diskutiert, welche Rolle Online-Veranstaltungen künftig spielen sollten. Dabei stellt sich die Frage, ob digitale Lehre eine gleichwertige Alternative oder lediglich eine Ergänzung darstellt."
+     ],
+     [
+      "Position 1",
+      "Der Befürworter der Online-Lehre hebt vor allem deren Flexibilität hervor. In der Tat eröffnen aufgezeichnete Vorlesungen Studierenden mit Kindern, chronischen Erkrankungen oder einer Erwerbstätigkeit Möglichkeiten, die ihnen im klassischen Vorlesungsbetrieb verschlossen bleiben. Hinzu kommt, dass sich Inhalte beliebig oft wiederholen und im eigenen Tempo bearbeiten lassen, was insbesondere internationalen Studierenden zugutekommt. Nicht zuletzt entfallen lange Pendelzeiten, die gerade in Großstädten einen erheblichen Teil des Tages beanspruchen und die Konzentration der Studierenden bereits vor der ersten Veranstaltung schwächen. Insofern ist dieser Position zuzustimmen: Digitale Formate senken Zugangsbarrieren und tragen zu einer Demokratisierung der Bildung bei."
+     ],
+     [
+      "Position 2",
+      "Die Gegenposition erinnert hingegen daran, dass Wissenschaft ein sozialer Prozess ist. Diskussionen im Seminar, spontane Nachfragen und der informelle Austausch mit Kommilitoninnen lassen sich kaum durch eine Videokonferenz ersetzen. Zudem berichten Lehrende, dass die Motivation und die Konzentration vieler Studierender in rein digitalen Semestern deutlich nachgelassen haben. Es wäre allerdings verkürzt, daraus die Überlegenheit der Präsenzlehre abzuleiten, denn auch eine überfüllte Vorlesung mit dreihundert Zuhörenden bietet wenig Raum für echten Austausch."
+     ],
+     [
+      "Eigene Position",
+      "Meiner Ansicht nach liegt die Lösung nicht in einem Entweder-oder, sondern in einer durchdachten Kombination beider Formate. Reine Wissensvermittlung, etwa in Grundlagenvorlesungen, lässt sich hervorragend digital organisieren, während Seminare, Laborpraktika und Sprechstunden von der persönlichen Begegnung leben. An meiner Universität in Seoul wurde ein solches Modell bereits erprobt: Die Studierenden bereiteten sich anhand von Videos auf die Sitzungen vor, sodass die Präsenzzeit vollständig für Diskussionen und Gruppenarbeit genutzt werden konnte. Die Lernergebnisse verbesserten sich messbar, und zugleich ging die Zahl der Studienabbrüche zurück. Voraussetzung dafür ist jedoch, dass Lehrende didaktisch geschult werden und die technische Infrastruktur verlässlich funktioniert."
+     ],
+     [
+      "Fazit",
+      "Zusammenfassend lässt sich festhalten, dass digitale Lehre weder die Universität überflüssig macht noch ein bloßer Notbehelf ist. Ihr Potenzial entfaltet sie dort, wo sie gezielt eingesetzt wird und die knappe Präsenzzeit für das reserviert bleibt, was nur im direkten Austausch gelingt. Genau darin liegt die Aufgabe der Hochschulen in den kommenden Jahren."
+     ]
+    ]
+   },
+   {
+    "title": "Studium direkt nach der Schule oder Übergangsjahr",
+    "textsorte": "Stellungnahme",
+    "situation": "Eine Hochschulzeitschrift fragt, ob man direkt nach der Schule studieren oder zunächst ein Übergangsjahr einlegen sollte.",
+    "task": "Nehmen Sie persönlich Stellung: Legen Sie dar, was für und was gegen ein Übergangsjahr spricht, beziehen Sie die Zitate ein und begründen Sie Ihre Meinung.",
+    "quotes": [
+     [
+      "„Wer direkt nach dem Abitur studiert, nutzt seine Zeit am effizientesten. Ein Jahr Pause kostet Geld und führt oft dazu, dass man den Anschluss verliert.\"",
+      "Dr. Michael Brandt, Studienberater"
+     ],
+     [
+      "„Mit achtzehn weiß kaum jemand, was er wirklich will. Ein Jahr Praxiserfahrung schützt vor einer Fehlentscheidung, die später viel mehr Zeit kostet.\"",
+      "Sina Krüger, Studentin nach einem Freiwilligendienst"
+     ]
+    ],
+    "paras": [
+     [
+      "Einleitung",
+      "Mit dem Abitur in der Tasche stehen junge Menschen vor einer der wichtigsten Entscheidungen ihres Lebens. Immer mehr von ihnen schieben diese Entscheidung jedoch hinaus und absolvieren zunächst ein Freiwilligenjahr, ein Praktikum oder eine längere Reise. Ob ein solches Übergangsjahr sinnvoll ist oder lediglich wertvolle Zeit kostet, wird kontrovers diskutiert. Die beiden Aussagen spiegeln die gegensätzlichen Sichtweisen von Beratungspraxis und persönlicher Erfahrung wider."
+     ],
+     [
+      "Position 1",
+      "Die erste Position betont die Effizienz eines nahtlosen Übergangs. Wer unmittelbar nach der Schule studiert, ist beim Berufseinstieg jünger, verfügt noch über eingeübte Lernroutinen und vermeidet Lücken im Lebenslauf. Zudem ist nicht zu bestreiten, dass ein Jahr ohne Ausbildung auch finanzielle Kosten verursacht, sei es durch entgangenes Einkommen oder durch die Ausgaben für Reisen. Diese Sichtweise lässt jedoch außer Acht, dass Schnelligkeit allein noch keine fundierte Studienwahl garantiert."
+     ],
+     [
+      "Position 2",
+      "Genau darauf zielt die zweite Aussage. Angesichts von rund zwanzigtausend Studiengängen in Deutschland fällt es Schulabgängern verständlicherweise schwer, eine fundierte Entscheidung zu treffen. Praktische Erfahrungen, etwa in einem sozialen Beruf oder einem Unternehmen, können hier Klarheit schaffen und die Motivation für das spätere Studium erheblich steigern. Dass ein Studienabbruch nach drei Semestern weitaus mehr Zeit kostet als ein bewusst geplantes Übergangsjahr, spricht eindeutig für diese Sichtweise. Allerdings setzt der Nutzen voraus, dass das Jahr tatsächlich der Orientierung dient und nicht zur bloßen Verlängerung der Schulzeit wird."
+     ],
+     [
+      "Eigene Position",
+      "Ich vertrete die Auffassung, dass ein gut strukturiertes Übergangsjahr in den meisten Fällen die bessere Wahl darstellt. Ausschlaggebend ist für mich die persönliche Reife, die in diesem Alter innerhalb weniger Monate enorm zunehmen kann. Aus eigener Erfahrung kann ich berichten, dass ich in Korea unmittelbar nach dem Schulabschluss ein Fach gewählt habe, das vor allem meinen Eltern gefiel. Erst ein späteres Praktikum in einem Ingenieurbüro zeigte mir, wo meine Interessen tatsächlich liegen, und führte zu einem Fachwechsel, der mich zwei Jahre gekostet hat. Ein Orientierungsjahr hätte diesen Umweg vermutlich erspart. Entscheidend ist freilich, dass das Jahr mit klaren Zielen verbunden wird, beispielsweise mit Praktika in mehreren Berufsfeldern."
+     ],
+     [
+      "Fazit",
+      "Zusammenfassend lässt sich festhalten, dass die vermeintlich verlorene Zeit eines Übergangsjahres häufig eine Investition in eine tragfähige Entscheidung ist. Schulen und Hochschulen sollten daher nicht den schnellsten Weg ins Studium propagieren, sondern junge Menschen dabei unterstützen, ihre Interessen und Fähigkeiten zunächst realistisch einzuschätzen. Davon profitieren letztlich auch die Hochschulen, deren Abbruchquoten sinken würden."
+     ]
+    ]
+   },
+   {
+    "title": "Nebenjob während des Studiums",
+    "textsorte": "Erörterung",
+    "situation": "Die Studierendenvertretung sammelt Beiträge zu der Frage, welche Rolle ein Nebenjob während des Studiums spielen sollte.",
+    "task": "Erörtern Sie Vor- und Nachteile eines Nebenjobs, greifen Sie die Zitate auf und beziehen Sie eigene Erfahrungen ein. Ziehen Sie ein begründetes Fazit.",
+    "quotes": [
+     [
+      "„Ein Nebenjob ist die beste Vorbereitung auf das Berufsleben. Wer neben dem Studium arbeitet, lernt Zeitmanagement, Verantwortung und den Umgang mit Kolleginnen und Kollegen.\"",
+      "Prof. Dr. Andrea Fuchs, Arbeitsmarktforscherin"
+     ],
+     [
+      "„Zwei Drittel der Studierenden arbeiten, weil sie müssen, nicht weil sie wollen. Wer zwanzig Stunden pro Woche kellnert, hat für das Studium schlicht keine Kraft mehr.\"",
+      "Daniel Roth, Vorsitzender des Studierendenwerks"
+     ]
+    ],
+    "paras": [
+     [
+      "Einleitung",
+      "Für die Mehrheit der Studierenden in Deutschland gehört die Erwerbstätigkeit neben dem Studium längst zum Alltag. Steigende Mieten und Lebenshaltungskosten machen einen Nebenjob für viele unverzichtbar. Ob diese Doppelbelastung eher als Chance oder als Risiko für den Studienerfolg zu bewerten ist, darüber gehen die Meinungen weit auseinander, wie die beiden vorliegenden Aussagen zeigen."
+     ],
+     [
+      "Position 1",
+      "Die erste Position sieht in der Nebentätigkeit vor allem ein Lernfeld. Dieser Einschätzung ist insofern zuzustimmen, als Studierende im Arbeitsalltag Kompetenzen erwerben, die im Hörsaal kaum vermittelt werden: Pünktlichkeit, Teamfähigkeit und den Umgang mit Kundinnen und Vorgesetzten. Besonders fachnahe Tätigkeiten, etwa als studentische Hilfskraft oder Werkstudentin, erleichtern zudem den späteren Berufseinstieg erheblich. Allerdings übersieht diese Argumentation, dass der Nutzen stark von Art und Umfang der Beschäftigung abhängt."
+     ],
+     [
+      "Position 2",
+      "Hier setzt die Gegenposition an, die auf die finanzielle Notlage vieler Studierender verweist. Wer aus finanzieller Notwendigkeit zwanzig oder mehr Stunden pro Woche arbeitet, dem fehlen nicht nur Zeit, sondern auch Kraft für Vorlesungen, Prüfungsvorbereitung und eigenständiges Lesen. Studien belegen, dass ein hoher Arbeitsumfang mit längeren Studienzeiten und höheren Abbruchquoten einhergeht. Hinzu kommt, dass Studierende ohne finanzielle Unterstützung durch die Eltern in solchen Fällen doppelt benachteiligt sind. Der Hinweis, dass die meisten Betroffenen nicht freiwillig arbeiten, ist daher berechtigt und lenkt den Blick auf ein strukturelles Problem der Studienfinanzierung."
+     ],
+     [
+      "Eigene Position",
+      "Meines Erachtens sind beide Aussagen nicht so unvereinbar, wie es auf den ersten Blick scheint. Ein Nebenjob in begrenztem Umfang von etwa acht bis zehn Stunden pro Woche kann das Studium tatsächlich bereichern, insbesondere wenn er einen fachlichen Bezug aufweist. Problematisch wird es erst, wenn die Arbeit zur Hauptbeschäftigung wird. In meinem Heimatland Korea lässt sich diese Entwicklung deutlich beobachten: Zahlreiche Studierende finanzieren die hohen Studiengebühren durch Nachtschichten in Cafés und Supermärkten, sodass sie tagsüber übermüdet in den Seminaren sitzen. Die Lösung liegt folglich nicht in einem Verbot der Nebentätigkeit, sondern in einer Studienfinanzierung, die den tatsächlichen Lebenshaltungskosten entspricht und Erwerbsarbeit zu einer freien Entscheidung macht."
+     ],
+     [
+      "Fazit",
+      "Zusammenfassend lässt sich festhalten, dass ein Nebenjob dann wertvoll ist, wenn er das Studium ergänzt, statt es zu verdrängen. Solange jedoch ein erheblicher Teil der Studierenden aus Not arbeiten muss, bleibt die Forderung nach einer besseren Förderung aktueller denn je. Erst dann kann die Erwerbstätigkeit die Chance sein, die die erste Aussage in ihr sieht."
+     ]
+    ]
+   },
+   {
+    "title": "Englisch als Unterrichtssprache",
+    "textsorte": "Erörterung",
+    "situation": "An Ihrer Hochschule wird diskutiert, ob mehr Studiengänge ausschließlich auf Englisch angeboten werden sollen.",
+    "task": "Erörtern Sie Vor- und Nachteile englischsprachiger Lehre, greifen Sie die Zitate auf und beziehen Sie eigene Erfahrungen ein. Ziehen Sie ein begründetes Fazit.",
+    "quotes": [
+     [
+      "„Wer international konkurrenzfähig bleiben will, muss auf Englisch lehren. Nur so gewinnen wir die besten Studierenden und Forschenden aus aller Welt.\"",
+      "Prof. Dr. Robert Klein, Dekan"
+     ],
+     [
+      "„Wenn deutsche Universitäten ihre eigene Sprache aufgeben, verlieren wir die Fähigkeit, über Wissenschaft in unserer Gesellschaft zu sprechen. Fachbegriffe entstehen dann nur noch auf Englisch.\"",
+      "Dr. Ulrike Sommer, Germanistin"
+     ]
+    ],
+    "paras": [
+     [
+      "Einleitung",
+      "Der Anteil englischsprachiger Studiengänge an deutschen Hochschulen hat sich in den vergangenen zwanzig Jahren vervielfacht. Vor allem Masterprogramme in den Natur- und Wirtschaftswissenschaften werden heute vielfach ausschließlich auf Englisch angeboten. Diese Entwicklung wirft die Frage auf, welche Rolle die deutsche Sprache in der Wissenschaft künftig spielen soll. Die beiden Aussagen markieren die Pole einer Debatte, die weit über die Hochschulen hinausreicht."
+     ],
+     [
+      "Position 1",
+      "Der Befürworter der englischsprachigen Lehre argumentiert mit der internationalen Wettbewerbsfähigkeit. Tatsächlich ist Englisch die Verkehrssprache der Wissenschaft, in der der Großteil der Fachliteratur veröffentlicht wird. Hochschulen, die ihre Studiengänge auf Englisch anbieten, erreichen einen wesentlich größeren Kreis an Bewerberinnen und Bewerbern und erleichtern zugleich ihren eigenen Studierenden die Teilnahme an internationalen Forschungsprojekten. Diesem Argument ist insofern zuzustimmen, als ein Land, das auf Fachkräfte aus dem Ausland angewiesen ist, sprachliche Hürden nicht unnötig hoch ansetzen sollte."
+     ],
+     [
+      "Position 2",
+      "Die Gegenposition weist demgegenüber auf einen häufig unterschätzten Verlust hin. Wenn wissenschaftliche Erkenntnisse nur noch auf Englisch formuliert werden, entsteht eine Kluft zwischen der Forschung und der Gesellschaft, die sie finanziert. Fachbegriffe, für die es keine deutschen Entsprechungen mehr gibt, erschweren die öffentliche Debatte über Themen wie Klimawandel oder Gentechnik. Hinzu kommt, dass Lehrende und Studierende in einer Fremdsprache oft weniger präzise argumentieren, was die Qualität der Lehre beeinträchtigen kann. Dieser Einwand wiegt schwer, greift jedoch zu kurz, wenn er darauf hinausläuft, das Deutsche um jeden Preis zu verteidigen."
+     ],
+     [
+      "Eigene Position",
+      "Ich vertrete die Auffassung, dass eine konsequente Zweisprachigkeit der beste Weg ist. Ausschlaggebend ist für mich die Erfahrung als internationaler Studierender: Ich habe mich gerade deshalb für ein Studium in Deutschland entschieden, weil ich die Sprache lernen und in diesem Land arbeiten wollte. Ein rein englischsprachiger Studiengang hätte mich von der Gesellschaft, in der ich lebe, weitgehend abgeschnitten. Sinnvoll erscheint mir daher ein Modell, bei dem Grundlagenveranstaltungen auf Deutsch stattfinden, forschungsnahe Seminare je nach Fach auf Englisch angeboten werden und internationale Studierende verpflichtend Deutschkurse besuchen. Auch für deutsche Studierende wäre dies ein Gewinn, da sie beide Wissenschaftssprachen sicher beherrschen würden. So bleibt die Anschlussfähigkeit an die internationale Forschung gewahrt, ohne dass die Wissenschaft ihre Verankerung in der Gesellschaft verliert."
+     ],
+     [
+      "Fazit",
+      "Abschließend bleibt festzuhalten, dass die Frage nicht lautet, ob Englisch oder Deutsch, sondern wie beide Sprachen sinnvoll miteinander verbunden werden können. Universitäten, denen dies gelingt, sind nicht nur international attraktiv, sondern erfüllen auch ihren Auftrag, Wissen in die eigene Gesellschaft zu tragen."
+     ]
+    ]
+   },
+   {
+    "title": "Künstliche Intelligenz im Studium",
+    "textsorte": "Erörterung",
+    "situation": "Ihre Fakultät berät über den Umgang mit künstlicher Intelligenz bei Haus- und Abschlussarbeiten.",
+    "task": "Erörtern Sie, welche Chancen und Risiken der Einsatz von KI im Studium mit sich bringt, greifen Sie die Zitate auf und beziehen Sie eigene Erfahrungen ein. Ziehen Sie ein begründetes Fazit.",
+    "quotes": [
+     [
+      "„Wer künstliche Intelligenz aus dem Studium verbannt, bildet für eine Welt aus, die es nicht mehr gibt. Studierende müssen lernen, diese Werkzeuge kompetent zu nutzen.\"",
+      "Prof. Dr. Nina Hartmann, Informatikerin"
+     ],
+     [
+      "„Eine Hausarbeit, die eine Maschine geschrieben hat, beweist gar nichts. Wenn wir KI zulassen, verliert die schriftliche Prüfung jeden Wert.\"",
+      "Prof. Dr. Thomas Vogel, Historiker"
+     ]
+    ],
+    "paras": [
+     [
+      "Einleitung",
+      "Seit Programme wie ChatGPT in Sekunden ganze Aufsätze verfassen können, herrscht an den Hochschulen Verunsicherung. Während einige Fakultäten den Einsatz künstlicher Intelligenz ausdrücklich erlauben, drohen andere mit Exmatrikulation. Angesichts dieser uneinheitlichen Praxis stellt sich die Frage, wie Universitäten mit einer Technologie umgehen sollten, die sich ohnehin nicht mehr aufhalten lässt. Die beiden Aussagen zeigen, wie gegensätzlich die Antworten darauf ausfallen."
+     ],
+     [
+      "Position 1",
+      "Die erste Position betrachtet KI als selbstverständliches Werkzeug der Zukunft. Dieser Einschätzung ist insofern zuzustimmen, als Absolventinnen und Absolventen in nahezu allen Berufen mit solchen Systemen arbeiten werden. Wer im Studium lernt, Ergebnisse kritisch zu prüfen, Quellen zu verifizieren und die Grenzen der Programme zu erkennen, ist auf diese Realität besser vorbereitet als jemand, der die Technik nur heimlich benutzt hat. Ein Verbot würde zudem vor allem diejenigen bestrafen, die sich an die Regeln halten. Nicht zuletzt lässt sich die Einhaltung eines Verbots in der Praxis kaum kontrollieren."
+     ],
+     [
+      "Position 2",
+      "Demgegenüber verweist die zweite Aussage auf ein grundlegendes Problem der Leistungsbewertung. Eine Hausarbeit soll belegen, dass Studierende eigenständig recherchieren, strukturieren und argumentieren können. Wird dieser Prozess an eine Maschine delegiert, sagt das Ergebnis nichts mehr über die tatsächliche Kompetenz aus. Diese Sorge ist berechtigt, denn gerade in den Geisteswissenschaften ist das Schreiben nicht nur Mittel der Prüfung, sondern selbst Gegenstand des Lernens. Allerdings lässt sich daraus eher die Notwendigkeit neuer Prüfungsformen ableiten als ein generelles Verbot."
+     ],
+     [
+      "Eigene Position",
+      "Meiner Ansicht nach führt an einem geregelten Umgang mit künstlicher Intelligenz kein Weg vorbei. Entscheidend ist dabei Transparenz: Studierende sollten offenlegen, wofür sie KI eingesetzt haben, etwa zur Literaturrecherche oder zur sprachlichen Überarbeitung, während die Kernleistung, nämlich die eigene Argumentation, nachweisbar von ihnen selbst stammen muss. An meiner Fakultät wurde dazu ein Modell eingeführt, das Hausarbeiten mit einem kurzen mündlichen Kolloquium verbindet, in dem die Verfasserinnen und Verfasser ihre Thesen verteidigen. Wer den eigenen Text nicht durchdacht hat, scheitert dort schnell. Gleichzeitig zeigte sich, dass viele Studierende die Programme sinnvoll nutzten, beispielsweise um komplexe Fachtexte zusammenzufassen, und dadurch mehr Zeit für die eigentliche Analyse gewannen."
+     ],
+     [
+      "Fazit",
+      "Zusammenfassend lässt sich festhalten, dass die Hochschulen die Prüfungskultur an die neue Realität anpassen müssen, statt eine Technologie zu verbieten, die längst zum Alltag gehört. Der kompetente und ehrliche Umgang mit künstlicher Intelligenz sollte selbst zu einem Lernziel werden. Nur so behalten akademische Abschlüsse auch in Zukunft ihren Wert."
+     ]
+    ]
+   },
+   {
+    "title": "Anwesenheitspflicht in Seminaren",
+    "textsorte": "Erörterung",
+    "situation": "In einem Seminar wird diskutiert, ob für Seminare eine Anwesenheitspflicht gelten sollte.",
+    "task": "Erörtern Sie Vor- und Nachteile einer Anwesenheitspflicht, greifen Sie die Zitate auf und beziehen Sie eigene Erfahrungen ein. Ziehen Sie ein begründetes Fazit.",
+    "quotes": [
+     [
+      "„Ein Seminar lebt von der Diskussion. Wenn die Hälfte fehlt, leidet die Qualität für alle. Eine Anwesenheitspflicht ist deshalb kein Zwang, sondern Fairness gegenüber den Anwesenden.\"",
+      "Prof. Dr. Katrin Meier, Soziologin"
+     ],
+     [
+      "„Erwachsene Menschen brauchen keine Anwesenheitsliste. Wer die Prüfung besteht, hat gezeigt, dass er den Stoff beherrscht, egal ob er im Raum saß oder nicht.\"",
+      "Felix Bauer, Student der Rechtswissenschaft"
+     ]
+    ],
+    "paras": [
+     [
+      "Einleitung",
+      "In mehreren Bundesländern ist die Anwesenheitspflicht in Lehrveranstaltungen gesetzlich eingeschränkt oder ganz abgeschafft worden. Seither wird an den Hochschulen darüber gestritten, ob regelmäßige Teilnahme verbindlich vorgeschrieben werden darf oder ob dies der Eigenverantwortung der Studierenden widerspricht. Die beiden Aussagen zeigen, dass dabei zwei unterschiedliche Vorstellungen vom Studium aufeinandertreffen."
+     ],
+     [
+      "Position 1",
+      "Die erste Position versteht das Seminar als gemeinschaftlichen Lernprozess. Dieser Sichtweise ist insofern zuzustimmen, als Diskussionen, Referate und Gruppenarbeiten nur gelingen, wenn ausreichend Teilnehmende vorbereitet anwesend sind. Wer regelmäßig fehlt, beeinträchtigt somit nicht nur den eigenen Lernerfolg, sondern auch den der übrigen Teilnehmenden. Darüber hinaus zeigen Erfahrungen vieler Lehrender, dass die Teilnahme nach Abschaffung der Pflicht deutlich zurückgeht, was die Planung anspruchsvoller Formate erschwert. Allerdings garantiert die bloße Anwesenheit noch keine aktive Beteiligung."
+     ],
+     [
+      "Position 2",
+      "Genau daran knüpft die Gegenposition an. Studierende sind erwachsene Menschen, die selbst entscheiden sollten, wie sie sich den Stoff aneignen. Aus dieser Perspektive erscheint eine Anwesenheitsliste als Ausdruck von Misstrauen, der zudem Berufstätige und Studierende mit Kindern benachteiligt. Auch das Argument, dass letztlich die Prüfung über die Kompetenz entscheidet, lässt sich nicht von der Hand weisen. Hinzu kommt, dass Anwesenheitskontrollen in großen Gruppen erheblichen organisatorischen Aufwand verursachen. Dennoch greift diese Auffassung zu kurz, da sie das Seminar auf einen Ort der reinen Stoffvermittlung reduziert und den Wert des gemeinsamen Argumentierens außer Acht lässt."
+     ],
+     [
+      "Eigene Position",
+      "Ich vertrete die Auffassung, dass die Frage der Anwesenheit differenziert beantwortet werden muss. In Vorlesungen, deren Inhalte auch aus Skripten oder Aufzeichnungen erlernt werden können, ist eine Pflicht kaum zu rechtfertigen. In Seminaren, Übungen und Laborpraktika hingegen, in denen die Interaktion selbst das Lernziel darstellt, halte ich eine verbindliche Teilnahme für angemessen. Meine Erfahrung in Korea, wo die Anwesenheit häufig in die Note einfließt, hat mich allerdings gelehrt, dass bloße Kontrolle wenig bewirkt: Viele saßen zwar im Raum, beschäftigten sich aber mit ihrem Smartphone. Wirksamer sind Veranstaltungen, die so gestaltet sind, dass sich die Teilnahme lohnt, etwa durch kleine Gruppen, echte Diskussionen und die Anerkennung aktiver Mitarbeit."
+     ],
+     [
+      "Fazit",
+      "Zusammenfassend lässt sich festhalten, dass eine pauschale Anwesenheitspflicht ebenso wenig überzeugt wie ihre vollständige Abschaffung. Entscheidend ist, dass die Regelung zum Format der Veranstaltung passt und die Lehre so attraktiv gestaltet wird, dass Studierende freiwillig kommen. Fairness gegenüber den Anwesenden und Vertrauen in die Studierenden schließen sich dabei keineswegs aus."
+     ]
+    ]
+   },
+   {
+    "title": "Berufsvorbereitung oder Bildung",
+    "textsorte": "Stellungnahme",
+    "situation": "Eine Hochschulzeitschrift fragt, ob ein Studium vor allem auf den Beruf vorbereiten sollte.",
+    "task": "Nehmen Sie persönlich Stellung: Legen Sie dar, was für und was gegen eine starke Berufsorientierung spricht, beziehen Sie die Zitate ein und begründen Sie Ihre Meinung.",
+    "quotes": [
+     [
+      "„Ein Studium muss auf den Beruf vorbereiten. Absolventen, die drei Jahre Theorie gelernt, aber kein Projekt geleitet und keine Präsentation gehalten haben, sind für uns kaum zu gebrauchen.\"",
+      "Dr. Sabine Wolf, Personalleiterin"
+     ],
+     [
+      "„Die Universität ist keine Berufsschule. Ihre Aufgabe ist es, Menschen zum selbstständigen Denken zu befähigen, nicht sie für die Bedürfnisse einzelner Unternehmen zurechtzuschneiden.\"",
+      "Prof. Dr. Hans Richter, Philosoph"
+     ]
+    ],
+    "paras": [
+     [
+      "Einleitung",
+      "Kaum eine Frage begleitet die Hochschulen so dauerhaft wie die nach ihrem eigentlichen Zweck. Sollen Universitäten in erster Linie qualifizierte Fachkräfte für den Arbeitsmarkt ausbilden, oder liegt ihre Aufgabe darin, unabhängiges Denken und wissenschaftliche Neugier zu fördern? Die beiden vorliegenden Aussagen aus Wirtschaft und Wissenschaft vertreten hierzu geradezu entgegengesetzte Standpunkte."
+     ],
+     [
+      "Position 1",
+      "Die Personalleiterin fordert eine stärkere Ausrichtung des Studiums auf berufliche Anforderungen. Dieser Position ist insofern zuzustimmen, als die Mehrheit der Studierenden ein Studium aufnimmt, um später einen qualifizierten Beruf auszuüben, und nicht, um eine wissenschaftliche Laufbahn einzuschlagen. Praktika, Projektarbeit und Präsentationstraining erleichtern den Berufseinstieg nachweislich und verringern die vielfach beklagte Kluft zwischen Hörsaal und Arbeitswelt. Nicht zuletzt erwarten auch die Studierenden selbst, dass ihr Abschluss auf dem Arbeitsmarkt etwas gilt. Problematisch wird diese Sichtweise jedoch, wenn Unternehmen die Studieninhalte nach ihrem kurzfristigen Bedarf bestimmen wollen."
+     ],
+     [
+      "Position 2",
+      "Hier setzt der Philosoph an, der die Universität als Ort der Bildung und nicht der Ausbildung versteht. Sein Argument, dass selbstständiges Denken die wichtigste Qualifikation überhaupt sei, hat angesichts eines Arbeitsmarktes, dessen Anforderungen sich alle paar Jahre wandeln, einiges für sich. Wer gelernt hat, Probleme zu analysieren und sich neue Wissensgebiete eigenständig zu erschließen, kommt mit diesem Wandel besser zurecht als jemand, der nur auf konkrete Tätigkeiten vorbereitet wurde. Dennoch übersieht diese Haltung, dass Theorie ohne jeden Praxisbezug viele Studierende demotiviert."
+     ],
+     [
+      "Eigene Position",
+      "Meines Erachtens beruht der Gegensatz auf einem Missverständnis, denn Bildung und Berufsvorbereitung schließen einander nicht aus. Ein Beispiel aus meinem eigenen Studium in Korea verdeutlicht dies: In einem Seminar zur Stadtsoziologie untersuchten wir die Verdrängung kleiner Händler aus einem Seouler Stadtviertel, führten eigene Interviews und stellten die Ergebnisse dem Bezirksamt vor. Wir lernten dabei nicht nur theoretische Konzepte, sondern auch Projektplanung, Teamarbeit und den Umgang mit Auftraggebern. Solche Formate verbinden wissenschaftliche Tiefe mit praktischer Relevanz. Die Hochschulen sollten daher weder zu Berufsschulen werden noch die Arbeitswelt ignorieren, sondern Praxis als Anlass für wissenschaftliche Reflexion begreifen."
+     ],
+     [
+      "Fazit",
+      "Zusammenfassend lässt sich festhalten, dass ein gutes Studium beide Ziele verfolgt: Es vermittelt die Fähigkeit zum kritischen Denken und macht diese Fähigkeit zugleich in der Praxis anwendbar. Unternehmen und Universitäten sollten deshalb nicht gegeneinander, sondern gemeinsam festlegen, was Absolventinnen und Absolventen am Ende ihres Studiums können müssen."
+     ]
+    ]
+   },
+   {
+    "title": "Zulassung nach Abiturnote",
+    "textsorte": "Stellungnahme",
+    "situation": "Eine Hochschulzeitschrift fragt, ob die Abiturnote das wichtigste Kriterium für die Zulassung zum Studium sein sollte.",
+    "task": "Nehmen Sie persönlich Stellung: Legen Sie dar, was für und was gegen die Abiturnote als Zulassungskriterium spricht, beziehen Sie die Zitate ein und begründen Sie Ihre Meinung.",
+    "quotes": [
+     [
+      "„Die Abiturnote ist das objektivste Kriterium, das wir haben. Sie fasst zwölf Jahre Leistung zusammen und ist für alle Bewerber gleich nachvollziehbar.\"",
+      "Dr. Markus Lange, Hochschulverwaltung"
+     ],
+     [
+      "„Eine Note aus Bayern ist nicht dieselbe wie eine aus Bremen. Wer Studienplätze nur nach Zahlen vergibt, belohnt Herkunft und Glück, nicht Eignung.\"",
+      "Prof. Dr. Eva Neumann, Bildungsforscherin"
+     ]
+    ],
+    "paras": [
+     [
+      "Einleitung",
+      "In stark nachgefragten Fächern wie Medizin, Psychologie oder Architektur entscheidet in Deutschland nach wie vor überwiegend die Abiturnote über die Zulassung zum Studium. Ob dieses Verfahren den Anforderungen an ein gerechtes und zugleich praktikables Auswahlsystem genügt, wird seit Jahren kontrovers diskutiert. Die beiden Aussagen verdeutlichen, wie unterschiedlich die Bewertung ausfällt."
+     ],
+     [
+      "Position 1",
+      "Der Vertreter der Hochschulverwaltung betont die Objektivität und Transparenz der Note. In der Tat lässt sich ein Zahlenwert ohne großen Aufwand vergleichen und ist gegen Willkür weitgehend geschützt, was bei mehreren zehntausend Bewerbungen pro Jahr ein erheblicher Vorteil ist. Zudem spiegelt die Abiturnote nicht nur Wissen, sondern auch Ausdauer und Arbeitshaltung über einen langen Zeitraum wider. Nicht zuletzt bietet ein klares Zahlenkriterium den Bewerberinnen und Bewerbern Planungssicherheit, da sie ihre Chancen realistisch einschätzen können. Diesem Argument ist insofern zuzustimmen, als jedes alternative Verfahren erheblich mehr Ressourcen erfordern würde."
+     ],
+     [
+      "Position 2",
+      "Die Bildungsforscherin verweist hingegen auf die begrenzte Vergleichbarkeit der Noten. Da die Anforderungen zwischen den Bundesländern und selbst zwischen einzelnen Schulen stark schwanken, misst die Note nicht nur die Leistung, sondern spiegelt auch den Zufall des Wohnorts wider. Hinzu kommt, dass Kinder aus bildungsnahen Familien von privater Nachhilfe und elterlicher Unterstützung profitieren, was den Notendurchschnitt zusätzlich verzerrt. Vor allem aber sagt eine hervorragende Abiturnote wenig darüber aus, ob jemand über die kommunikativen und praktischen Fähigkeiten verfügt, die etwa im Arztberuf unverzichtbar sind. Dieser Einwand wiegt schwer."
+     ],
+     [
+      "Eigene Position",
+      "Ich vertrete die Auffassung, dass die Abiturnote als eines von mehreren Kriterien beibehalten, jedoch durch weitere Verfahren ergänzt werden sollte. Fachspezifische Eignungstests, wie sie in der Medizin bereits eingesetzt werden, sowie strukturierte Auswahlgespräche können Aspekte erfassen, die eine Note nicht abbildet. Mein Heimatland Korea zeigt allerdings auch die Gefahren eines Systems, das fast vollständig auf einer einzigen Prüfung beruht: Der jährliche Aufnahmetest erzeugt einen enormen Druck, führt zu einer milliardenschweren Nachhilfeindustrie und benachteiligt gerade jene Jugendlichen, deren Familien sich diese nicht leisten können. Ein ausgewogenes Modell aus Note, Test und Gespräch verteilt das Risiko auf mehrere Säulen und erhöht die Chance, tatsächlich die geeigneten Bewerberinnen und Bewerber auszuwählen."
+     ],
+     [
+      "Fazit",
+      "Zusammenfassend lässt sich festhalten, dass die Abiturnote ein praktikables, aber kein hinreichendes Kriterium darstellt. Ein gerechtes Auswahlverfahren muss den Aufwand mehrerer Prüfungsschritte in Kauf nehmen, wenn es Eignung und nicht Herkunft belohnen will. Die dafür nötigen Investitionen zahlen sich langfristig aus, weil weniger Studierende abbrechen und die Absolventinnen und Absolventen besser zu ihrem Beruf passen."
+     ]
+    ]
+   }
+  ]
+ },
+ "mistakes": {
+  "id": "fehler",
+  "title": "한국 학습자가 자주 하는 실수",
+  "head": [
+   "실수",
+   "이렇게 고치기",
+   "설명"
+  ],
+  "rows": [
+   [
+    "ich로 시작하는 문장이 절반 이상",
+    "Es lässt sich nicht bestreiten, dass … / Meines Erachtens … / Dabei ist zu berücksichtigen, dass …",
+    "Erörterung에서는 비인칭 구문이 어울립니다. Stellungnahme에서는 Ich-Perspektive도 허용됩니다."
+   ],
+   [
+    "두 Zitat 중 한쪽만 다루고 자기 주장으로 직행",
+    "각 Zitat에 문단 하나: 핵심 재현, 타당한 점 인정, 한계 지적",
+    "Zitat를 다루지 않으면 Aufgabengerechtheit에서 감점됩니다(Modelltest 해설)."
+   ],
+   [
+    "Zitat를 그대로 베껴 씀",
+    "Dem ersten Zitat zufolge sei … / Die Befürworterin verweist darauf, dass …",
+    "간접화법이나 명사화로 바꿔 씁니다."
+   ],
+   [
+    "예시가 추상적 (viele Leute, in vielen Ländern)",
+    "An meiner Universität in Seoul … / Studien belegen, dass …",
+    "장소, 전공, 숫자, 내 경험으로 구체화합니다. „Studien belegen“은 실제로 아는 연구에만 씁니다."
+   ],
+   [
+    "도입 80단어, 결론 20단어",
+    "도입과 결론은 각 40~65단어, 본론 세 문단에 250단어 이상",
+    "문단 비율이 무너지면 구성이 약해 보입니다."
+   ],
+   [
+    "연결어를 문장 첫머리에만 나열",
+    "jedoch, allerdings, hingegen을 문장 중간에, wenngleich, sofern, zumal은 부문장으로",
+    "문장 안에서 연결해야 리듬이 생깁니다."
+   ],
+   [
+    "구어체 어휘 (halt, ja, toll, Sachen, kriegen)",
+    "erhalten, Aspekte, erheblich, beträchtlich, durchaus",
+    "학술 문체에 맞는 단어로 바꿉니다."
+   ],
+   [
+    "형용사 어미·전치사·동사 위치 오류",
+    "검토 2회차를 어미, 전치사, 동사 위치에만 씁니다",
+    "Korrektheit 기준에서 가장 자주 감점되는 부분입니다."
+   ],
+   [
+    "결론에서 새 논점을 꺼냄",
+    "요약과 전망만 씁니다",
+    "새 근거가 떠오르면 자기 입장 문단에 넣습니다."
+   ],
+   [
+    "350단어를 못 채우고 제출",
+    "한 줄 평균 단어 수 × 줄 수로 빠르게 셉니다",
+    "350단어 미만은 Aufgabengerechtheit이 내려갑니다. 380단어를 목표로 하세요."
+   ]
+  ]
+ },
+ "grammar": {
+  "id": "grammatik",
+  "title": "C1 합격 필수 문법",
+  "intro": "아래 문법이 글에 자연스럽게 들어가면 Repertoire와 Korrektheit에서 높은 단계를 받는 데 도움이 됩니다. 모두 위 모범 답안에서 쓰인 것들입니다. 모두 쓸 필요는 없고 확실한 것을 정확하게 쓰세요.",
+  "head": [
+   "문법",
+   "핵심",
+   "예문"
+  ],
+  "rows": [
+   [
+    "명사 문체",
+    "동사·부문장을 명사구로 압축합니다 (aufgrund, angesichts, infolge + 2격)",
+    "Aufgrund der Zunahme englischsprachiger Studiengänge …"
+   ],
+   [
+    "분사 수식어",
+    "확장된 분사 구문이 관계문을 대체합니다",
+    "die in den letzten Jahren deutlich gestiegenen Mieten"
+   ],
+   [
+    "Konjunktiv II (가정·완곡)",
+    "wäre / hätte / würde, 조건 도치 Sollte …, so …",
+    "Sollte die Pflicht eingeführt werden, so hätte dies erhebliche Folgen."
+   ],
+   [
+    "간접화법 (Konjunktiv I)",
+    "의견 재현 시 sei / habe / müsse",
+    "Der Autorin zufolge sei ein Nebenjob die beste Vorbereitung."
+   ],
+   [
+    "수동 대체 표현",
+    "sein + zu + Infinitiv / sich lassen / -bar",
+    "Dies ist kaum zu bestreiten. / Das Problem lässt sich nicht leugnen."
+   ],
+   [
+    "기능동사구",
+    "동사 대신 명사 + 동사 결합",
+    "in Frage stellen · zur Verfügung stehen · in Betracht ziehen · zum Ausdruck bringen"
+   ],
+   [
+    "양보·대립 접속사",
+    "wenngleich, obgleich, gleichwohl, hingegen, indes",
+    "Wenngleich das Argument berechtigt ist, greift es zu kurz."
+   ],
+   [
+    "2격 전치사",
+    "ungeachtet, zugunsten, mangels, seitens, anhand",
+    "Ungeachtet aller Kritik hält die Regierung an dem Plan fest."
+   ],
+   [
+    "wo(r)- 관계부사",
+    "worauf, wovon, wobei, woraufhin",
+    "Die Studierenden protestierten, woraufhin die Gebühren gesenkt wurden."
+   ],
+   [
+    "비인칭 구문",
+    "Es gilt zu … / Es ist davon auszugehen, dass … / Es bleibt festzuhalten, dass …",
+    "Es gilt, die Prüfungskultur an die veränderte Realität anzupassen."
+   ],
+   [
+    "2단 접속사",
+    "nicht nur … sondern auch / weder … noch / je … desto / zwar … aber",
+    "Je höher die Gebühren, desto geringer die Zahl der Bewerber."
+   ],
+   [
+    "부정사 구문 확장",
+    "ohne … zu / statt … zu / um … zu",
+    "Statt die Studierenden zur Kasse zu bitten, sollte der Staat investieren."
+   ],
+   [
+    "추측·판단의 화법조동사",
+    "dürfte, müsste, könnte (+ 완료형)",
+    "Die Zahl der Abbrüche dürfte in den kommenden Jahren weiter steigen."
+   ],
+   [
+    "문장 리듬 (장·단 교차)",
+    "긴 복문 뒤에 짧은 단문으로 강조합니다",
+    "Die Argumente sind vielfältig. Überzeugend ist jedoch nur eines."
+   ]
+  ]
+ },
+ "checklist": {
+  "id": "checkliste",
+  "title": "제출 전 체크리스트 — 마지막 5분",
+  "items": [
+   "두 Zitat가 각각 한 문단씩 다뤄졌는가?",
+   "상황 설명과 과제 문장이 요구한 것(장단점인지 개인 의견인지)을 썼는가?",
+   "입장이 한 문장으로 분명히 드러나는가? (Ich vertrete die Auffassung, dass …)",
+   "구체적인 예시가 최소 하나 있는가?",
+   "350단어를 넘는가? (한 줄 평균 단어 수 × 줄 수로 빠르게 계산)",
+   "문단 5개가 빈 줄이나 들여쓰기로 눈에 보이게 나뉘어 있는가?",
+   "결론에 새 논점이 없는가?",
+   "Nebensatz 동사 위치, 형용사 어미, 쉼표를 한 번 더 확인했는가?"
+  ]
+ },
+ "advice": "telc C1 Hochschule 쓰기는 5단 구조를 지키면 과제 충실도와 구성에서 높은 단계를 받기 쉽고, 승부는 표현 폭과 정확성에서 갈립니다. 문단마다 고득점 표현을 하나씩 넣고, 마지막 15분은 반드시 검토에 쓰세요."
+}

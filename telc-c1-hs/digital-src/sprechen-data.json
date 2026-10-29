@@ -1,0 +1,1126 @@
+{
+ "title": "말하기 시험 대비 가이드",
+ "eyebrow": "telc Deutsch C1 Hochschule · Mündlicher Ausdruck",
+ "lead": "말하기 시험은 파트너와 함께 보는 Teil 1A(발표), Teil 1B(요약과 질문), Teil 2(토론)로 이루어집니다. 시험 구조와 채점 방식, 준비 방법, Teil별 진행과 표현, 모범 발표·요약·토론 10편, 필수 문법을 정리했습니다.",
+ "closing": "Sprich mit deinem Partner, nicht mit dem Zettel – dann wird aus Stichworten ein Gespräch.",
+ "sources_title": "근거 자료",
+ "sources": [
+  [
+   "telc Deutsch C1 Hochschule, Handbuch (Ablauf der mündlichen Prüfung, 20 Minuten Vorbereitung, Punkte 6 / 4 / 6 und 32)",
+   "https://www.telc.net/fileadmin/user_upload/pdfs/Handbuch_und_Tipps_fuer_Pruefungsvorbereitung/Deutsch_c1_hochschule_Handbuch.pdf"
+  ],
+  [
+   "telc Deutsch C1 Hochschule, Übungstest 4 (Punkteübersicht Mündlicher Ausdruck)",
+   "https://shop.telc.net/media/catalog/product/file/5032B00040102BiB.pdf"
+  ],
+  [
+   "이 앱의 telc C1 HS Modelltest 5 (구술 16–19쪽, 모범 예시 23–24쪽, 채점 34쪽). SODA의 연습 자료이며 telc 본사의 공식 자료가 아닙니다",
+   "telc%20C1%20HS%20Modelltest%205.pdf#page=16"
+  ]
+ ],
+ "overview": {
+  "id": "uebersicht",
+  "title": "시험 한눈에 보기",
+  "rows": [
+   [
+    "형식",
+    "2인 1조 시험입니다. 응시자가 홀수면 3인 조가 되고, Modelltest에는 응시자 C의 과제도 있습니다. 준비 20분 뒤 시험이 약 16분 진행됩니다. 이 앱의 Modelltest는 „Paarprüfung mit zwei Prüfenden“이라고 표기합니다. telc 핸드북에서 시험관 인원은 확인하지 못했습니다."
+   ],
+   [
+    "준비",
+    "20분입니다. 감독 아래에서 도구 없이 준비하고, Teil 1 과제지를 받아 주제 2개 중 하나를 고릅니다. Modelltest 지시문은 메모를 „Stichworte, keinen zusammenhängenden Text“로 쓰라고 합니다. 시험 중에 메모지를 들고 들어가는 방식은 시험 센터의 안내를 확인하세요."
+   ],
+   [
+    "Kennenlernen",
+    "시험 시작의 짧은 대화입니다. 점수에 들어가지 않습니다."
+   ],
+   [
+    "Teil 1A 발표",
+    "약 3분입니다. 고른 주제로 발표합니다. 청중은 시험관이 아니라 파트너입니다. 도입(예시·경험)과 결론을 넣고 잘 구성해서 말하라는 지시가 있습니다."
+   ],
+   [
+    "Teil 1B 요약·질문",
+    "약 2분입니다. 파트너 발표를 듣고 요약하고, 인상 깊었던 점을 말하고, 질문을 하나 이상 합니다. 발표자가 답합니다. 그다음 역할을 바꿔 한 번 더 합니다. 시험관도 질문할 수 있습니다."
+   ],
+   [
+    "Teil 2 토론",
+    "약 6분입니다. 시험관이 Zitat 3개 중 하나를 제시합니다. 먼저 뜻을 어떻게 이해했는지 짧게 밝히고 파트너와 토론합니다. 수준에 못 미치면 시험관이 질문으로 개입합니다. telc 핸드북은 Zitat와 표준화된 질문(Diskussionspunkte)을 기반으로 한다고 적고 있습니다."
+   ],
+   [
+    "배점",
+    "48점입니다. 내용 점수는 Teil 1A 6점, Teil 1B 4점, Teil 2 6점으로 16점이고, 언어 점수는 32점입니다. 언어 점수가 전체의 3분의 2입니다."
+   ],
+   [
+    "합격선",
+    "이 앱의 Modelltest 표기는 말하기 48점 중 29점 이상, 합계 214점 중 128점 이상입니다. 필기와 말하기 사이의 보상 규정은 확인하지 못했으므로 두 부분 모두 넘기는 것을 목표로 하세요."
+   ]
+  ]
+ },
+ "diff": {
+  "title": "C1 Hochschule 말하기의 두 가지 특징",
+  "text": "① Teil 1B는 파트너의 발표를 듣고 요약하는 과제입니다. 듣는 동안 메모하는 연습이 필요합니다. ② Teil 2의 토론 소재는 Zitat입니다. Zitat를 내 말로 풀어 설명하는 첫 발언이 토론의 방향을 정합니다."
+ },
+ "scoring": {
+  "id": "bewertung",
+  "title": "채점 방식",
+  "intro": "점수 구조는 telc 핸드북과 이 앱 Modelltest 5의 해설에서 가져왔습니다. 내용 점수는 Teil마다 따로, 언어 점수는 시험 전체를 보고 한 번 매깁니다.",
+  "head": [
+   "구분",
+   "기준",
+   "점수 (A · B · C · D)"
+  ],
+  "criteria": [
+   [
+    "내용 · Teil 1A",
+    "발표의 구성, 근거, 예시, 자기 입장이 모두 있는지 봅니다.",
+    "6 · 4 · 2 · 0"
+   ],
+   [
+    "내용 · Teil 1B",
+    "요약이 정확하고 질문이 내용과 이어지는지 봅니다.",
+    "4 · 2 · 1 · 0"
+   ],
+   [
+    "내용 · Teil 2",
+    "Zitat 해석, 입장, 파트너 발언에 대한 반응이 이어지는지 봅니다.",
+    "6 · 4 · 2 · 0"
+   ],
+   [
+    "언어 · Flüssigkeit (유창성)",
+    "막힘 없이 이어서 말하는지, 침묵과 채움말(ähm, also)이 긴지 봅니다.",
+    "8 · 5 · 2 · 0"
+   ],
+   [
+    "언어 · Repertoire (표현 폭)",
+    "어휘와 문장 구조의 다양성, 학술 문체를 봅니다.",
+    "8 · 5 · 2 · 0"
+   ],
+   [
+    "언어 · Grammatische Richtigkeit (문법 정확성)",
+    "오류의 빈도와 심각성, 형용사 어미와 동사 위치를 봅니다.",
+    "8 · 5 · 2 · 0"
+   ],
+   [
+    "언어 · Aussprache und Intonation (발음·억양)",
+    "이해를 방해하지 않는지, 문장 억양이 자연스러운지 봅니다.",
+    "8 · 5 · 2 · 0"
+   ]
+  ],
+  "sum_note": "내용 16점과 언어 32점을 더해 48점입니다. 발음·억양도 8점이 걸려 있으므로 가볍게 보면 안 됩니다. Teil 1B의 내용 점수는 4점뿐이지만, 이 Teil의 말하기도 언어 점수에 함께 들어갑니다.",
+  "rules_title": "채점에서 알아 둘 것",
+  "rules": [
+   "Modelltest 해설은 발표를 읽는 것이 아니라 말하는 것, 복잡한 구조(부문장, 수동, 접속법, 명사화)를 시도하는 것, 시험관이 아니라 파트너와 이야기하는 것을 권합니다.",
+   "telc 핸드북은 Teil 2가 Zitat와 표준화된 질문을 바탕으로 한다고 적고 있습니다. 이 가이드의 연습용 질문 4개는 그 형태를 따른 것이며, 시험의 정확한 문구는 회차마다 다를 수 있습니다.",
+   "Teil 2에서 합의는 지시문의 요구가 아닙니다. 지시문은 토론하라고 합니다. 모범 대화는 마지막에 입장을 정리하지만, 정리가 점수 조건이라는 근거는 확인하지 못했습니다."
+  ]
+ },
+ "strategy": {
+  "id": "strategie",
+  "title": "점수 전략",
+  "intro": "Teil별 내용 점수는 아래 구조를 지키면 확보하기 쉽습니다. 점수의 3분의 2가 걸린 언어 점수는 고득점 표현을 Teil마다 3~4개 배치하고, 자주 틀리는 문법을 미리 점검해서 올립니다.",
+  "tips": [
+   [
+    "①",
+    "주제는 2분 안에 정합니다. 기준은 관심이 아니라 „근거 2개 + 예시 1개 + 반론 1개“가 바로 떠오르는지입니다."
+   ],
+   [
+    "②",
+    "메모에는 키워드만 씁니다. 문장이 보이면 눈이 읽게 되고, 읽는 말투는 유창성과 표현 폭에서 손해를 줍니다."
+   ],
+   [
+    "③",
+    "파트너 발표를 들을 때는 „입장 · 근거 1 · 근거 2 · 제한점“ 네 칸에 메모합니다. 이 네 칸이 곧 Teil 1B의 요약입니다."
+   ],
+   [
+    "④",
+    "토론에서는 파트너를 보고 말합니다. 파트너 발언에 먼저 반응하고(인정 또는 반박), 내 논거를 말한 뒤, 되묻습니다."
+   ]
+  ],
+  "sim_head": [
+   "가정",
+   "내용 (16점)",
+   "언어 (32점)",
+   "합계"
+  ],
+  "sim": [
+   [
+    "모두 A",
+    "16",
+    "32",
+    "48"
+   ],
+   [
+    "내용 A · 언어 4기준 A A B B",
+    "16",
+    "26",
+    "42"
+   ],
+   [
+    "내용 A · 언어 4기준 모두 B",
+    "16",
+    "20",
+    "36"
+   ],
+   [
+    "내용 모두 B · 언어 4기준 모두 B",
+    "10",
+    "20",
+    "30"
+   ],
+   [
+    "내용 A · 언어 4기준 모두 C",
+    "16",
+    "8",
+    "24"
+   ]
+  ],
+  "sim_note": "모든 기준이 B(대체로 충족)이면 30점으로 29점 선을 겨우 넘습니다. 언어 점수를 B 이상으로 안정시키는 것이 합격의 중심입니다. 위 표는 A=최고, B=두 번째, C=세 번째 단계의 점수를 더한 계산입니다(내용 B는 4+2+4=10점)."
+ },
+ "steps": {
+  "id": "vorbereitung",
+  "title": "20분 준비 시간 활용법",
+  "intro": "Modelltest는 준비 시간 20분 동안 Teil 1 과제지를 받아 주제를 고른다고 안내합니다. 아래 배분은 SODA의 권장안입니다.",
+  "head": [
+   "시간",
+   "할 일"
+  ],
+  "rows": [
+   [
+    "0~2분",
+    "두 주제를 읽고 고릅니다."
+   ],
+   [
+    "2~14분",
+    "5단 구조(도입, 배경, 근거 2개, 반론, 결론)에 맞춰 키워드를 적습니다. 문단마다 3~4개로 제한합니다."
+   ],
+   [
+    "14~18분",
+    "근거마다 예시(고향 상황, 전공, 내 경험, 숫자)를 하나씩 붙이고 반론 1개를 정합니다."
+   ],
+   [
+    "18~20분",
+    "첫 문장과 마지막 문장을 속으로 말해 봅니다."
+   ]
+  ],
+  "warn": "완성된 문장을 적지 마세요. 지시문도 Stichworte만 쓰라고 합니다. 인용문 토론(Teil 2)의 Zitat는 시험관이 시험 중에 제시하므로 준비 시간에 미리 볼 수 없다고 생각하고, 아무 Zitat가 나와도 즉석에서 논거를 만드는 연습을 해 두세요."
+ },
+ "plan": {
+  "id": "plan",
+  "title": "준비 4단계",
+  "intro": "기간은 SODA의 권장안입니다.",
+  "head": [
+   "단계",
+   "기간",
+   "학습 내용"
+  ],
+  "rows": [
+   [
+    "1. 구조 익히기",
+    "1주",
+    "1A 5단, 1B 3단, Teil 2 흐름과 아래 표현표를 외웁니다. 모범 예시 10개를 소리 내어 따라 읽습니다."
+   ],
+   [
+    "2. 3분 발표 훈련",
+    "2~3주",
+    "매일 주제 하나로 키워드 메모(문장 금지), 타이머 3분 녹음, 다시 듣기를 합니다. 20편을 목표로 합니다."
+   ],
+   [
+    "3. 요약·질문 훈련",
+    "2주",
+    "3분짜리 강의나 팟캐스트를 듣고 1분 요약과 열린 질문 2개를 녹음합니다. 메모는 키워드 5개 이내로 제한합니다."
+   ],
+   [
+    "4. 토론 시뮬레이션",
+    "주 2회",
+    "파트너와 Zitat를 즉석에서 받아 6분 토론합니다. 파트너가 없으면 A와 B 역할을 혼자 번갈아 녹음합니다."
+   ]
+  ]
+ },
+ "teil1a": {
+  "id": "teil1a",
+  "no": "Teil 1A",
+  "title": "Präsentation (약 3분)",
+  "lead": "주제 2개 중 하나를 골라 약 3분 발표합니다. 도입에서는 예시나 경험을 쓰고, 마지막에는 결론을 말합니다. 청중은 파트너입니다. 모범 발표는 파트너에게 존칭(Sie)으로 말했습니다. Sie와 du 중 어느 쪽인지는 파트너와 정하면 되고, 이 앱 Modelltest의 모범 예시는 du를 씁니다.",
+  "aufgabe_title": "지시문 (Modelltest 5)",
+  "aufgabe": "Wählen Sie eines der Themen aus. Sie können sich Notizen machen (Stichworte, keinen zusammenhängenden Text). Denken Sie auch an eine Einleitung (Beispiel, eigene Erfahrung, …) und an einen Schluss bzw. ein Fazit. Ihr Vortrag soll gut gegliedert sein und das Thema klar und detailliert darstellen.",
+  "topics_title": "Modelltest 5에 나온 주제 형태",
+  "topics": [
+   "Beschreiben Sie einen Beruf, der in Ihrem Heimatland ein besonders hohes Ansehen genießt. Woran liegt das, und wie sehen Sie das selbst?",
+   "Sollten Einwegverpackungen für Speisen und Getränke zum Mitnehmen verboten werden? Begründen Sie Ihre Meinung.",
+   "Beschreiben Sie, welche Rolle Haustiere in Ihrem Heimatland spielen.",
+   "Sollte das Wahlalter bei allen Wahlen auf 16 Jahre gesenkt werden?",
+   "Stellen Sie ein Spiel vor, das in Ihrem Heimatland beliebt ist.",
+   "Sollte Werbung für ungesunde Lebensmittel verboten werden, wenn sie sich an Kinder richtet?"
+  ],
+  "topics_note": "주제 형태는 두 가지입니다. 고향 상황을 설명하는 주제와 찬반을 묻는 주제입니다. 두 형태 모두 근거 2개, 예시, 반론, 입장으로 구성하면 됩니다.",
+  "steps_title": "5단 구조 — 3분을 문단 다섯 개로",
+  "steps_head": [
+   "단계",
+   "시간",
+   "역할",
+   "표현"
+  ],
+  "steps": [
+   [
+    "1. Einleitung",
+    "25~35초",
+    "인사, 주제와 선택 이유, 구성 안내",
+    "Ich freue mich, Ihnen heute meine Präsentation zum Thema … vorstellen zu dürfen. / Ich werde zunächst …, anschließend … und abschließend …"
+   ],
+   [
+    "2. Hintergrund",
+    "20~30초",
+    "개념 정의 또는 현황 한두 문장",
+    "Unter … versteht man … / Der Begriff bezeichnet …"
+   ],
+   [
+    "3. Argumente",
+    "70~90초",
+    "근거 2개와 각각의 예시 (고향, 경험, 숫자)",
+    "Damit komme ich zu meinem ersten Argument: … / Aus eigener Erfahrung kann ich sagen, dass …"
+   ],
+   [
+    "4. Einwand",
+    "25~35초",
+    "반대 논거 인정, 조건 제시",
+    "Allerdings muss man einräumen, dass … / Dem steht ein gewichtiger Einwand gegenüber: …"
+   ],
+   [
+    "5. Fazit",
+    "20~30초",
+    "요약, 자기 입장, 감사, 질문 초대",
+    "Zusammenfassend lässt sich sagen, dass … / Vielen Dank für Ihre Aufmerksamkeit."
+   ]
+  ],
+  "steps_note": "합계는 약 3분이고 320~350단어입니다. 모범 발표 4편은 320~340단어이고, Modelltest 5의 모범 발표는 356단어(약 3분)입니다.",
+  "phrases_title": "고득점 표현 — Präsentation 12개",
+  "phrases_head": [
+   "기능",
+   "기본 (B2급)",
+   "고득점 (C1급)"
+  ],
+  "phrases": [
+   [
+    "인사·주제 제시",
+    "Mein Thema ist …",
+    "Ich freue mich, Ihnen heute meine Präsentation zum Thema … vorstellen zu dürfen. / Ich habe mich für die Frage entschieden, …"
+   ],
+   [
+    "선택 이유",
+    "Ich habe das gewählt, weil …",
+    "Für dieses Thema habe ich mich entschieden, weil es mich persönlich betrifft: …"
+   ],
+   [
+    "구성 안내",
+    "Zuerst …, dann …, zum Schluss …",
+    "Ich werde zunächst …, anschließend … und abschließend …"
+   ],
+   [
+    "정의·배경",
+    "X ist …",
+    "Unter … versteht man … / Der Begriff bezeichnet …"
+   ],
+   [
+    "논점 전환",
+    "Jetzt komme ich zu …",
+    "Damit komme ich zu meinem ersten Argument: … / Mein zweites Argument betrifft …"
+   ],
+   [
+    "근거 강화",
+    "Das ist wichtig, weil …",
+    "Dies ist insofern von Bedeutung, als … / Dies hat weitreichende Folgen für …"
+   ],
+   [
+    "예시·경험",
+    "Zum Beispiel …",
+    "Aus eigener Erfahrung kann ich sagen, dass … / Ein Beispiel aus meinem Heimatland verdeutlicht dies: …"
+   ],
+   [
+    "수치·연구",
+    "Viele Leute …",
+    "Studien zeigen, dass … / Mehr als ein Drittel … / Der Anteil liegt bei …"
+   ],
+   [
+    "반론 인정",
+    "Aber es gibt auch Nachteile.",
+    "Allerdings muss man einräumen, dass … / Dem steht ein gewichtiger Einwand gegenüber: …"
+   ],
+   [
+    "조건부 입장",
+    "Ich finde es gut, wenn …",
+    "Ich bin dennoch der Überzeugung, dass …, sofern …"
+   ],
+   [
+    "요약",
+    "Zusammenfassend …",
+    "Zusammenfassend lässt sich sagen, dass … / Meines Erachtens ist … daher weder … noch …"
+   ],
+   [
+    "마무리",
+    "Danke. Haben Sie Fragen?",
+    "Vielen Dank für Ihre Aufmerksamkeit. Für Fragen stehe ich gern zur Verfügung. / Ich freue mich auf Ihre Fragen."
+   ]
+  ],
+  "models_title": "모범 발표 4편",
+  "models_note": "실제 시험 주제 형태(질문형, 찬반형)를 따랐고, 모두 5단 구조로 320~340단어(약 3분)입니다. 수치와 사실은 연습용 예시이므로 시험에서는 정확히 아는 것만 말하세요. 제목을 눌러 읽습니다.",
+  "range": [
+   315,
+   360
+  ],
+  "models": [
+   {
+    "title": "Welche Erfindung der letzten hundert Jahre halten Sie für besonders wichtig?",
+    "aufgabe": "Begründen Sie Ihre Wahl, stellen Sie die Bedeutung der Erfindung aus mehreren Perspektiven dar und nennen Sie auch mögliche Nachteile.",
+    "paras": [
+     [
+      "Einleitung",
+      "Guten Tag, ich freue mich, Ihnen heute meine Präsentation vorstellen zu dürfen. Ich habe mich für die Frage entschieden, welche Erfindung der letzten hundert Jahre ich für besonders wichtig halte. Meine Antwort mag Sie überraschen: Es ist nicht das Internet und auch nicht das Smartphone, sondern die Waschmaschine. Im ersten Teil erläutere ich kurz, warum diese Wahl auf den ersten Blick ungewöhnlich erscheint. Im zweiten Teil nenne ich zwei Gründe für ihre Bedeutung, und abschließend gehe ich auf einen Einwand ein und ziehe ein Fazit."
+     ],
+     [
+      "Hintergrund",
+      "Zunächst zum Hintergrund. Wenn wir über bedeutende Erfindungen sprechen, denken wir meist an Technologien, die unsere Kommunikation verändert haben. Die Waschmaschine wirkt dagegen unspektakulär. Der schwedische Arzt und Statistiker Hans Rosling hat sie in einem bekannten Vortrag dennoch zu einer der großartigsten Erfindungen der Industrialisierung erklärt, weil sie den Alltag so vieler Menschen grundlegend verändert hat."
+     ],
+     [
+      "Argumente",
+      "Damit komme ich zu meinem ersten Argument: dem Zeitgewinn. Vor ihrer Erfindung verbrachten vor allem Frauen mehrere Stunden pro Woche mit dem Waschen von Kleidung. Diese Zeit steht heute für Bildung, Erwerbsarbeit und gesellschaftliche Teilhabe zur Verfügung. Die Waschmaschine hat also indirekt zur Gleichberechtigung beigetragen. Einige Ökonominnen vertreten sogar die These, dass Haushaltsgeräte den Eintritt von Frauen in den Arbeitsmarkt begünstigt haben. Mein zweites Argument betrifft die Gesundheit. Saubere Kleidung und Bettwäsche verringern die Verbreitung von Krankheiten erheblich, insbesondere in dicht besiedelten Städten. In meinem Heimatland Korea verbreitete sich die Waschmaschine in den siebziger Jahren, und meine Großmutter erzählt noch heute, wie sehr sich dadurch das Leben der Familie verändert hat."
+     ],
+     [
+      "Einwand",
+      "Allerdings muss man einräumen, dass die Waschmaschine wie jedes Haushaltsgerät Energie und Wasser verbraucht und dass ihr Nutzen nur dort entsteht, wo Strom und sauberes Wasser verfügbar sind. Für einen großen Teil der Weltbevölkerung ist sie noch immer ein Luxus."
+     ],
+     [
+      "Fazit",
+      "Zusammenfassend lässt sich sagen, dass die Waschmaschine zwar weniger Aufmerksamkeit erhält als digitale Technologien, ihr Einfluss auf Zeit, Gesundheit und Gleichberechtigung jedoch kaum zu überschätzen ist. Ich bin daher überzeugt, dass sie zu den wichtigsten Erfindungen des vergangenen Jahrhunderts zählt. Vielen Dank für Ihre Aufmerksamkeit. Wenn Sie Fragen haben, beantworte ich sie gern."
+     ]
+    ]
+   },
+   {
+    "title": "Sollten Studierende während des Studiums ehrenamtlich tätig sein?",
+    "aufgabe": "Erläutern Sie, was unter ehrenamtlichem Engagement zu verstehen ist, nennen Sie Argumente dafür und dagegen und beziehen Sie Stellung.",
+    "paras": [
+     [
+      "Einleitung",
+      "Guten Tag. Das Thema meiner Präsentation lautet: Sollten Studierende während des Studiums ehrenamtlich tätig sein? Ich habe dieses Thema gewählt, weil ich selbst seit zwei Jahren in einem Verein Nachhilfe für Kinder aus Einwandererfamilien gebe. Ich werde zunächst erklären, was unter ehrenamtlichem Engagement zu verstehen ist, dann zwei Argumente dafür anführen, anschließend einen wichtigen Einwand diskutieren und zum Schluss meine eigene Position darlegen."
+     ],
+     [
+      "Hintergrund",
+      "Unter ehrenamtlicher Tätigkeit versteht man eine freiwillige, unbezahlte Arbeit zum Nutzen anderer, etwa in Sportvereinen, bei der Feuerwehr, in Umweltgruppen oder in der Flüchtlingshilfe. In Deutschland engagiert sich mehr als ein Drittel der Bevölkerung ab vierzehn Jahren in dieser Form, bei Studierenden bleibt dafür allerdings oft wenig Zeit."
+     ],
+     [
+      "Argumente",
+      "Das erste Argument für ein Engagement betrifft die persönliche Entwicklung. Wer Verantwortung für andere übernimmt, erwirbt Kompetenzen, die sich im Hörsaal kaum vermitteln lassen: Organisationsfähigkeit, Geduld und den Umgang mit Menschen aus anderen Lebenswelten. Aus eigener Erfahrung kann ich sagen, dass ich durch die Nachhilfe gelernt habe, komplizierte Inhalte einfach zu erklären, was mir auch im Studium hilft. Außerdem habe ich gelernt, mit Rückschlägen umzugehen, wenn ein Kind trotz aller Mühe eine Prüfung nicht bestanden hat. Zweitens profitiert die Gesellschaft. Viele soziale Angebote würden ohne Freiwillige nicht existieren. Studierende bringen dabei aktuelles Wissen und neue Ideen mit, beispielsweise wenn Informatikstudierende Seniorinnen und Senioren den Umgang mit dem Smartphone erklären. Auf diese Weise entsteht ein Austausch zwischen den Generationen, von dem beide Seiten profitieren."
+     ],
+     [
+      "Einwand",
+      "Dem steht allerdings ein gewichtiger Einwand gegenüber: Viele Studierende müssen nebenbei arbeiten, um ihr Studium zu finanzieren, und haben für ein zusätzliches Engagement schlicht keine Zeit. Eine moralische Verpflichtung würde daher vor allem diejenigen belasten, die ohnehin unter Druck stehen."
+     ],
+     [
+      "Fazit",
+      "Ich bin dennoch der Überzeugung, dass ehrenamtliches Engagement für Studierende sinnvoll ist, sofern es freiwillig bleibt und von den Hochschulen erleichtert wird, etwa durch die Anerkennung als Studienleistung oder durch flexible Zeitmodelle. So könnte Engagement zu einem selbstverständlichen Teil des Studiums werden, ohne jemanden auszuschließen. Vielen Dank für Ihre Aufmerksamkeit. Ich freue mich auf Ihre Fragen."
+     ]
+    ]
+   },
+   {
+    "title": "Welche Rolle sollte die Wissenschaft in politischen Entscheidungen spielen?",
+    "aufgabe": "Beschreiben Sie das Verhältnis von Wissenschaft und Politik, nennen Sie Chancen und Grenzen wissenschaftlicher Beratung und beziehen Sie Stellung.",
+    "paras": [
+     [
+      "Einleitung",
+      "Guten Tag. In meiner Präsentation möchte ich der Frage nachgehen, welche Rolle die Wissenschaft in politischen Entscheidungen spielen sollte. Dieses Thema hat durch die Pandemie und die Klimadebatte enorm an Bedeutung gewonnen. Ich werde zunächst das Verhältnis von Wissenschaft und Politik beschreiben, dann erläutern, warum wissenschaftliche Beratung unverzichtbar ist, anschließend auf die Grenzen dieser Beratung eingehen und schließlich ein Fazit ziehen."
+     ],
+     [
+      "Hintergrund",
+      "Wissenschaft und Politik folgen unterschiedlichen Logiken. Die Wissenschaft sucht nach gesicherten Erkenntnissen und formuliert Wahrscheinlichkeiten, während die Politik unter Zeitdruck Entscheidungen treffen muss, die von einer Mehrheit akzeptiert werden. Genau aus dieser Spannung entstehen viele Missverständnisse."
+     ],
+     [
+      "Argumente",
+      "Warum ist wissenschaftliche Beratung dennoch unverzichtbar? Erstens sind viele aktuelle Probleme so komplex, dass sie ohne Fachwissen nicht einmal richtig beschrieben werden können. Wer über Klimaziele entscheidet, muss verstehen, wie sich Emissionen langfristig auswirken. Zweitens schützt wissenschaftliche Evidenz vor Entscheidungen, die zwar populär, aber wirkungslos oder sogar schädlich sind. Ein Beispiel dafür ist die Diskussion über Schulschließungen während der Pandemie, in der Studien zur Ansteckung von Kindern eine zentrale Rolle spielten. In meinem Heimatland Korea wurden die Maßnahmen damals täglich öffentlich erläutert, und ich hatte den Eindruck, dass genau diese Transparenz die Akzeptanz erhöht hat. Die Bürgerinnen und Bürger konnten so nachvollziehen, auf welcher Grundlage Entscheidungen getroffen wurden."
+     ],
+     [
+      "Einwand",
+      "Allerdings hat wissenschaftliche Beratung auch Grenzen. Forschende können sagen, welche Folgen eine Maßnahme voraussichtlich hat, aber nicht, ob diese Folgen wünschenswert sind. Diese Bewertung ist eine politische Aufgabe, für die gewählte Vertreterinnen und Vertreter die Verantwortung tragen. Wenn Politiker sich hinter der Wissenschaft verstecken, indem sie behaupten, es gebe keine Alternative, gefährden sie das Vertrauen in beide Institutionen. Hinzu kommt, dass sich wissenschaftliche Erkenntnisse ändern können, was in der Öffentlichkeit leicht als Widersprüchlichkeit missverstanden wird."
+     ],
+     [
+      "Fazit",
+      "Zusammenfassend bin ich der Meinung, dass die Wissenschaft die Politik beraten, aber nicht ersetzen sollte. Ihre Aufgabe besteht darin, Handlungsoptionen und deren Folgen transparent zu machen; die Abwägung und die Verantwortung liegen bei der Politik. Vielen Dank für Ihre Aufmerksamkeit. Für Fragen stehe ich gern zur Verfügung."
+     ]
+    ]
+   },
+   {
+    "title": "Lebenslanges Lernen – Notwendigkeit oder Modewort?",
+    "aufgabe": "Erklären Sie den Begriff, nennen Sie Gründe für seine Bedeutung, gehen Sie auf problematische Seiten ein und beziehen Sie Stellung.",
+    "paras": [
+     [
+      "Einleitung",
+      "Guten Tag. Ich möchte heute über lebenslanges Lernen sprechen und der Frage nachgehen, ob es sich dabei um eine echte Notwendigkeit oder eher um ein Modewort handelt. Ich gehe zunächst auf den Begriff ein, stelle dann zwei Gründe vor, warum lebenslanges Lernen tatsächlich notwendig geworden ist, beleuchte anschließend die Schattenseiten und schließe mit meiner persönlichen Einschätzung."
+     ],
+     [
+      "Hintergrund",
+      "Der Begriff bezeichnet die Vorstellung, dass Lernen nicht mit dem Schulabschluss oder dem Studium endet, sondern das gesamte Berufsleben begleitet. Er tauchte in den siebziger Jahren in Dokumenten der UNESCO auf und ist inzwischen fester Bestandteil der Bildungspolitik in fast allen Industrieländern."
+     ],
+     [
+      "Argumente",
+      "Der erste Grund für seine Notwendigkeit liegt im technologischen Wandel. Wissen, das vor zehn Jahren erworben wurde, ist in vielen Berufen heute veraltet. Wer etwa im Ingenieurwesen arbeitet, muss sich ständig mit neuen Programmen und Verfahren vertraut machen. Der zweite Grund ist demografisch: Da wir länger arbeiten, erstreckt sich das Berufsleben oft über vierzig Jahre, in denen sich ganze Branchen mehrfach verändern. Mein Vater beispielsweise hat in Korea als Buchhalter begonnen und musste sich im Alter von fünfzig Jahren vollständig in digitale Systeme einarbeiten. Ohne diese Bereitschaft hätte er seinen Arbeitsplatz vermutlich verloren."
+     ],
+     [
+      "Einwand",
+      "Allerdings hat die Forderung nach lebenslangem Lernen auch eine problematische Seite. Sie verlagert die Verantwortung für den Wandel auf den Einzelnen, der sich ständig anpassen soll, während die Frage nach fairen Arbeitsbedingungen in den Hintergrund rückt. Außerdem haben nicht alle Menschen die gleichen Möglichkeiten: Weiterbildung kostet Zeit und Geld, und gerade diejenigen, die sie am dringendsten bräuchten, erhalten sie am seltensten. Statistiken zeigen, dass vor allem Hochqualifizierte an Weiterbildungen teilnehmen, während Geringqualifizierte kaum erreicht werden."
+     ],
+     [
+      "Fazit",
+      "Meines Erachtens ist lebenslanges Lernen daher weder ein bloßes Modewort noch eine Aufgabe, die man allein dem Individuum überlassen darf. Es ist notwendig, setzt jedoch geeignete Rahmenbedingungen voraus: bezahlte Bildungszeit, bezahlbare Angebote und eine Kultur, in der auch das Lernen im Alter selbstverständlich ist. Vielen Dank für Ihre Aufmerksamkeit. Ich beantworte gern Ihre Fragen."
+     ]
+    ]
+   }
+  ]
+ },
+ "teil1b": {
+  "id": "teil1b",
+  "no": "Teil 1B",
+  "title": "Zusammenfassung und Anschlussfragen (약 2분)",
+  "lead": "파트너의 발표를 듣고 요약하고, 인상 깊었던 점을 말하고, 질문을 하나 이상 합니다. 발표자가 답한 뒤 역할을 바꿉니다. 내용 점수는 4점이지만 이 Teil의 말하기도 언어 점수에 들어갑니다.",
+  "aufgabe_title": "지시문 (Modelltest 5)",
+  "aufgabe": "Machen Sie sich Notizen, während Ihre Partnerin oder Ihr Partner die Präsentation vorträgt. Im Anschluss fassen Sie zusammen, was Ihre Partnerin oder Ihr Partner vorgetragen hat. Stellen Sie dann Ihrer Partnerin oder Ihrem Partner Anschlussfragen.",
+  "steps_title": "진행 3단",
+  "steps_head": [
+   "단계",
+   "시간",
+   "역할",
+   "표현"
+  ],
+  "steps": [
+   [
+    "1. Zusammenfassung",
+    "40~60초",
+    "감사, 파트너의 입장, 근거 2개, 제한점. 인상 깊었던 점 한 문장",
+    "Wenn ich Sie richtig verstanden habe, vertreten Sie die Auffassung, dass … / Dafür haben Sie zwei Gründe angeführt: … / Besonders bemerkenswert fand ich, dass …"
+   ],
+   [
+    "2. Anschlussfragen",
+    "15~20초",
+    "열린 질문 1~2개. 비판적 질문 1개와 심화 질문 1개",
+    "Dazu hätte ich zwei Fragen. Erstens: Inwiefern …? / Besteht dabei nicht die Gefahr, dass …?"
+   ],
+   [
+    "3. Antwort (발표자)",
+    "40~60초",
+    "요약 확인, 질문별 답변, 예시 하나",
+    "Das haben Sie sehr präzise wiedergegeben. / Zu Ihrer ersten Frage: … Zu Ihrer zweiten Frage: …"
+   ]
+  ],
+  "steps_note": "두 사람을 합쳐 약 2분, 200~240단어입니다. 요약에는 파트너의 내용만 담고, 내 의견은 질문의 형태로 냅니다. 예/아니오로 끝나는 질문 하나는 약합니다.",
+  "notes_title": "발표를 들으면서 메모하는 법",
+  "notes": "메모지를 네 칸으로 나눕니다. 입장, 근거 1, 근거 2, 제한점입니다. 각 칸에 키워드 2~3개만 씁니다. 발표가 끝나면 네 칸을 위에서 아래로 읽는 것이 곧 요약입니다.",
+  "phrases_title": "고득점 표현 — Zusammenfassung · Fragen 10개",
+  "phrases_head": [
+   "기능",
+   "기본 (B2급)",
+   "고득점 (C1급)"
+  ],
+  "phrases": [
+   [
+    "감사·시작",
+    "Danke für die Präsentation.",
+    "Vielen Dank für Ihre Präsentation, das war sehr anschaulich."
+   ],
+   [
+    "요약 도입",
+    "Sie haben gesagt, dass …",
+    "Wenn ich Sie richtig verstanden habe, vertreten Sie die Auffassung, dass …"
+   ],
+   [
+    "논거 재현",
+    "Erstens …, zweitens …",
+    "Dafür haben Sie zwei Gründe angeführt: erstens …, zweitens …"
+   ],
+   [
+    "제한점 재현",
+    "Sie haben auch gesagt …",
+    "Als Einschränkung haben Sie erwähnt, dass … / Gleichzeitig haben Sie eingeräumt, dass …"
+   ],
+   [
+    "인상 깊은 점",
+    "Das war interessant.",
+    "Besonders bemerkenswert fand ich, dass … / Besonders interessant war für mich Ihr Beispiel …"
+   ],
+   [
+    "질문 도입",
+    "Ich habe eine Frage.",
+    "Dazu hätte ich zwei Fragen. / Ich hätte dazu eine Nachfrage:"
+   ],
+   [
+    "비판적 질문",
+    "Ist das nicht ein Problem?",
+    "Besteht dabei nicht die Gefahr, dass …? / Wie würden Sie dem Einwand begegnen, dass …?"
+   ],
+   [
+    "심화 질문",
+    "Und in der Zukunft?",
+    "Glauben Sie, dass … in fünfzig Jahren …? / Wie ließe sich … beschleunigen?"
+   ],
+   [
+    "답변 시작 (발표자)",
+    "Gute Frage.",
+    "Das ist eine berechtigte Frage, über die ich auch nachgedacht habe."
+   ],
+   [
+    "요약 확인 (발표자)",
+    "Ja, richtig.",
+    "Das haben Sie sehr präzise wiedergegeben. / Ich möchte einen Punkt ergänzen: …"
+   ]
+  ],
+  "models_title": "모범 요약·문답 2편 — 발표 ❶·❷에 이어지는 장면",
+  "models_note": "B가 A의 발표를 요약하고 질문하면 A가 답합니다. 제목을 눌러 읽습니다.",
+  "range": [
+   180,
+   230
+  ],
+  "models": [
+   [
+    [
+     "B",
+     "Vielen Dank für Ihre Präsentation. Wenn ich Sie richtig verstanden habe, halten Sie die Waschmaschine für eine der wichtigsten Erfindungen des vergangenen Jahrhunderts, obwohl sie auf den ersten Blick unspektakulär wirkt. Dafür haben Sie zwei Gründe angeführt: erstens den Zeitgewinn, der vor allem Frauen den Zugang zu Bildung und Arbeit erleichtert hat, und zweitens den Beitrag zur Gesundheit durch saubere Kleidung. Als Einschränkung haben Sie erwähnt, dass die Maschine Energie verbraucht und für viele Menschen weltweit noch unerreichbar ist. Besonders bemerkenswert fand ich, dass Sie die Waschmaschine mit der Gleichberechtigung verbinden. Dazu hätte ich zwei Fragen. Erstens: Glauben Sie, dass digitale Technologien wie das Smartphone in fünfzig Jahren eine ähnlich positive Bilanz haben werden? Und zweitens: Wie ließe sich der Zugang zu solchen Grundtechnologien in ärmeren Regionen beschleunigen?"
+    ],
+    [
+     "A",
+     "Danke für die Zusammenfassung, das haben Sie sehr präzise wiedergegeben. Zu Ihrer ersten Frage: Hier bin ich eher skeptisch. Das Smartphone spart zwar Zeit, verbraucht aber gleichzeitig sehr viel davon, wie wir alle aus eigener Erfahrung wissen. Seine Bilanz fällt also gemischt aus, während die der Waschmaschine eindeutig positiv ist. Zu Ihrer zweiten Frage: Der Schlüssel liegt meiner Meinung nach in der Infrastruktur, also in einer zuverlässigen Strom- und Wasserversorgung. Gemeinschaftswaschhäuser, wie es sie früher auch in Europa gab, könnten ein erster Schritt sein, weil sie die Kosten auf viele Haushalte verteilen."
+    ]
+   ],
+   [
+    [
+     "B",
+     "Vielen Dank, das war eine sehr anschauliche Präsentation. Sie haben die Frage behandelt, ob Studierende sich ehrenamtlich engagieren sollten, und Ihre Antwort lautet grundsätzlich ja. Als Gründe haben Sie die persönliche Entwicklung, etwa Organisationsfähigkeit und Geduld, sowie den Nutzen für die Gesellschaft genannt. Gleichzeitig haben Sie eingeräumt, dass viele Studierende wegen ihrer Nebenjobs keine Zeit haben, und deshalb gefordert, dass das Engagement freiwillig bleibt und von den Hochschulen erleichtert wird. Besonders bemerkenswert fand ich, dass Sie selbst seit zwei Jahren Nachhilfe geben. Ich hätte dazu eine Nachfrage: Sie haben die Anerkennung als Studienleistung vorgeschlagen. Besteht dabei nicht die Gefahr, dass Studierende sich nur noch wegen der Punkte engagieren und der eigentliche Gedanke verloren geht?"
+    ],
+    [
+     "A",
+     "Das ist eine berechtigte Frage, über die ich auch lange nachgedacht habe. Ich glaube, dass die Motivation am Anfang tatsächlich gemischt sein kann. Meine Erfahrung zeigt aber, dass sich das schnell ändert, sobald man eine Beziehung zu den Menschen aufbaut, mit denen man arbeitet. Von den Kommilitoninnen und Kommilitonen, die mit mir angefangen haben, sind fast alle geblieben, auch nachdem sie ihre Punkte längst erhalten hatten. Entscheidend ist, dass die Anerkennung nicht an eine bestimmte Stundenzahl gebunden wird, sondern an eine Reflexion darüber, was man gelernt hat."
+    ]
+   ]
+  ]
+ },
+ "teil2": {
+  "id": "teil2",
+  "no": "Teil 2",
+  "title": "Diskussion (약 6분)",
+  "lead": "시험관이 Zitat를 제시하면 먼저 뜻을 짧게 풀고, 파트너와 토론합니다. 시험관은 수준에 못 미치면 질문으로 개입합니다. 준비한 말을 이어 가는 것보다 파트너 발언에 반응하는 것이 중요합니다.",
+  "warn": "준비한 말만 이어 말하지 마세요. 파트너 발언에 먼저 반응하고(인정 또는 반박), 내 논거를 말한 뒤, 되묻습니다. 반응 없는 발언은 독백이 되어 Teil 2의 내용 점수와 표현에서 손해를 봅니다(SODA 해석).",
+  "aufgabe_title": "연습용 질문 (telc 핸드북의 „standardisierte Fragen“ 형태)",
+  "aufgabe": "Was ist mit dem Zitat gemeint? Teilen Sie diese Auffassung? Welche Erfahrungen haben Sie selbst oder in Ihrem Heimatland damit gemacht? Welche Folgen ergeben sich daraus für Hochschule und Gesellschaft?",
+  "steps_title": "토론 흐름 5단",
+  "steps_head": [
+   "순서",
+   "역할",
+   "표현"
+  ],
+  "steps": [
+   [
+    "첫 발언",
+    "Zitat 해석: 인용문을 내 말로 풀고 파트너에게 해석을 묻습니다",
+    "Das Zitat bringt zum Ausdruck, dass … / Wie verstehen Sie das?"
+   ],
+   [
+    "1~2턴",
+    "입장과 근거: 동의, 제한 동의, 반대를 근거와 함께 말합니다",
+    "Dem stimme ich grundsätzlich zu. Allerdings frage ich mich, ob …"
+   ],
+   [
+    "2~3턴",
+    "경험·고향: 내 경험, 고향 상황을 말하고 파트너의 고향을 되묻습니다",
+    "In meinem Heimatland lässt sich beobachten, dass … / Wie sieht es in Ihrem Land aus?"
+   ],
+   [
+    "2~3턴",
+    "반박·반응: 파트너 논거를 인정하고 반박하며 구분을 제안합니다",
+    "Das ist ein berechtigter Einwand. / Dem lässt sich entgegenhalten, dass … / Wir könnten unterscheiden zwischen …"
+   ],
+   [
+    "1~2턴",
+    "결과·마무리: 대학과 사회에 대한 결과를 말하고 공통점을 정리합니다",
+    "Für die Hochschulen würde das bedeuten, dass … / Dann können wir festhalten: …"
+   ]
+  ],
+  "steps_note": "두 사람을 합쳐 약 5~6분, 15~18턴, 450~530단어입니다. 마지막 정리는 모범 대화의 마무리 방식이며, 합의가 지시문의 요구는 아닙니다.",
+  "phrases_title": "고득점 표현 — Diskussion 12개",
+  "phrases_head": [
+   "기능",
+   "기본 (B2급)",
+   "고득점 (C1급)"
+  ],
+  "phrases": [
+   [
+    "인용 해석",
+    "Das Zitat bedeutet …",
+    "Das Zitat bringt zum Ausdruck, dass … / Ich verstehe das Zitat so, dass …"
+   ],
+   [
+    "의견 묻기",
+    "Was denken Sie?",
+    "Wie verstehen Sie das? / Sehen Sie das auch so?"
+   ],
+   [
+    "동의 + 제한",
+    "Ja, aber …",
+    "Dem stimme ich grundsätzlich zu. Allerdings frage ich mich, ob …"
+   ],
+   [
+    "반박",
+    "Das stimmt nicht.",
+    "Dem lässt sich entgegenhalten, dass … / Da habe ich eine andere Sichtweise, denn …"
+   ],
+   [
+    "인정",
+    "Da haben Sie recht.",
+    "Das ist ein berechtigter Einwand. / Da haben Sie einen Punkt."
+   ],
+   [
+    "경험 연결",
+    "Bei mir war das so …",
+    "Ich habe das im Studium selbst erlebt: …"
+   ],
+   [
+    "고향 상황",
+    "In Korea ist es …",
+    "In meinem Heimatland Korea lässt sich beobachten, dass …"
+   ],
+   [
+    "되묻기·심화",
+    "Und bei Ihnen?",
+    "Wie sieht es in Ihrem Land aus? / Welche Folgen hat das konkret?"
+   ],
+   [
+    "구분·정리",
+    "Es gibt zwei Seiten.",
+    "Wir könnten unterscheiden zwischen … und … / Vielleicht liegt die Wahrheit in der Mitte."
+   ],
+   [
+    "결과 도출",
+    "Also müssen die Unis …",
+    "Für die Hochschulen würde das bedeuten, dass … / Daraus folgt für die Gesellschaft, dass …"
+   ],
+   [
+    "정리 제안",
+    "Wir sind uns einig.",
+    "Dann können wir festhalten: … / Vielleicht können wir zusammenfassen: …"
+   ],
+   [
+    "마무리 동의",
+    "Ja, genau.",
+    "Dem kann ich mich anschließen. / Dem stimme ich uneingeschränkt zu."
+   ]
+  ],
+  "models_title": "모범 토론 4편",
+  "models_note": "파트너는 국적이 다른 응시자로 설정했습니다(터키, 독일, 인도, 브라질). 자기 고향 상황을 말한 뒤 파트너 고향을 되묻는 흐름을 눈여겨보세요. Zitat의 출처 표기는 흔히 인용되는 표기를 따른 것입니다. 제목을 눌러 읽습니다.",
+  "range": [
+   430,
+   540
+  ],
+  "models": [
+   {
+    "zitat": "„Bildung ist die mächtigste Waffe, um die Welt zu verändern.\"",
+    "by": "— Nelson Mandela, südafrikanischer Politiker",
+    "turns": [
+     [
+      "A",
+      "Das Zitat von Nelson Mandela bringt zum Ausdruck, dass Bildung das wirksamste Mittel ist, um gesellschaftliche Verhältnisse zu verändern. Er spricht bewusst von einer Waffe, also von etwas, das Macht verleiht und Widerstand ermöglicht. Wie verstehen Sie das?"
+     ],
+     [
+      "B",
+      "Ich verstehe es ähnlich. Mandela hat selbst erlebt, dass die Apartheid der schwarzen Bevölkerung den Zugang zu guter Bildung verwehrt hat, gerade weil Bildung Menschen befähigt, Unrecht zu erkennen und sich dagegen zu wehren. Wer lesen, schreiben und argumentieren kann, lässt sich schwerer unterdrücken."
+     ],
+     [
+      "A",
+      "Dem stimme ich grundsätzlich zu. Allerdings frage ich mich, ob Bildung allein ausreicht. In vielen Ländern gibt es hervorragend ausgebildete Menschen, die trotzdem keine Arbeit finden oder deren Abschlüsse nicht anerkannt werden."
+     ],
+     [
+      "B",
+      "Das ist ein wichtiger Punkt. Bildung entfaltet ihre Wirkung nur, wenn die Gesellschaft auch Möglichkeiten bietet, sie einzusetzen. Ohne faire Arbeitsmärkte und funktionierende Institutionen bleibt sie ein uneingelöstes Versprechen. Haben Sie in Korea ähnliche Erfahrungen gemacht?"
+     ],
+     [
+      "A",
+      "Durchaus. Korea gilt als Musterbeispiel dafür, wie ein Land durch Bildung aus der Armut aufgestiegen ist. In den sechziger Jahren war es eines der ärmsten Länder der Welt, heute ist es eine führende Industrienation, und das ohne nennenswerte Rohstoffe. Insofern bestätigt mein Heimatland Mandelas These."
+     ],
+     [
+      "B",
+      "Das ist beeindruckend. Gibt es auch eine Schattenseite?"
+     ],
+     [
+      "A",
+      "Leider ja. Der Bildungswettbewerb ist so extrem geworden, dass Schülerinnen und Schüler bis Mitternacht in privaten Lerninstituten sitzen. Die Waffe, um bei Mandelas Bild zu bleiben, richtet sich teilweise gegen die Jugendlichen selbst. Wie sieht es in Ihrem Land aus?"
+     ],
+     [
+      "B",
+      "In der Türkei hängt der Zugang zu guter Bildung stark vom Wohnort und vom Einkommen der Eltern ab. Wer in Istanbul auf eine gute Schule geht, hat völlig andere Chancen als jemand aus einem Dorf in Ostanatolien. Bildung kann die Welt also verändern, aber sie kann Ungleichheit auch verfestigen, wenn sie ungleich verteilt ist."
+     ],
+     [
+      "A",
+      "Das führt uns zu den Folgen für die Hochschulen. Welche Verantwortung haben sie aus Ihrer Sicht?"
+     ],
+     [
+      "B",
+      "Sie müssen den Zugang gerechter gestalten, etwa durch Stipendien und Brückenkurse für Studierende aus nichtakademischen Familien. Außerdem sollten sie nicht nur Fachwissen vermitteln, sondern kritisches Denken fördern, denn genau das meint Mandela vermutlich."
+     ],
+     [
+      "A",
+      "Ich würde ergänzen, dass Hochschulen ihr Wissen stärker in die Gesellschaft tragen sollten, zum Beispiel durch offene Vorlesungen oder Kooperationen mit Schulen. Bildung als Waffe wirkt nur, wenn sie möglichst viele Menschen erreicht. Ein weiterer Aspekt betrifft die Finanzierung. Wenn Bildung tatsächlich die mächtigste Waffe ist, müsste sie auch entsprechend finanziert werden. In vielen Ländern fließt jedoch mehr Geld in das Militär als in das Bildungswesen."
+     ],
+     [
+      "B",
+      "Das ist ein treffender Vergleich. In der Türkei wurde in den letzten Jahren zwar viel in neue Universitätsgebäude investiert, aber die Qualität der Lehre hat damit meinem Eindruck nach nicht Schritt gehalten. Gebäude allein bilden niemanden aus, es kommt auf die Lehrenden an."
+     ],
+     [
+      "A",
+      "Genau. Deshalb halte ich die Ausbildung und die Bezahlung von Lehrkräften für den entscheidenden Hebel, in Korea ebenso wie in der Türkei."
+     ],
+     [
+      "B",
+      "Da sind wir uns einig. Vielleicht können wir festhalten: Mandela hat recht, dass Bildung die stärkste Kraft für Veränderung ist, aber sie muss gerecht verteilt sein und von fairen Strukturen begleitet werden."
+     ],
+     [
+      "A",
+      "Dem kann ich mich anschließen. Ohne Gerechtigkeit im Zugang bleibt die mächtigste Waffe in den Händen weniger."
+     ]
+    ]
+   },
+   {
+    "zitat": "„Wer aufhört, besser zu werden, hat aufgehört, gut zu sein.\"",
+    "by": "— Philip Rosenthal, deutscher Unternehmer",
+    "turns": [
+     [
+      "A",
+      "Das Zitat wird dem Unternehmer Philip Rosenthal zugeschrieben und bringt eine sehr leistungsorientierte Haltung zum Ausdruck: Qualität ist kein Zustand, sondern ein Prozess. Wer sich auf dem Erreichten ausruht, fällt zurück. Ich frage mich allerdings, ob dieser Gedanke nicht auch problematisch ist."
+     ],
+     [
+      "B",
+      "Inwiefern problematisch? Auf den ersten Blick klingt es doch vernünftig. In der Wissenschaft zum Beispiel gilt: Wer die neue Forschung nicht verfolgt, ist nach wenigen Jahren nicht mehr auf dem aktuellen Stand."
+     ],
+     [
+      "A",
+      "In der Wissenschaft stimme ich Ihnen zu. Aber wenn man den Satz auf das ganze Leben überträgt, entsteht ein Zwang zur ständigen Selbstoptimierung. Man darf nie zufrieden sein. Das führt bei vielen Menschen zu Erschöpfung."
+     ],
+     [
+      "B",
+      "Da haben Sie einen Punkt. Ich habe das im Studium selbst erlebt: Nach jeder Prüfung kam sofort die nächste Anforderung, und niemand hat gesagt, das war gut, ruhen Sie sich aus. Trotzdem glaube ich, dass Rosenthal eher an Unternehmen und Produkte gedacht hat, nicht an Personen."
+     ],
+     [
+      "A",
+      "Möglich. Aber der Satz wird heute überall zitiert, in Bewerbungsratgebern, in Fitness-Apps, in der Schule. In Korea ist diese Haltung tief verankert. Schon Grundschüler lernen, dass man immer noch besser werden muss, und der Vergleich mit anderen hört nie auf."
+     ],
+     [
+      "B",
+      "Welche Folgen hat das dort konkret?"
+     ],
+     [
+      "A",
+      "Viele Jugendliche leiden dort unter einem enormen Leistungsdruck, und inzwischen sprechen immer mehr junge Menschen offen davon, dass sie aus diesem Wettbewerb aussteigen wollen. Der Anspruch, ständig besser zu werden, hat also einen hohen Preis."
+     ],
+     [
+      "B",
+      "Das ist erschreckend. In Deutschland sehe ich eher die Gegenbewegung: Viele meiner Kommilitonen legen großen Wert auf Freizeit und lehnen die klassische Karriere ab. Manche Arbeitgeber beklagen deshalb fehlenden Ehrgeiz."
+     ],
+     [
+      "A",
+      "Vielleicht liegt die Wahrheit in der Mitte. Wir könnten unterscheiden zwischen dem Wunsch, etwas gut zu machen, und dem Zwang, immer besser zu sein als andere. Das Erste ist gesund, das Zweite macht krank."
+     ],
+     [
+      "B",
+      "Das ist eine hilfreiche Unterscheidung. Für die Hochschulen würde das bedeuten, dass sie Lernen nicht nur über Noten und Rankings definieren, sondern auch Raum für Neugier ohne Bewertung lassen."
+     ],
+     [
+      "A",
+      "Genau. Und für uns persönlich bedeutet es, selbst zu entscheiden, in welchen Bereichen wir besser werden wollen, statt in allen gleichzeitig."
+     ],
+     [
+      "B",
+      "Wie ließe sich das an der Universität umsetzen? Schließlich müssen Leistungen irgendwie bewertet werden."
+     ],
+     [
+      "A",
+      "Man könnte zum Beispiel einen Teil der Veranstaltungen ohne Noten anbieten, nur mit einer Teilnahmebestätigung. In Korea wurde das an einigen Universitäten versucht, und die Studierenden haben in diesen Kursen deutlich mutiger diskutiert."
+     ],
+     [
+      "B",
+      "Das kann ich mir gut vorstellen. Ich denke außerdem an die Arbeitswelt: Unternehmen, die ihre Mitarbeitenden ständig zu Weiterbildungen schicken, sollten ihnen auch Zeit lassen, das Gelernte anzuwenden, statt sofort das nächste Ziel vorzugeben. Dann können wir festhalten: Das Zitat ist für Organisationen sinnvoll, für Menschen aber nur mit Einschränkungen. Besser werden ja, aber nicht um jeden Preis und nicht in allem."
+     ],
+     [
+      "A",
+      "Dem stimme ich zu. Zufriedenheit mit dem Erreichten ist kein Zeichen von Stillstand, sondern eine Voraussetzung dafür, überhaupt weiterzukommen."
+     ]
+    ]
+   },
+   {
+    "zitat": "„Die Wissenschaft kennt kein Vaterland, aber der Wissenschaftler hat eines.\"",
+    "by": "— Louis Pasteur, französischer Naturwissenschaftler",
+    "turns": [
+     [
+      "A",
+      "Pasteur unterscheidet zwischen der Wissenschaft als universellem Unternehmen und dem einzelnen Forscher, der einer Gesellschaft angehört. Erkenntnisse gehören allen, aber der Forscher trägt Verantwortung gegenüber seinem Land. So verstehe ich das Zitat."
+     ],
+     [
+      "B",
+      "Ich verstehe es ähnlich, sehe darin aber auch eine Spannung. Wenn ein Forscher seinem Land verpflichtet ist, darf er dann überhaupt ins Ausland gehen, wenn dort bessere Bedingungen herrschen?"
+     ],
+     [
+      "A",
+      "Genau diese Frage betrifft mich persönlich. Ich studiere in Deutschland, weil die Forschungsbedingungen in meinem Fach hier hervorragend sind. Gleichzeitig hat Korea in meine Ausbildung investiert. Bin ich also verpflichtet, zurückzukehren?"
+     ],
+     [
+      "B",
+      "Wie beantworten Sie die Frage für sich?"
+     ],
+     [
+      "A",
+      "Ich denke, Verantwortung bedeutet nicht unbedingt Rückkehr. Man kann von Deutschland aus mit koreanischen Universitäten kooperieren, Doktoranden betreuen oder Wissen weitergeben. Die Verbindung zur Heimat kann in beide Richtungen wirken."
+     ],
+     [
+      "B",
+      "Das leuchtet ein. In meinem Heimatland Indien ist die Abwanderung von Fachkräften allerdings ein ernstes Problem. Viele der besten Absolventen gehen in die USA, und die Universitäten, die sie ausgebildet haben, verlieren ihre Investition. Man spricht von einem Brain Drain."
+     ],
+     [
+      "A",
+      "Dem lässt sich entgegenhalten, dass viele indische Forschende später zurückkehren oder Unternehmen im Heimatland gründen. Aus dem Brain Drain wird dann eine Brain Circulation. Sehen Sie das auch so?"
+     ],
+     [
+      "B",
+      "Teilweise. Das funktioniert aber nur, wenn das Herkunftsland attraktive Bedingungen schafft. Solange Forschung dort unterfinanziert ist, bleibt die Rückkehr die Ausnahme. Das Zitat verlagert die Verantwortung meiner Meinung nach zu stark auf den Einzelnen."
+     ],
+     [
+      "A",
+      "Das ist ein berechtigter Einwand. Andererseits zeigt die Pandemie, dass Pasteurs erster Teil stimmt: Der Impfstoff wurde von einem Forscherehepaar mit türkischen Wurzeln in Mainz entwickelt, auf der Grundlage internationaler Vorarbeiten. Wissenschaft ist heute ohne grenzüberschreitende Zusammenarbeit gar nicht mehr denkbar."
+     ],
+     [
+      "B",
+      "Absolut. Und genau deshalb sollten Hochschulen internationale Mobilität fördern, aber gleichzeitig Programme entwickeln, die Forschende mit ihren Herkunftsländern verbinden, etwa gemeinsame Promotionen oder Sommerschulen."
+     ],
+     [
+      "A",
+      "Ich würde ergänzen, dass reiche Länder eine Verantwortung haben, die Forschung in ärmeren Regionen zu unterstützen, statt nur deren Talente abzuwerben."
+     ],
+     [
+      "B",
+      "Ein Punkt fehlt uns noch: die Verantwortung gegenüber der Gesellschaft, die der Forscher verlässt. Wer im Ausland forscht, sollte zumindest seine Ergebnisse in der Muttersprache zugänglich machen."
+     ],
+     [
+      "A",
+      "Das halte ich für einen sehr wichtigen Gedanken. In Korea werden viele Forschungsergebnisse nur auf Englisch veröffentlicht, sodass Lehrkräfte, Ärzte oder Journalisten im Land sie kaum nutzen können. Wissenschaft ohne Vaterland darf nicht bedeuten, dass sie die eigene Bevölkerung nicht mehr erreicht."
+     ],
+     [
+      "B",
+      "Genau. Vielleicht ist das die zeitgemäße Lesart von Pasteur: nicht Rückkehr, sondern Rückbindung. Dann können wir zusammenfassen: Pasteur hat recht, dass Wissenschaft universell ist und der Forscher Verantwortung trägt. Diese Verantwortung lässt sich aber auch aus der Ferne wahrnehmen, und sie liegt nicht nur beim Einzelnen, sondern auch bei den Staaten und Hochschulen."
+     ],
+     [
+      "A",
+      "Dem schließe ich mich an. Heimat ist für Forschende heute weniger ein Ort als vielmehr ein Netz von Verpflichtungen."
+     ]
+    ]
+   },
+   {
+    "zitat": "„Nicht alles, was zählt, kann gezählt werden, und nicht alles, was gezählt werden kann, zählt.\"",
+    "by": "— William Bruce Cameron, amerikanischer Soziologe",
+    "turns": [
+     [
+      "A",
+      "Das Zitat kritisiert unseren Glauben an Zahlen. Es besagt, dass sich die wichtigsten Dinge oft nicht messen lassen, während vieles, was wir messen, in Wirklichkeit unwichtig ist. Es wird oft Einstein zugeschrieben, geht aber auf den Soziologen William Bruce Cameron zurück."
+     ],
+     [
+      "B",
+      "Und es passt erstaunlich gut auf die Hochschulen. Alles wird gemessen: Noten, Leistungspunkte, Zitationen, Rankings. Aber ob jemand wirklich verstanden hat, worum es geht, zeigt keine dieser Zahlen."
+     ],
+     [
+      "A",
+      "Stimmen Sie dem Zitat also uneingeschränkt zu?"
+     ],
+     [
+      "B",
+      "Nicht ganz. Zahlen haben auch eine Schutzfunktion. Eine Note, die nach klaren Kriterien vergeben wird, ist gerechter als das persönliche Urteil eines Professors, der einen Studenten sympathisch findet. Ohne Messung gäbe es mehr Willkür."
+     ],
+     [
+      "A",
+      "Das ist ein guter Einwand. Ich denke aber, das Problem entsteht, wenn die Zahl zum Ziel wird. In Korea hat sich das gesamte Schulsystem auf eine einzige Aufnahmeprüfung ausgerichtet. Die Schüler lernen nicht mehr, um etwas zu verstehen, sondern um Punkte zu erzielen."
+     ],
+     [
+      "B",
+      "Mit welchen Folgen?"
+     ],
+     [
+      "A",
+      "Kreativität und Neugier bleiben auf der Strecke. Ich habe erst in Deutschland erlebt, dass man in einem Seminar eine Frage stellen darf, auf die niemand die Antwort kennt. In Korea wäre das ein Zeichen von Schwäche gewesen."
+     ],
+     [
+      "B",
+      "In meinem Heimatland Brasilien beobachte ich das Gegenteil: Weil vergleichbare Daten über einzelne Schulen oft fehlen, weiß man vielerorts nicht genau, welche Schulen gut arbeiten und wo Unterstützung nötig ist. Dort würde mehr Zählen tatsächlich helfen."
+     ],
+     [
+      "A",
+      "Das zeigt, dass beide Hälften des Zitats gelten. Man muss messen, aber wissen, was die Zahl nicht zeigt. Wie könnten Hochschulen das umsetzen?"
+     ],
+     [
+      "B",
+      "Zum Beispiel durch Prüfungsformen, die nicht nur Wissen abfragen, sondern Argumentation und Zusammenarbeit sichtbar machen: Projektarbeiten, Portfolios, mündliche Prüfungen wie diese hier."
+     ],
+     [
+      "A",
+      "Ein gutes Beispiel. Auch bei der Bewertung von Forschung wäre das sinnvoll. Zurzeit zählt vor allem die Zahl der Publikationen, was dazu führt, dass viele kleine Arbeiten statt weniger bedeutender erscheinen."
+     ],
+     [
+      "B",
+      "Genau. Einige Universitäten sind bereits dazu übergegangen, Bewerber um Professuren nach ihren fünf wichtigsten Arbeiten zu beurteilen, nicht nach der Gesamtzahl. Das entspricht dem Geist des Zitats. Was bedeutet das für die Studierenden selbst? Schließlich richten wir uns alle nach dem, was bewertet wird."
+     ],
+     [
+      "A",
+      "Das stimmt, und deshalb sollten Hochschulen offen sagen, welche Fähigkeiten sie nicht messen können, aber trotzdem erwarten: Neugier, Ausdauer, die Bereitschaft, Fehler zuzugeben. In Korea habe ich erlebt, dass Studierende genau diese Eigenschaften verlernen, weil sie sich nie in Punkten ausdrücken lassen."
+     ],
+     [
+      "B",
+      "In Brasilien wäre ich schon froh, wenn die messbaren Grundlagen überall gesichert wären. Aber ich stimme Ihnen zu, dass beides zusammengehört: eine solide Messung und das Bewusstsein für ihre Grenzen."
+     ],
+     [
+      "A",
+      "Dann halten wir fest: Messen ist notwendig für Fairness und Vergleichbarkeit, aber es darf das Denken nicht ersetzen. Die entscheidende Frage lautet immer, was die Zahl bedeutet."
+     ],
+     [
+      "B",
+      "Und was sie verschweigt. Dem kann ich voll zustimmen."
+     ]
+    ]
+   }
+  ]
+ },
+ "mistakes": {
+  "id": "fehler",
+  "title": "한국 학습자가 자주 하는 실수",
+  "head": [
+   "실수",
+   "이렇게 고치기",
+   "설명"
+  ],
+  "rows": [
+   [
+    "준비 시간에 발표문을 문장으로 써서 읽음",
+    "키워드만 씁니다 (문단당 3~4개)",
+    "지시문이 Stichworte만 허용합니다. 읽는 말투는 유창성과 표현 폭에서 손해를 줍니다."
+   ],
+   [
+    "„Mein Thema ist …“로 시작",
+    "인사, 주제 선택 이유, 구성 안내 순서로 30초 안에 시작합니다",
+    "지시문이 도입(예시, 경험)을 요구합니다."
+   ],
+   [
+    "일반론만 말하고 예시가 없음",
+    "근거마다 예시 하나: 고향 상황, 전공, 자기 경험 중 택일",
+    "숫자가 있으면 더 좋지만 정확히 아는 것만 말합니다."
+   ],
+   [
+    "1B 요약에 자기 의견을 섞음",
+    "요약은 파트너 내용만 3문장 (입장, 근거, 제한점)",
+    "의견은 질문의 형태로만 냅니다."
+   ],
+   [
+    "1B 질문이 예/아니오형 하나",
+    "열린 질문 2개: Inwiefern …? / Wie ließe sich …? / Besteht nicht die Gefahr, dass …?",
+    "질문이 내용과 이어져야 내용 점수를 받습니다."
+   ],
+   [
+    "토론에서 준비한 말만 이어 말함",
+    "파트너 발언에 먼저 반응 (인정 또는 반박), 내 논거, 되묻기",
+    "반응 없는 발언은 독백으로 들립니다."
+   ],
+   [
+    "토론을 2분 만에 마무리함",
+    "경험, 고향 상황, 결과·전망으로 논점을 넓혀 6분을 채웁니다",
+    "짧게 끝나면 시험관이 질문으로 개입할 수 있습니다."
+   ],
+   [
+    "문장 끝을 올리거나 단조롭게 말함",
+    "평서문은 끝을 내리고, 핵심 단어에 강세를 둡니다",
+    "발음·억양은 8점입니다. 녹음으로 확인하세요."
+   ]
+  ]
+ },
+ "grammar": {
+  "id": "grammatik",
+  "title": "C1 합격 필수 문법 — 말하기에서 쓰는 형태",
+  "intro": "아래 문법이 발화에 자연스럽게 들어가면 Repertoire와 문법 정확성에서 높은 단계를 받는 데 도움이 됩니다. 모두 위 모범 예시에서 쓰인 것들입니다.",
+  "head": [
+   "문법",
+   "핵심",
+   "예문"
+  ],
+  "rows": [
+   [
+    "접속법 2식 (완곡·가정)",
+    "제안과 반론을 부드럽게: könnte, ließe sich, wäre",
+    "Gemeinschaftswaschhäuser könnten ein erster Schritt sein."
+   ],
+   [
+    "간접화법",
+    "인용과 요약에서 habe / sei / könne",
+    "Politiker behaupten, es gebe keine Alternative."
+   ],
+   [
+    "명사 문체",
+    "부문장을 명사구로 압축합니다",
+    "durch die Anerkennung als Studienleistung · nach der Abschaffung der Gebühren"
+   ],
+   [
+    "분사 수식어",
+    "관계문을 분사구로 대체합니다",
+    "die in Korea tief verankerte Leistungsorientierung"
+   ],
+   [
+    "수동 대체 표현",
+    "sich lassen / sein + zu / -bar",
+    "Ihr Einfluss ist kaum zu überschätzen. / Das lässt sich beobachten."
+   ],
+   [
+    "양보 표현",
+    "wenngleich, so … auch, zwar … aber",
+    "So vernünftig der Satz klingt, so problematisch ist seine Wirkung."
+   ],
+   [
+    "2격 전치사",
+    "angesichts, infolge, mangels, ungeachtet",
+    "angesichts überfüllter Hörsäle · ungeachtet aller Kritik"
+   ],
+   [
+    "wo(r)- 관계부사",
+    "문장 전체를 받는 관계문",
+    "…, was dazu führt, dass … / …, wobei zu bedenken ist, dass …"
+   ],
+   [
+    "기능동사구",
+    "명사 + 동사 결합으로 격식을 높입니다",
+    "zur Verfügung stehen · Verantwortung tragen · zum Ausdruck bringen · in Frage stellen"
+   ],
+   [
+    "2단 접속사",
+    "zwar … aber / nicht nur … sondern auch / je … desto",
+    "Das Smartphone spart zwar Zeit, verbraucht aber gleichzeitig sehr viel davon."
+   ],
+   [
+    "비인칭 구문",
+    "ich 대신 Es-구문으로 객관화합니다",
+    "Es lässt sich festhalten, dass … / Es ist zu bedenken, dass …"
+   ],
+   [
+    "추측 화법조동사",
+    "dürfte, mag, könnte",
+    "Die Zahl der Auslandsaufenthalte dürfte weiter steigen."
+   ]
+  ]
+ },
+ "checklist": {
+  "id": "checkliste",
+  "title": "시험 당일 체크리스트",
+  "items": [
+   "발표 주제를 2분 안에 골랐는가?",
+   "메모에 문장이 아니라 키워드만 적었는가?",
+   "발표를 파트너를 향해 시작했는가? (시험관이 아니라 파트너가 청중입니다)",
+   "근거마다 예시가 하나씩 있는가?",
+   "파트너 발표를 듣는 동안 입장, 근거 1, 근거 2, 제한점 네 칸에 메모했는가?",
+   "요약에 내 의견을 섞지 않고, 인상 깊었던 점과 열린 질문을 넣었는가?",
+   "토론에서 Zitat를 내 말로 풀어 첫 발언을 시작했는가?",
+   "파트너 발언에 먼저 반응하고, 고향 상황을 말한 뒤 되물었는가?"
+  ]
+ },
+ "advice": "telc C1 Hochschule 말하기에서 점수의 3분의 2는 언어 점수입니다. 구조는 키워드로 붙잡고, 말은 파트너에게 하며, 고득점 표현을 Teil마다 3~4개만 정확하게 쓰세요."
+}
