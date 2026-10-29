@@ -48,6 +48,15 @@ a{color:inherit}
 .brand img{width:40px;height:auto;display:block}
 .brand b{font-size:19px;font-weight:700;line-height:1.2}
 @media (max-width:380px){.brand{gap:10px;max-width:calc(100% - 130px)}.brand img{width:34px}.brand b{font-size:15px}}
+details.acc{display:block;padding:0;position:relative}
+details.acc>summary{display:block;padding:16px 20px;cursor:pointer;list-style:none}
+details.acc>summary::-webkit-details-marker{display:none}
+details.acc>summary::after{content:"펼치기";position:absolute;right:20px;top:18px;font-size:12px;color:var(--ink-3)}
+details.acc[open]>summary::after{content:"접기"}
+details.acc .lt-h h3{padding-right:52px}
+.acc-b{padding:0 20px 16px}
+details.acc[open]{grid-column:1/-1}
+.lts,.dgs{align-items:start}
 .eyebrow{font-size:13px;letter-spacing:.18em;text-transform:uppercase;color:var(--ochre-ink);font-weight:700}
 .hero{padding:clamp(40px,8vh,72px) 0 8px}
 h1{font-weight:800;font-size:clamp(34px,6.4vw,60px);line-height:1.12;letter-spacing:-.03em;margin:14px 0 0}
@@ -200,5 +209,6 @@ html[data-theme="dark"] .it .p:hover,html[data-theme="dark"] .btn.ghost:hover{bo
   <aside class="src"><h2>근거 자료</h2><ul><li><a href="https://www.telc.net/fileadmin/user_upload/pdfs/Handbuch_und_Tipps_fuer_Pruefungsvorbereitung/Deutsch_c1_hochschule_Handbuch.pdf" target="_blank" rel="noopener">telc Deutsch C1 Hochschule, Handbuch (Schreibaufgabe 1 aus 2, 70 Minuten, 48 Punkte; mündliche Prüfung 20 Minuten Vorbereitung)</a></li><li><a href="https://shop.telc.net/media/catalog/product/file/5032B00040102BiB.pdf" target="_blank" rel="noopener">telc Deutsch C1 Hochschule, Übungstest 4 (Bewertungskriterien des Schriftlichen Ausdrucks)</a></li><li><a href="telc%20C1%20HS%20Modelltest%205.pdf#page=15" target="_blank" rel="noopener">이 앱의 telc C1 HS Modelltest 5 (쓰기 과제 15쪽, 모범 답안 21–23쪽, 채점·합격선 2쪽과 34쪽). SODA의 연습 자료이며 telc 본사의 공식 자료가 아닙니다</a></li></ul></aside>
   <footer class="foot"><a href="index.html#mode"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 12H5M11 6l-6 6 6 6"/></svg> telc C1 Hochschule 모의고사</a><span>© 2026 Sophia Deutsch Akademie</span></footer>
 </main>
+<script>addEventListener("beforeprint",function(){document.querySelectorAll("details").forEach(function(d){d.open=true})})</script>
 </body>
 </html>
