@@ -1,0 +1,951 @@
+{
+ "title": "말하기 시험 대비 가이드",
+ "eyebrow": "telc Deutsch B1 · Mündlicher Ausdruck",
+ "lead": "말하기 시험은 파트너와 대화하는 세 개의 Teil로 이루어집니다. 시험 구조와 채점 방식, 준비 방법, Teil별 진행과 표현, 모범 대화 10편, 필수 문법을 정리했습니다.",
+ "closing": "Fang einfach an – schon der erste Satz macht den Rest leichter.",
+ "sources_title": "공식 근거",
+ "sources": [
+  [
+   "telc Deutsch B1, Übungstest (Mündlicher Ausdruck, Bewertungskriterien, Punkte)",
+   "https://www.dsh-germany.com/_downloads/certificates/telc/pdf/telc-deutsch-b1-zd-uebungstest.pdf"
+  ],
+  [
+   "이 앱의 telc B1 Modelltest 5 (Mündlicher Ausdruck 15–18쪽, 모범 대화와 „Worauf die Prüfenden achten“ 21쪽)",
+   "telc%20B1%20Modelltest%205.pdf#page=15"
+  ]
+ ],
+ "overview": {
+  "id": "uebersicht",
+  "title": "시험 한눈에 보기",
+  "rows": [
+   [
+    "형태",
+    "Paarprüfung(응시자 2명)입니다. 응시자가 한 명이면 시험관이 파트너가 되는 Einzelprüfung으로 치릅니다. 파트너와 대화하는 시험이라서 시험관이 아니라 파트너를 보고 말합니다."
+   ],
+   [
+    "시간",
+    "준비 20분 뒤에 시험을 약 15분 봅니다. 공식 안내가 제안하는 Teil별 시간은 Teil 1이 약 3~4분, Teil 2와 Teil 3이 각각 약 5~6분입니다. 시험 센터마다 조금 다를 수 있습니다."
+   ],
+   [
+    "구성",
+    "Teil 1 Kontaktaufnahme(이 앱 Modelltest 표기: Einander kennenlernen), Teil 2 Gespräch über ein Thema(Über ein Thema sprechen), Teil 3 Gemeinsam eine Aufgabe lösen(Gemeinsam etwas planen)입니다."
+   ],
+   [
+    "배점",
+    "75점입니다. Teil 1이 15점, Teil 2와 Teil 3이 각각 30점입니다. 75점은 전체 300점의 25%입니다."
+   ],
+   [
+    "합격",
+    "구술 75점 중 45점(60%)과 필기 225점 중 135점(60%)을 각각 넘어야 합니다. 구술이 부족하면 필기가 좋아도 보완되지 않습니다."
+   ],
+   [
+    "준비",
+    "20분 동안 과제지를 읽고 말할 내용을 준비합니다. 메모의 사용 범위는 시험 센터의 안내를 따릅니다. 완성된 문장이 아니라 키워드만 적는 연습을 해 둡니다."
+   ]
+  ]
+ },
+ "diff": {
+  "title": "Goethe B1과 달라지는 점",
+  "text": "Goethe B1 말하기의 Teil 3은 슬라이드를 쓰는 개인 발표이고, telc B1에는 발표가 없습니다. telc는 처음부터 끝까지 파트너와 대화합니다. Teil 2도 발표가 아니라 서로의 글을 전한 뒤 의견을 주고받는 대화입니다. 그래서 발표문을 외우기보다 파트너의 말에 반응하고 되묻는 연습을 해야 합니다."
+ },
+ "scoring": {
+  "id": "bewertung",
+  "title": "채점 방식",
+  "intro": "Teil마다 네 가지 기준으로 평가하고, 각 기준을 A·B·C·D로 나눕니다. 아래 배점은 telc 공식 Übungstest의 채점표를 따릅니다.",
+  "head": [
+   "기준",
+   "보는 것",
+   "Teil 1 (A · B · C · D)",
+   "Teil 2·3 (A · B · C · D)"
+  ],
+  "criteria": [
+   [
+    "Ⅰ. Ausdrucksfähigkeit (표현력)",
+    "내용과 상황에 맞는 표현, 어휘의 폭, 하려는 말을 실제로 전달했는지 봅니다.",
+    "4 · 3 · 1 · 0",
+    "8 · 6 · 2 · 0"
+   ],
+   [
+    "Ⅱ. Aufgabenbewältigung (과제 수행)",
+    "과제를 끝까지 해결했는지, 대화 전략(말 이어받기, 되묻기, 모르는 단어 돌려 말하기)을 쓰는지 봅니다.",
+    "4 · 3 · 1 · 0",
+    "8 · 6 · 2 · 0"
+   ],
+   [
+    "Ⅲ. Formale Richtigkeit (형식적 정확성)",
+    "문장 구조와 어형 변화를 봅니다.",
+    "4 · 3 · 1 · 0",
+    "8 · 6 · 2 · 0"
+   ],
+   [
+    "Ⅳ. Aussprache und Intonation (발음과 억양)",
+    "알아듣는 데 힘이 드는지, 억양이 문장 종류에 맞는지 봅니다.",
+    "3 · 2 · 1 · 0",
+    "6 · 4 · 2 · 0"
+   ]
+  ],
+  "sum_note": "Teil 1은 4+4+4+3으로 15점, Teil 2와 Teil 3은 8+8+8+6으로 각각 30점입니다.",
+  "rules_title": "채점에서 알아 둘 것",
+  "rules": [
+   "파트너와 경쟁하지 않습니다. 응시자는 각자 평가되므로 파트너가 부족해도 내 점수가 따로 내려가지는 않습니다(SODA 해석).",
+   "공식 모범 대화의 안내(„Worauf die Prüfenden achten“)는 이렇습니다. Teil 1은 질문하고 대답하며 자기 이야기만 하지 않기, Teil 2는 먼저 내 글을 전하고 파트너의 글에 대해 묻고 의견을 이유와 함께 말하고 경험을 이야기하기, Teil 3은 제안과 이유를 말하고 파트너에게 반응하며 마지막에 합의와 역할 분담을 하기입니다.",
+   "말이 적으면 평가할 근거가 부족합니다. 파트너와 비슷한 양을 말하세요.",
+   "빠르게 말할 필요가 없습니다. 또박또박 말해야 기준 Ⅳ에서 안정적입니다."
+  ]
+ },
+ "strategy": {
+  "id": "strategie",
+  "title": "점수 전략",
+  "intro": "Teil 2와 Teil 3이 60점으로 전체 75점의 80%입니다. 합격선 45점은 Teil 2·3만으로도 도달할 수 있고, Teil 1은 만점이 15점이라서 자기소개를 외우는 데 시간을 많이 쓰면 효율이 낮습니다.",
+  "tips": [
+   [
+    "①",
+    "Teil 1은 7개 주제를 막힘없이 주고받기: 목표 12점 이상. 외운 낭독 대신 주제마다 문장 하나와 이유 한 조각을 준비합니다."
+   ],
+   [
+    "②",
+    "Teil 2는 Berichten → Nachfragen → Meinung → Erfahrung 4단계를 모두 거치기: 목표 22점 이상. 내 글을 요약하고 끝내면 절반도 받기 어렵습니다."
+   ],
+   [
+    "③",
+    "Teil 3은 결론 도달이 전부: 목표 22점 이상. 시간이 모자라도 마지막에 „Dann halten wir fest: …“로 합의 내용을 정리하세요."
+   ]
+  ],
+  "sim_head": [
+   "유형",
+   "Teil 1",
+   "Teil 2",
+   "Teil 3",
+   "합계",
+   "결과"
+  ],
+  "sim": [
+   [
+    "모든 Teil 안정",
+    "12",
+    "24",
+    "24",
+    "60",
+    "여유 합격"
+   ],
+   [
+    "자기소개는 약하지만 대화를 잘 끌어감",
+    "9",
+    "20",
+    "20",
+    "49",
+    "합격"
+   ],
+   [
+    "Teil 1만 완벽, Teil 2·3에서 침묵",
+    "15",
+    "12",
+    "12",
+    "39",
+    "불합격"
+   ],
+   [
+    "Teil 3에서 결론 없이 시간 종료",
+    "12",
+    "22",
+    "10",
+    "44",
+    "1점 차 불합격"
+   ]
+  ],
+  "sim_note": "점수 구조를 이해하기 위한 예시이고 실제 점수는 평가에 따라 달라집니다."
+ },
+ "steps": {
+  "id": "vorbereitung",
+  "title": "20분 준비 시간 활용법",
+  "intro": "아래 배분은 SODA의 권장안입니다. 준비 시간에 무엇을 읽는지는 시험 센터의 안내를 따릅니다.",
+  "head": [
+   "시간",
+   "할 일"
+  ],
+  "rows": [
+   [
+    "0~3분",
+    "Teil 2 글을 두 번 읽고 핵심 주장 한 문장에 밑줄을 긋습니다."
+   ],
+   [
+    "3~9분",
+    "Teil 2용 키워드 4~5개를 메모합니다: 내 의견 / 이유 2개 / 내 경험 1개 / 반대 입장 1개."
+   ],
+   [
+    "9~16분",
+    "Teil 3 과제의 결정 항목을 목록으로 만듭니다(언제 · 어디서 · 누구 · 무엇 · 비용 · 역할 분담). 항목마다 구체안을 하나씩 정합니다."
+   ],
+   [
+    "16~20분",
+    "시작 문장과 되묻기 문장을 소리 내지 않고 입 모양으로 두 번 연습합니다."
+   ]
+  ],
+  "warn": "완성된 문장을 적지 마세요. 문장을 적어 읽으면 읽는 말투가 되어 억양이 부자연스러워집니다. 명사와 동사 키워드만 적습니다. 예: „Jacke online zu klein – Rücksendung nervig“ (○) / „Letztes Jahr habe ich mir online eine Jacke bestellt, aber sie war zu klein.“ (×)"
+ },
+ "plan": {
+  "id": "plan",
+  "title": "준비 5단계",
+  "intro": "기간은 SODA의 권장안입니다.",
+  "head": [
+   "단계",
+   "기간",
+   "학습 내용"
+  ],
+  "rows": [
+   [
+    "1. 7개 주제 자동화",
+    "1주",
+    "Teil 1의 7개 주제에 대해 주제마다 문장 1~2개를 말하는 연습을 합니다. 매일 녹음해 듣고 어색한 부분만 고칩니다."
+   ],
+   [
+    "2. 만능 표현 암기",
+    "2주",
+    "이 가이드의 표현표를 기능별로 외웁니다. 하루 5개씩 소리 내어 10번 반복합니다."
+   ],
+   [
+    "3. 주제별 의견",
+    "3주",
+    "자주 나오는 주제 12개에 대해 의견 + 이유 2개 + 내 경험 1개를 각각 2분씩 말합니다."
+   ],
+   [
+    "4. 파트너 훈련",
+    "3주",
+    "실제 사람과 Teil 3 협상을 연습합니다. 혼자라면 1인 2역으로 A와 B를 번갈아 녹음합니다."
+   ],
+   [
+    "5. 실전 모의",
+    "2주",
+    "20분 준비와 15분 대화를 타이머를 켜고 그대로 재현합니다. 녹음을 4개 기준으로 스스로 채점합니다."
+   ]
+  ]
+ },
+ "teil1": {
+  "id": "teil1",
+  "no": "Teil 1",
+  "title": "Kontaktaufnahme · 서로 알아가기",
+  "lead": "파트너와 처음 만난 상황에서 인사하고 서로 질문하며 대화합니다. 시험지에는 대화 주제가 정리되어 있습니다(Modelltest 5: Name, Woher sie oder er kommt, Wie sie oder er wohnt, Familie, Wo sie oder er Deutsch gelernt hat, Was sie oder er macht, Sprachen). 시험관이 Haustier나 Urlaub 같은 질문을 더 할 수 있습니다. 발표가 아니라 서로 묻고 답하는 대화입니다. 15점이고 약 3~4분입니다.",
+  "topics_title": "7개 주제와 질문·대답 예시",
+  "topics_head": [
+   "주제",
+   "질문 예시",
+   "대답 예시"
+  ],
+  "topics": [
+   [
+    "Name",
+    "Wie heißt du? / Wie heißen Sie?",
+    "Mein Name ist Jihun Lee, aber alle nennen mich Jihun."
+   ],
+   [
+    "Herkunft",
+    "Woher kommst du?",
+    "Ich komme aus Südkorea, genauer gesagt aus Busan."
+   ],
+   [
+    "Wohnen",
+    "Wie wohnst du?",
+    "Ich wohne mit meiner Familie in einer Dreizimmerwohnung am Stadtrand. Einen Garten haben wir nicht, aber es gibt einen Spielplatz in der Nähe."
+   ],
+   [
+    "Familie",
+    "Hast du Familie hier?",
+    "Ich bin verheiratet und habe eine kleine Tochter. Meine Eltern leben noch in Korea."
+   ],
+   [
+    "Deutsch gelernt",
+    "Wo hast du Deutsch gelernt?",
+    "Ich habe vor drei Jahren in Seoul angefangen und lerne jetzt hier in einem Abendkurs weiter."
+   ],
+   [
+    "Beruf · Studium",
+    "Was machst du hier – arbeitest du oder studierst du?",
+    "Von Beruf bin ich Softwareentwickler und arbeite bei einer kleinen Firma. / Ich studiere im dritten Semester Maschinenbau."
+   ],
+   [
+    "Sprachen",
+    "Welche Sprachen sprichst du?",
+    "Ich spreche Koreanisch, Englisch und seit drei Jahren auch Deutsch."
+   ],
+   [
+    "Zusatz: Haustier",
+    "Hast du ein Haustier? Hättest du gern eins?",
+    "Nein, aber ich hätte gern eine Katze. Leider ist unsere Wohnung dafür zu klein."
+   ],
+   [
+    "Zusatz: Urlaub",
+    "Was möchtest du im nächsten Urlaub machen?",
+    "Im Sommer möchte ich ans Meer fahren und eine Woche nichts tun."
+   ]
+  ],
+  "tips_title": "Teil 1에서 점수를 올리는 두 가지",
+  "tips": [
+   "대답마다 이유나 설명을 한 조각 붙입니다. „Ich koche gern.“에서 끝내지 않고 „…, weil ich dabei entspannen kann.“을 붙이면 기준 Ⅰ(표현력)에 도움이 됩니다.",
+   "대답한 뒤에는 파트너에게 같은 질문을 돌려줍니다. „Und du? Wie lange lernst du schon Deutsch?“ 한 문장이 기준 Ⅱ(과제 수행)의 대화 전략을 채웁니다."
+  ],
+  "phrases_title": "고득점 만능 표현 — Teil 1",
+  "phrases_head": [
+   "기능",
+   "표현 (B1)"
+  ],
+  "phrases": [
+   [
+    "첫인사",
+    "Guten Tag! Darf ich mich kurz vorstellen? Mein Name ist Jihun Lee."
+   ],
+   [
+    "출신 상세화",
+    "Ich komme aus Südkorea, genauer gesagt aus Busan im Süden des Landes."
+   ],
+   [
+    "거주 기간",
+    "Seit drei Jahren lebe ich in Köln."
+   ],
+   [
+    "직업",
+    "Von Beruf bin ich Verkäuferin und arbeite zurzeit in Teilzeit."
+   ],
+   [
+    "학업",
+    "Ich studiere im dritten Semester Maschinenbau."
+   ],
+   [
+    "취미와 이유",
+    "In meiner Freizeit koche ich gern, weil ich dabei richtig abschalten kann."
+   ],
+   [
+    "빈도 표현",
+    "Zweimal pro Woche gehe ich ins Fitnessstudio."
+   ],
+   [
+    "독일어 학습",
+    "Mit Deutsch habe ich vor zwei Jahren angefangen, zuerst in einem Abendkurs."
+   ],
+   [
+    "시험 이유",
+    "Das Zertifikat brauche ich, um mich an der Universität zu bewerben."
+   ],
+   [
+    "미래 계획",
+    "In Zukunft möchte ich gern hier in Deutschland als Ingenieurin arbeiten."
+   ],
+   [
+    "파트너에게 질문",
+    "Jetzt bin ich neugierig – wie lange lernst du schon Deutsch?"
+   ],
+   [
+    "공통점 찾기",
+    "Das ist ja interessant, da geht es mir genauso."
+   ],
+   [
+    "되묻기",
+    "Entschuldigung, das habe ich nicht ganz verstanden. Könntest du das wiederholen?"
+   ]
+  ],
+  "dialogs_title": "모범 대화 3편",
+  "dialogs_note": "A와 B가 번갈아 질문하고 대답합니다. 7개 주제가 모두 들어 있습니다.",
+  "dialogs": [
+   {
+    "title": "처음 만난 두 사람 (du)",
+    "kontext": "두 사람이 처음 만나 7개 주제를 차례로 묻고 답합니다. 질문과 대답이 번갈아 이어지는 것이 중요합니다.",
+    "lines": [
+     "A: Hallo, ich bin Jihun Lee. Freut mich, dich kennenzulernen!",
+     "B: Hallo Jihun, ich bin Mira Kovač. Freut mich auch. Woher kommst du?",
+     "A: Ich komme aus Südkorea, genauer gesagt aus Busan. Und du?",
+     "B: Ich komme aus Kroatien, aus Split. Seit drei Jahren wohne ich in Köln. Wie wohnst du hier?",
+     "A: Mit meiner Frau und unserer kleinen Tochter in einer Dreizimmerwohnung am Stadtrand. Einen Garten haben wir nicht, aber es gibt einen Spielplatz in der Nähe. Und wie wohnst du?",
+     "B: Allein, in einem kleinen Apartment in der Innenstadt. Meine Eltern und mein Bruder leben noch in Kroatien. Hast du Familie hier?",
+     "A: Nur meine Frau und meine Tochter. Meine Eltern sind in Busan, wir telefonieren jeden Sonntag. Wo hast du Deutsch gelernt?",
+     "B: Zuerst in einem Abendkurs an der Volkshochschule, dann in einem Intensivkurs. Und du?",
+     "A: Ich habe vor drei Jahren in Seoul angefangen und lerne jetzt hier weiter, zweimal pro Woche am Abend. Und was machst du hier in Köln, arbeitest du oder studierst du?",
+     "B: Ich arbeite als Krankenschwester in einem Krankenhaus ganz in der Nähe. Und du?",
+     "A: Ich bin Softwareentwickler und arbeite bei einer kleinen Firma. Welche Sprachen sprichst du eigentlich?",
+     "B: Kroatisch, Englisch, ein bisschen Italienisch und Deutsch. Deutsch ist meine vierte Sprache – und die schwierigste! Und bei dir?",
+     "A: Koreanisch, Englisch und seit drei Jahren auch Deutsch. Da geht es mir genauso: Die Artikel sind für mich das Schwierigste."
+    ]
+   },
+   {
+    "title": "Herr Amir und Frau Park (Sie)",
+    "kontext": "두 사람이 서로 모르는 사이라서 Sie로 말합니다. 미리 정했다면 du도 괜찮고, 한 형태로 끝까지 통일하는 것이 중요합니다.",
+    "lines": [
+     "A: Guten Tag, mein Name ist Soyeon Park. Wie heißen Sie?",
+     "B: Guten Tag, Frau Park. Ich heiße Karim Amir. Woher kommen Sie?",
+     "A: Ursprünglich aus Seoul, aber seit zwei Jahren wohne ich in München. Und Sie?",
+     "B: Ich komme aus Marokko, aus Casablanca. Vor einem Jahr bin ich mit meiner Frau und unserem Sohn nach München gezogen.",
+     "A: Das ist ja interessant. Wie wohnen Sie hier?",
+     "B: Wir haben ein Reihenhaus am Stadtrand mit einem kleinen Garten. Der Garten ist für unseren Sohn ideal. Wohnen Sie auch mit Ihrer Familie?",
+     "A: Nein, ich lebe allein in einer kleinen Wohnung in der Nähe der Universität. Meine Familie ist in Korea. Wo haben Sie Deutsch gelernt, Herr Amir?",
+     "B: An der Volkshochschule, dreimal pro Woche abends. Und Sie?",
+     "A: Ich habe in Seoul angefangen und hier einen Intensivkurs besucht. Jetzt studiere ich im dritten Semester Maschinenbau. Und welchen Beruf haben Sie?",
+     "B: Ich bin Ingenieur bei einer Autofirma. Mein Deutsch brauche ich jeden Tag bei der Arbeit.",
+     "A: Welche Sprachen sprechen Sie noch?",
+     "B: Arabisch, Französisch und ein bisschen Englisch. Deutsch ist meine vierte Sprache. Und Sie?",
+     "A: Koreanisch, Englisch und Deutsch. Nach dem Studium möchte ich gern hier arbeiten, deshalb brauche ich das Zertifikat."
+    ]
+   },
+   {
+    "title": "Nachfragen nach der Vorstellung",
+    "kontext": "B가 방금 자기소개를 했고(기계공학 3학기, 카페 아르바이트), A는 결혼해서 어린 딸이 있고 소프트웨어 개발자라고 말한 상태입니다. 이어서 서로 질문합니다.",
+    "lines": [
+     "A: Du hast gesagt, dass du in einem Café arbeitest. Wie schaffst du das neben dem Studium?",
+     "B: Das ist manchmal wirklich anstrengend. Ich arbeite nur am Wochenende, dann habe ich unter der Woche genug Zeit zum Lernen. Und wie ist das bei dir mit der kleinen Tochter?",
+     "A: Ähnlich, würde ich sagen. Meine Frau und ich teilen uns die Betreuung. Deutsch lerne ich meistens abends, wenn unsere Tochter schläft.",
+     "B: Das klingt nach wenig Schlaf. Was fällt dir am Deutschen am schwersten?",
+     "A: Ganz klar die Artikel — der, die, das. Im Koreanischen gibt es so etwas gar nicht. Geht es dir auch so?",
+     "B: Genau, da geht es mir genauso. Am meisten helfen mir Gespräche, denn dabei merke ich mir die Wörter viel besser."
+    ]
+   }
+  ],
+  "range": [
+   120,
+   260
+  ]
+ },
+ "teil2": {
+  "id": "teil2",
+  "no": "Teil 2",
+  "title": "Gespräch über ein Thema · 주제에 대해 대화하기",
+  "lead": "두 사람이 같은 주제에 대해 서로 다른 글을 받습니다(Modelltest 5: „Selbst kochen oder Fertiggerichte?“, 한쪽은 직접 요리하는 아버지의 의견, 다른 쪽은 교대 근무자의 의견). 먼저 각자 자기 글의 내용을 전하고, 그다음 둘이 주제에 대해 이야기하며 의견을 말하고 경험을 이야기합니다. 30점이고 약 5~6분입니다.",
+  "warn": "이것은 발표가 아닙니다. 글 요약만 하고 입을 다물면 점수 대부분을 놓칩니다. 요약은 시작일 뿐이고 배점의 대부분은 그 뒤의 대화에 있습니다.",
+  "steps_title": "Teil 2 진행 4단계",
+  "steps_head": [
+   "단계",
+   "할 일",
+   "시작 문장"
+  ],
+  "steps": [
+   [
+    "① Berichten",
+    "내 글의 내용을 3~4문장으로 전합니다. 누가 무엇을 왜 주장하는지 말합니다.",
+    "In meinem Text geht es um … / Auf meinem Blatt geht es um …"
+   ],
+   [
+    "② Nachfragen",
+    "파트너에게 그 사람의 글에 대해 묻습니다. 두 글이 다른 의견이라는 점을 짚습니다.",
+    "Und was steht auf deinem Blatt? / Frau Hoff sieht das also ganz anders."
+   ],
+   [
+    "③ Meinung",
+    "내 생각을 이유와 함께 말합니다. 이유는 2개를 목표로 합니다.",
+    "Meiner Meinung nach …, weil …"
+   ],
+   [
+    "④ Erfahrung",
+    "내 경험을 구체적으로 하나 이야기합니다. 어휘 점수가 여기서 갈립니다.",
+    "Bei mir war das zum Beispiel so: …"
+   ]
+  ],
+  "steps_note": "모든 단계에서 파트너의 말에 반응하고 되묻는 것을 최소 2번 합니다(SODA 권장). 예: Da stimme ich dir zu, allerdings … Und wie ist das bei dir?",
+  "phrases_title": "고득점 만능 표현 — Teil 2",
+  "phrases_head": [
+   "기능",
+   "표현 (B1)"
+  ],
+  "phrases": [
+   [
+    "텍스트 소개",
+    "In meinem Text geht es um das Thema Sport im Alltag."
+   ],
+   [
+    "인물 주장 전달",
+    "Eine Frau namens Maria berichtet, dass sie fast alles online kauft."
+   ],
+   [
+    "이유 전달",
+    "Als Grund nennt sie, dass die Preise dort oft günstiger sind."
+   ],
+   [
+    "내 의견",
+    "Meiner Meinung nach hat das mehr Vor- als Nachteile."
+   ],
+   [
+    "개인 경험",
+    "Bei mir war das zum Beispiel so: Letztes Jahr habe ich …"
+   ],
+   [
+    "완전 동의",
+    "Da stimme ich dir völlig zu."
+   ],
+   [
+    "부분 동의",
+    "Da hast du recht, allerdings sehe ich auch einen Nachteil."
+   ],
+   [
+    "반대",
+    "Das sehe ich ehrlich gesagt etwas anders. / Da bin ich anderer Meinung."
+   ],
+   [
+    "다른 관점",
+    "Andererseits muss man sagen, dass …"
+   ],
+   [
+    "장단점",
+    "Der größte Vorteil ist …, der Nachteil dabei ist allerdings …"
+   ],
+   [
+    "되묻기",
+    "Wie siehst du das? / Wie ist das bei dir?"
+   ],
+   [
+    "관심 표시",
+    "Interessant. Daran habe ich noch gar nicht gedacht."
+   ],
+   [
+    "단어가 막힐 때",
+    "Wie sagt man das … Ich meine das Ding, mit dem man …"
+   ],
+   [
+    "생각할 시간 벌기",
+    "Das ist eine gute Frage, lass mich kurz überlegen."
+   ],
+   [
+    "마무리",
+    "Alles in allem finde ich, dass die Mischung am besten ist."
+   ]
+  ],
+  "dialogs_title": "모범 대화 4편",
+  "dialogs_note": "두 사람이 서로 다른 글을 받았다는 설정입니다. 먼저 각자 글을 전하고, 이어서 의견과 경험을 주고받습니다.",
+  "dialogs": [
+   {
+    "title": "Einkaufen im Internet",
+    "textA": "„Ich kaufe fast alles online. Das spart mir viel Zeit, und die Preise sind oft günstiger. In die Innenstadt fahre ich nur noch selten.“ — Maria, 29",
+    "textB": "„Ich gehe lieber in richtige Geschäfte. Ich möchte die Sachen anfassen und anprobieren. Außerdem verschwinden sonst die kleinen Läden in der Stadt.“ — Jens, 45",
+    "lines": [
+     "A: In meinem Text geht es um das Einkaufen im Internet. Eine Frau namens Maria, 29 Jahre alt, berichtet, dass sie fast alles online kauft. Als Gründe nennt sie, dass sie dabei Zeit spart und dass die Preise oft günstiger sind. In die Innenstadt fährt sie deshalb nur noch selten.",
+     "B: In meinem Text geht es um Jens, er ist 45 Jahre alt. Er geht lieber in richtige Geschäfte, weil er die Sachen anfassen und anprobieren möchte. Außerdem macht er sich Sorgen um die kleinen Läden. Er meint, dass sie schließen müssen, wenn alle nur noch online bestellen.",
+     "A: Ich kann beide Meinungen gut verstehen. Bücher und Elektronik bestelle ich auch im Internet, weil die Auswahl dort viel größer ist. Kleidung kaufe ich aber lieber im Laden. Bei mir war das zum Beispiel so: Letztes Jahr habe ich mir online eine Jacke bestellt, und sie war viel zu klein. Das Zurückschicken hat mich richtig genervt. Wie ist das bei dir?",
+     "B: Bei mir ist es ähnlich. Ich bestelle fast nur Dinge, bei denen die Größe keine Rolle spielt. Was mich am Online-Einkauf am meisten stört, ist die Verpackung. Für eine Kleinigkeit kommt ein riesiger Karton — das finde ich schlecht für die Umwelt.",
+     "A: Da stimme ich dir völlig zu. Andererseits muss man sagen, dass Online-Einkauf für ältere Menschen oder für Leute auf dem Land ein großer Vorteil ist. Meine Nachbarin ist 80 und kann nicht mehr gut laufen. Sie lässt sich einfach alles liefern.",
+     "B: Das ist ein gutes Argument, daran habe ich noch gar nicht gedacht. Trotzdem finde ich es wichtig, dass man ab und zu in der Stadt einkauft. Sonst gibt es bald keine Geschäfte mehr, und die Innenstädte werden leer.",
+     "A: Ein Punkt fällt mir noch ein: die Beratung. Im Geschäft kann man Fragen stellen und bekommt sofort eine Antwort. Im Internet muss ich mich auf Bewertungen verlassen, und die sind nicht immer ehrlich.",
+     "B: Das ist ein gutes Argument. Mir ist außerdem wichtig, dass man im Laden nicht auf die Lieferung warten muss. Neulich habe ich zwei Wochen auf ein Paket gewartet, obwohl drei Tage versprochen waren.",
+     "A: Genau, das ärgert mich auch jedes Mal. Andererseits sind die Öffnungszeiten ein echter Vorteil des Internets — abends um elf kann ich noch bestellen, aber in kein Geschäft mehr gehen.",
+     "B: Da hast du recht. Für Berufstätige ist das wahrscheinlich der wichtigste Grund.",
+     "A: Da stimme ich dir zu. Alles in allem finde ich, dass die Mischung am besten ist: manches online, manches im Geschäft."
+    ]
+   },
+   {
+    "title": "Wohnen: Stadt oder Land",
+    "textA": "„Ich wohne mitten in der Stadt und möchte nirgendwo anders leben. Alles ist zu Fuß erreichbar, und abends ist immer etwas los.“ — Tobias, 26",
+    "textB": "„Wir sind vor zwei Jahren aufs Land gezogen. Hier haben die Kinder Platz, und die Miete ist deutlich niedriger. Den Lärm der Stadt vermisse ich überhaupt nicht.“ — Sabine, 38",
+    "lines": [
+     "A: In meinem Text geht es um das Wohnen in der Stadt. Ein junger Mann namens Tobias, 26 Jahre alt, wohnt mitten im Zentrum. Er sagt, dass er alles zu Fuß erreichen kann und dass abends immer etwas los ist. Umziehen möchte er auf keinen Fall.",
+     "B: In meinem Text erzählt Sabine, eine Mutter von 38 Jahren, dass ihre Familie vor zwei Jahren aufs Land gezogen ist. Als Gründe nennt sie den Platz für die Kinder und die niedrigere Miete. Den Lärm der Stadt vermisst sie gar nicht.",
+     "A: Meiner Meinung nach kommt es sehr auf die Lebenssituation an. Für junge Leute ohne Kinder ist die Stadt praktischer, weil man keine Zeit im Auto verliert. Bei mir war das zum Beispiel so: In Korea habe ich eine Stunde zur Arbeit gebraucht, jetzt sind es zehn Minuten mit dem Rad. Dieser Unterschied ist riesig. Wie siehst du das?",
+     "B: Das kann ich gut nachvollziehen. Für mich wäre das Land aber trotzdem schöner. Der größte Vorteil ist die Ruhe, der Nachteil ist allerdings, dass man ohne Auto fast nichts machen kann.",
+     "A: Genau das ist mein Hauptargument. Außerdem sind die Ärzte und die Schulen auf dem Land oft weit weg. Eine Freundin von mir fährt mit ihrem Sohn 30 Kilometer zum Kinderarzt.",
+     "B: Das stimmt, daran denken viele nicht. Andererseits muss man sagen, dass die Mieten in der Stadt kaum noch bezahlbar sind. Meine Kollegin zahlt für eine kleine Wohnung fast die Hälfte ihres Gehalts.",
+     "A: Für die Stadt spricht meiner Meinung nach außerdem das Freizeitangebot. Kino, Konzerte, Sprachkurse — alles ist in der Nähe. Auf dem Land muss man dafür immer weit fahren.",
+     "B: Das stimmt, aber dafür ist man dort viel schneller in der Natur. Meine Schwester wohnt am Waldrand und geht jeden Morgen mit dem Hund spazieren. Das würde mir gut gefallen.",
+     "A: Das klingt wirklich schön. Ich glaube, es hängt auch davon ab, wie alt man ist. Mit zwanzig hätte ich das Land langweilig gefunden, heute sehe ich das anders.",
+     "B: Genau so ist es bei mir auch. Außerdem sollte man an die Nachbarschaft denken. Auf dem Land kennt man sich, in der Stadt kenne ich nach zwei Jahren nicht einmal die Leute im selben Haus.",
+     "A: Da hast du völlig recht. Vielleicht ist der beste Kompromiss ein Ort am Stadtrand — ruhig, aber mit guter Verbindung ins Zentrum."
+    ]
+   },
+   {
+    "title": "Das Handy im Alltag",
+    "textA": "„Ohne mein Handy könnte ich meinen Alltag nicht mehr organisieren. Termine, Fahrkarten, Kontakt zur Familie — alles läuft darüber.“ — Nadine, 34",
+    "textB": "„Am Esstisch ist das Handy bei uns verboten. Ich habe den Eindruck, dass echte Gespräche immer seltener werden.“ — Bernd, 52",
+    "lines": [
+     "A: In meinem Text geht es um das Handy im Alltag. Nadine, 34 Jahre alt, sagt, dass sie ihren Alltag ohne Handy gar nicht mehr organisieren könnte. Sie nennt Termine, Fahrkarten und den Kontakt zur Familie. Für sie ist das Handy also vor allem ein praktisches Werkzeug.",
+     "B: In meinem Text äußert sich Bernd deutlich kritischer. Er ist 52 Jahre alt und erzählt, dass bei ihm zu Hause am Esstisch kein Handy erlaubt ist. Er hat den Eindruck, dass echte Gespräche immer seltener werden.",
+     "A: Ehrlich gesagt finde ich beide Punkte richtig. Ohne Handy wäre mein Alltag als Ausländer viel schwieriger, weil ich ständig Wörter nachschlage und Fahrpläne prüfe. Bei mir war das zum Beispiel so: In meiner ersten Woche in Deutschland habe ich die Behörde nur mit der Karte auf dem Handy gefunden. Ohne das wäre ich völlig verloren gewesen.",
+     "B: Das kann ich gut verstehen. Mich stört aber, wie oft man das Handy ohne Grund in die Hand nimmt. Ich schaue manchmal alle fünf Minuten drauf, obwohl niemand geschrieben hat.",
+     "A: Das kenne ich leider auch. Deshalb schalte ich abends die Benachrichtigungen aus. Seitdem schlafe ich deutlich besser. Hast du so etwas schon einmal probiert?",
+     "B: Noch nicht, aber das klingt vernünftig. Bei uns gilt nur die Regel beim Essen. Das reicht eigentlich nicht, wenn ich ehrlich bin.",
+     "A: Was ich am Handy besonders schätze, ist der Kontakt zu meiner Familie. Meine Eltern leben 8000 Kilometer entfernt, und wir telefonieren jeden Sonntag per Video. Früher wäre das viel zu teuer gewesen.",
+     "B: Daran habe ich noch gar nicht gedacht. Für dich ist das Handy also viel wichtiger als für mich. Bei uns wohnt die ganze Familie im selben Ort.",
+     "A: Das ist wahrscheinlich der größte Unterschied zwischen uns. Trotzdem verstehe ich deine Regel am Esstisch gut. Wenn beim Essen alle auf den Bildschirm schauen, redet niemand mehr miteinander.",
+     "B: Genau darum geht es mir. Bei Kindern finde ich das noch wichtiger. Meine Tochter darf ihr Handy erst nach den Hausaufgaben benutzen.",
+     "A: Das halte ich für vernünftig. Im Deutschkurs habe ich außerdem gemerkt, wie hilfreich das Handy beim Lernen sein kann. Mit einer App wiederhole ich jeden Tag zwanzig Vokabeln in der Bahn.",
+     "B: Das ist ein guter Punkt, so hatte ich das noch nicht gesehen. Es kommt also weniger auf das Gerät an als darauf, wofür man es benutzt.",
+     "A: Alles in allem würde ich sagen: Das Problem ist nicht das Handy selbst, sondern dass wir keine festen Regeln dafür haben."
+    ]
+   },
+   {
+    "title": "Selbst kochen oder Essen bestellen?",
+    "textA": "„Nach der Arbeit habe ich einfach keine Lust mehr zu kochen. Zwei- oder dreimal pro Woche bestelle ich mir etwas — das ist für mich reine Erholung.“ — Kevin, 31",
+    "textB": "„Ich koche jeden Abend frisch. Es ist günstiger, gesünder, und ich weiß genau, was in meinem Essen ist.“ — Petra, 47",
+    "lines": [
+     "A: In meinem Text geht es um die Frage, ob man selbst kocht oder Essen bestellt. Ein junger Mann namens Kevin, 31 Jahre alt, sagt, dass er nach der Arbeit keine Lust mehr zum Kochen hat. Zwei- oder dreimal pro Woche bestellt er sich deshalb etwas. Für ihn ist das vor allem Erholung.",
+     "B: In meinem Text vertritt Petra genau die Gegenposition. Sie ist 47 Jahre alt und kocht jeden Abend frisch. Als Gründe nennt sie den Preis und die Gesundheit. Außerdem weiß sie dabei genau, was in ihrem Essen ist.",
+     "A: Meiner Meinung nach kommt es stark auf den Alltag an. Wer lange arbeitet, hat abends kaum Energie zum Kochen. Bei mir war das zum Beispiel so: In meinem ersten Jahr in Deutschland habe ich fast täglich bestellt, weil ich bis acht Uhr im Büro war. Nach ein paar Monaten habe ich aber gemerkt, wie teuer das wird. Wie machst du das?",
+     "B: Ich koche meistens selbst, allerdings nicht jeden Tag frisch. Sonntags bereite ich für die ganze Woche vor und friere alles ein. So brauche ich abends nur zehn Minuten.",
+     "A: Daran habe ich noch gar nicht gedacht, das klingt sehr praktisch. Der größte Vorteil beim Selberkochen ist für mich übrigens, dass ich die Gerichte aus meiner Heimat selbst kochen kann. Koreanisches Essen kann man hier nämlich kaum bestellen.",
+     "B: Das kann ich gut nachvollziehen. Andererseits muss man sagen, dass Bestellen manchmal einfach dazugehört. Wenn Freunde spontan vorbeikommen, ist eine Pizza die entspannteste Lösung.",
+     "A: Ein Punkt ist mir noch wichtig: der Müll. Bei jeder Lieferung kommen Plastikschalen und Tüten mit, und alles landet nach zehn Minuten im Abfall.",
+     "B: Das ist ein gutes Argument, daran denkt man beim Bestellen selten. Mich stört außerdem, dass bestelltes Essen oft nur lauwarm ankommt.",
+     "A: Das kenne ich. Dafür lernt man beim Bestellen manchmal Gerichte kennen, die man selbst nie kochen würde. So habe ich hier zum ersten Mal türkisch gegessen.",
+     "B: Das ist ein schöner Nebeneffekt. Am Ende ist es wohl eine Frage des Maßes.",
+     "A: Was mir am Selberkochen am meisten gefällt, ist übrigens das gemeinsame Essen. Wenn ich für Freunde koche, sitzen wir hinterher noch lange am Tisch.",
+     "B: Das kann ich gut nachvollziehen. Beim Bestellen isst am Ende jeder für sich, das ist wirklich ein Unterschied.",
+     "A: Da stimme ich dir völlig zu. Alles in allem würde ich sagen: Selbst kochen als Regel, bestellen als Ausnahme — dann passt beides gut zusammen."
+    ]
+   }
+  ],
+  "range": [
+   330,
+   430
+  ],
+  "practice_title": "추가 연습 주제",
+  "practice": [
+   "Sport im Alltag – Fitnessstudio oder Bewegung im Freien?",
+   "Einkaufen: großer Supermarkt oder kleiner Laden um die Ecke?",
+   "Mit dem Auto oder mit dem Fahrrad zur Arbeit?",
+   "Urlaub: weit reisen oder in der Nähe bleiben?",
+   "Fernsehen und Streaming – wie viel ist zu viel?"
+  ]
+ },
+ "teil3": {
+  "id": "teil3",
+  "no": "Teil 3",
+  "title": "Gemeinsam eine Aufgabe lösen · 함께 계획하기",
+  "lead": "두 사람이 같은 과제를 받아 무언가를 함께 계획합니다(Modelltest 5: 거리 축제에서 케이크와 중고 책을 파는 부스 준비). 과제지에는 정할 항목 목록이 있습니다. 공식 지시문은 이렇습니다: 먼저 무엇을 할지 이유와 함께 정하고, 파트너에게 아이디어를 말해 이유를 설명하고, 파트너의 아이디어와 이유에 반응하고, 공동 제안으로 합의합니다. 30점이고 약 5~6분입니다.",
+  "steps_title": "협상 6단계 흐름",
+  "steps_head": [
+   "단계",
+   "할 일",
+   "문장"
+  ],
+  "steps": [
+   [
+    "① 시작",
+    "무엇부터 정할지 순서를 제안합니다.",
+    "Sollen wir zuerst über den Termin sprechen?"
+   ],
+   [
+    "② 제안",
+    "구체안과 이유를 말합니다.",
+    "Wie wäre es mit Freitag? Da hören die meisten früher auf."
+   ],
+   [
+    "③ 이의",
+    "부드럽게 반대하고 근거를 댑니다.",
+    "Grundsätzlich gern, allerdings haben wir da die Besprechung."
+   ],
+   [
+    "④ 대안",
+    "다른 안을 내놓습니다.",
+    "Könnten wir stattdessen um 17 Uhr anfangen?"
+   ],
+   [
+    "⑤ 합의",
+    "항목마다 확정하고 넘어갑니다.",
+    "Gut, dann machen wir das so."
+   ],
+   [
+    "⑥ 정리",
+    "마지막에 전체를 요약합니다.",
+    "Dann halten wir fest: Freitag, 17 Uhr, im Innenhof."
+   ]
+  ],
+  "warn": "한 번은 반대하세요. 모든 제안에 „Ja, gut.“만 하면 대화가 일찍 끝나고 쓸 수 있는 표현의 폭도 좁아집니다. 공식 모범 대화에도 „Da bin ich anderer Meinung“와 가격 협상이 들어 있습니다. 다만 „Nein, das ist schlecht.“처럼 공격적으로 말하지 말고 „Grundsätzlich gern, allerdings …“ 형태로 말합니다.",
+  "phrases_title": "고득점 만능 표현 — Teil 3",
+  "phrases_head": [
+   "기능",
+   "표현 (B1)"
+  ],
+  "phrases": [
+   [
+    "대화 시작",
+    "Sollen wir gleich anfangen? Worüber sprechen wir zuerst?"
+   ],
+   [
+    "제안",
+    "Ich hätte einen Vorschlag: Wie wäre es mit Freitagabend?"
+   ],
+   [
+    "제안 + 이유",
+    "Freitag würde sich anbieten, weil danach das Wochenende kommt."
+   ],
+   [
+    "동의",
+    "Damit bin ich einverstanden. / Das finde ich eine gute Idee."
+   ],
+   [
+    "부드러운 반대",
+    "Grundsätzlich gern, allerdings habe ich da schon einen Termin."
+   ],
+   [
+    "우려 표현",
+    "Ich befürchte, das könnte für manche zu teuer werden."
+   ],
+   [
+    "대안 제시",
+    "Könnten wir stattdessen …? / Wie wäre es alternativ mit …?"
+   ],
+   [
+    "조건부 합의",
+    "Falls es regnen sollte, können wir immer noch nach drinnen gehen."
+   ],
+   [
+    "타협",
+    "Das ist ein guter Kompromiss, damit kann ich gut leben."
+   ],
+   [
+    "의견 묻기",
+    "Was meinst du dazu? / Bist du damit einverstanden?"
+   ],
+   [
+    "역할 분담",
+    "Ich kümmere mich um die Getränke, übernimmst du die Einladungen?"
+   ],
+   [
+    "비용 이야기",
+    "Wenn jeder zehn Euro dazugibt, kommen wir auf etwa 250 Euro."
+   ],
+   [
+    "다음 항목으로",
+    "Damit wäre der Termin geklärt. Kommen wir zum Essen."
+   ],
+   [
+    "최종 정리",
+    "Dann halten wir fest: Freitag, der 25. September, um 17 Uhr im Innenhof."
+   ],
+   [
+    "마무리",
+    "Ich finde, das haben wir gut hinbekommen."
+   ]
+  ],
+  "dialogs_title": "모범 대화 3편",
+  "dialogs_note": "두 사람이 제안, 이의, 대안, 합의를 거쳐 마지막에 전체를 정리합니다.",
+  "dialogs": [
+   {
+    "title": "Abschiedsfest für eine Kollegin",
+    "aufgabe": "Ihre Kollegin Frau Berger verlässt nach zehn Jahren die Firma. Sie und Ihr Partner bzw. Ihre Partnerin sollen für sie ein Abschiedsfest organisieren. Sprechen Sie über: Termin und Ort · Gäste · Essen und Getränke · Geschenk · Wer macht was?",
+    "lines": [
+     "A: Sollen wir gleich anfangen? Wir müssen ja das Abschiedsfest für Frau Berger planen.",
+     "B: Ja, gern. Ich schlage vor, dass wir zuerst über den Termin sprechen. Was meinst du?",
+     "A: Einverstanden. Wie wäre es mit Freitag, dem 25. September? Freitags hören die meisten früher auf, und danach kommt das Wochenende.",
+     "B: Freitag finde ich grundsätzlich gut. Allerdings hat unsere Abteilung freitags immer die Teambesprechung bis 16 Uhr. Könnten wir stattdessen erst um 17 Uhr anfangen?",
+     "A: Ja, das passt gut. Und wo sollen wir feiern? Ich hätte an den großen Besprechungsraum im ersten Stock gedacht.",
+     "B: Hm, der Raum ist ziemlich nüchtern. Ich würde lieber in den Innenhof gehen, wenn das Wetter mitspielt. Falls es regnen sollte, können wir immer noch in den Besprechungsraum umziehen.",
+     "A: Das ist ein guter Kompromiss, machen wir das so. Damit wären Termin und Ort geklärt. Wen laden wir ein — nur unsere Abteilung oder die ganze Firma?",
+     "B: Die ganze Firma wäre mir ehrlich gesagt zu viel. Ich schlage vor, wir laden unsere Abteilung ein und dazu die Kolleginnen und Kollegen aus dem Einkauf, mit denen sie täglich zu tun hatte.",
+     "A: Das wären ungefähr 25 Personen. Damit bin ich einverstanden. Und was das Essen angeht — sollen wir etwas bestellen?",
+     "B: Ich hätte einen Vorschlag: Jeder bringt etwas mit, so wie beim letzten Sommerfest. Das ist günstiger und außerdem persönlicher.",
+     "A: Das gefällt mir. Die Getränke sollten wir aber besorgen. Ich kümmere mich um Wasser, Saft und Sekt.",
+     "B: Prima. Dann übernehme ich die Einladungen per E-Mail und schreibe eine Liste, wer was mitbringt. Bleibt noch das Geschenk.",
+     "A: Frau Berger fährt sehr gern Fahrrad. Wie wäre es mit einem Gutschein für ein Fahrradgeschäft? Wenn jeder zehn Euro dazugibt, kommen wir auf etwa 250 Euro.",
+     "B: Sehr gute Idee. Ich sammle das Geld ein, und du kaufst den Gutschein — bist du damit einverstanden?",
+     "A: Ja, das mache ich gern. Eine Frage noch: Soll jemand eine kleine Rede halten? Nach zehn Jahren wäre das schon angemessen.",
+     "B: Auf jeden Fall. Ich frage unseren Abteilungsleiter, er kennt sie am längsten. Und für Musik bringe ich einfach meine Box mit.",
+     "A: Perfekt. Dann halten wir fest: Freitag, der 25. September, um 17 Uhr im Innenhof, etwa 25 Gäste, jeder bringt etwas zu essen mit, Getränke und Gutschein von uns.",
+     "B: Genau so machen wir es. Ich finde, das haben wir gut hinbekommen."
+    ]
+   },
+   {
+    "title": "Ausflug des Deutschkurses",
+    "aufgabe": "Ihr Deutschkurs möchte am Ende des Semesters einen gemeinsamen Ausflug machen. Planen Sie diesen Ausflug zusammen. Sprechen Sie über: Ziel · Termin · Anreise · Programm · Kosten",
+    "lines": [
+     "A: Schön, dass wir den Ausflug zusammen planen. Sollen wir zuerst über das Ziel sprechen?",
+     "B: Gute Idee. Ich hätte einen Vorschlag: Wie wäre es mit Köln? Dort gibt es den Dom, die Altstadt und mehrere Museen.",
+     "A: Köln würde sich anbieten, weil man mit dem Zug in einer Stunde da ist. Ich befürchte allerdings, dass eine Großstadt für manche etwas anstrengend ist. Wie wäre es alternativ mit einer Wanderung am Rhein?",
+     "B: Das verstehe ich, aber in unserem Kurs sind auch ältere Teilnehmende. Eine lange Wanderung könnte für sie zu viel werden.",
+     "A: Da hast du recht, daran habe ich nicht gedacht. Dann bleiben wir bei Köln, aber wir planen genug Pausen ein. Damit kann ich gut leben.",
+     "B: Einverstanden. Kommen wir zum Termin. Ich schlage Samstag, den 11. Juli, vor. Da müssen die meisten nicht arbeiten.",
+     "A: Der Samstag passt mir auch. Wann sollen wir losfahren? Ich würde sagen, um neun Uhr am Hauptbahnhof.",
+     "B: Neun Uhr ist mir am Wochenende etwas früh. Könnten wir uns stattdessen um halb zehn treffen? Dann haben wir immer noch den ganzen Tag.",
+     "A: Gut, dann machen wir halb zehn. Und wie fahren wir? Mit dem Zug oder mit dem Bus?",
+     "B: Auf jeden Fall mit dem Zug. Mit dem Gruppenticket wird es für alle deutlich günstiger, und wir können unterwegs zusammensitzen.",
+     "A: Sehr vernünftig. Was machen wir vor Ort? Ich würde vormittags den Dom besichtigen und nachmittags durch die Altstadt bummeln.",
+     "B: Das klingt gut. Dazwischen sollten wir gemeinsam essen. Vielleicht suchen wir uns ein günstiges Restaurant in der Nähe des Doms.",
+     "A: Machen wir. Was tun wir, falls es an dem Tag regnet? Draußen bummeln wäre dann nicht schön.",
+     "B: Falls das Wetter schlecht sein sollte, gehen wir nachmittags ins Museum statt in die Altstadt. Ich schaue mir am Freitag den Wetterbericht an und schreibe es in die Kursgruppe.",
+     "A: Sehr gut. Sollen wir vorher fragen, wer überhaupt mitkommt? Für das Gruppenticket brauchen wir ja die genaue Zahl.",
+     "B: Stimmt, das ist wichtig. Ich hänge im Kursraum eine Liste auf, in die sich alle bis Mittwoch eintragen können.",
+     "A: Gute Lösung. Und die Kosten? Mit Fahrkarte und Essen sind wir wahrscheinlich bei ungefähr 30 Euro pro Person. Ich kümmere mich um die Gruppenfahrkarte, kannst du das Restaurant reservieren?",
+     "B: Ja, das übernehme ich gern. Dann halten wir fest: Samstag, der 12. Juli, halb zehn am Hauptbahnhof, mit dem Zug nach Köln, Dom und Altstadt, etwa 30 Euro pro Person."
+    ]
+   },
+   {
+    "title": "Einem Freund beim Umzug helfen",
+    "aufgabe": "Ihr gemeinsamer Freund Daniel zieht am nächsten Wochenende um. Sie beide möchten ihm helfen. Planen Sie gemeinsam: Tag und Uhrzeit · Transporter · weitere Helfer · Verpflegung · Aufgabenverteilung",
+    "lines": [
+     "A: Daniel zieht ja nächstes Wochenende um. Sollen wir überlegen, wie wir ihm am besten helfen?",
+     "B: Unbedingt. Fangen wir mit dem Tag an. Samstag oder Sonntag — was meinst du?",
+     "A: Ich wäre für Samstag. Sonntags darf man in vielen Häusern keinen Lärm machen, und am Samstag haben wir den ganzen Tag Zeit.",
+     "B: Das leuchtet mir ein, Samstag also. Ich würde früh anfangen, so gegen acht Uhr. Dann sind wir am Nachmittag fertig.",
+     "A: Acht Uhr ist mir ehrlich gesagt zu früh, ich arbeite freitags bis spät. Könnten wir uns um neun treffen? Das sollte trotzdem reichen.",
+     "B: Gut, einigen wir uns auf neun Uhr. Als Nächstes brauchen wir einen Transporter. Weißt du, wo man einen mieten kann?",
+     "A: Im Baumarkt in der Bahnhofstraße gibt es welche für etwa 60 Euro pro Tag. Ich rufe dort morgen an und reserviere einen.",
+     "B: Perfekt. Zu zweit schaffen wir das aber kaum. Ich würde noch Lukas und Sarah fragen, die beiden helfen bestimmt gern.",
+     "A: Damit bin ich einverstanden. Zu viert geht es viel schneller. Denkst du, wir brauchen auch Kartons?",
+     "B: Daniel hat schon einige, aber sicher nicht genug. Ich frage im Supermarkt nach leeren Kartons, die bekommt man dort meistens umsonst.",
+     "A: Sehr gute Idee. Und die Verpflegung? Nach ein paar Stunden Möbeltragen haben alle Hunger.",
+     "B: Ich schlage vor, wir bestellen mittags Pizza. Das ist einfach, und man muss nichts vorbereiten. Getränke sollten wir aber mitbringen, vor allem Wasser.",
+     "A: Einverstanden. Noch eine Sache: Vor dem neuen Haus ist die Straße sehr eng. Wir sollten früh einen Parkplatz für den Transporter freihalten.",
+     "B: Guter Hinweis. Daniel kann bei der Stadt eine Halteverbotszone beantragen, das geht online. Ich erinnere ihn heute daran.",
+     "A: Sehr gut. Wir sollten außerdem an das Werkzeug denken. Bei einem Umzug muss man fast immer ein Regal oder ein Bett abbauen.",
+     "B: Daran hätte ich nicht gedacht. Mein Vater hat einen großen Werkzeugkasten, den kann ich mir am Freitagabend ausleihen.",
+     "A: Prima. Ich bringe zwei Kisten Wasser mit und kümmere mich um den Transporter. Kümmerst du dich um die Helfer und die Kartons?",
+     "B: Ja, das mache ich. Dann halten wir fest: Samstag um neun Uhr bei Daniel, Transporter vom Baumarkt, Lukas und Sarah helfen mit, mittags Pizza. Ich schreibe Daniel gleich heute Abend."
+    ]
+   }
+  ],
+  "range": [
+   320,
+   420
+  ],
+  "practice_title": "추가 연습 과제",
+  "practice": [
+   "Ein Geburtstagsfest für eine gemeinsame Freundin organisieren",
+   "Einen Gast aus dem Ausland ein Wochenende lang betreuen",
+   "Ein gemeinsames Abschiedsgeschenk für die Kursleiterin aussuchen",
+   "Einen Sprachstammtisch für den Kurs planen",
+   "Zusammen einen Wochenendausflug in eine andere Stadt organisieren"
+  ]
+ },
+ "mistakes": {
+  "id": "fehler",
+  "title": "한국 학습자가 자주 하는 실수",
+  "head": [
+   "실수",
+   "올바른 방법",
+   "설명"
+  ],
+  "rows": [
+   [
+    "파트너를 안 보고 시험관만 봄",
+    "파트너를 보고 말하기",
+    "세 Teil 모두 파트너와 하는 대화입니다."
+   ],
+   [
+    "메모를 문장으로 적어 읽음",
+    "키워드만 적기",
+    "읽는 말투가 되어 억양이 부자연스러워집니다."
+   ],
+   [
+    "Teil 2에서 글 요약만 하고 끝냄",
+    "Nachfragen, Meinung, Erfahrung까지",
+    "공식 모범 대화의 순서가 Berichten → Nachfragen → Meinung → Erfahrung입니다."
+   ],
+   [
+    "Teil 3에서 결론 없이 시간 종료",
+    "„Dann halten wir fest: …“",
+    "공식 안내가 마지막에 Einigung과 Aufgabenverteilung을 하라고 합니다."
+   ],
+   [
+    "모든 제안에 „Ja, gut“만 함",
+    "최소 1회 반대하고 대안 내기",
+    "공식 모범 대화에도 Da bin ich anderer Meinung이 나옵니다."
+   ],
+   [
+    "혼자 오래 말하거나 파트너 말을 끊음",
+    "몇 문장씩 말하고 파트너에게 넘기기",
+    "파트너와 비슷한 양을 말해야 대화가 됩니다."
+   ],
+   [
+    "단어가 막히면 침묵",
+    "풀어서 설명하기",
+    "„das Ding, mit dem man …“처럼 돌려 말하면 대화가 이어집니다."
+   ],
+   [
+    "Nebensatz 동사 위치 오류",
+    "weil · dass 뒤는 동사를 맨 끝으로",
+    "…, weil die Auswahl größer ist."
+   ],
+   [
+    "du와 Sie 혼용",
+    "시작할 때 정하고 끝까지 통일",
+    "어느 쪽이든 괜찮지만 한 시험 안에서 바꾸지 않습니다."
+   ],
+   [
+    "틀린 뒤 사과하며 멈춤",
+    "고쳐 말하고 계속하기",
+    "멈추면 대화 흐름이 끊깁니다."
+   ],
+   [
+    "너무 빨리 말함",
+    "또박또박, 보통 속도로",
+    "알아듣기 어려우면 기준 Ⅳ에서 불리합니다."
+   ],
+   [
+    "외운 자기소개를 그대로 낭독",
+    "주제만 기억하고 그때그때 말하기",
+    "Teil 1은 묻고 답하는 대화라서 외운 문장은 후속 질문에서 막히기 쉽습니다."
+   ]
+  ]
+ },
+ "grammar": {
+  "id": "grammatik",
+  "title": "B1 말하기 필수 문법",
+  "intro": "Teil별로 가장 자주 쓰는 문법입니다. 모두 쓸 필요는 없고 확실한 것을 정확하게 씁니다.",
+  "head": [
+   "문법",
+   "예문",
+   "쓰는 자리"
+  ],
+  "rows": [
+   [
+    "weil / da",
+    "…, weil die Auswahl größer ist.",
+    "모든 Teil — 이유를 붙일 때"
+   ],
+   [
+    "dass",
+    "Sie sagt, dass sie online einkauft.",
+    "Teil 2 — 글 내용 전달"
+   ],
+   [
+    "Konjunktiv II",
+    "Wie wäre es mit …? / Ich würde sagen …",
+    "Teil 3 — 제안"
+   ],
+   [
+    "könnten / sollten",
+    "Könnten wir stattdessen um 17 Uhr anfangen?",
+    "Teil 3 — 대안 제시"
+   ],
+   [
+    "falls / wenn",
+    "Falls es regnen sollte, gehen wir nach drinnen.",
+    "Teil 3 — 조건부 합의"
+   ],
+   [
+    "Perfekt",
+    "Letztes Jahr habe ich eine Jacke bestellt.",
+    "Teil 2 — 내 경험"
+   ],
+   [
+    "seit + Dativ",
+    "Seit drei Jahren lebe ich in Köln.",
+    "Teil 1 — 현재형과 함께"
+   ],
+   [
+    "deshalb / trotzdem",
+    "Trotzdem finde ich es wichtig.",
+    "동사-주어 도치"
+   ],
+   [
+    "Komparativ",
+    "günstiger · praktischer · schneller als …",
+    "Teil 2·3 — 비교와 근거"
+   ],
+   [
+    "간접의문문",
+    "Weißt du, wo man einen Transporter mieten kann?",
+    "Teil 3 — 정중한 질문"
+   ]
+  ]
+ },
+ "checklist": {
+  "id": "checkliste",
+  "title": "시험 당일 체크리스트 — 12항목",
+  "items": [
+   "준비 20분에 키워드만 적었는가? (완성 문장 금지)",
+   "Teil 2용 내 경험 1개를 미리 정해 두었는가?",
+   "Teil 3의 결정 항목 목록을 적어 두었는가? (언제 · 어디서 · 누구 · 무엇 · 비용 · 역할)",
+   "시작 전 파트너와 du나 Sie를 정했는가?",
+   "말할 때 파트너를 보고 있는가?",
+   "Teil 1에서 대답한 뒤 파트너에게 질문을 돌려주었는가?",
+   "Teil 2에서 4단계(Berichten · Nachfragen · Meinung · Erfahrung)를 모두 거쳤는가?",
+   "파트너에게 최소 2번 되물었는가?",
+   "Teil 3에서 최소 1번 반대하고 대안을 냈는가?",
+   "Teil 3을 „Dann halten wir fest: …“로 정리했는가?",
+   "파트너와 말한 양이 비슷했는가?",
+   "문장을 끝까지 말하고 또박또박 발음했는가?"
+  ]
+ },
+ "advice": "telc B1 말하기는 완벽한 독일어를 보는 시험이 아니라 상대와 대화를 끌어갈 수 있는지 보는 시험입니다. 문법이 조금 틀려도 제안하고, 반응하고, 되묻고, 결론을 내면 점수가 따라옵니다. 이 가이드의 대화 10편을 파트너와 소리 내어 3번씩 읽어 보세요. 표현이 입에 붙으면 시험장에서는 내용만 바꿔 끼우면 됩니다."
+}

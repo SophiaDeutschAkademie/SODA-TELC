@@ -10,6 +10,7 @@
 | `data/mtN.json` | Modelltest N의 지문, 문항, 정답, 쓰기 과제, 모범 답안, 목록 페이지용 `index` 블록. 형식은 `SCHEMA.md` |
 | `build-digital.py` | `data`와 `template.html`을 합쳐 이 앱 폴더의 `digital.html`을 만듭니다. 음원 길이는 이 폴더의 MP3에서 읽어 Hören 시간(올림한 분 + 2분)을 정합니다 |
 | `build-index.py` | `data`, PDF, MP3로 이 앱 폴더의 `index.html`(표지·응시 방식·목록·시험별 페이지)을 만듭니다 |
+| `guidelib.py`, `build-guide.py`, `build-sprechen.py` | 쓰기·말하기 시험 대비 가이드(`schreiben-guide.html`, `sprechen-guide.html`)를 만듭니다. 글은 `guide-data.json`, `sprechen-data.json`에 있고, 모범 답안·대화의 단어 수가 범위를 벗어나면 빌드가 멈춥니다 |
 | `index-style.css` | `index.html`의 스타일 |
 | `validate.py` | `data/mtN.json` 형식 검사. PDF에 글자층이 있으면 정답 40개를 Lösungsschlüssel와 대조하고 본문 누락을 찾습니다 |
 | `logo-small.png`, `logo-index.png` | 시험 화면, 목록 페이지의 로고 |
@@ -23,6 +24,8 @@ python3 digital-src/make_template.py       # template.html을 고쳤을 때만 (
 python3 digital-src/validate.py 1 2 3 4 5
 python3 digital-src/build-digital.py
 python3 digital-src/build-index.py
+python3 -I digital-src/build-guide.py      # 쓰기 가이드
+python3 -I digital-src/build-sprechen.py   # 말하기 가이드
 ```
 
 `ffprobe`(ffmpeg)와 `pdftotext`(poppler)가 필요합니다. 명령은 이 앱 폴더(`telc-b1/`)에서 실행합니다. 파일을 다시 만들 때마다 `../tools/soda-theme.py`가 Lehrwerk 공통 다크 모드 스위치를 자동으로 넣습니다.
