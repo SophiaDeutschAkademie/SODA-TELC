@@ -10,6 +10,10 @@
    "https://www.dsh-germany.com/_downloads/certificates/telc/pdf/telc-deutsch-b2-lernzielbeschreibung.pdf"
   ],
   [
+   "telc Deutsch B2, Übungstest 1 (Überarbeitete Auflage 2019, © 2021 telc gGmbH): Mündliche Prüfung, Teil 1 „Über Erfahrungen sprechen“, sieben Themen, Vorbereitung zu Hause",
+   "https://shop.telc.net/media/catalog/product/file/2/0/20201223_5023-b00-010201_web.pdf"
+  ],
+  [
    "이 앱의 telc B2 Modelltest 7 (Mündlicher Ausdruck 17–19쪽, 모범 대화와 „Worauf die Prüfenden achten“ 23쪽). SODA의 연습 자료이며 telc 본사의 공식 자료가 아닙니다",
    "telc%20B2%20Modelltest%207.pdf#page=17"
   ]
@@ -28,15 +32,15 @@
    ],
    [
     "준비",
-    "이 앱의 Modelltest는 준비 시간을 20분으로 안내합니다. 공식 Lernzielbeschreibung에서는 준비 시간을 확인하지 못했습니다. 준비 시간과 메모 가능 여부는 시험 센터의 안내를 따르세요."
+    "준비 시간은 20분이고 Teil 2와 Teil 3을 준비하는 데 씁니다. Teil 1은 집에서 미리 준비해 옵니다. 메모는 시험 센터가 도장을 찍어 준 종이에만 하고 시험장에 가져갈 수 있지만, 보고 읽으면 안 됩니다(telc 공식 Übungstest 1, 2019년 개정판)."
    ],
    [
     "도입",
-    "시험 첫머리의 Einander kennenlernen(서로 소개)은 이 앱의 Modelltest 7 기준으로 채점하지 않습니다."
+    "시험 첫머리의 Einander kennenlernen(서로 소개, 약 1분)은 채점하지 않습니다."
    ],
    [
     "Teil 1",
-    "Präsentation(발표)입니다. 이 앱의 Modelltest는 „Über Erfahrungen sprechen(경험 말하기)“로 표기합니다. 7개 주제 중 하나를 골라 약 1분 30초 동안 말하고, 파트너의 질문에 답합니다."
+    "Über Erfahrungen sprechen(경험 말하기)입니다. 주제는 늘 같은 7개(책, 영화, 여행, 음악 공연, 스포츠 경기, 중요한 사람, 중요한 경험)이고, 그중 하나를 골라 약 1분 30초 동안 말한 뒤 파트너의 질문에 답합니다."
    ],
    [
     "Teil 2",
@@ -44,7 +48,7 @@
    ],
    [
     "Teil 3",
-    "Problemlösung(문제 해결)입니다. 이 앱의 Modelltest는 „Gemeinsam etwas planen(함께 계획하기)“로 표기합니다. 상황을 읽고 파트너와 계획을 세웁니다."
+    "Gemeinsam etwas planen(함께 계획하기)입니다. 상황을 읽고 파트너와 계획을 세웁니다."
    ],
    [
     "배점",
@@ -174,30 +178,30 @@
  "steps": {
   "id": "vorbereitung",
   "title": "20분 준비 시간 활용법",
-  "intro": "이 앱의 Modelltest는 준비 시간 20분을 안내합니다. 아래 배분은 SODA의 권장안입니다. 준비 시간에 어떤 자료를 받는지는 시험 센터의 안내를 따릅니다.",
+  "intro": "telc 공식 Übungstest(2019년 개정판)에 따르면 준비 시간 20분은 Teil 2와 Teil 3을 위한 시간이고, Teil 1은 집에서 준비해 옵니다. 아래 배분은 SODA의 권장안입니다.",
   "head": [
    "시간",
    "할 일"
   ],
   "rows": [
    [
-    "0~5분",
-    "Teil 1: 7개 주제 중 하나를 고르고, 키워드 6~8개만 적습니다."
-   ],
-   [
-    "5~13분",
+    "0~9분",
     "Teil 2: 글을 두 번 읽고, 소개용 한 문장 · 찬성 논거 2개 · 반대 논거 2개 · 내 경험 1개 · 해결책 1개를 키워드로 적습니다."
    ],
    [
-    "13~18분",
+    "9~16분",
     "Teil 3: 상황을 읽고 정해야 할 항목을 목록으로 만든 뒤, 항목마다 제안 1개와 대안 1개를 적습니다."
    ],
    [
-    "18~20분",
+    "16~19분",
+    "Teil 1: 집에서 준비한 주제의 키워드 6~8개를 적습니다."
+   ],
+   [
+    "19~20분",
     "각 Teil의 첫 문장과 마지막 문장만 다시 확인합니다."
    ]
   ],
-  "warn": "완성된 문장을 적지 마세요. 문장이 보이면 눈이 읽게 되고, 읽는 말투는 자연스러운 대화로 들리지 않습니다. 명사와 동사 키워드만 적습니다."
+  "warn": "완성된 문장을 적지 마세요. 문장이 보이면 눈이 읽게 되고, 읽는 말투는 자연스러운 대화로 들리지 않습니다. 명사와 동사 키워드만 적습니다. 메모는 시험 센터가 나눠 주는 도장 찍힌 종이에만 하고, 과제지에는 적지 않습니다."
  },
  "plan": {
   "id": "plan",
@@ -212,7 +216,7 @@
    [
     "1. 틀 암기",
     "1주",
-    "아래 Teil별 표현표 3개를 외웁니다. Teil 1은 자주 나오는 경험 주제(여행, 만남, 실수, 이사 등)마다 키워드 카드를 만들어 4단 공식으로 말해 봅니다."
+    "아래 Teil별 표현표 3개를 외웁니다. Teil 1은 고정 주제 7개마다 키워드 카드를 만들어 4단 공식으로 말해 봅니다."
    ],
    [
     "2. Teil별 훈련",
@@ -235,8 +239,8 @@
   "id": "teil1",
   "no": "Teil 1",
   "title": "Über Erfahrungen sprechen · 경험 발표",
-  "lead": "7개 주제 중 하나를 고르고, 약 1분 30초 동안 내 경험을 말합니다. 주제마다 괄호 안에 준비 포인트가 있습니다. 이어서 파트너가 질문하고 내가 답합니다. 그다음 파트너가 자기 주제로 말하고, 내가 질문합니다. 주제는 회차마다 다르고, 이 앱의 Modelltest 1~7은 모두 내가 겪은 일을 묻는 7개 주제를 줍니다. 같은 경험을 여러 주제에 쓸 수 있게 준비해 두면 효율적입니다.",
-  "topics_title": "Modelltest 7의 주제 7개",
+  "lead": "telc 공식 Übungstest(2019년 개정판)에 따르면 Teil 1의 주제는 아래 7개로 정해져 있고, 집에서 미리 준비합니다. 하나를 골라 약 1분 30초 동안 내 경험을 말하고, 파트너의 질문에 답합니다. 그다음 파트너가 자기 주제로 말하고, 내가 질문합니다. 이 앱의 Modelltest 1~7도 모두 같은 7개 주제를 씁니다. 같은 경험을 여러 주제에 쓸 수 있게 준비해 두면 효율적입니다.",
+  "topics_title": "Teil 1의 고정 주제 7개",
   "topics_head": [
    "주제",
    "뜻",
@@ -244,39 +248,39 @@
   ],
   "topics": [
    [
-    "Ein Foto, das Ihnen viel bedeutet",
-    "의미 있는 사진",
-    "무엇이 보이는지 · 언제 찍었는지 · 왜 중요한지"
+    "Ein Buch, das Sie gelesen haben",
+    "읽은 책",
+    "주제 · 작가 · 내 의견"
    ],
    [
-    "Eine gelungene Überraschung",
-    "성공한 깜짝 이벤트",
-    "누구에게 · 무엇을 준비했는지 · 반응"
+    "Einen Film, den Sie gesehen haben",
+    "본 영화",
+    "주제와 줄거리 · 배우 · 내 의견"
    ],
    [
-    "Ein Abschied, der Ihnen schwergefallen ist",
-    "힘들었던 작별",
-    "누구·무엇과 · 이유 · 그 뒤"
+    "Eine Reise, die Sie unternommen haben",
+    "다녀온 여행",
+    "목적지 · 시기 · 나라와 사람 · 명소"
    ],
    [
-    "Eine Begegnung mit einem fremden Menschen",
-    "낯선 사람과의 만남",
-    "어디서 · 무슨 일이 있었는지 · 남은 것"
+    "Eine Musikveranstaltung, die Sie besucht haben",
+    "가 본 음악 공연",
+    "음악 장르 · 음악가 · 장소 · 내 취향"
    ],
    [
-    "Ein Fehler, aus dem Sie etwas gelernt haben",
-    "실수에서 배운 점",
-    "무엇 · 결과 · 지금은 어떻게 다르게 하는지"
+    "Ein Sportereignis, das Sie besucht haben",
+    "가 본 스포츠 경기",
+    "종목 · 장소 · 사람 · 결과"
    ],
    [
-    "Ein Ausflug in die Natur",
-    "자연 속 나들이",
-    "어디로 · 누구와 · 특별한 경험"
+    "Eine Person, die in Ihrem Leben wichtig war",
+    "내 삶에서 중요했던 사람",
+    "누구 · 언제 · 왜 중요한지"
    ],
    [
-    "Eine Wohnung, in der Sie gern gewohnt haben",
-    "살기 좋았던 집",
-    "어디 · 모습 · 왜 편안했는지"
+    "Eine wichtige Erfahrung, die Sie in Ihrem Leben gemacht haben",
+    "내 삶의 중요한 경험",
+    "무엇 · 언제 · 어디서 · 누구와 · 왜 중요한지"
    ]
   ],
   "tips_title": "발표 구조 — 4단 공식",
@@ -285,7 +289,8 @@
    "본문: 과제지의 준비 포인트를 순서대로 말합니다. 언제 · 어디서 · 누구와, 구체적인 장면 1~2개를 넣습니다.",
    "평가(2~3문장): 인상과 배운 점을 말합니다. Besonders beeindruckt hat mich … / Diese Erfahrung hat mir gezeigt, dass …",
    "마무리(1문장): 질문을 유도합니다. Wenn du Fragen hast, beantworte ich sie gern.",
-   "파트너의 질문에는 2~3문장으로 답하고, 내가 질문할 때는 상대가 한 말을 짚어서 묻습니다. Du hast erzählt, dass …"
+   "파트너의 질문에는 2~3문장으로 답하고, 내가 질문할 때는 상대가 한 말을 짚어서 묻습니다. Du hast erzählt, dass …",
+   "원고를 통째로 외워 낭독하지 않습니다. 공식 안내는 외운 글이 아니라 자유롭게 말하라고 요구하고, 시험관은 외운 발표를 끊고 질문으로 대화를 이끌어야 합니다. 주제마다 키워드와 핵심 표현만 외우고, 매번 조금씩 다른 문장으로 말하는 연습을 합니다."
   ],
   "phrases_title": "고득점 만능 표현 — Teil 1",
   "phrases_head": [
@@ -339,11 +344,11 @@
    ]
   ],
   "dialogs_title": "모범 대화 7편",
-  "dialogs_note": "A가 약 1분 30초 분량의 발표(140~150단어)를 하고, B가 질문하고, A가 답합니다. 실제 시험에서는 이어서 역할이 바뀝니다. 주제는 Modelltest의 주제와 같은 형식으로 적었습니다.",
+  "dialogs_note": "A가 약 1분 30초 분량의 발표(140~150단어)를 하고, B가 질문하고, A가 답합니다. 실제 시험에서는 이어서 역할이 바뀝니다. 7편이 공식 주제 7개를 하나씩 다룹니다.",
   "dialogs": [
    {
     "title": "Eine Reise nach Portugal",
-    "aufgabe": "Eine Reise, die Ihnen viel bedeutet hat (Ziel, Zeit, Land und Leute, Sehenswürdigkeiten usw.)",
+    "aufgabe": "Eine Reise, die Sie unternommen haben (Ziel, Zeit, Land und Leute, Sehenswürdigkeiten usw.)",
     "lines": [
      "A: Ich möchte heute von einer Reise erzählen, die mir viel bedeutet hat. Vor zwei Jahren bin ich mit meiner Schwester drei Wochen durch Portugal gereist. Wir haben in Lissabon angefangen und sind dann mit dem Zug die Küste entlang in den Süden gefahren. Am besten hat mir Porto gefallen: Die Stadt liegt an einem Fluss, und abends sitzen die Leute einfach am Ufer und reden miteinander. Besonders beeindruckt hat mich, wie offen die Menschen dort waren. Obwohl wir kein Portugiesisch sprechen, sind wir überall schnell ins Gespräch gekommen. Natürlich lief nicht alles perfekt: Unser Gepäck kam zwei Tage zu spät an, und wir mussten uns die ersten Tage mit Dingen aus dem Supermarkt behelfen. Heute lachen wir darüber. Diese Reise hat mir gezeigt, dass man unterwegs vor allem Geduld und Humor braucht — und gar nicht so viel Gepäck, um glücklich zu sein. Wenn du Fragen hast, beantworte ich sie gern.",
      "B: Du hast erzählt, dass euer Gepäck zu spät kam. Was hat dir in den ersten Tagen am meisten gefehlt?",
@@ -352,7 +357,7 @@
    },
    {
     "title": "Ein Buch: „Tschick“",
-    "aufgabe": "Ein Buch, das Sie beeindruckt hat (Thema, Autor, Ihre Meinung usw.)",
+    "aufgabe": "Ein Buch, das Sie gelesen haben (Thema, Autor, Ihre Meinung usw.)",
     "lines": [
      "A: Ich möchte ein Buch vorstellen, das mich sehr beeindruckt hat: „Tschick“ von Wolfgang Herrndorf. Der Roman handelt von zwei Vierzehnjährigen aus Berlin, die in den Sommerferien mit einem gestohlenen alten Auto durch Ostdeutschland fahren. Maik kommt aus einer reichen, aber unglücklichen Familie, Tschick ist ein russischer Einwanderer, den in der Klasse niemand ernst nimmt. Unterwegs erleben die beiden viele verrückte Situationen und werden echte Freunde. Gelesen habe ich das Buch im Deutschkurs — zuerst, ehrlich gesagt, nur weil es Pflicht war. Aber nach dreißig Seiten konnte ich nicht mehr aufhören. Besonders gefallen hat mir die Sprache: Sie ist einfach, aber sehr lebendig, und deshalb kann ich den Roman jedem empfehlen, der Deutsch lernt. Für mich geht es in der Geschichte vor allem darum, dass man Menschen nicht nach ihrem Aussehen oder ihrer Herkunft beurteilen sollte. Wenn du Fragen hast, beantworte ich sie gern.",
      "B: Gibt es das Buch auch als Film? Und was würdest du eher empfehlen?",
@@ -361,7 +366,7 @@
    },
    {
     "title": "Mein Umzug nach Deutschland",
-    "aufgabe": "Eine Erfahrung, die Ihr Leben verändert hat (was, wann, wo, mit wem, warum wichtig usw.)",
+    "aufgabe": "Eine wichtige Erfahrung, die Sie in Ihrem Leben gemacht haben (was, wann, wo, mit wem, warum wichtig usw.)",
     "lines": [
      "A: Ich möchte über eine Erfahrung sprechen, die mein Leben verändert hat: meinen Umzug von Seoul nach Deutschland vor drei Jahren. Ich hatte damals eine feste Stelle, eine Wohnung und meine Familie in der Nähe — eigentlich gab es keinen Grund wegzugehen. Trotzdem hatte ich das Gefühl, dass ich etwas Neues ausprobieren sollte, solange ich jung bin. Die ersten Monate waren härter, als ich erwartet hatte. Ich musste jede Kleinigkeit neu lernen: einen Handyvertrag abschließen, Formulare ausfüllen, beim Arzt das Richtige sagen. Es gab Abende, an denen ich am liebsten zurückgeflogen wäre. Aber genau in dieser Zeit habe ich gelernt, Probleme selbstständig zu lösen und rechtzeitig um Hilfe zu bitten — das konnte ich vorher nicht gut. Heute bin ich stolz auf diese Entscheidung. Ich habe hier Freunde aus der ganzen Welt gefunden, und ich weiß jetzt, dass ich auch mit schwierigen Situationen zurechtkomme. Wenn du etwas wissen möchtest, frag gern.",
      "B: Was würdest du jemandem raten, der auch allein ins Ausland gehen möchte?",
@@ -370,7 +375,7 @@
    },
    {
     "title": "Ein Film: „Systemsprenger“",
-    "aufgabe": "Ein Film, der Sie nachdenklich gemacht hat (Thema, Handlung, Schauspieler, Ihre Meinung usw.)",
+    "aufgabe": "Einen Film, den Sie gesehen haben (Thema und Handlung, Schauspieler, Ihre Meinung usw.)",
     "lines": [
      "A: Ich möchte einen Film vorstellen, der mich nachdenklich gemacht hat: „Systemsprenger“ von Nora Fingscheidt. Der Film handelt von der neunjährigen Benni, die so wütend und unberechenbar ist, dass kein Heim und keine Pflegefamilie sie lange aufnehmen will. Ihre Mutter liebt sie, ist aber mit ihr überfordert. Eine Sozialarbeiterin versucht trotzdem immer wieder, einen Platz für sie zu finden. Die Hauptrolle spielt Helena Zengel, die damals noch ein Kind war und dennoch erstaunlich überzeugend wirkt. Ich habe den Film im Kino gesehen und bin danach lange schweigend nach Hause gelaufen. Besonders beeindruckt hat mich, dass es keine einfachen Lösungen gibt und niemand als böse dargestellt wird. Der Film hat mir gezeigt, wie schwierig es für ein Kind sein kann, wenn es sich nirgendwo zugehörig fühlt. Ich kann ihn jedem empfehlen, der keine leichte Unterhaltung sucht. Wenn du Fragen hast, beantworte ich sie gern.",
      "B: Ist der Film eher traurig, oder gibt es auch hoffnungsvolle Momente?",
@@ -379,7 +384,7 @@
    },
    {
     "title": "Der Berlin-Marathon",
-    "aufgabe": "Ein Sportereignis, das Sie erlebt haben (Sportart, Ort, Menschen, Ergebnis usw.)",
+    "aufgabe": "Ein Sportereignis, das Sie besucht haben (Sportart, Ort, Personen, Ergebnis usw.)",
     "lines": [
      "A: Ich möchte über ein Sportereignis berichten, das ich live erlebt habe: den Berlin-Marathon vor zwei Jahren. Mein Bruder ist damals selbst mitgelaufen, deshalb bin ich mit meinen Eltern extra nach Berlin gefahren, um ihn anzufeuern. Der Lauf findet jedes Jahr im September statt, und rund vierzigtausend Menschen aus der ganzen Welt nehmen teil. Wir standen bei Kilometer 35 und haben Schilder hochgehalten. Meine Mutter hatte sogar selbstgemachte Fahnen mit seinem Namen dabei. Besonders beeindruckt hat mich die Stimmung: Fremde jubeln Fremden zu, Kinder reichen den Läufern Wasser, und an jeder Ecke spielt eine Band. Mein Bruder ist nach vier Stunden und zehn Minuten ins Ziel gekommen, völlig erschöpft, aber glücklich. Natürlich war es nicht nur schön: Wir standen stundenlang in der Kälte und konnten ihn nur wenige Sekunden sehen. Trotzdem hat mich dieser Tag motiviert, selbst mit dem Laufen anzufangen. Wenn du Fragen hast, beantworte ich sie gern.",
      "B: Und? Bist du inzwischen auch einmal einen Marathon gelaufen?",
@@ -388,7 +393,7 @@
    },
    {
     "title": "Ein Konzert von Silbermond",
-    "aufgabe": "Ein Konzert, das Sie nicht vergessen werden (Musikrichtung, Musiker, Ort usw.)",
+    "aufgabe": "Eine Musikveranstaltung, die Sie besucht haben (Musikrichtung, Musiker, Ort, persönliche Vorlieben usw.)",
     "lines": [
      "A: Ich möchte von einem Konzert erzählen, das ich nie vergessen werde. Vor einem Jahr war ich mit zwei Freundinnen bei einem Konzert der Band Silbermond in München. Die Karten hatten wir schon im Frühjahr gekauft, weil das Konzert sehr schnell ausverkauft war. Die Band spielt deutschen Pop-Rock mit Texten, die man gut verstehen kann, deshalb höre ich ihre Lieder oft, um Deutsch zu üben. Besonders beeindruckt hat mich, dass die Sängerin zwischen den Liedern lange mit dem Publikum gesprochen hat, fast so, als würde sie jeden Einzelnen kennen. Am Ende haben alle gemeinsam ein ruhiges Lied gesungen, und ich hatte Gänsehaut, obwohl ich nicht jedes Wort verstanden habe. Natürlich war es in der Halle sehr voll und heiß, und wir mussten nach dem Konzert über eine Stunde auf die Bahn warten. Trotzdem würde ich sofort wieder hingehen. Wenn du Fragen hast, beantworte ich sie gern.",
      "B: Konntest du die Texte verstehen? Waren sie nicht zu schnell?",
@@ -397,7 +402,7 @@
    },
    {
     "title": "Meine Deutschlehrerin",
-    "aufgabe": "Ein Mensch, der in Ihrem Leben wichtig ist (wer, seit wann, warum wichtig usw.)",
+    "aufgabe": "Eine Person, die in Ihrem Leben wichtig war (wer, wann, warum wichtig usw.)",
     "lines": [
      "A: Ich möchte über einen Menschen sprechen, der in meinem Leben eine wichtige Rolle spielt: meine Deutschlehrerin Frau Klein. Ich kenne sie seit vier Jahren, seitdem ich in Seoul angefangen habe, Deutsch zu lernen. Damals konnte ich kaum einen Satz bilden und hatte große Angst, Fehler zu machen. Frau Klein hat uns immer wieder gesagt, dass Fehler zum Lernen gehören, und sie hat jede Stunde mit einer kleinen Geschichte aus ihrem Alltag in Deutschland begonnen. Besonders beeindruckt hat mich ihre Geduld: Sie hat denselben Punkt sogar fünfmal erklärt, ohne ungeduldig zu werden. Ohne sie hätte ich vermutlich schon nach einem halben Jahr aufgegeben. Sie hat uns auch Mut gemacht, im Unterricht zu sprechen, selbst wenn wir unsicher waren. Dank ihr bin ich heute hier und kann diese Prüfung ablegen. Diese Erfahrung hat mir gezeigt, wie viel eine gute Lehrerin verändern kann. Wenn du Fragen hast, beantworte ich sie gern.",
      "B: Hast du noch Kontakt zu ihr?",
@@ -840,7 +845,7 @@
    [
     "발표를 통째로 외워 낭독",
     "키워드에서 말을 만들기",
-    "외운 낭독은 티가 나고, 파트너의 질문이 나오면 막히기 쉽습니다."
+    "공식 안내는 외운 글의 낭독을 금지하고, 시험관은 외운 발표를 끊고 질문으로 대화를 이끕니다. 파트너의 질문이 나오면 막히기도 쉽습니다."
    ],
    [
     "Teil 2에서 글의 문장을 그대로 읽음",
@@ -951,7 +956,7 @@
   "title": "시험 당일 체크리스트 — 12항목",
   "items": [
    "준비 시간에 키워드만 적었는가? (완성 문장은 쓰지 않았는가?)",
-   "Teil 1 주제를 4단 공식으로 말할 수 있는가?",
+   "Teil 1의 고정 주제 7개를 모두 키워드만 보고 4단 공식으로 말할 수 있는가?",
    "Teil 2용 내 경험 1개와 해결책 1개를 정해 두었는가?",
    "Teil 3의 항목 목록을 적어 두었는가?",
    "파트너 쪽을 보고 말하는가?",
