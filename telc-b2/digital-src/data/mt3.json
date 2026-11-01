@@ -1,759 +1,854 @@
 {
- "id": 3,
- "roman": "III",
- "lesen": {
-  "t1": {
-   "instruction": "Lesen Sie zuerst die zehn Überschriften. Lesen Sie dann die fünf Texte und entscheiden Sie, welche Überschrift (a–j) am besten zu welchem Text (1–5) passt. Tragen Sie Ihre Lösungen in den Antwortbogen bei den Aufgaben 1–5 ein.",
-   "headlines": [
-    {
-     "letter": "a",
-     "text": "Behördenpost ganz ohne Amtsdeutsch"
+  "id": 3,
+  "roman": "III",
+  "lesen": {
+    "t1": {
+      "instruction": "Lesen Sie zuerst die zehn Überschriften. Lesen Sie dann die fünf Texte und entscheiden Sie, welche Überschrift (a–j) am besten zu welchem Text (1–5) passt. Tragen Sie Ihre Lösungen in den Antwortbogen bei den Aufgaben 1–5 ein.",
+      "headlines": [
+        {
+          "letter": "a",
+          "text": "Abschied auf Zeit: Firmen umwerben ehemalige Beschäftigte"
+        },
+        {
+          "letter": "b",
+          "text": "Betriebe stellen frühere Mitarbeiter ausnahmslos wieder ein"
+        },
+        {
+          "letter": "c",
+          "text": "Ernte und Energie von ein und derselben Fläche"
+        },
+        {
+          "letter": "d",
+          "text": "Meister bleiben im Studium auf ihr Fachgebiet beschränkt"
+        },
+        {
+          "letter": "e",
+          "text": "Mit Berufserfahrung statt Reifezeugnis in den Hörsaal"
+        },
+        {
+          "letter": "f",
+          "text": "Seilbahnfahrt nur mit gesondertem Ticket"
+        },
+        {
+          "letter": "g",
+          "text": "Solardach steigert den Apfelertrag"
+        },
+        {
+          "letter": "h",
+          "text": "Über den Fluss schweben? Die Wählerschaft hat das letzte Wort"
+        },
+        {
+          "letter": "i",
+          "text": "Vereinfachte Bescheide vor Gericht angreifbar"
+        },
+        {
+          "letter": "j",
+          "text": "Verständliche Post vom Amt"
+        }
+      ],
+      "texts": [
+        {
+          "no": "1",
+          "paragraphs": [
+            "Kaltenbrunn erwägt, eine Seilbahn in sein Nahverkehrsnetz aufzunehmen. Die geplante Strecke soll vom Hauptbahnhof über den Fluss bis zu einem Neubaugebiet am Hang führen, wo in einigen Jahren rund 6.000 Menschen wohnen werden. Eine Straßenbahn wäre wegen der beträchtlichen Steigung nur mit teuren Tunneln möglich. Die Seilbahn dagegen würde bloß ein Viertel so viel kosten und ließe sich in zwei Jahren errichten. Alle 30 Sekunden soll eine Kabine abfahren, die Fahrt würde sieben Minuten dauern. Weil die Gondeln barrierefrei wären, könnten auch Fahrgäste im Rollstuhl, mit Kinderwagen oder Fahrrad mühelos zusteigen. Einen gesonderten Fahrschein bräuchte niemand, denn es sollen die gewohnten Tarife für Bus und Bahn gelten. Ungeteilte Zustimmung findet das Vorhaben gleichwohl nicht. Viele Bewohner der Altstadt befürchten, dass Fahrgäste künftig ungeniert in ihre Gärten und Wohnzimmer blicken. Die Stadt sichert zu, die Kabinenfenster über bewohnten Grundstücken automatisch einzutrüben. Skeptiker bezweifeln zudem, dass die Bahn bei Sturm zuverlässig verkehrt; der Betrieb müsste dann ruhen, und Ersatzbusse würden einspringen. Ob das Projekt tatsächlich verwirklicht wird, entscheiden die Bürgerinnen und Bürger im Herbst per Abstimmung."
+          ]
+        },
+        {
+          "no": "2",
+          "paragraphs": [
+            "Sandra Kuhlmann hat nie ein Abitur abgelegt; nach der Realschule ließ sie sich zur Krankenpflegerin ausbilden und arbeitete fünfzehn Jahre lang auf einer Intensivstation. Heute studiert die 38-Jährige Pflegewissenschaft an der Hochschule Harzfeld, obwohl sie anfangs befürchtete, dafür längst zu alt zu sein. Möglich macht das eine Regelung, die erstaunlich wenige kennen: Wer eine Berufsausbildung abgeschlossen und danach einige Jahre im Beruf gearbeitet hat, darf auch ohne Abitur studieren, in der Regel allerdings nur ein verwandtes Fach. Meisterinnen und Meister sowie staatlich geprüfte Techniker dürfen sich dagegen für jeden Studiengang bewerben. Je nach Bundesland verlangen die Hochschulen zuvor eine Eignungsprüfung oder ein Probestudium. In Harzfeld ist fast jeder zehnte Studierende ohne Abitur eingeschrieben, was deutlich über dem Bundesdurchschnitt liegt. Die Lehrenden schätzen ausdrücklich die Erfahrung der Quereinsteiger: „Sie stellen die besseren Fragen, weil sie wissen, wofür sie lernen“, sagt eine Professorin. Leicht ist der Weg dennoch nicht: Viele müssen Mathematik oder wissenschaftliches Schreiben mühsam nachholen und nebenher erwerbstätig bleiben, weil sie eine Familie zu versorgen haben. Die Hochschule bietet deshalb Vorbereitungskurse an und legt einen Teil der Veranstaltungen auf den Abend. Kuhlmann, die noch zwei Tage pro Woche im Krankenhaus arbeitet, räumt ein, dass die ersten Hausarbeiten eine Qual gewesen seien. Nach dem Abschluss will sie jedoch nicht ans Krankenbett zurückkehren, sondern selbst Pflegekräfte ausbilden."
+          ]
+        },
+        {
+          "no": "3",
+          "paragraphs": [
+            "Als die Ingenieurin Carolin Stoll vor vier Jahren einen Hersteller von Messgeräten verließ, verabschiedete man sie mit Blumen und den üblichen guten Wünschen. Dass sie eines Tages zurückkehren würde, hielt damals niemand für wahrscheinlich, sie selbst am allerwenigsten. Heute leitet sie dort eine Abteilung mit zwölf Beschäftigten. Sogenannte Bumerang-Beschäftigte gelten in vielen Unternehmen mittlerweile als willkommene Antwort auf den Fachkräftemangel. Sie sind mit Abläufen und Belegschaft vertraut, benötigen kaum Einarbeitung und bringen Erfahrungen mit, die sie bei der Konkurrenz gesammelt haben. Manche Betriebe pflegen deshalb gezielt Kontakt zu Ehemaligen, laden sie zu Betriebsfesten ein oder informieren sie über unbesetzte Stellen. Früher wurde eine Kündigung dagegen häufig als Treuebruch empfunden: Wer ging, brauchte sich nicht mehr blicken zu lassen. „Diese Haltung können wir uns schlichtweg nicht mehr leisten“, sagt die Personalleiterin eines mittelständischen Maschinenbauers. In ihrem Betrieb werde inzwischen etwa jede achte offene Stelle mit einer Rückkehrerin oder einem Rückkehrer besetzt. Wahllos stellen die Firmen Ehemalige allerdings keineswegs wieder ein: Wer im Streit gegangen ist oder lediglich wegen eines höheren Gehalts zurückkommen möchte, hat gewöhnlich schlechte Karten. Auch die Rückkehrer selbst müssen sich umstellen, denn Teams und Zuständigkeiten haben sich zwischenzeitlich oft so grundlegend verändert, dass der frühere Arbeitsplatz kaum wiederzuerkennen ist. Stoll hat das nicht abgeschreckt: Bei der Konkurrenz habe sie viel gelernt, hier fühle sie sich aber einfach zu Hause."
+          ]
+        },
+        {
+          "no": "4",
+          "paragraphs": [
+            "Auf den ersten Blick unterscheidet sich die Obstplantage von Ulrich Seibold am Bodensee kaum von anderen: lange Reihen von Apfelbäumen, dazwischen gemähtes Gras. Erst beim zweiten Hinsehen fällt auf, dass über den Bäumen keine Hagelnetze gespannt sind, sondern Solarmodule. Auf rund zwei Hektar erzeugt der Landwirt seit drei Jahren Strom für etwa 300 Haushalte und erntet darunter weiterhin Äpfel. Agri-Photovoltaik heißt diese Doppelnutzung, bei der auf derselben Fläche zugleich Nahrungsmittel und Energie gewonnen werden. Die Module bewahren die Früchte vor Hagel, Starkregen und Sonnenbrand, die in den vergangenen Sommern merklich zugenommen haben. Unter dem Dach verdunstet außerdem weniger Wasser, sodass seltener bewässert werden muss. Zwar fällt die Apfelernte etwas geringer aus, weil die Bäume weniger Licht bekommen; der Verkauf des Stroms gleicht diese Einbußen aber mehr als aus. „Ich bin Obstbauer geblieben“, betont Seibold, „aber ich schlafe ruhiger, seit ein einziges Unwetter nicht mehr die ganze Ernte vernichten kann.“ Ein Forschungsinstitut, das Erträge und Klima unter den Modulen misst, begleitet das Vorhaben und sieht darin beträchtliches Potenzial. Kritiker warnen dagegen vor einer schleichenden Industrialisierung der Landschaft. Tatsächlich lohnt sich die Technik nicht überall: Getreide, das viel Sonne braucht, gedeiht unter den Modulen kaum. Auch die Genehmigung zieht sich oft hin: Seibold hat fast zwei Jahre auf die Erlaubnis gewartet. Inzwischen melden sich bei ihm Kollegen aus der ganzen Region, die sich die Anlage ansehen wollen."
+          ]
+        },
+        {
+          "no": "5",
+          "paragraphs": [
+            "„Sie werden gebeten, den beigefügten Vordruck binnen einer Frist von vierzehn Tagen ab Zugang dieses Schreibens zurückzusenden.“ Sätze wie dieser haben im Rathaus von Weilstadt ausgedient. Angestoßen hat die Neuerung eine Mitarbeiterin des Sozialamts, die täglich erlebte, wie Menschen mit einem Brief in der Hand ratlos vor ihrem Schreibtisch standen. Seit einem Jahr formuliert die Verwaltung ihre Schreiben so, dass möglichst alle sie auf Anhieb verstehen: kurze Sätze, geläufige Wörter, das Wichtigste zuerst. Aus dem Satz oben wurde: „Bitte schicken Sie uns das Formular innerhalb von zwei Wochen zurück.“ Alle 180 Beschäftigten wurden eigens geschult, und eine Arbeitsgruppe hat mehr als 400 Musterbriefe überarbeitet. Der Aufwand hat sich ausgezahlt. Beim Bürgertelefon gehen deutlich weniger Rückfragen ein, und Anträge werden seltener unvollständig eingereicht. Rechtlich anfechtbar seien die neuen Bescheide keineswegs, versichert der Bürgermeister. Eine Juristin prüfe jeden Text, bevor er verschickt werde. Mehrere Nachbargemeinden haben bereits Interesse an den überarbeiteten Vorlagen bekundet."
+          ]
+        }
+      ],
+      "items": [
+        {
+          "no": "1",
+          "answer": "h"
+        },
+        {
+          "no": "2",
+          "answer": "e"
+        },
+        {
+          "no": "3",
+          "answer": "a"
+        },
+        {
+          "no": "4",
+          "answer": "c"
+        },
+        {
+          "no": "5",
+          "answer": "j"
+        }
+      ]
     },
-    {
-     "letter": "b",
-     "text": "Einfache Schreiben halten vor Gericht nicht stand"
+    "t2": {
+      "instruction": "Lesen Sie zuerst den Artikel und lösen Sie dann die Aufgaben 6– 10 zu dem Text.",
+      "kind": "article",
+      "title": "Sterne, denen man nicht trauen sollte",
+      "lead": "Ob Hotel, Handwerker oder Heizlüfter: Vor fast jedem Kauf werfen wir heute einen Blick auf die Bewertungen anderer Kunden. Doch die Zahl der Sterne verrät oft weniger, als wir glauben.",
+      "paragraphs": [
+        "Als Lea Hinrichs ein Hotel für ihren Kurzurlaub in Wien suchte, war die Entscheidung rasch gefallen: 4,8 von 5 Sternen, mehr als 2.000 begeisterte Rezensionen. Vor Ort erwartete sie jedoch ein Zimmer unmittelbar neben einer Baustelle, auf der bereits ab sechs Uhr morgens gehämmert wurde – ein Umstand, den keine einzige Bewertung erwähnt hatte. „Ich habe mich gefragt, ob die anderen Gäste im selben Hotel waren“, sagt die 34-Jährige. Erfahrungen wie ihre sind keine Seltenheit. Kundenbewertungen gelten als ehrliche Alternative zur Werbung, schließlich stammen sie von Käufern und nicht von Verkäufern. Diese Annahme trifft allerdings nur bedingt zu.",
+        "Ein Grund liegt darin, wer überhaupt eine Bewertung abgibt. Verbraucherforscher haben festgestellt, dass sich vor allem zwei Gruppen äußern: Menschen, die begeistert sind, und Menschen, die sich maßlos geärgert haben. Wer mit einem Produkt schlicht zufrieden ist, schweigt dagegen meistens. Daraus ergibt sich eine eigentümliche Verteilung mit vielen Fünf-Sterne-Urteilen, einigen vernichtenden Ein-Stern-Wertungen und erstaunlich wenig dazwischen. Der Durchschnittswert, den die Plattformen anzeigen, bildet folglich vor allem die Extreme ab. Hinzu kommt, dass zahlreiche Onlineshops ihre Kundschaft unmittelbar nach dem Kauf um ein Urteil bitten, also bevor diese das Produkt gründlich ausprobieren konnte.",
+        "Ein weiteres Problem sind gefälschte Bewertungen. Im Netz bieten Agenturen ganze Pakete wohlwollender Kommentare an, und manche Händler belohnen Kunden mit Gutscheinen, sofern sie fünf Sterne vergeben. Beides ist in der Europäischen Union unzulässig. Seit 2022 müssen Händler zudem offenlegen, ob und auf welche Weise sie sicherstellen, dass eine Bewertung tatsächlich von jemandem stammt, der das Produkt erworben oder genutzt hat. Überprüfen lässt sich das allerdings nur schwer, zumal viele Fälschungen inzwischen mithilfe künstlicher Intelligenz entstehen und von authentischen Texten kaum noch zu unterscheiden sind.",
+        "Bemerkenswerterweise misstrauen viele Verbraucher ohnehin den allerbesten Noten. Eine amerikanische Untersuchung ergab, dass die Kaufbereitschaft nicht bei fünf, sondern bei ungefähr 4,5 Sternen am höchsten ist. Ein makelloses Ergebnis wirkt offenbar zu schön, um wahr zu sein; Anbieter mit ausschließlich Bestnoten geraten schnell in den Verdacht, nachgeholfen zu haben. „Erst ein paar kritische Stimmen machen ein Angebot glaubwürdig“, erklärt die Marktpsychologin Ines Walcher. Besonders aufschlussreich sei, wie ein Händler auf Beanstandungen reagiere: Wer sachlich antworte und Lösungen anbiete, verrate damit oft mehr über seine Seriosität als jede Lobeshymne.",
+        "Walcher empfiehlt, sich nicht vom Durchschnittswert leiten zu lassen, sondern gezielt die mittelmäßigen Bewertungen zu lesen. Wer drei Sterne vergibt, begründet seine Kritik meist nachvollziehbar und wägt Vor- und Nachteile gegeneinander ab. Misstrauisch werden sollte man dagegen, wenn zahlreiche Bewertungen innerhalb weniger Tage erscheinen, auffallend ähnlich formuliert sind oder kaum Einzelheiten enthalten. Auch ein Blick auf das Profil der Verfasser kann helfen: Wer an einem einzigen Tag zwanzig verschiedene Produkte lobt, hat wohl kaum alle selbst ausprobiert.",
+        "Gänzlich auf Bewertungen verzichten möchte Walcher trotzdem nicht. Richtig gelesen, seien sie eine wertvolle Orientierungshilfe, allerdings nur als eine Informationsquelle unter mehreren. Auch die Plattformbetreiber stünden in der Pflicht, Fälschungen konsequenter zu löschen. Wer ein kostspieliges Gerät anschaffen wolle, solle zusätzlich unabhängige Warentests zurate ziehen. Und wer zufrieden sei, könne einen kleinen Beitrag leisten, indem er seine Erfahrungen ebenfalls schildere, auch wenn sie keineswegs spektakulär gewesen seien."
+      ],
+      "source": "",
+      "taskInstruction": "Lösen Sie die Aufgaben 6–10. Entscheiden Sie, welche Lösung (a, b oder c) richtig ist, und tragen Sie Ihre Lösung in den Antwortbogen bei den Aufgaben 6–10 ein.",
+      "items": [
+        {
+          "no": "6",
+          "stem": "Lea Hinrichs",
+          "options": {
+            "a": "erlebte vor Ort ein Ärgernis, auf das kein Gast hingewiesen hatte.",
+            "b": "hatte sich vorab über die Bauarbeiten informiert.",
+            "c": "misstraut seither grundsätzlich jeglicher Reklame."
+          },
+          "answer": "a"
+        },
+        {
+          "no": "7",
+          "stem": "Die angezeigten Durchschnittswerte",
+          "options": {
+            "a": "beruhen hauptsächlich auf Urteilen von Käufern, die schlicht zufrieden sind.",
+            "b": "geben überwiegend sehr positive und sehr negative Urteile wieder.",
+            "c": "werden vor allem von gemäßigten Bewertungen bestimmt."
+          },
+          "answer": "b"
+        },
+        {
+          "no": "8",
+          "stem": "Seit 2022 müssen Händler",
+          "options": {
+            "a": "Kunden für Bestnoten mit Gutscheinen belohnen.",
+            "b": "mithilfe künstlicher Intelligenz Fälschungen aufspüren.",
+            "c": "über ihre Verfahren zur Echtheitsprüfung Auskunft geben."
+          },
+          "answer": "c"
+        },
+        {
+          "no": "9",
+          "stem": "Nach Ansicht von Ines Walcher",
+          "options": {
+            "a": "beschädigen bereits einzelne negative Urteile das Ansehen eines Anbieters.",
+            "b": "erkennt man am Umgang mit Kritik, wie vertrauenswürdig ein Händler ist.",
+            "c": "sollte man Bestnoten grundsätzlich außer Acht lassen."
+          },
+          "answer": "b"
+        },
+        {
+          "no": "10",
+          "stem": "Walcher rät,",
+          "options": {
+            "a": "Bewertungen nur ergänzend zu anderen Quellen heranzuziehen.",
+            "b": "nur außergewöhnlich positive Erfahrungen zu veröffentlichen.",
+            "c": "sich vor teuren Anschaffungen allein auf Warentests zu stützen."
+          },
+          "answer": "a"
+        }
+      ]
     },
-    {
-     "letter": "c",
-     "text": "Für die Gondel braucht man einen eigenen Fahrschein"
+    "t3": {
+      "instruction": "Lesen Sie zuerst die zehn Situationen (11–20) und dann die zwölf Info-Texte (a–l). Welcher Info-Text passt zu welcher Situation? Sie können jeden Info-Text nur einmal verwenden. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 11–20. Manchmal gibt es keine Lösung. Markieren Sie dann x.",
+      "items": [
+        {
+          "no": "11",
+          "text": "Ein Bekannter möchte Betrugsmaschen beim Online-Banking rechtzeitig durchschauen können.",
+          "answer": "c"
+        },
+        {
+          "no": "12",
+          "text": "Ein Kollege möchte seine Tochter (8) spielerisch an Informatik heranführen.",
+          "answer": "x"
+        },
+        {
+          "no": "13",
+          "text": "Eine Freundin möchte lernen, mit dem Smartphone ansprechendere Bilder aufzunehmen.",
+          "answer": "h"
+        },
+        {
+          "no": "14",
+          "text": "Eine Nachbarin will überschüssige Lebensmittel lieber verschenken als wegwerfen.",
+          "answer": "a"
+        },
+        {
+          "no": "15",
+          "text": "Ihr Großvater (80) braucht Unterstützung bei der Bedienung seines Mobiltelefons.",
+          "answer": "j"
+        },
+        {
+          "no": "16",
+          "text": "Ihr Neffe benötigt für den Unterricht einen preiswerten tragbaren Computer.",
+          "answer": "d"
+        },
+        {
+          "no": "17",
+          "text": "Ihr Vater ist zuckerkrank und sucht fachkundige Hilfe bei der Ernährungsumstellung.",
+          "answer": "i"
+        },
+        {
+          "no": "18",
+          "text": "Ihre Schwester möchte künftig ihr eigenes Brot backen können.",
+          "answer": "e"
+        },
+        {
+          "no": "19",
+          "text": "Ihre Tochter (9) möchte sich in den Ferien in der Küche ausprobieren.",
+          "answer": "f"
+        },
+        {
+          "no": "20",
+          "text": "Sie möchten an einem einzelnen Abend das Sushirollen erlernen.",
+          "answer": "x"
+        }
+      ],
+      "infos": [
+        {
+          "letter": "a",
+          "header": "LEBENSMITTELRETTER WESTEND E. V.",
+          "tag": "",
+          "title": "Zu gut für die Tonne",
+          "subtitle": "",
+          "facts": [],
+          "body": [
+            "In deutschen Privathaushalten landen jährlich Millionen Tonnen genießbarer Lebensmittel im Abfall – eine Verschwendung, der wir entgegenwirken wollen. In unseren öffentlich zugänglichen Fairteiler vor dem Gemeindehaus darf jeder legen, was er selbst nicht mehr verwerten kann: Obst, Gemüse, Backwaren oder ungeöffnete Packungen. Ebenso darf sich jeder unentgeltlich bedienen. Ausgeschlossen sind lediglich rohes Fleisch, Fisch und Speisen mit abgelaufenem Verbrauchsdatum. Wer sich regelmäßig engagieren möchte, etwa beim Einsammeln übrig gebliebener Brote aus Bäckereien, ist bei unserem monatlichen Treffen herzlich willkommen."
+          ],
+          "footer": "Fairteiler: Kirchplatz 3 · Treffen jeden ersten Montag, 19 Uhr"
+        },
+        {
+          "letter": "b",
+          "header": "PFEFFER & SALZ",
+          "tag": "",
+          "title": "Japanische Küche",
+          "subtitle": "",
+          "facts": [],
+          "body": [
+            "Von der Misosuppe über knusprige Tempura bis zum kunstvoll gerollten Sushi: An sechs aufeinanderfolgenden Mittwochabenden weiht Sie unser Küchenchef Kenji Morimoto in die Geheimnisse der japanischen Kochkunst ein. Sie lernen, Reis sachgerecht zu würzen, Fisch fachmännisch zu filetieren und sämtliche Zutaten ansprechend anzurichten. Da die Lerneinheiten inhaltlich aufeinander aufbauen, ist ausschließlich eine Buchung des gesamten Kurses möglich; Einzeltermine bieten wir grundsätzlich nicht an. Lebensmittel, Messer und Schürzen werden gestellt. Kursbeginn ist der 4. März, jeweils von 18 bis 21 Uhr."
+          ],
+          "footer": "Kochschule Pfeffer & Salz · 290 € pro Person · www.pfeffer-und-salz.de"
+        },
+        {
+          "letter": "c",
+          "header": "",
+          "tag": "12. OKTOBER",
+          "title": "Sicher bezahlen im Netz",
+          "subtitle": "",
+          "facts": [
+            "Do, 18 Uhr"
+          ],
+          "body": [
+            "Gefälschte Bank-E-Mails, betrügerische Onlineshops, entwendete Passwörter: Wer im Internet einkauft oder seine Bankgeschäfte digital erledigt, sollte die gängigsten Maschen der Betrüger kennen. In unserem Vortrag zeigt eine Expertin der Verbraucherzentrale, woran man unseriöse Angebote erkennt, wie ein sicheres Passwort aussieht und was zu tun ist, wenn doch einmal Geld vom Konto verschwunden ist. Danach können Sie ihr gern Ihre Fragen stellen. Der Eintritt ist kostenfrei, eine vorherige Anmeldung ist nicht erforderlich."
+          ],
+          "footer": "Volkshochschule · Saal 2 · Am Stadtgraben 11"
+        },
+        {
+          "letter": "d",
+          "header": "",
+          "tag": "SCHULE UND TECHNIK",
+          "title": "Zweites Leben für Firmenlaptops",
+          "subtitle": "",
+          "facts": [],
+          "body": [
+            "Zahlreiche Unternehmen tauschen ihre Rechner bereits nach wenigen Jahren aus, obwohl die Geräte noch einwandfrei funktionieren. Der gemeinnützige Verein Digitale Chancen sammelt solche ausrangierten Laptops, löscht sämtliche Daten zuverlässig und installiert aktuelle Software. Anschließend gibt er die aufbereiteten Geräte für 50 Euro an Schülerinnen und Schüler ab – erheblich günstiger als im Fachhandel. Auf jedes Gerät gewähren wir ein Jahr Garantie. Wer eine Bescheinigung seiner Schule vorlegt, darf sich in unserer Werkstatt ein Exemplar aussuchen. Spendenwillige Firmen können ihre Altgeräte kostenlos abholen lassen."
+          ],
+          "footer": "Werkstatt: Gutenbergstraße 20 · Di und Do 15–18 Uhr"
+        },
+        {
+          "letter": "e",
+          "header": "Sauerteig & Co.",
+          "tag": "BACKKURS FÜR EINSTEIGER",
+          "title": "",
+          "subtitle": "",
+          "facts": [],
+          "body": [
+            "Knusprige Kruste, saftige Krume und keinerlei Zusatzstoffe: In unserem eintägigen Backkurs zeigt Ihnen Bäckermeisterin Gerda Holm, wie Sie einen eigenen Sauerteig ansetzen und daraus kräftige Roggen- und Dinkelbrote herstellen. Sie kneten, formen und backen eigenhändig in unserer Backstube und nehmen anschließend zwei Laibe sowie eine Portion Sauerteig mit nach Hause, damit Sie unverzüglich weiterbacken können. Vorkenntnisse sind nicht erforderlich. Der Kurs findet an einem Samstag von 9 bis 15 Uhr statt; ein gemeinsames Mittagessen ist im Teilnahmebeitrag inbegriffen."
+          ],
+          "footer": "Backstube Holm · Tel. 0911 / 38 45 17"
+        },
+        {
+          "letter": "f",
+          "header": "",
+          "tag": "",
+          "title": "Kleine Köche",
+          "subtitle": "Ferienkochkurs für Kinder",
+          "facts": [],
+          "body": [
+            "Pizza mit selbst gemachtem Teig, farbenfrohe Gemüsespieße und als Nachtisch Obstsalat: In unserem Ferienkurs bereiten Kinder zwischen acht und zwölf Jahren an fünf Vormittagen unkomplizierte Gerichte zu und verspeisen sie anschließend gemeinsam. Nebenbei lernen sie, sicher mit Messer und Herd umzugehen, und erfahren Wissenswertes über die Herkunft unserer Lebensmittel. Der Kurs wird in der ersten und in der dritten Sommerferienwoche angeboten, jeweils von 9 bis 12.30 Uhr. Die Anwesenheit der Eltern ist nicht erforderlich. Bitte eine Schürze mitbringen!"
+          ],
+          "footer": "Familienzentrum am Park · Tel. 0911 / 21 76 30"
+        },
+        {
+          "letter": "g",
+          "header": "PC-DOKTOR BERISHA",
+          "tag": "",
+          "title": "Computerhilfe zu Hause",
+          "subtitle": "",
+          "facts": [],
+          "body": [
+            "Der Drucker streikt, die Internetverbindung bricht ständig ab oder Ihr neuer Computer muss installiert und eingerichtet werden? Wir kommen zu Ihnen nach Hause und beheben die Störung vor Ort, meistens noch am selben Tag. Auf Wunsch übertragen wir außerdem Fotos und Dokumente vom alten auf das neue Gerät und zeigen Ihnen, wie Sie regelmäßig Sicherungskopien anlegen. Eine Arbeitsstunde kostet 45 Euro, Anfahrtskosten innerhalb des Stadtgebiets berechnen wir grundsätzlich nicht. Bitte beachten Sie unbedingt: Smartphones und Tablets gehören ausdrücklich nicht zu unserem Leistungsangebot."
+          ],
+          "footer": "Tel. 0911 / 44 90 12 · Mo–Sa 8–20 Uhr"
+        },
+        {
+          "letter": "h",
+          "header": "",
+          "tag": "",
+          "title": "FOTOS MIT DEM HANDY",
+          "subtitle": "",
+          "facts": [],
+          "body": [
+            "Ihr Smartphone kann mehr, als Sie vermuten! In unserem Kompaktkurs lernen Sie, Lichtverhältnisse und Perspektiven geschickt auszunutzen, Menschen natürlich in Szene zu setzen und Ihre Aufnahmen anschließend mit kostenlosen Anwendungen nachzubearbeiten. Nach einer kurzen Einführung im Kursraum erkunden wir gemeinsam die Altstadt, wo Sie das Gelernte unmittelbar erproben. Der Kurs eignet sich für sämtliche Altersgruppen und für jedes Mobiltelefon mit Kamera. Wir treffen uns an drei Samstagen, jeweils von 10 bis 13 Uhr; die Teilnahmegebühr beträgt 75 Euro."
+          ],
+          "footer": "FOTOSCHULE BLENDE 8 · BURGSTRASSE 9"
+        },
+        {
+          "letter": "i",
+          "header": "",
+          "tag": "",
+          "title": "Ernährung, die Ihnen guttut",
+          "subtitle": "",
+          "facts": [],
+          "body": [
+            "Sie leiden an Diabetes, Bluthochdruck oder erhöhten Cholesterinwerten und möchten Ihre Ernährungsgewohnheiten umstellen, wissen jedoch nicht, wo Sie ansetzen sollen? In persönlichen Beratungsgesprächen entwickeln wir gemeinsam einen Ernährungsplan, der auf Ihren Alltag und Ihre geschmacklichen Vorlieben zugeschnitten ist – gänzlich ohne strenge Verbote. Sie lernen, Nährwertangaben richtig zu deuten und bewusst einzukaufen. Legen Sie eine ärztliche Bescheinigung vor, übernehmen die meisten gesetzlichen Krankenkassen einen beträchtlichen Teil der Kosten."
+          ],
+          "footer": "Nadine Friedrichs · Diätassistentin · Tel. 0911 / 56 03 88"
+        },
+        {
+          "letter": "j",
+          "header": "",
+          "tag": "",
+          "title": "Handy-Sprechstunde",
+          "subtitle": "für alle ab 65",
+          "facts": [],
+          "body": [
+            "Nachrichtendienste einrichten, Urlaubsfotos an die Enkel verschicken oder schlicht die Schriftgröße anpassen: Schülerinnen und Schüler des Dürer-Gymnasiums unterstützen Sie geduldig bei allen Fragen rund um Smartphone und Tablet. Bringen Sie einfach Ihr Gerät und gegebenenfalls Ihre Zugangsdaten mit. Wir treffen uns jeden Donnerstag von 15 bis 17 Uhr in der Stadtbibliothek. Kosten entstehen Ihnen keine – über ein Stück selbst gebackenen Kuchen freuen sich unsere ehrenamtlichen Helferinnen und Helfer allerdings jederzeit!"
+          ],
+          "footer": "Stadtbibliothek, 1. Stock"
+        },
+        {
+          "letter": "k",
+          "header": "",
+          "tag": "",
+          "title": "CODE CLUB – PROGRAMMIEREN FÜR KIDS",
+          "subtitle": "",
+          "facts": [],
+          "body": [
+            "Wie bringt man einen Roboter dazu, einem Hindernis selbstständig auszuweichen? Im Code Club lernen Kinder und Jugendliche zwischen 10 und 14 Jahren spielerisch, eigene Computerspiele und kleinere Programme zu entwickeln. Vorkenntnisse sind nicht erforderlich, Laptops und Roboterbausätze stellen wir zur Verfügung. Die Gruppen bleiben bewusst überschaubar, damit sich unsere Informatikstudierenden individuell um jedes Kind kümmern können. Die Teilnahme ist selbstverständlich kostenlos."
+          ],
+          "footer": "Jeden zweiten Freitag, 16 Uhr · Informatikgebäude der Universität · Anmeldung: www.codeclub-kids.de"
+        },
+        {
+          "letter": "l",
+          "header": "",
+          "tag": "Neu im Programm",
+          "title": "Vegan um die Welt",
+          "subtitle": "",
+          "facts": [],
+          "body": [
+            "Jeden Freitag kochen wir gemeinsam Gerichte ohne tierische Produkte und unternehmen dabei kulinarische Reisen in jeweils ein anderes Land: indisches Curry, mexikanische Bohnenpfanne, italienische Pasta mit Linsen-Bolognese oder marokkanischer Couscous. Sie erfahren, wie sich Fleisch, Milchprodukte und Eier ersetzen lassen, ohne geschmackliche Abstriche zu machen. Jeder Abend ist einzeln buchbar und kostet 35 Euro einschließlich Zutaten und Getränken. Auch wer sich nicht vegan ernährt, ist herzlich willkommen!"
+          ],
+          "footer": "Stadtteilküche Mitte · Anmeldung bis Mittwoch"
+        }
+      ]
     },
-    {
-     "letter": "d",
-     "text": "Meister dürfen nur ihr eigenes Fach studieren"
+    "sb1": {
+      "instruction": "Lesen Sie den folgenden Text und entscheiden Sie, welches Wort (a, b oder c) in die jeweilige Lücke passt. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 21–30.",
+      "paragraphs": [
+        "Sehr geehrte Frau Albers,",
+        "haben Sie herzlichen Dank für Ihre Einladung zur Jubiläumsfeier anlässlich des fünfzigjährigen Bestehens unseres Fotoclubs. Sie wissen {{21}}, wie sehr mir der Verein seit vielen Jahren am Herzen liegt, und umso mehr bedauere ich, Ihnen kurzfristig absagen zu müssen. Ausgerechnet an diesem Wochenende findet in Leipzig eine internationale Fachtagung zur Pressefotografie statt, für {{22}} Organisation ich seit Monaten verantwortlich bin. Hätte ich den Termin rechtzeitig erfahren, {{23}} ich mir selbstverständlich Urlaub genommen.",
+        "Da ich persönlich verhindert bin, möchte ich wenigstens einen bescheidenen Beitrag zum Gelingen der Feierlichkeiten {{24}}. In der vergangenen Vorstandssitzung hatten Sie erwähnt, dass für die Dokumentation unserer {{25}} Jubiläumsausstellung noch ein erfahrener Fotograf gesucht wird. Mein Schwager Felix, ein leidenschaftlicher und ausgesprochen zuverlässiger Porträtfotograf, hat sich spontan {{26}} bereit erklärt. Er würde die Aufnahmen anschließend auch bearbeiten, {{27}} Sie sie sämtlichen Mitgliedern zur Verfügung stellen können. Selbstverständlich wird er sich {{28}} Ihren Wünschen richten und sich während {{29}} Feier möglichst unauffällig bewegen, um den Ablauf nicht zu stören. Am besten setzen Sie sich direkt telefonisch mit ihm in Verbindung, um alle Einzelheiten persönlich abzustimmen.",
+        "Außerdem habe ich ein kleines Präsent für die traditionelle Tombola besorgt. Das Päckchen ist gestern an die Vereinsadresse abgeschickt {{30}} und dürfte daher rechtzeitig eintreffen.",
+        "Ich wünsche Ihnen und allen Beteiligten ein unvergessliches Fest und freue mich darauf, beim nächsten Clubabend ausführlich von der gelungenen Veranstaltung zu hören.",
+        "Mit freundlichen Grüßen",
+        "Svenja Brandt"
+      ],
+      "items": [
+        {
+          "no": "21",
+          "options": {
+            "a": "denn",
+            "b": "ja",
+            "c": "mal"
+          },
+          "answer": "b"
+        },
+        {
+          "no": "22",
+          "options": {
+            "a": "denen",
+            "b": "deren",
+            "c": "dessen"
+          },
+          "answer": "b"
+        },
+        {
+          "no": "23",
+          "options": {
+            "a": "hätte",
+            "b": "wäre",
+            "c": "würde"
+          },
+          "answer": "a"
+        },
+        {
+          "no": "24",
+          "options": {
+            "a": "leisten",
+            "b": "machen",
+            "c": "tun"
+          },
+          "answer": "a"
+        },
+        {
+          "no": "25",
+          "options": {
+            "a": "geplante",
+            "b": "geplanten",
+            "c": "geplanter"
+          },
+          "answer": "b"
+        },
+        {
+          "no": "26",
+          "options": {
+            "a": "darauf",
+            "b": "davon",
+            "c": "dazu"
+          },
+          "answer": "c"
+        },
+        {
+          "no": "27",
+          "options": {
+            "a": "damit",
+            "b": "dass",
+            "c": "um"
+          },
+          "answer": "a"
+        },
+        {
+          "no": "28",
+          "options": {
+            "a": "an",
+            "b": "auf",
+            "c": "nach"
+          },
+          "answer": "c"
+        },
+        {
+          "no": "29",
+          "options": {
+            "a": "den",
+            "b": "der",
+            "c": "die"
+          },
+          "answer": "b"
+        },
+        {
+          "no": "30",
+          "options": {
+            "a": "geworden",
+            "b": "werden",
+            "c": "worden"
+          },
+          "answer": "c"
+        }
+      ],
+      "types": [
+        "Partikel",
+        "Relativpronomen",
+        "Konjunktiv II",
+        "Lexik",
+        "Form",
+        "Pronominaladverb",
+        "Konnektor",
+        "Rektion",
+        "Form",
+        "Passiv"
+      ]
     },
-    {
-     "letter": "e",
-     "text": "Per Kabine übers Wasser – die Bürger entscheiden"
-    },
-    {
-     "letter": "f",
-     "text": "Strom und Obst vom selben Grundstück"
-    },
-    {
-     "letter": "g",
-     "text": "Über den Beruf an die Hochschule"
-    },
-    {
-     "letter": "h",
-     "text": "Unter Solardächern wachsen mehr Äpfel"
-    },
-    {
-     "letter": "i",
-     "text": "Unternehmen holen jeden Ehemaligen zurück"
-    },
-    {
-     "letter": "j",
-     "text": "Wer einmal gekündigt hat, ist wieder willkommen"
+    "sb2": {
+      "instruction": "Lesen Sie den folgenden Text und entscheiden Sie, welches Wort aus dem Kasten (a–o) in die Lücken 31–40 passt. Sie können jedes Wort im Kasten nur einmal verwenden. Nicht alle Wörter passen in den Text. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 31–40.",
+      "title": "Knappe Reserven im Hochsommer",
+      "paragraphs": [
+        "Tag für Tag werden in Deutschland rund 15.000 Blutkonserven benötigt – für Unfallopfer, für geplante Operationen und vor allem für Krebspatienten, die während ihrer Behandlung regelmäßig auf Spenderblut {{31}} sind. Künstlich herstellen lässt sich Blut bis heute nicht, und einen gleichwertigen Ersatz gibt es auch nicht. Dennoch spenden lediglich rund drei Prozent der Bevölkerung regelmäßig, obwohl ungefähr ein Drittel grundsätzlich infrage käme.",
+        "Im Sommer verschärft sich die ohnehin angespannte Lage {{32}}: Zahlreiche Stammspender sind verreist, bei anhaltender Hitze fühlen sich manche nicht ausreichend belastbar, und in den Ferien entfallen zudem die Spendetermine in Schulen. Zugleich steigt der {{33}}, weil sich in der Urlaubszeit mehr Verkehrsunfälle ereignen. Vorräte für Engpässe lassen sich kaum anlegen, {{34}} die wichtigsten Blutpräparate nur wenige Wochen {{35}} sind. {{36}} der knappen Bestände appellieren die Blutspendedienste deshalb alljährlich vor Ferienbeginn eindringlich an die Bevölkerung.",
+        "Spenden darf prinzipiell jeder, der volljährig ist und mindestens 50 Kilogramm wiegt. Wichtigste {{37}} ist allerdings, dass man sich gesund fühlt; ob dies zutrifft, klärt ein Arzt vor Ort in einem kurzen Gespräch, nachdem Blutdruck, Puls und Körpertemperatur gemessen worden sind. Die eigentliche Blutentnahme dauert nur fünf bis zehn Minuten, doch insgesamt sollte man mit ungefähr einer Stunde rechnen. Danach sollte man sich eine Weile hinsetzen und {{38}} achten, ausreichend zu trinken. Frauen dürfen viermal, Männer sechsmal im Jahr zur Spende gehen.",
+        "Um mehr junge Menschen für die Blutspende zu {{39}}, lassen sich die Spendedienste einiges einfallen: Mobile Teams besuchen Hochschulen und Musikfestivals, in sozialen Netzwerken wird gezielt geworben, und Abendtermine ermöglichen es auch Berufstätigen, nach Feierabend vorbeizukommen. In manchen Ländern erhalten Spender sogar eine Benachrichtigung aufs Smartphone, {{40}} ihr Blut in einem Krankenhaus verwendet wird. Die Idee dahinter ist so einfach wie wirksam: Wer weiß, dass seine Spende tatsächlich ankommt, kommt eher wieder."
+      ],
+      "words": {
+        "a": "ABHÄNGIG",
+        "b": "ANGESICHTS",
+        "c": "ANGEWIESEN",
+        "d": "BEDARF",
+        "e": "DARAUF",
+        "f": "GEWINNEN",
+        "g": "GÜLTIG",
+        "h": "HALTBAR",
+        "i": "SEITDEM",
+        "j": "SOBALD",
+        "k": "VERZICHT",
+        "l": "VORAUSSETZUNG",
+        "m": "ZÄHLEN",
+        "n": "ZUMAL",
+        "o": "ZUSÄTZLICH"
+      },
+      "items": [
+        {
+          "no": "31",
+          "answer": "c"
+        },
+        {
+          "no": "32",
+          "answer": "o"
+        },
+        {
+          "no": "33",
+          "answer": "d"
+        },
+        {
+          "no": "34",
+          "answer": "n"
+        },
+        {
+          "no": "35",
+          "answer": "h"
+        },
+        {
+          "no": "36",
+          "answer": "b"
+        },
+        {
+          "no": "37",
+          "answer": "l"
+        },
+        {
+          "no": "38",
+          "answer": "e"
+        },
+        {
+          "no": "39",
+          "answer": "f"
+        },
+        {
+          "no": "40",
+          "answer": "j"
+        }
+      ],
+      "types": {
+        "a": "Adjektiv",
+        "b": "Präposition",
+        "c": "Adjektiv",
+        "d": "Nomen",
+        "e": "Pronominaladverb",
+        "f": "Verb",
+        "g": "Adjektiv",
+        "h": "Adjektiv",
+        "i": "Konnektor",
+        "j": "Konnektor",
+        "k": "Nomen",
+        "l": "Nomen",
+        "m": "Verb",
+        "n": "Konnektor",
+        "o": "Adverb"
+      }
     }
-   ],
-   "texts": [
-    {
-     "no": "1",
-     "paragraphs": [
-      "In Kaltenbrunn soll schon bald eine Seilbahn zum öffentlichen Nahverkehr gehören. Die geplante Strecke führt vom Hauptbahnhof über den Fluss bis zu einem neuen Wohnviertel am Hang, wo in einigen Jahren rund 6.000 Menschen leben sollen. Eine Straßenbahn wäre dort wegen der Steigung nur mit teuren Tunneln möglich; die Seilbahn würde dagegen nur etwa ein Viertel so viel kosten und ließe sich in zwei Jahren bauen. Alle 30 Sekunden soll eine Kabine abfahren, die Fahrt würde sieben Minuten dauern. Die Kabinen wären barrierefrei, sodass auch Menschen im Rollstuhl, mit Kinderwagen oder mit Fahrrad bequem einsteigen könnten. Einen eigenen Fahrschein bräuchte niemand: Es sollen die üblichen Tickets für Bus und Bahn gelten. Nicht alle sind jedoch begeistert. Viele Bewohner der Altstadt fürchten, dass Fahrgäste künftig von oben in ihre Gärten und Wohnzimmer schauen. Die Stadt verspricht, dass die Fenster der Kabinen über bewohnten Grundstücken automatisch undurchsichtig werden. Kritiker bezweifeln außerdem, dass die Bahn bei Sturm zuverlässig fährt; der Betrieb müsste dann ruhen, und Ersatzbusse würden einspringen. Ob das Projekt tatsächlich verwirklicht wird, entscheiden die Bürgerinnen und Bürger im Herbst per Abstimmung."
-     ]
-    },
-    {
-     "no": "2",
-     "paragraphs": [
-      "Sandra Kuhlmann hat nie Abitur gemacht. Nach der Realschule wurde sie Krankenpflegerin und arbeitete fünfzehn Jahre lang auf einer Intensivstation. Heute studiert die 38-Jährige Pflegewissenschaft an der Hochschule Harzfeld, obwohl sie anfangs fürchtete, dafür zu alt zu sein. Möglich macht das eine Regelung, die erstaunlich wenige kennen: Wer eine Berufsausbildung abgeschlossen und danach einige Jahre im Beruf gearbeitet hat, darf auch ohne Abitur studieren – in der Regel ein Fach, das zum bisherigen Beruf passt. Meisterinnen und Meister sowie staatlich geprüfte Technikerinnen und Techniker dürfen sich sogar für jeden Studiengang bewerben. Je nach Bundesland müssen Interessierte vorher allerdings eine Eignungsprüfung bestehen oder ein Probestudium absolvieren. In Harzfeld ist fast jeder zehnte Studierende ohne Abitur eingeschrieben; im Bundesdurchschnitt sind es deutlich weniger. Die Lehrenden schätzen die Erfahrung der Quereinsteiger. „Sie stellen die besseren Fragen, weil sie wissen, wofür sie lernen“, sagt eine Professorin. Leicht ist der Weg trotzdem nicht. Viele müssen Mathematik oder wissenschaftliches Schreiben nachholen und nebenbei weiterarbeiten, weil sie eine Familie zu versorgen haben. Die Hochschule bietet deshalb Vorbereitungskurse an und legt einen Teil der Veranstaltungen auf den Abend. Kuhlmann arbeitet noch zwei Tage pro Woche im Krankenhaus. „Die ersten Hausarbeiten waren eine Qual“, gibt sie zu. „Aber ich merke jeden Tag, wie sehr mir die Praxis hilft.“ Nach dem Abschluss will sie nicht zurück ans Krankenbett, sondern selbst Pflegekräfte ausbilden."
-     ]
-    },
-    {
-     "no": "3",
-     "paragraphs": [
-      "Als Carolin Stoll vor vier Jahren ihren Arbeitgeber verließ, einen Hersteller von Messgeräten, gab es zum Abschied Blumen und die üblichen guten Wünsche. Dass sie einmal zurückkehren würde, glaubte damals niemand – sie selbst am wenigsten. Heute leitet die Ingenieurin dort eine Abteilung mit zwölf Beschäftigten. Sogenannte Bumerang-Mitarbeiter sind für viele Unternehmen inzwischen eine willkommene Antwort auf den Fachkräftemangel. Sie kennen die Abläufe und die Kollegen, brauchen kaum Einarbeitung und bringen Erfahrungen mit, die sie bei anderen Firmen gesammelt haben. Manche Betriebe halten deshalb gezielt Kontakt zu Ehemaligen, laden sie zum Sommerfest ein oder informieren sie über freie Stellen. Früher galt eine Kündigung dagegen oft als Verrat: Wer ging, brauchte sich nicht mehr blicken zu lassen. „Diese Haltung können wir uns heute schlicht nicht mehr leisten“, sagt die Personalleiterin eines mittelständischen Maschinenbauers. In ihrem Betrieb werde inzwischen etwa jede achte freie Stelle mit einer Rückkehrerin oder einem Rückkehrer besetzt. Allerdings holen die Firmen längst nicht jeden zurück. Wer im Streit gegangen ist oder nur wegen eines höheren Gehalts wiederkommen möchte, hat meist schlechte Karten. Auch die Rückkehrer selbst müssen sich umstellen: Nicht selten haben sich Teams und Zuständigkeiten in der Zwischenzeit so stark verändert, dass der alte Arbeitsplatz kaum wiederzuerkennen ist. Stoll hat das nicht abgeschreckt. „Bei der Konkurrenz habe ich viel gelernt“, sagt sie, „aber hier fühle ich mich einfach zu Hause.“"
-     ]
-    },
-    {
-     "no": "4",
-     "paragraphs": [
-      "Auf den ersten Blick sieht die Obstplantage von Ulrich Seibold am Bodensee aus wie viele andere: lange Reihen von Apfelbäumen, dazwischen gemähtes Gras. Erst beim zweiten Hinsehen fällt auf, dass über den Bäumen keine Hagelnetze hängen, sondern Solarmodule. Auf rund zwei Hektar erzeugt der Landwirt seit drei Jahren Strom für etwa 300 Haushalte – und erntet darunter weiterhin Äpfel. Agri-Photovoltaik nennt man diese Doppelnutzung, bei der auf derselben Fläche gleichzeitig Lebensmittel und Energie gewonnen werden. Für Seibold hat sie mehrere Vorteile. Die Module schützen die Früchte vor Hagel, Starkregen und Sonnenbrand, die in den vergangenen Sommern immer häufiger geworden sind. Unter dem Dach verdunstet außerdem weniger Wasser, sodass er seltener bewässern muss. Die Apfelernte fällt zwar etwas geringer aus als ohne Module, weil die Bäume weniger Licht bekommen; der Verkauf des Stroms gleicht das aber mehr als aus. „Ich bin Obstbauer geblieben“, betont Seibold, „aber ich schlafe ruhiger, seit ein einziges Unwetter nicht mehr die ganze Ernte vernichten kann.“ Begleitet wird das Projekt von einem Forschungsinstitut, das Erträge und Klima unter den Modulen misst. Die Wissenschaftler sehen großes Potenzial: Schon ein kleiner Teil der landwirtschaftlichen Fläche würde genügen, um einen erheblichen Anteil des deutschen Strombedarfs zu decken. Kritiker warnen dagegen vor einer Industrialisierung der Landschaft und befürchten, dass Felder am Ende nur noch Kraftwerke mit etwas Grün darunter sind. Tatsächlich lohnt sich die Technik nicht überall: Für Getreide, das viel Sonne braucht, eignet sie sich kaum. Ein weiteres Hindernis sind die Genehmigungen – Seibold hat fast zwei Jahre auf die Erlaubnis gewartet. Inzwischen melden sich bei ihm Kollegen aus der ganzen Region, die sich die Anlage ansehen wollen."
-     ]
-    },
-    {
-     "no": "5",
-     "paragraphs": [
-      "„Sie werden gebeten, den beigefügten Vordruck binnen einer Frist von vierzehn Tagen ab Zugang dieses Schreibens zurückzusenden.“ Sätze wie dieser haben im Rathaus von Weilstadt ausgedient. Die Idee stammt von einer Mitarbeiterin des Sozialamts, die täglich erlebte, wie Menschen mit einem Brief in der Hand ratlos vor ihrem Schreibtisch standen. Seit einem Jahr formuliert die Verwaltung ihre Briefe so, dass möglichst alle sie beim ersten Lesen verstehen: kurze Sätze, bekannte Wörter, das Wichtigste zuerst. Aus dem Satz oben wurde: „Bitte schicken Sie uns das Formular innerhalb von zwei Wochen zurück.“ Alle 180 Beschäftigten wurden geschult, eine Arbeitsgruppe hat mehr als 400 Musterbriefe überarbeitet. Der Aufwand hat sich gelohnt: Beim Bürgertelefon gehen deutlich weniger Rückfragen ein, und Anträge werden seltener unvollständig eingereicht. Rechtlich angreifbar seien die neuen Schreiben nicht, betont der Bürgermeister – eine Juristin prüft jeden Text, bevor er verschickt wird."
-     ]
-    }
-   ],
-   "items": [
-    {
-     "no": "1",
-     "answer": "e"
-    },
-    {
-     "no": "2",
-     "answer": "g"
-    },
-    {
-     "no": "3",
-     "answer": "j"
-    },
-    {
-     "no": "4",
-     "answer": "f"
-    },
-    {
-     "no": "5",
-     "answer": "a"
-    }
-   ]
   },
-  "t2": {
-   "instruction": "Lesen Sie zuerst den Artikel und lösen Sie dann die Aufgaben 6– 10 zu dem Text.",
-   "kind": "article",
-   "title": "Sterne, denen man nicht trauen sollte",
-   "lead": "Ob Hotel, Handwerker oder Heizlüfter: Vor fast jedem Kauf werfen wir heute einen Blick auf die Bewertungen anderer Kunden. Doch die Zahl der Sterne verrät oft weniger, als wir glauben.",
-   "paragraphs": [
-    "Als Lea Hinrichs ein Hotel für ihren Kurzurlaub in Wien suchte, war die Entscheidung schnell gefallen: 4,8 von 5 Sternen, mehr als 2.000 begeisterte Bewertungen. Vor Ort erwartete sie jedoch ein Zimmer direkt neben einer Baustelle, auf der schon ab sechs Uhr morgens gearbeitet wurde – ein Umstand, der in keiner einzigen Bewertung erwähnt worden war. „Ich habe mich gefragt, ob die anderen Gäste im selben Hotel waren“, sagt die 34-Jährige. Erfahrungen wie ihre sind keine Seltenheit. Bewertungen im Internet gelten als ehrliche Alternative zur Werbung, schließlich stammen sie von Kunden und nicht von Verkäufern. Doch diese Annahme stimmt nur zum Teil.",
-    "Ein Grund liegt darin, wer überhaupt eine Bewertung abgibt. Forscher haben festgestellt, dass sich vor allem zwei Gruppen äußern: Menschen, die begeistert sind, und Menschen, die sich sehr geärgert haben. Wer mit einem Produkt einfach zufrieden ist, schweigt dagegen meistens. Das Ergebnis ist eine eigentümliche Verteilung: viele Bewertungen mit fünf Sternen, einige mit einem Stern und dazwischen erstaunlich wenig. Der Durchschnittswert, den die Plattformen anzeigen, bildet deshalb vor allem die Extreme ab. Außerdem bitten viele Shops ihre Kunden schon direkt nach dem Kauf um ein Urteil – also bevor sie das Produkt richtig ausprobieren konnten.",
-    "Hinzu kommen gefälschte Bewertungen. Im Netz bieten Agenturen ganze Pakete positiver Kommentare an, und manche Händler belohnen Kunden mit Gutscheinen, wenn sie fünf Sterne vergeben. Beides ist in der EU unzulässig. Seit 2022 müssen Händler zudem angeben, ob und wie sie sicherstellen, dass eine Bewertung tatsächlich von jemandem stammt, der das Produkt gekauft oder genutzt hat. Kontrollieren lässt sich das allerdings nur schwer, zumal viele Fälschungen inzwischen mithilfe künstlicher Intelligenz entstehen und von echten Texten kaum noch zu unterscheiden sind.",
-    "Interessanterweise misstrauen viele Verbraucher ohnehin den besten Noten. Eine Untersuchung aus den USA ergab, dass die Kaufbereitschaft nicht bei fünf, sondern bei etwa 4,5 Sternen am höchsten ist. Ein makelloses Ergebnis wirkt offenbar zu schön, um wahr zu sein; Händler mit ausschließlich Bestnoten geraten schnell in den Verdacht, nachgeholfen zu haben. „Erst ein paar kritische Stimmen machen ein Angebot glaubwürdig“, erklärt die Marktpsychologin Ines Walcher. Besonders aufschlussreich sei, wie ein Händler auf Beschwerden reagiere: Wer sachlich antworte und Lösungen anbiete, verrate damit oft mehr über seine Seriosität als jede Lobeshymne.",
-    "Walcher empfiehlt, sich nicht vom Durchschnittswert leiten zu lassen, sondern gezielt die mittleren Bewertungen zu lesen. Wer drei Sterne vergibt, begründet seine Kritik meist sachlich und nennt Vor- und Nachteile. Misstrauisch werden sollte man dagegen, wenn viele Bewertungen innerhalb weniger Tage erscheinen, auffallend ähnlich formuliert sind oder kaum Einzelheiten enthalten. Auch ein Blick auf das Profil der Verfasser kann helfen: Wer an einem einzigen Tag zwanzig verschiedene Produkte lobt, hat sie kaum alle ausprobiert.",
-    "Ganz auf Bewertungen verzichten möchte Walcher trotzdem nicht. Richtig gelesen, seien sie eine wertvolle Hilfe – allerdings nur als eine Informationsquelle unter mehreren. Auch die Plattformen stünden in der Pflicht, Fälschungen konsequenter zu löschen. Wer ein teures Gerät kaufen wolle, solle zusätzlich unabhängige Warentests zurate ziehen. Und wer zufrieden sei, könne einen kleinen Beitrag leisten, indem er seine Erfahrung ebenfalls aufschreibe – auch wenn sie nicht spektakulär gewesen sei."
-   ],
-   "source": "",
-   "taskInstruction": "Lösen Sie die Aufgaben 6–10. Entscheiden Sie, welche Lösung (a, b oder c) richtig ist, und tragen Sie Ihre Lösung in den Antwortbogen bei den Aufgaben 6–10 ein.",
-   "items": [
-    {
-     "no": "6",
-     "stem": "Lea Hinrichs",
-     "options": {
-      "a": "hatte vorher von der Baustelle gelesen.",
-      "b": "misstraut seitdem jeder Form von Werbung.",
-      "c": "erlebte eine Überraschung, die in keiner Bewertung stand."
-     },
-     "answer": "c"
+  "hoeren": {
+    "t1": {
+      "instruction": "Sie hören nun eine Nachrichtensendung. Dazu sollen Sie fünf Aufgaben lösen. Sie hören die Nachrichtensendung nur einmal. Entscheiden Sie beim Hören, ob die Aussagen 41–45 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 41–45. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+      "readNote": "Lesen Sie jetzt die Aufgaben 41–45. Sie haben dazu 30 Sekunden Zeit.",
+      "items": [
+        {
+          "no": "41",
+          "text": "Für einen Wohnortwechsel innerhalb der Bundesrepublik ist bald kein Behördenbesuch mehr erforderlich.",
+          "answer": "R"
+        },
+        {
+          "no": "42",
+          "text": "Verdi befürwortet das kassenlose Konzept als Beitrag zur Sicherung von Stellen.",
+          "answer": "F"
+        },
+        {
+          "no": "43",
+          "text": "Die Bambergerin verzichtet bei der Rückgabe des Bildes auf jegliche Belohnung.",
+          "answer": "R"
+        },
+        {
+          "no": "44",
+          "text": "Laut Wetterdienst ist mit kräftigen Niederschlägen am Rhein noch in dieser Woche zu rechnen.",
+          "answer": "F"
+        },
+        {
+          "no": "45",
+          "text": "Zusätzliche Ausleihstationen entstehen ausschließlich im Stadtzentrum.",
+          "answer": "F"
+        }
+      ]
     },
-    {
-     "no": "7",
-     "stem": "Die angezeigten Durchschnittswerte",
-     "options": {
-      "a": "beruhen vor allem auf den Urteilen zufriedener Kunden.",
-      "b": "spiegeln vor allem Begeisterung und Ärger wider.",
-      "c": "ergeben sich vor allem aus mittleren Noten."
-     },
-     "answer": "b"
+    "t2": {
+      "instruction": "Sie hören ein Rundfunk-Interview. Dazu sollen Sie zehn Aufgaben lösen. Sie hören dieses Interview nur einmal. Entscheiden Sie beim Hören, ob die Aussagen 46–55 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 46–55. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+      "readNote": "Lesen Sie jetzt die Aufgaben 46–55. Sie haben dazu 60 Sekunden Zeit.",
+      "items": [
+        {
+          "no": "46",
+          "text": "Den größten Anteil der Mitglieder stellen Menschen, die vom Rentenalter noch weit entfernt sind.",
+          "answer": "R"
+        },
+        {
+          "no": "47",
+          "text": "Wer Hilfe erhält, muss sich bei genau derselben Person revanchieren.",
+          "answer": "F"
+        },
+        {
+          "no": "48",
+          "text": "Fachlich anspruchsvolle Leistungen werden mit einem höheren Zeitguthaben vergütet.",
+          "answer": "F"
+        },
+        {
+          "no": "49",
+          "text": "Häufig wünschen sich Mitglieder schlicht Begleitung und ein offenes Ohr.",
+          "answer": "R"
+        },
+        {
+          "no": "50",
+          "text": "Manchen Mitgliedern fällt es schwerer, um Unterstützung zu bitten, als sie anzubieten.",
+          "answer": "R"
+        },
+        {
+          "no": "51",
+          "text": "Neulinge können erst Hilfe beanspruchen, wenn sie selbst Stunden erarbeitet haben.",
+          "answer": "F"
+        },
+        {
+          "no": "52",
+          "text": "Über die Zeitbank lassen sich auch umfangreiche Renovierungen ganzer Wohnungen organisieren.",
+          "answer": "F"
+        },
+        {
+          "no": "53",
+          "text": "Wer Kinder betreuen will, muss ein amtliches Führungszeugnis einreichen.",
+          "answer": "R"
+        },
+        {
+          "no": "54",
+          "text": "Lammers bewältigt die Koordination nach wie vor ohne jede Unterstützung.",
+          "answer": "F"
+        },
+        {
+          "no": "55",
+          "text": "Lammers wünscht sich einen höheren Männeranteil unter den Mitgliedern.",
+          "answer": "R"
+        }
+      ]
     },
-    {
-     "no": "8",
-     "stem": "Seit 2022 müssen Händler",
-     "options": {
-      "a": "offenlegen, wie sie die Echtheit prüfen.",
-      "b": "positive Bewertungen mit Gutscheinen belohnen.",
-      "c": "Bewertungen von künstlicher Intelligenz prüfen lassen."
-     },
-     "answer": "a"
-    },
-    {
-     "no": "9",
-     "stem": "Nach Ansicht von Ines Walcher",
-     "options": {
-      "a": "sollte man Bestnoten grundsätzlich ignorieren.",
-      "b": "schaden schon wenige kritische Stimmen dem Ruf eines Angebots.",
-      "c": "verrät der Umgang mit Kritik viel über einen Händler."
-     },
-     "answer": "c"
-    },
-    {
-     "no": "10",
-     "stem": "Walcher rät,",
-     "options": {
-      "a": "nur besonders gute Erfahrungen zu teilen.",
-      "b": "Bewertungen nur als eine von mehreren Quellen zu nutzen.",
-      "c": "sich bei teuren Geräten allein auf Warentests zu verlassen."
-     },
-     "answer": "b"
+    "t3": {
+      "instruction": "Sie hören jetzt fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. Sie hören diese Ansagen nur einmal. Entscheiden Sie beim Hören, ob die Aussagen 56–60 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 56–60. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+      "readNote": "",
+      "items": [
+        {
+          "no": "56",
+          "text": "Ein online reserviertes Wunschkennzeichen bleibt sechs Monate lang für Sie blockiert.",
+          "answer": "F"
+        },
+        {
+          "no": "57",
+          "text": "Nach Spielende verkehrt ab dem Parkplatz Nord lediglich ein Bus um 22.15 Uhr.",
+          "answer": "F"
+        },
+        {
+          "no": "58",
+          "text": "Ein Zwölfjähriger darf im Schnupperkurs nur zusammen mit einer volljährigen Person klettern.",
+          "answer": "R"
+        },
+        {
+          "no": "59",
+          "text": "Holt Frau Szabó die Sendung erst am Mittwoch ab, muss sie sich an Herrn Kaya aus dem Erdgeschoss wenden.",
+          "answer": "R"
+        },
+        {
+          "no": "60",
+          "text": "Regnet es am Freitag, entfällt die Kinovorstellung im Park ersatzlos.",
+          "answer": "F"
+        }
+      ]
     }
-   ]
   },
-  "t3": {
-   "instruction": "Lesen Sie zuerst die zehn Situationen (11–20) und dann die zwölf Info-Texte (a–l). Welcher Info-Text passt zu welcher Situation? Sie können jeden Info-Text nur einmal verwenden. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 11–20. Manchmal gibt es keine Lösung. Markieren Sie dann x.",
-   "items": [
-    {
-     "no": "11",
-     "text": "Ein Bekannter will beim Online-Banking nicht auf Betrüger hereinfallen.",
-     "answer": "c"
-    },
-    {
-     "no": "12",
-     "text": "Ein Kollege möchte seine Tochter (11) fürs Programmieren begeistern.",
-     "answer": "k"
-    },
-    {
-     "no": "13",
-     "text": "Eine Freundin will mit ihrem Handy bessere Fotos machen.",
-     "answer": "h"
-    },
-    {
-     "no": "14",
-     "text": "Eine Nachbarin möchte übrig gebliebene Lebensmittel sinnvoll weitergeben.",
-     "answer": "a"
-    },
-    {
-     "no": "15",
-     "text": "Ihr Großvater (80) kommt mit seinem neuen Smartphone nicht zurecht.",
-     "answer": "j"
-    },
-    {
-     "no": "16",
-     "text": "Ihr Neffe braucht für die Schule einen günstigen Laptop.",
-     "answer": "d"
-    },
-    {
-     "no": "17",
-     "text": "Ihr Vater hat Diabetes und will seine Ernährung umstellen.",
-     "answer": "i"
-    },
-    {
-     "no": "18",
-     "text": "Ihre Schwester möchte lernen, ihr Brot selbst zu backen.",
-     "answer": "e"
-    },
-    {
-     "no": "19",
-     "text": "Ihre Tochter (9) möchte in den Sommerferien kochen lernen.",
-     "answer": "f"
-    },
-    {
-     "no": "20",
-     "text": "Sie möchten an einem einzigen Abend lernen, Sushi zu rollen.",
-     "answer": "x"
-    }
-   ],
-   "infos": [
-    {
-     "letter": "a",
-     "header": "LEBENSMITTELRETTER WESTEND E. V.",
-     "tag": "",
-     "title": "Zu gut für die Tonne",
-     "subtitle": "",
-     "facts": [],
-     "body": [
-      "In deutschen Haushalten landen jedes Jahr Millionen Tonnen genießbarer Lebensmittel im Müll. Das wollen wir ändern. In unseren Fairteiler vor dem Gemeindehaus kann jeder legen, was er selbst nicht mehr braucht – Obst, Gemüse, Brot oder ungeöffnete Packungen. Und jeder darf sich kostenlos bedienen. Nicht erlaubt sind rohes Fleisch, Fisch und Speisen, deren Verbrauchsdatum abgelaufen ist. Wer regelmäßig mithelfen möchte, etwa beim Abholen von Brot aus Bäckereien, ist bei unserem monatlichen Treffen herzlich willkommen."
-     ],
-     "footer": "Fairteiler: Kirchplatz 3 · Treffen jeden ersten Montag, 19 Uhr"
-    },
-    {
-     "letter": "b",
-     "header": "PFEFFER & SALZ",
-     "tag": "",
-     "title": "Japanische Küche",
-     "subtitle": "",
-     "facts": [],
-     "body": [
-      "Von der Misosuppe über Tempura bis zum perfekt gerollten Sushi: An sechs Abenden führt Sie unser Koch Kenji Morimoto in die Geheimnisse der japanischen Küche ein. Sie lernen, Reis richtig zu würzen, Fisch fachgerecht zu schneiden und die Zutaten kunstvoll anzurichten. Da die Abende aufeinander aufbauen, kann der Kurs nur vollständig gebucht werden; einzelne Termine bieten wir nicht an. Zutaten, Messer und Schürzen stellen wir. Der Kurs beginnt am 4. März und findet jeweils mittwochs von 18 bis 21 Uhr statt."
-     ],
-     "footer": "Kochschule Pfeffer & Salz · 290 € pro Person · www.pfeffer-und-salz.de"
-    },
-    {
-     "letter": "c",
-     "header": "",
-     "tag": "12. OKTOBER",
-     "title": "Sicher bezahlen im Netz",
-     "subtitle": "",
-     "facts": [
-      "Do, 18 Uhr"
-     ],
-     "body": [
-      "Gefälschte Bank-E-Mails, betrügerische Online-Shops, gestohlene Passwörter: Wer im Internet einkauft oder seine Bankgeschäfte online erledigt, sollte die häufigsten Tricks der Betrüger kennen. In unserem Vortrag zeigt eine Expertin der Verbraucherzentrale, woran man unseriöse Angebote erkennt, wie ein sicheres Passwort aussieht und was zu tun ist, wenn doch einmal Geld verschwunden ist. Im Anschluss beantwortet sie Ihre Fragen. Der Eintritt ist frei, eine Anmeldung ist nicht nötig."
-     ],
-     "footer": "Volkshochschule · Saal 2 · Am Stadtgraben 11"
-    },
-    {
-     "letter": "d",
-     "header": "",
-     "tag": "SCHULE UND TECHNIK",
-     "title": "Zweites Leben für Firmenlaptops",
-     "subtitle": "",
-     "facts": [],
-     "body": [
-      "Viele Firmen tauschen ihre Computer nach wenigen Jahren aus, obwohl die Geräte noch einwandfrei funktionieren. Der Verein Digitale Chancen sammelt solche Laptops, löscht alle Daten sicher und spielt neue Software auf. Anschließend gibt er sie für 50 Euro an Schülerinnen und Schüler ab – deutlich günstiger als im Handel. Jedes Gerät hat ein Jahr Garantie. Wer eine Bescheinigung seiner Schule mitbringt, kann sich in der Werkstatt des Vereins ein Gerät aussuchen. Bei Unternehmen, die Laptops spenden möchten, holt der Verein die Geräte kostenlos ab."
-     ],
-     "footer": "Werkstatt: Gutenbergstraße 20 · Di und Do 15–18 Uhr"
-    },
-    {
-     "letter": "e",
-     "header": "Sauerteig & Co.",
-     "tag": "BACKKURS FÜR EINSTEIGER",
-     "title": "",
-     "subtitle": "",
-     "facts": [],
-     "body": [
-      "Knusprige Kruste, saftige Krume – und ganz ohne Zusatzstoffe: In unserem Backkurs zeigt Ihnen Bäckermeisterin Gerda Holm, wie Sie einen eigenen Sauerteig ansetzen und daraus kräftige Roggen- und Dinkelbrote backen. Sie kneten, formen und backen selbst und nehmen am Ende zwei Brote und etwas Sauerteig mit nach Hause, damit Sie gleich weitermachen können. Vorkenntnisse sind nicht erforderlich. Der Kurs findet an einem Samstag von 9 bis 15 Uhr statt; ein Mittagessen ist inbegriffen."
-     ],
-     "footer": "Backstube Holm · Tel. 0911 / 38 45 17"
-    },
-    {
-     "letter": "f",
-     "header": "",
-     "tag": "",
-     "title": "Kleine Köche",
-     "subtitle": "Ferienkochkurs für Kinder",
-     "facts": [],
-     "body": [
-      "Pizza mit selbst gemachtem Teig, bunte Gemüsespieße und zum Nachtisch Obstsalat: In unserem Ferienkurs bereiten Kinder zwischen acht und zwölf Jahren an fünf Vormittagen einfache Gerichte zu und essen sie anschließend gemeinsam. Nebenbei lernen sie, sicher mit Messer und Herd umzugehen, und erfahren, woher unsere Lebensmittel kommen. Der Kurs findet in der ersten und in der dritten Woche der Sommerferien statt, jeweils von 9 bis 12.30 Uhr. Eltern müssen nicht dabei sein. Bitte eine Schürze mitbringen!"
-     ],
-     "footer": "Familienzentrum am Park · Tel. 0911 / 21 76 30"
-    },
-    {
-     "letter": "g",
-     "header": "PC-DOKTOR BERISHA",
-     "tag": "",
-     "title": "Computerhilfe zu Hause",
-     "subtitle": "",
-     "facts": [],
-     "body": [
-      "Der Drucker streikt, das WLAN bricht ständig ab oder der neue Computer soll eingerichtet werden? Wir kommen zu Ihnen nach Hause und lösen das Problem vor Ort – meist noch am selben Tag. Auf Wunsch übertragen wir auch Ihre Fotos und Dokumente vom alten auf das neue Gerät und zeigen Ihnen, wie Sie regelmäßig Sicherungskopien anlegen. Eine Stunde kostet 45 Euro, die Anfahrt innerhalb der Stadt ist kostenlos. Bitte beachten Sie: Smartphones und Tablets gehören nicht zu unserem Angebot."
-     ],
-     "footer": "Tel. 0911 / 44 90 12 · Mo–Sa 8–20 Uhr"
-    },
-    {
-     "letter": "h",
-     "header": "",
-     "tag": "",
-     "title": "FOTOS MIT DEM HANDY",
-     "subtitle": "",
-     "facts": [],
-     "body": [
-      "Ihr Smartphone kann mehr, als Sie denken! In unserem Kurs lernen Sie, wie Sie Licht und Perspektive geschickt nutzen, Menschen natürlich in Szene setzen und Ihre Bilder anschließend mit kostenlosen Apps bearbeiten. Nach einer kurzen Einführung im Kursraum geht es hinaus in die Altstadt, wo Sie das Gelernte sofort ausprobieren. Geeignet für alle Altersgruppen und für jedes Handy mit Kamera. Drei Samstage, jeweils von 10 bis 13 Uhr; die Teilnahme kostet 75 Euro."
-     ],
-     "footer": "FOTOSCHULE BLENDE 8 · BURGSTRASSE 9"
-    },
-    {
-     "letter": "i",
-     "header": "",
-     "tag": "",
-     "title": "Ernährung, die Ihnen guttut",
-     "subtitle": "",
-     "facts": [],
-     "body": [
-      "Sie haben Diabetes, Bluthochdruck oder zu hohe Cholesterinwerte und möchten Ihre Ernährung umstellen, wissen aber nicht, wo Sie anfangen sollen? In persönlichen Gesprächen entwickeln wir gemeinsam einen Plan, der zu Ihrem Alltag und Ihrem Geschmack passt – ganz ohne strenge Verbote. Sie lernen, Etiketten richtig zu lesen und gesund einzukaufen. Legen Sie eine ärztliche Bescheinigung vor, übernehmen die meisten Krankenkassen einen großen Teil der Kosten."
-     ],
-     "footer": "Nadine Friedrichs · Diätassistentin · Tel. 0911 / 56 03 88"
-    },
-    {
-     "letter": "j",
-     "header": "",
-     "tag": "",
-     "title": "Handy-Sprechstunde",
-     "subtitle": "für alle ab 65",
-     "facts": [],
-     "body": [
-      "WhatsApp einrichten, Fotos an die Enkel schicken oder einfach nur die Schrift größer stellen: Schülerinnen und Schüler des Dürer-Gymnasiums helfen Ihnen geduldig bei allen Fragen rund um Smartphone und Tablet. Bringen Sie einfach Ihr Gerät und, falls vorhanden, Ihre Zugangsdaten mit. Wir treffen uns jeden Donnerstag von 15 bis 17 Uhr in der Stadtbibliothek. Kosten entstehen keine – über ein Stück Kuchen freuen sich unsere Helfer aber immer!"
-     ],
-     "footer": "Stadtbibliothek, 1. Stock"
-    },
-    {
-     "letter": "k",
-     "header": "",
-     "tag": "",
-     "title": "CODE CLUB – PROGRAMMIEREN FÜR KIDS",
-     "subtitle": "",
-     "facts": [],
-     "body": [
-      "Wie bringt man einen Roboter dazu, einem Hindernis auszuweichen? Im Code Club lernen Kinder und Jugendliche zwischen 10 und 14 Jahren spielerisch, eigene Spiele und kleine Programme zu schreiben. Vorkenntnisse braucht niemand, Laptops und Roboter stellen wir. Die Gruppen sind klein, damit sich unsere Informatikstudierenden um jedes Kind kümmern können. Die Teilnahme ist kostenlos."
-     ],
-     "footer": "Jeden zweiten Freitag, 16 Uhr · Informatikgebäude der Universität · Anmeldung: www.codeclub-kids.de"
-    },
-    {
-     "letter": "l",
-     "header": "",
-     "tag": "Neu im Programm",
-     "title": "Vegan um die Welt",
-     "subtitle": "",
-     "facts": [],
-     "body": [
-      "Jeden Freitag kochen wir gemeinsam Gerichte ohne tierische Produkte – und reisen dabei jedes Mal in ein anderes Land: indisches Curry, mexikanische Bohnenpfanne, italienische Pasta mit Linsen-Bolognese oder marokkanischer Couscous. Sie lernen, wie Sie Fleisch, Milch und Eier ersetzen, ohne auf Geschmack zu verzichten. Jeder Abend ist einzeln buchbar und kostet 35 Euro inklusive Zutaten und Getränken. Auch wer nicht vegan lebt, ist herzlich willkommen!"
-     ],
-     "footer": "Stadtteilküche Mitte · Anmeldung bis Mittwoch"
-    }
-   ]
+  "schreiben": {
+    "intro": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Entscheiden Sie schnell, denn die zur Verfügung stehende Zeit ist begrenzt auf 30 Minuten!",
+    "tasks": [
+      {
+        "letter": "A",
+        "kind": "Bitte um Informationen",
+        "lead": "Sie lesen im Internet folgende Anzeige:",
+        "ad": {
+          "header": "Fahrschule Tempo",
+          "tag": "FÜHRERSCHEIN KLASSE B",
+          "title": "In drei Wochen sicher ans Steuer.",
+          "subtitle": "",
+          "facts": [
+            "Theorieunterricht an zehn Abenden oder kompakt an zwei Wochenenden",
+            "Fahrstunden auch frühmorgens und samstags",
+            "Fahrzeuge mit Schalt- oder Automatikgetriebe",
+            "Lern-App für die Theorieprüfung inklusive",
+            "Ratenzahlung möglich"
+          ],
+          "body": [
+            "Sie brauchen den Führerschein schnell – für den neuen Job, die Ausbildung oder einfach für mehr Freiheit im Alltag? In unserem Intensivkurs lernen Sie Theorie und Praxis in kurzer Zeit, ohne auf Qualität zu verzichten."
+          ],
+          "footer": "Jetzt beraten lassen! · info@fahrschule-tempo.de"
+        },
+        "situation": [
+          "Sie haben eine neue Stelle in Aussicht, für die Sie einen Führerschein brauchen. Sie interessieren sich für den Intensivkurs und möchten mehr darüber erfahren. Schreiben Sie eine E-Mail an die Fahrschule Tempo."
+        ],
+        "choice": [
+          "Behandeln Sie darin entweder",
+          "a) drei der folgenden Punkte oder",
+          "b) zwei der folgenden Punkte und einen weiteren Aspekt Ihrer Wahl."
+        ],
+        "points": [
+          "Beschreiben Sie Ihre Situation und Ihre Vorkenntnisse.",
+          "Fragen Sie nach dem genauen Ablauf des Intensivkurses.",
+          "Erkundigen Sie sich nach den Kosten und der Ratenzahlung.",
+          "Fragen Sie, ob der Unterricht auch in anderen Sprachen möglich ist."
+        ],
+        "closing": "Überlegen Sie sich vor dem Schreiben eine passende Reihenfolge der Punkte, einen passenden Betreff, eine passende Anrede, Einleitung und einen passenden Schluss. Schreiben Sie mindestens 150 Wörter.",
+        "words": 150,
+        "model": {
+          "label": "Beispiel für Variante b): zwei Leitpunkte und ein eigener Aspekt (ca. 170 Wörter)",
+          "text": "Betreff: Fragen zu Ihrem Intensivkurs\n\nSehr geehrte Damen und Herren,\n\nauf Ihrer Internetseite habe ich die Anzeige für Ihren Intensivkurs gelesen und hätte dazu einige Fragen.\n\nAb Januar werde ich als Pflegehelferin bei einem ambulanten Pflegedienst arbeiten und muss meine Patientinnen und Patienten dann mit dem Auto besuchen. In meinem Heimatland Kolumbien habe ich zwar schon einige Fahrstunden genommen, aber nie eine Prüfung abgelegt. Theoretische Kenntnisse habe ich daher kaum, und im Straßenverkehr fühle ich mich noch unsicher.\n\nKönnten Sie mir bitte erklären, wie der Intensivkurs genau abläuft? Mich würde vor allem interessieren, wie viele Fahrstunden Ihre Schülerinnen und Schüler in drei Wochen normalerweise brauchen und wann die theoretische und die praktische Prüfung stattfinden.\n\nDa ich bis Ende Dezember noch vormittags in einem Café arbeite, käme für mich nur Unterricht am Nachmittag oder am Wochenende infrage. Wäre es möglich, die Fahrstunden entsprechend zu legen? Außerdem würde ich gern wissen, ob ich vor der Anmeldung eine Probestunde machen kann.\n\nÜber eine baldige Antwort würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\nLucía Herrera"
+        }
+      },
+      {
+        "letter": "B",
+        "kind": "Beschwerde",
+        "lead": "Sie lesen folgende Anzeige:",
+        "ad": {
+          "header": "",
+          "tag": "NETZPLUS · GLASFASER FÜR IHR ZUHAUSE",
+          "title": "Endlich schnelles Internet",
+          "subtitle": "",
+          "facts": [
+            "Anschluss innerhalb von vier Wochen",
+            "Installation durch unsere Techniker – kostenlos und zum Wunschtermin",
+            "Service-Hotline rund um die Uhr erreichbar",
+            "die ersten sechs Monate nur 19,99 € im Monat",
+            "keine Kosten vor der Freischaltung"
+          ],
+          "body": [
+            "Surfen, streamen und im Homeoffice arbeiten – mit bis zu 1.000 Mbit/s. Wir verlegen die Glasfaser bis in Ihre Wohnung."
+          ],
+          "footer": "NetzPlus Kundenservice · service@netzplus-glasfaser.de"
+        },
+        "situation": [
+          "Sie haben bei NetzPlus einen Glasfaseranschluss bestellt. Leider lief dabei vieles anders als versprochen. Schreiben Sie eine Beschwerde an NetzPlus."
+        ],
+        "choice": [
+          "Behandeln Sie darin entweder",
+          "a) drei der folgenden Punkte oder",
+          "b) zwei der folgenden Punkte und einen weiteren Aspekt Ihrer Wahl."
+        ],
+        "points": [
+          "Beschreiben Sie, welche Erwartungen die Anzeige bei Ihnen geweckt hat.",
+          "Legen Sie dar, was bei der Bestellung und der Installation schiefgelaufen ist.",
+          "Berichten Sie, wie Sie versucht haben, den Kundenservice zu erreichen.",
+          "Formulieren Sie, welche Lösung Sie nun erwarten."
+        ],
+        "closing": "Überlegen Sie sich vor dem Schreiben eine passende Reihenfolge der Punkte, einen passenden Betreff, eine passende Anrede, Einleitung und einen passenden Schluss. Schreiben Sie mindestens 150 Wörter.",
+        "words": 150,
+        "model": {
+          "label": "Beispiel für Variante a): drei der vier Leitpunkte (ca. 180 Wörter)",
+          "text": "Betreff: Beschwerde über meinen Glasfaseranschluss (Kundennummer 5821904)\n\nSehr geehrte Damen und Herren,\n\nAnfang Juni habe ich bei Ihnen einen Glasfaseranschluss bestellt. Was ich seitdem erlebt habe, hat mit Ihrer Werbung leider wenig zu tun.\n\nStatt innerhalb von vier Wochen wurde mein Anschluss erst nach drei Monaten freigeschaltet. Für zwei vereinbarte Technikertermine habe ich mir jeweils einen Tag Urlaub genommen, doch beide Male ist niemand erschienen – ohne jede Absage. Trotzdem haben Sie mir bereits ab Juli die Monatsgebühr abgebucht, obwohl Ihre Anzeige verspricht, dass vor der Freischaltung keine Kosten entstehen.\n\nIhre angeblich rund um die Uhr erreichbare Hotline habe ich in dieser Zeit mehr als zehnmal angerufen. Meistens hing ich eine halbe Stunde in der Warteschleife; wenn ich doch einmal durchkam, wurde ich vertröstet oder so lange weiterverbunden, bis die Verbindung abbrach. Auf meine beiden E-Mails habe ich bis heute keine Antwort erhalten.\n\nIch fordere Sie daher auf, mir die zu Unrecht abgebuchten Gebühren von 39,98 Euro umgehend zu erstatten und mich für die beiden versäumten Termine angemessen zu entschädigen. Falls ich bis zum 30. September keine Antwort erhalte, sehe ich mich gezwungen, die Schlichtungsstelle der Bundesnetzagentur einzuschalten.\n\nMit freundlichen Grüßen\nMarek Dvořák"
+        }
+      }
+    ]
   },
-  "sb1": {
-   "instruction": "Lesen Sie den folgenden Text und entscheiden Sie, welches Wort (a, b oder c) in die jeweilige Lücke passt. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 21–30.",
-   "paragraphs": [
-    "Liebe Katharina,",
-    "vielen Dank für deine Einladung zu deinem vierzigsten Geburtstag! Ich habe mich riesig darüber gefreut, {{21}} leider muss ich dir absagen. Ausgerechnet an diesem Wochenende findet in Nürnberg eine Messe statt, für {{22}} Vorbereitung ich seit Monaten verantwortlich bin. Hätte ich das früher gewusst, {{23}} ich mir natürlich freigenommen.",
-    "{{24}} ich schon nicht selbst kommen kann, möchte ich wenigstens etwas zum Gelingen deiner Feier beitragen. Du hattest doch erwähnt, dass du noch jemanden suchst, der Fotos macht. Mein Bruder Felix fotografiert leidenschaftlich gern und hat sich sofort {{25}} bereit erklärt. Er würde die Bilder hinterher auch bearbeiten, {{26}} du sie an deine Gäste schicken kannst. Ruf ihn am besten direkt an, dann könnt ihr alles Weitere in Ruhe besprechen.",
-    "Ein kleines Geschenk ist übrigens schon unterwegs. Was es ist, verrate ich noch nicht – nur so viel: Es hat mit unserer Reise nach Lissabon zu tun, {{27}} wir uns vor zwanzig Jahren kennengelernt haben. Das Paket ist gestern abgeschickt {{28}} und müsste also rechtzeitig bei dir ankommen.",
-    "Wie wäre es, wenn wir uns stattdessen in den Herbstferien treffen? Ich könnte {{29}} zu dir nach Kassel kommen, oder du besuchst mich in Kiel. Ich freue mich schon darauf, endlich wieder einmal einen ganzen Tag mit dir zu verbringen, {{30}} ständig auf die Uhr schauen zu müssen.",
-    "Feier schön und lass dich an deinem großen Tag ordentlich verwöhnen!",
-    "Deine Svenja"
-   ],
-   "items": [
-    {
-     "no": "21",
-     "options": {
-      "a": "aber",
-      "b": "denn",
-      "c": "sondern"
-     },
-     "answer": "a"
-    },
-    {
-     "no": "22",
-     "options": {
-      "a": "dem",
-      "b": "deren",
-      "c": "dessen"
-     },
-     "answer": "b"
-    },
-    {
-     "no": "23",
-     "options": {
-      "a": "hätte",
-      "b": "wäre",
-      "c": "würde"
-     },
-     "answer": "a"
-    },
-    {
-     "no": "24",
-     "options": {
-      "a": "Als",
-      "b": "Wann",
-      "c": "Wenn"
-     },
-     "answer": "c"
-    },
-    {
-     "no": "25",
-     "options": {
-      "a": "darauf",
-      "b": "davon",
-      "c": "dazu"
-     },
-     "answer": "c"
-    },
-    {
-     "no": "26",
-     "options": {
-      "a": "damit",
-      "b": "dass",
-      "c": "um"
-     },
-     "answer": "a"
-    },
-    {
-     "no": "27",
-     "options": {
-      "a": "auf dem",
-      "b": "auf der",
-      "c": "auf die"
-     },
-     "answer": "b"
-    },
-    {
-     "no": "28",
-     "options": {
-      "a": "geworden",
-      "b": "werden",
-      "c": "worden"
-     },
-     "answer": "c"
-    },
-    {
-     "no": "29",
-     "options": {
-      "a": "entweder",
-      "b": "sowohl",
-      "c": "weder"
-     },
-     "answer": "a"
-    },
-    {
-     "no": "30",
-     "options": {
-      "a": "damit",
-      "b": "ohne",
-      "c": "um"
-     },
-     "answer": "b"
+  "notes": "Überarbeitung auf B2+-Niveau (2026-11): Alle Lesetexte (LV 1–3, Sprachbausteine 1 und 2) sind auf einen LIX von etwa 55 umgeschrieben, mit gehobenerem Wortschatz, längeren Satzgefügen und Nominalstil; Themen und Lösungsverteilung bleiben im Kern erhalten. LV 1: neue Überschriften mit Paraphrase und Beinahe-Distraktoren (Lösungen h, e, a, c, j). LV 2: Optionen paraphrasiert und neu angeordnet (a, b, c, b, a). LV 3: Situationen paraphrasiert, zweite x-Lösung (12: Kind zu jung für den Code Club). Sprachbausteine 1: neuer halbformeller Brief mit gemischten Itemtypen (Partikel, Form, Lexik, Rektion u. a.); Sprachbausteine 2: Wortkasten mit vier Funktionswörtern als Lösung (ZUMAL, ANGESICHTS, DARAUF, SOBALD). Hören: alle 20 Aussagen paraphrasiert, Wahrheitswerte unverändert. Schreiben unverändert. Neu: Schlüssel lesen.sb1.types, lesen.sb2.types und kommentar.",
+  "kommentar": {
+    "intro": "Fallen und Distraktoren je Aufgabe. Anspruchsniveau B2+: Alle Lesetexte liegen bei einem LIX von etwa 55; Aufgaben, Situationen und Hör-Aussagen paraphrasieren den Text konsequent (Synonyme, Nominalisierung, Perspektivwechsel), während die Distraktoren gezielt Textwörter aufgreifen, aber in einem Detail falsch sind.",
+    "l3_intro": "Zwei Themenfelder (Kochen und Ernährung, Computer und Technik) mit ähnlichen Angeboten; zwei x-Lösungen (12, 20), vier Info-Texte (b, g, k, l) bleiben übrig. Jede Beinahe-Lösung scheitert an genau einer Bedingung (Alter, Buchungsart, Gerätetyp).",
+    "items": {
+      "1": "„entscheiden die Bürgerinnen und Bürger im Herbst per Abstimmung“ (Wählerschaft hat das letzte Wort), die Strecke führt „über den Fluss“. f greift „Fahrschein“ auf, der Text sagt aber: „Einen gesonderten Fahrschein bräuchte niemand“.",
+      "2": "Studium ohne Abitur nach Ausbildung und Berufsjahren (Reifezeugnis = Abitur, Hörsaal = Hochschule). d ist das Gegenteil: Meister dürfen sich „für jeden Studiengang bewerben“; beschränkt sind nur die übrigen Berufstätigen.",
+      "3": "Betriebe „pflegen gezielt Kontakt zu Ehemaligen“, Stoll kehrt nach vier Jahren zurück (Abschied auf Zeit). b übertreibt: „Wahllos stellen die Firmen Ehemalige allerdings keineswegs wieder ein.“",
+      "4": "Der Landwirt erzeugt Strom „und erntet darunter weiterhin Äpfel“ (Doppelnutzung derselben Fläche). g kehrt das Detail um: „Zwar fällt die Apfelernte etwas geringer aus“.",
+      "5": "Briefe mit „kurze Sätze, geläufige Wörter, das Wichtigste zuerst“ (verständliche Post). i ist das Gegenteil: „Rechtlich anfechtbar seien die neuen Bescheide keineswegs“, eine Juristin prüft jeden Text.",
+      "6": "„ein Umstand, den keine einzige Bewertung erwähnt hatte“ (Baustelle ab sechs Uhr). b ist das Gegenteil, c wird nicht gesagt (Werbung nur als allgemeiner Vergleich).",
+      "7": "Es äußern sich vor allem Begeisterte und Verärgerte, der Durchschnitt „bildet folglich vor allem die Extreme ab“; a: Zufriedene schweigen; c: „erstaunlich wenig dazwischen“.",
+      "8": "Händler müssen offenlegen, „ob und auf welche Weise sie sicherstellen“, dass Bewertungen echt sind; a ist unzulässig, b: KI nutzen die Fälscher.",
+      "9": "„Besonders aufschlussreich sei, wie ein Händler auf Beanstandungen reagiere“; a ist das Gegenteil („Erst ein paar kritische Stimmen machen ein Angebot glaubwürdig“), c rät sie nicht.",
+      "10": "„nur als eine Informationsquelle unter mehreren“; c: Warentests nur „zusätzlich“; b: auch Erfahrungen, die „keineswegs spektakulär“ waren.",
+      "11": "Vortrag über „die gängigsten Maschen der Betrüger“ beim Online-Banking; g richtet Computer ein, schützt aber nicht vor Betrug.",
+      "12": "x: Der Code Club (k) nimmt erst Kinder „zwischen 10 und 14 Jahren“ auf; f passt zum Alter, ist aber ein Kochkurs.",
+      "13": "Kurs zu Licht und Perspektive „mit dem Handy“; j ist eine Sprechstunde nur „für alle ab 65“.",
+      "14": "In den Fairteiler „darf jeder legen, was er selbst nicht mehr verwerten kann“; l ist ein Kochkurs.",
+      "15": "Hilfe „rund um Smartphone und Tablet“ für Ältere; g: „Smartphones und Tablets gehören ausdrücklich nicht zu unserem Leistungsangebot.“",
+      "16": "Laptops „für 50 Euro an Schülerinnen und Schüler“; g verkauft keine Geräte.",
+      "17": "Beratung bei „Diabetes, Bluthochdruck oder erhöhten Cholesterinwerten“ (zuckerkrank = Diabetes); l ist vegan, aber keine Beratung.",
+      "18": "„einen eigenen Sauerteig ansetzen“ und Brote backen; b ist japanische Küche.",
+      "19": "Ferienkurs für „Kinder zwischen acht und zwölf Jahren“; k ist kein Kochkurs, l richtet sich nicht an Kinder.",
+      "20": "x: Sushi gibt es nur in b, dort ist aber „ausschließlich eine Buchung des gesamten Kurses möglich“; l ist einzeln buchbar, aber vegan und nicht japanisch.",
+      "21": "ja (Partikel: Hinweis auf Bekanntes, „wie Sie ja wissen“); denn steht als Partikel nur in Fragen, mal nur in Aufforderungen.",
+      "22": "deren (Relativpronomen im Genitiv, Bezug: die Fachtagung); dessen wäre maskulin/neutral, denen Dativ Plural.",
+      "23": "hätte (Konjunktiv II der Vergangenheit: hätte … Urlaub genommen; nehmen bildet das Perfekt mit haben).",
+      "24": "leisten (Kollokation: einen Beitrag leisten); einen Beitrag „machen“ oder „tun“ ist nicht idiomatisch.",
+      "25": "geplanten (Genitiv feminin nach unserer: schwache Endung -en).",
+      "26": "dazu (sich zu etwas bereit erklären).",
+      "27": "damit (Zweck bei verschiedenen Subjekten: er bearbeitet, Sie stellen zur Verfügung); um … zu nur mit Infinitiv.",
+      "28": "nach (sich nach etwas richten).",
+      "29": "der (während + Genitiv: während der Feier).",
+      "30": "worden (Perfekt Passiv: ist … abgeschickt worden).",
+      "31": "ANGEWIESEN (auf etwas angewiesen sein); ABHÄNGIG verlangt von.",
+      "32": "ZUSÄTZLICH (Adverb: verschärft sich zusätzlich).",
+      "33": "BEDARF (der Bedarf steigt); VERZICHT ergibt keinen Sinn.",
+      "34": "ZUMAL (Konnektor: fügt einen zusätzlichen, gewichtigen Grund an, Verb am Ende); SEITDEM und SOBALD sind temporal und ergeben hier keinen Sinn.",
+      "35": "HALTBAR (Präparate sind haltbar); GÜLTIG passt zu Ausweisen und Fahrkarten.",
+      "36": "ANGESICHTS (Präposition mit Genitiv: angesichts der knappen Bestände).",
+      "37": "VORAUSSETZUNG (wichtigste Voraussetzung, feminin); VERZICHT ist maskulin (wichtigster).",
+      "38": "DARAUF (Pronominaladverb als Korrelat zur Infinitivgruppe: darauf achten, ausreichend zu trinken); ohne Korrelat fehlt die Präposition auf.",
+      "39": "GEWINNEN (Menschen für etwas gewinnen); ZÄHLEN verlangt auf.",
+      "40": "SOBALD (Nachricht, sobald das Blut verwendet wird). Ungenutzt: ABHÄNGIG, GÜLTIG, SEITDEM, VERZICHT, ZÄHLEN.",
+      "41": "+ Die Anmeldung „auch online“, man muss sich „nicht mehr persönlich im Bürgeramt anmelden“; die Ausnahme gilt nur für den Zuzug aus dem Ausland.",
+      "42": "– Verdi „kritisiert das Modell, weil sie Arbeitsplätze in Gefahr sieht“.",
+      "43": "+ Die Finderin will das Bild zurückgeben, „ohne einen Finderlohn zu verlangen“.",
+      "44": "– „Mit nennenswertem Regen rechnen die Meteorologen frühestens in zwei Wochen.“",
+      "45": "– Neue Stationen „erstmals auch in den Außenbezirken“. Die Kürbis-Meldung hat keine Aufgabe.",
+      "46": "+ Die größte Gruppe ist „zwischen dreißig und fünfundvierzig“; die Vermutung der Moderatorin (Rentner) wird korrigiert.",
+      "47": "– Die Stunden werden „bei einem ganz anderen Mitglied“ eingelöst.",
+      "48": "– „Jede Stunde zählt gleich, egal, was man macht.“",
+      "49": "+ „Überraschend oft wird außerdem einfach Gesellschaft gesucht“ (jemand, der zuhört).",
+      "50": "+ „Viele helfen gern, trauen sich aber nicht, selbst um etwas zu bitten.“",
+      "51": "– „jeder startet mit fünf Stunden Guthaben“.",
+      "52": "– „Deshalb vermitteln wir keine größeren Handwerksaufträge“.",
+      "53": "+ Wer mit Kindern zu tun hat, „muss ein polizeiliches Führungszeugnis vorlegen“.",
+      "54": "– „Seit letztem Jahr bezahlt die Stadt aber eine halbe Stelle für die Koordination.“",
+      "55": "+ „Mehr Männer, ehrlich gesagt.“",
+      "56": "– Die Reservierung „gilt neunzig Tage“, also drei statt sechs Monate.",
+      "57": "– Der erste Bus fährt um 22.15 Uhr, danach „alle zehn Minuten“ bis Mitternacht.",
+      "58": "+ „Kinder und Jugendliche unter vierzehn klettern allerdings nur in Begleitung eines Erwachsenen.“",
+      "59": "+ Frau Hahn ist nur „bis Dienstagabend“ da; danach liegt das Paket bei Herrn Kaya im Erdgeschoss.",
+      "60": "– „Bei Regen wird der Film in der Aula der Pestalozzischule gezeigt“."
     }
-   ]
-  },
-  "sb2": {
-   "instruction": "Lesen Sie den folgenden Text und entscheiden Sie, welches Wort aus dem Kasten (a–o) in die Lücken 31–40 passt. Sie können jedes Wort im Kasten nur einmal verwenden. Nicht alle Wörter passen in den Text. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 31–40.",
-   "title": "Knappe Reserven im Sommer",
-   "paragraphs": [
-    "Jeden Tag werden in Deutschland rund 15.000 Blutspenden benötigt – für Unfallopfer, für Operationen und vor allem für Menschen mit Krebs, die während ihrer Behandlung regelmäßig auf fremdes Blut {{31}} sind. Ersetzen lässt sich Blut bis heute nicht, denn künstlich herstellen kann man es nicht. Doch nur etwa drei Prozent der Bevölkerung spenden regelmäßig, obwohl rund ein Drittel dafür infrage käme.",
-    "In den Sommermonaten verschärft sich die Lage {{32}}. Viele Stammspender sind im Urlaub, und bei großer Hitze fühlen sich manche nicht fit genug für eine Spende. Zudem fallen in den Ferien viele Spendetermine in Schulen weg. Gleichzeitig steigt der {{33}}, weil sich in der Ferienzeit mehr Unfälle ereignen. Vorräte für schlechte Zeiten lassen sich kaum anlegen, denn die wichtigsten Blutpräparate sind nur wenige Wochen {{34}}. Die Blutspendedienste starten deshalb jedes Jahr vor den Ferien einen {{35}} an die Bevölkerung.",
-    "Spenden kann grundsätzlich jeder, der mindestens 18 Jahre alt ist und mindestens 50 Kilogramm wiegt. Wichtigste {{36}} ist allerdings, dass man sich gesund fühlt; ein Arzt klärt das vor Ort in einem kurzen Gespräch, zuvor werden Blutdruck, Puls und Temperatur gemessen. Die eigentliche Blutabnahme dauert nur fünf bis zehn Minuten, insgesamt sollte man aber mit etwa einer Stunde {{37}}. {{38}} gibt es einen Imbiss, und man sollte sich eine Weile ausruhen. Frauen dürfen viermal, Männer sechsmal im Jahr spenden.",
-    "Um mehr junge Menschen zu {{39}}, lassen sich die Spendedienste einiges einfallen: Sie kommen mit mobilen Teams an Hochschulen und zu Festivals, werben in sozialen Netzwerken und bieten Termine am Abend an, damit auch Berufstätige kommen können. In manchen Ländern erhalten Spender sogar eine Nachricht aufs Handy, {{40}} ihr Blut einem Patienten geholfen hat. Die Idee dahinter: Wer sieht, dass seine Spende hilft, spendet eher wieder."
-   ],
-   "words": {
-    "a": "ABHÄNGIG",
-    "b": "ANGEWIESEN",
-    "c": "ANSCHLIESSEND",
-    "d": "ANSPRUCH",
-    "e": "AUFRUF",
-    "f": "BEDARF",
-    "g": "GEWINNEN",
-    "h": "GÜLTIG",
-    "i": "HALTBAR",
-    "j": "RECHNEN",
-    "k": "SEITDEM",
-    "l": "SOBALD",
-    "m": "VORAUSSETZUNG",
-    "n": "ZÄHLEN",
-    "o": "ZUSÄTZLICH"
-   },
-   "items": [
-    {
-     "no": "31",
-     "answer": "b"
-    },
-    {
-     "no": "32",
-     "answer": "o"
-    },
-    {
-     "no": "33",
-     "answer": "f"
-    },
-    {
-     "no": "34",
-     "answer": "i"
-    },
-    {
-     "no": "35",
-     "answer": "e"
-    },
-    {
-     "no": "36",
-     "answer": "m"
-    },
-    {
-     "no": "37",
-     "answer": "j"
-    },
-    {
-     "no": "38",
-     "answer": "c"
-    },
-    {
-     "no": "39",
-     "answer": "g"
-    },
-    {
-     "no": "40",
-     "answer": "l"
-    }
-   ]
   }
- },
- "hoeren": {
-  "t1": {
-   "instruction": "Sie hören nun eine Nachrichtensendung. Dazu sollen Sie fünf Aufgaben lösen. Sie hören die Nachrichtensendung nur einmal. Entscheiden Sie beim Hören, ob die Aussagen 41–45 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 41–45. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
-   "readNote": "Lesen Sie jetzt die Aufgaben 41–45. Sie haben dazu 30 Sekunden Zeit.",
-   "items": [
-    {
-     "no": "41",
-     "text": "Wer innerhalb Deutschlands umzieht, kann sich den Weg zum Bürgeramt künftig sparen.",
-     "answer": "R"
-    },
-    {
-     "no": "42",
-     "text": "Die Gewerkschaft sieht in dem neuen Modell ohne Kassen eine Chance, Arbeitsplätze zu sichern.",
-     "answer": "F"
-    },
-    {
-     "no": "43",
-     "text": "Die Finderin möchte das wiederentdeckte Gemälde seinem früheren Eigentümer kostenlos überlassen.",
-     "answer": "R"
-    },
-    {
-     "no": "44",
-     "text": "Die Meteorologen erwarten schon in den nächsten Tagen ergiebigen Regen am Rhein.",
-     "answer": "F"
-    },
-    {
-     "no": "45",
-     "text": "Leihräder soll es künftig nur noch an Stationen in der Innenstadt geben.",
-     "answer": "F"
-    }
-   ]
-  },
-  "t2": {
-   "instruction": "Sie hören ein Rundfunk-Interview. Dazu sollen Sie zehn Aufgaben lösen. Sie hören dieses Interview nur einmal. Entscheiden Sie beim Hören, ob die Aussagen 46–55 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 46–55. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
-   "readNote": "Lesen Sie jetzt die Aufgaben 46–55. Sie haben dazu 60 Sekunden Zeit.",
-   "items": [
-    {
-     "no": "46",
-     "text": "Die größte Gruppe der Mitglieder ist noch nicht im Rentenalter.",
-     "answer": "R"
-    },
-    {
-     "no": "47",
-     "text": "Getauscht wird bei der Zeitbank immer direkt zwischen zwei Personen.",
-     "answer": "F"
-    },
-    {
-     "no": "48",
-     "text": "Für anspruchsvolle Tätigkeiten bekommt man mehr Stunden gutgeschrieben.",
-     "answer": "F"
-    },
-    {
-     "no": "49",
-     "text": "Nicht selten suchen Mitglieder einfach jemanden, der ihnen Gesellschaft leistet.",
-     "answer": "R"
-    },
-    {
-     "no": "50",
-     "text": "Viele Mitglieder helfen lieber, als selbst Hilfe anzunehmen.",
-     "answer": "R"
-    },
-    {
-     "no": "51",
-     "text": "Neue Mitglieder müssen zuerst Stunden sammeln, bevor sie Hilfe bekommen.",
-     "answer": "F"
-    },
-    {
-     "no": "52",
-     "text": "Die Zeitbank vermittelt auch größere Renovierungsarbeiten.",
-     "answer": "F"
-    },
-    {
-     "no": "53",
-     "text": "Wer Kinder betreut, muss nachweisen, dass er nicht vorbestraft ist.",
-     "answer": "R"
-    },
-    {
-     "no": "54",
-     "text": "Herr Lammers organisiert die Zeitbank bis heute ganz allein.",
-     "answer": "F"
-    },
-    {
-     "no": "55",
-     "text": "Herr Lammers würde gern mehr Männer für die Zeitbank gewinnen.",
-     "answer": "R"
-    }
-   ]
-  },
-  "t3": {
-   "instruction": "Sie hören jetzt fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. Sie hören diese Ansagen nur einmal. Entscheiden Sie beim Hören, ob die Aussagen 56–60 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 56–60. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
-   "readNote": "",
-   "items": [
-    {
-     "no": "56",
-     "text": "Ein im Internet reserviertes Wunschkennzeichen wird ein halbes Jahr lang für Sie freigehalten.",
-     "answer": "F"
-    },
-    {
-     "no": "57",
-     "text": "Nach dem Spiel fährt nur ein einziger Sonderbus, und zwar um 22.15 Uhr.",
-     "answer": "F"
-    },
-    {
-     "no": "58",
-     "text": "Ein zwölfjähriges Kind darf an dem Schnupperkurs nur gemeinsam mit einem Erwachsenen teilnehmen.",
-     "answer": "R"
-    },
-    {
-     "no": "59",
-     "text": "Wenn Frau Szabó das Paket erst am Mittwoch abholt, bekommt sie es von einem anderen Nachbarn.",
-     "answer": "R"
-    },
-    {
-     "no": "60",
-     "text": "Sollte es am Freitagabend regnen, fällt die geplante Filmvorführung im Stadtpark ersatzlos aus.",
-     "answer": "F"
-    }
-   ]
-  }
- },
- "schreiben": {
-  "intro": "Wählen Sie zuerst zwischen Aufgabe A und Aufgabe B. Entscheiden Sie schnell, denn die zur Verfügung stehende Zeit ist begrenzt auf 30 Minuten!",
-  "tasks": [
-   {
-    "letter": "A",
-    "kind": "Bitte um Informationen",
-    "lead": "Sie lesen im Internet folgende Anzeige:",
-    "ad": {
-     "header": "Fahrschule Tempo",
-     "tag": "FÜHRERSCHEIN KLASSE B",
-     "title": "In drei Wochen sicher ans Steuer.",
-     "subtitle": "",
-     "facts": [
-      "Theorieunterricht an zehn Abenden oder kompakt an zwei Wochenenden",
-      "Fahrstunden auch frühmorgens und samstags",
-      "Fahrzeuge mit Schalt- oder Automatikgetriebe",
-      "Lern-App für die Theorieprüfung inklusive",
-      "Ratenzahlung möglich"
-     ],
-     "body": [
-      "Sie brauchen den Führerschein schnell – für den neuen Job, die Ausbildung oder einfach für mehr Freiheit im Alltag? In unserem Intensivkurs lernen Sie Theorie und Praxis in kurzer Zeit, ohne auf Qualität zu verzichten."
-     ],
-     "footer": "Jetzt beraten lassen! · info@fahrschule-tempo.de"
-    },
-    "situation": [
-     "Sie haben eine neue Stelle in Aussicht, für die Sie einen Führerschein brauchen. Sie interessieren sich für den Intensivkurs und möchten mehr darüber erfahren. Schreiben Sie eine E-Mail an die Fahrschule Tempo."
-    ],
-    "choice": [
-     "Behandeln Sie darin entweder",
-     "a) drei der folgenden Punkte oder",
-     "b) zwei der folgenden Punkte und einen weiteren Aspekt Ihrer Wahl."
-    ],
-    "points": [
-     "Beschreiben Sie Ihre Situation und Ihre Vorkenntnisse.",
-     "Fragen Sie nach dem genauen Ablauf des Intensivkurses.",
-     "Erkundigen Sie sich nach den Kosten und der Ratenzahlung.",
-     "Fragen Sie, ob der Unterricht auch in anderen Sprachen möglich ist."
-    ],
-    "closing": "Überlegen Sie sich vor dem Schreiben eine passende Reihenfolge der Punkte, einen passenden Betreff, eine passende Anrede, Einleitung und einen passenden Schluss. Schreiben Sie mindestens 150 Wörter.",
-    "words": 150,
-    "model": {
-     "label": "Beispiel für Variante b): zwei Leitpunkte und ein eigener Aspekt (ca. 170 Wörter)",
-     "text": "Betreff: Fragen zu Ihrem Intensivkurs\n\nSehr geehrte Damen und Herren,\n\nauf Ihrer Internetseite habe ich die Anzeige für Ihren Intensivkurs gelesen und hätte dazu einige Fragen.\n\nAb Januar werde ich als Pflegehelferin bei einem ambulanten Pflegedienst arbeiten und muss meine Patientinnen und Patienten dann mit dem Auto besuchen. In meinem Heimatland Kolumbien habe ich zwar schon einige Fahrstunden genommen, aber nie eine Prüfung abgelegt. Theoretische Kenntnisse habe ich daher kaum, und im Straßenverkehr fühle ich mich noch unsicher.\n\nKönnten Sie mir bitte erklären, wie der Intensivkurs genau abläuft? Mich würde vor allem interessieren, wie viele Fahrstunden Ihre Schülerinnen und Schüler in drei Wochen normalerweise brauchen und wann die theoretische und die praktische Prüfung stattfinden.\n\nDa ich bis Ende Dezember noch vormittags in einem Café arbeite, käme für mich nur Unterricht am Nachmittag oder am Wochenende infrage. Wäre es möglich, die Fahrstunden entsprechend zu legen? Außerdem würde ich gern wissen, ob ich vor der Anmeldung eine Probestunde machen kann.\n\nÜber eine baldige Antwort würde ich mich sehr freuen.\n\nMit freundlichen Grüßen\nLucía Herrera"
-    }
-   },
-   {
-    "letter": "B",
-    "kind": "Beschwerde",
-    "lead": "Sie lesen folgende Anzeige:",
-    "ad": {
-     "header": "",
-     "tag": "NETZPLUS · GLASFASER FÜR IHR ZUHAUSE",
-     "title": "Endlich schnelles Internet",
-     "subtitle": "",
-     "facts": [
-      "Anschluss innerhalb von vier Wochen",
-      "Installation durch unsere Techniker – kostenlos und zum Wunschtermin",
-      "Service-Hotline rund um die Uhr erreichbar",
-      "die ersten sechs Monate nur 19,99 € im Monat",
-      "keine Kosten vor der Freischaltung"
-     ],
-     "body": [
-      "Surfen, streamen und im Homeoffice arbeiten – mit bis zu 1.000 Mbit/s. Wir verlegen die Glasfaser bis in Ihre Wohnung."
-     ],
-     "footer": "NetzPlus Kundenservice · service@netzplus-glasfaser.de"
-    },
-    "situation": [
-     "Sie haben bei NetzPlus einen Glasfaseranschluss bestellt. Leider lief dabei vieles anders als versprochen. Schreiben Sie eine Beschwerde an NetzPlus."
-    ],
-    "choice": [
-     "Behandeln Sie darin entweder",
-     "a) drei der folgenden Punkte oder",
-     "b) zwei der folgenden Punkte und einen weiteren Aspekt Ihrer Wahl."
-    ],
-    "points": [
-     "Beschreiben Sie, welche Erwartungen die Anzeige bei Ihnen geweckt hat.",
-     "Legen Sie dar, was bei der Bestellung und der Installation schiefgelaufen ist.",
-     "Berichten Sie, wie Sie versucht haben, den Kundenservice zu erreichen.",
-     "Formulieren Sie, welche Lösung Sie nun erwarten."
-    ],
-    "closing": "Überlegen Sie sich vor dem Schreiben eine passende Reihenfolge der Punkte, einen passenden Betreff, eine passende Anrede, Einleitung und einen passenden Schluss. Schreiben Sie mindestens 150 Wörter.",
-    "words": 150,
-    "model": {
-     "label": "Beispiel für Variante a): drei der vier Leitpunkte (ca. 180 Wörter)",
-     "text": "Betreff: Beschwerde über meinen Glasfaseranschluss (Kundennummer 5821904)\n\nSehr geehrte Damen und Herren,\n\nAnfang Juni habe ich bei Ihnen einen Glasfaseranschluss bestellt. Was ich seitdem erlebt habe, hat mit Ihrer Werbung leider wenig zu tun.\n\nStatt innerhalb von vier Wochen wurde mein Anschluss erst nach drei Monaten freigeschaltet. Für zwei vereinbarte Technikertermine habe ich mir jeweils einen Tag Urlaub genommen, doch beide Male ist niemand erschienen – ohne jede Absage. Trotzdem haben Sie mir bereits ab Juli die Monatsgebühr abgebucht, obwohl Ihre Anzeige verspricht, dass vor der Freischaltung keine Kosten entstehen.\n\nIhre angeblich rund um die Uhr erreichbare Hotline habe ich in dieser Zeit mehr als zehnmal angerufen. Meistens hing ich eine halbe Stunde in der Warteschleife; wenn ich doch einmal durchkam, wurde ich vertröstet oder so lange weiterverbunden, bis die Verbindung abbrach. Auf meine beiden E-Mails habe ich bis heute keine Antwort erhalten.\n\nIch fordere Sie daher auf, mir die zu Unrecht abgebuchten Gebühren von 39,98 Euro umgehend zu erstatten und mich für die beiden versäumten Termine angemessen zu entschädigen. Falls ich bis zum 30. September keine Antwort erhalte, sehe ich mich gezwungen, die Schlichtungsstelle der Bundesnetzagentur einzuschalten.\n\nMit freundlichen Grüßen\nMarek Dvořák"
-    }
-   }
-  ]
- },
- "notes": "Validator differences are checker artefacts, verified by comparing the JSON with the PDF text and page images: (1) pdftotext -raw drops spaces in short lines (Lesen Teil 3 situations 11-20, Hören statements, writing bullets, ad lines), so the PDF side shows fused tokens such as 'Bekannterwill', 'IhrGroßvater', 'fürdie', 'nurein', 'zwarum' (item 57: 'und zwar um 22.15 Uhr'), 'mehrFreiheit', 'derfolgenden', 'nur19' (nur 19,99 €), while the JSON side shows the separate words; a script resolved 123 such fused tokens by concatenating consecutive JSON words, none left over. (2) Page furniture and headings not stored as text fields: '90 Minuten Leseverstehen und Sprachbausteine', 'ca. 20 Minuten Hörverstehen', Teil headings, 'Aufgabe A/B', 'Bitte um Informationen', 'Beschwerde', 'Schriftlicher Ausdruck' (kept in letter/kind/intro). (3) Letter-spaced or small-caps headings come out of the PDF as single letters or split words: PFEFFER & SALZ (info b), BACKKURS FÜR EINSTEIGER (info e), 'PC-D OKTOR' (info g, JSON PC-DOKTOR); they appear only in the JSON. (4) 'Vorund' = 'Vor- und Nachteile' (Lesen Teil 2, line-end hyphen before 'und', real hyphen kept). (5) Model e-mails: margin text and body of pages 21-22 are joined by -raw, so words are reported only in the JSON; the e-mails were copied from the page text blocks (left column only). Decisions: Lesen Teil 1/2 columns read left then right (Teil 2: right column starts with the end of the third paragraph 'künstlicher Intelligenz'); Teil 3 info d drop cap V joined to 'Viele'; info c tag '12. OKTOBER' and fact 'Do, 18 Uhr' (printed as date block); info b decorative '· · ·' left out; info e header 'Sauerteig & Co.', tag 'BACKKURS FÜR EINSTEIGER'; info f title 'Kleine Köche', subtitle 'Ferienkochkurs für Kinder'; info h title 'FOTOS MIT DEM HANDY' (two lines); info i title 'Ernährung, die Ihnen guttut' and footer 'Nadine Friedrichs · Diätassistentin · Tel. ...'; info j 'Dürer-Gymnasiums' keeps the hyphen (line-end hyphen before a capital letter); info k three footer lines joined with ' · '; info e 'Roggen- und Dinkelbrote' keeps hyphen after Roggen. Writing ad B has no brand line: the letter-spaced line 'NETZPLUS · GLASFASER FÜR IHR ZUHAUSE' is stored as tag. Sprachbausteine 2 gaps followed by punctuation are written '{{32}}.' without the printed space. Model labels omit the second printed sentence of Aufgabe A ('Die grauen Ziffern am Rand ...'); model.notes (margin column) not transcribed (optional)."
 }

@@ -164,3 +164,10 @@ Three parts, each with true/false statements. Answer `R` (richtig, `+`) or `F` (
 ## Optional: ad layouts (`design`, `deco`)
 
 Info texts and the ads of the writing tasks may carry `"design"` and `"deco"`; leave them out – the app picks layouts.
+
+## Zusätzliche Felder (Überarbeitung auf B2+-Niveau, 2026-11)
+
+- `lesen.sb1.types`: Liste mit 10 Einträgen (Aufgabe 21–30), je Item der Grammatik-/Lexiktyp (Partikel, Form, Lexik, Rektion, Pronomen, Relativpronomen, Pronominaladverb, Präposition, Konnektor, Konjunktiv II, Passiv).
+- `lesen.sb2.types`: Objekt a–o mit der Wortart jedes Kastenworts (Präposition, Konnektor, Pronominaladverb, Partikel, Nomen, Verb, Adjektiv, Adverb).
+- `kommentar`: `{intro, l3_intro, items: {"1".."60"}}`, Quelle der Kommentarseiten 26–27 im PDF.
+- Alle Lesetexte liegen bei LIX ≈ 55. Die Hörtexte und Audiodateien sind unverändert, nur die Aussagen 41–60 wurden umformuliert (R/F gleich geblieben).
