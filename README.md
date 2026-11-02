@@ -49,3 +49,7 @@ Modelltest 1과 2의 Sprechen(Mündlicher Ausdruck) 영역(페이퍼 페이지�
 ```
 python3 tools/soda-theme.py telc-b1/index.html --kind index
 ```
+
+## 선생님께 제출하기
+
+디지털 시험 결과 화면의 「선생님께 제출하기」는 소피아 독일어학원 수강생 전용입니다. 필기 결과와, 같은 브라우저에서 한 말하기 실전 연습 기록(telc B1·B2)을 한 통으로 Google Apps Script 웹 앱에 보내고, 웹 앱이 선생님 메일로 전달합니다. 스크립트와 설정 방법은 SODA-Goethe 저장소의 `tools/제출 받기/`에 있고, 이 저장소의 시험 화면도 같은 웹 앱 주소를 씁니다. 주소는 `python3 tools/set-submit-url.py "<웹 앱 URL>"`로 한 번에 넣습니다. 새 앱 폴더에는 `python3 tools/add-submit.py <폴더>`로 기능을 넣습니다(지금 template.html에는 이미 들어 있습니다).
