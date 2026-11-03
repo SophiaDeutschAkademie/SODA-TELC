@@ -155,3 +155,11 @@ body.hide .words li.u{font-weight:400}
   .card,.box,.lps li{break-inside:avoid}
   details.full{display:none}
 }
+/* telc B2 쓰기: 과제 두 개 */
+h3.task{margin-top:46px;padding-top:20px;border-top:1px solid var(--line)}
+h4.sub3{font-size:16.5px;font-weight:700;margin:24px 0 10px}
+h4.sub3 small{font-weight:500;color:var(--ink-3);font-size:13.5px;margin-left:6px}
+.box+.box{margin-top:10px}
+.ad-header,.ad-title{font-weight:700}
+.ad-tag{font-size:13px;color:var(--ochre-ink);font-weight:700;letter-spacing:.04em}
+.ad-footer{color:var(--ink-3);font-size:15px}
