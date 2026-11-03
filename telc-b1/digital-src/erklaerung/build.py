@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
-"""telc B1 Modelltest I 해설 — 오프라인 단일 HTML 빌드.
+"""telc B1 Modelltest N 해설 — 오프라인 단일 HTML 빌드.
 
-python3 -I build.py <repo>/telc-b1 <font.ttf> <out.html>
+python3 -I build.py <app-folder> <N> <font.ttf> <out.html> [web]
+해설 데이터: erkN_lesen.py, erkN_hoeren.py (형식은 FORMAT.md)
 """
 import base64
 import html
+import importlib
 import importlib.util
 import io
 import json
@@ -14,12 +16,15 @@ import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
-from erk1_lesen import LESEN1, LESEN2, LESEN3, SB1, SB2  # noqa: E402
-from erk1_hoeren import HOEREN1, HOEREN2, HOEREN3, SCHREIBEN, SPRECHEN  # noqa: E402
 
-APP, FONT, OUT = sys.argv[1], sys.argv[2], sys.argv[3]
-WEB = len(sys.argv) > 4 and sys.argv[4] == "web"  # 저장소용: Modelltest 페이지로 돌아가는 버튼 + 접속 집계 태그
-D = json.load(open(os.path.join(APP, "digital-src", "data", "mt1.json"), encoding="utf-8"))
+APP, N, FONT, OUT = sys.argv[1], int(sys.argv[2]), sys.argv[3], sys.argv[4]
+WEB = len(sys.argv) > 5 and sys.argv[5] == "web"  # 저장소용: Modelltest 페이지로 돌아가는 버튼 + 접속 집계 태그
+D = json.load(open(os.path.join(APP, "digital-src", "data", f"mt{N}.json"), encoding="utf-8"))
+ROMAN = D["roman"]
+_l = importlib.import_module(f"erk{N}_lesen")
+_h = importlib.import_module(f"erk{N}_hoeren")
+LESEN1, LESEN2, LESEN3, SB1, SB2 = _l.LESEN1, _l.LESEN2, _l.LESEN3, _l.SB1, _l.SB2
+HOEREN1, HOEREN2, HOEREN3, SCHREIBEN, SPRECHEN = _h.HOEREN1, _h.HOEREN2, _h.HOEREN3, _h.SCHREIBEN, _h.SPRECHEN
 L, H, S = D["lesen"], D["hoeren"], D["schreiben"]["task"]
 
 spec = importlib.util.spec_from_file_location("sodatheme", os.path.join(APP, "..", "tools", "soda-theme.py"))
@@ -33,7 +38,7 @@ def de(s):
     return f'<span lang="de">{e(s)}</span>'
 
 
-# ---------- 정답 검증: 해설의 정답 = mt1.json 정답 ----------
+# ---------- 정답 검증: 해설의 정답 = mtN.json 정답 ----------
 def key(part):
     return {i["no"]: i["answer"] for i in part["items"]}
 
@@ -49,7 +54,12 @@ for mine, part in ((HOEREN1, H["t1"]), (HOEREN2, H["t2"]), (HOEREN3, H["t3"])):
         if a["st"] != b["text"]:
             sys.exit(f"Hören {a['no']} 문장이 다릅니다")
 # 근거 인용이 Lesen 본문에 그대로 있는지
-lesen_text = " ".join(" ".join(t["paragraphs"]) for t in L["t1"]["texts"]) + " " + " ".join(L["t2"]["paragraphs"])
+def _ptext(x):
+    return x["text"] if isinstance(x, dict) else x
+
+
+lesen_text = (" ".join(" ".join(t["paragraphs"]) for t in L["t1"]["texts"]) + " "
+              + " ".join(_ptext(x) for x in L["t2"]["paragraphs"]) + " " + L["t2"].get("lead", ""))
 for it in LESEN1["items"] + LESEN2["items"]:
     for q, _ in it["basis"]:
         if q not in lesen_text:
@@ -116,7 +126,7 @@ SEC_L1 = "".join(p)
 # ---------- Lesen Teil 2 ----------
 t2items = {i["no"]: i for i in L["t2"]["items"]}
 p = [f'<section id="l2"><h2><small>Leseverstehen</small>Teil 2 · 기사 읽기 <span lang="de">„{e(L["t2"]["title"])}“</span></h2>',
-     '<p class="intro">Lindenbach 마을의 마지막 슈퍼마켓이 문을 닫은 뒤, 주민들이 직접 가게를 운영하는 이야기입니다.</p>', tip(LESEN2["tip"])]
+     f'<p class="intro">{e(LESEN2["intro"])}</p>', tip(LESEN2["tip"])]
 for it in LESEN2["items"]:
     q = t2items[it["no"]]
     opts = "".join(
@@ -155,7 +165,7 @@ def gap_text(paragraphs, fill):
 
 
 sb1opt = {i["no"]: i for i in L["sb1"]["items"]}
-p = ['<section id="s1"><h2><small>Sprachbausteine</small>Teil 1 · 항의 메일 (Kinderwagen)</h2>', tip(SB1["tip"]),
+p = [f'<section id="s1"><h2><small>Sprachbausteine</small>Teil 1 · {e(SB1["title"])}</h2>', tip(SB1["tip"]),
      '<details class="full"><summary>정답을 채운 전체 글 보기</summary>',
      gap_text(L["sb1"]["paragraphs"], lambda n: sb1opt[n]["options"][sb1opt[n]["answer"]]), "</details>"]
 for it in SB1["items"]:
@@ -174,7 +184,7 @@ W = L["sb2"]["words"]
 sb2ans = {i["no"]: i["answer"] for i in L["sb2"]["items"]}
 used = set(sb2ans.values())
 wbox = "".join(f'<li class="{"u" if k in used else "n"}"><b>{k}</b><span lang="de">{e(v)}</span></li>' for k, v in W.items())
-p = ['<section id="s2"><h2><small>Sprachbausteine</small>Teil 2 · 친구에게 보내는 메일 (Neu in Wien)</h2>', tip(SB2["tip"]),
+p = [f'<section id="s2"><h2><small>Sprachbausteine</small>Teil 2 · {e(SB2["title"])}</h2>', tip(SB2["tip"]),
      f'<div class="words"><h5>단어 상자 <small>진하게 = 정답으로 쓰인 단어</small></h5><ul>{wbox}</ul></div>',
      '<details class="full"><summary>정답을 채운 전체 글 보기</summary>',
      gap_text(L["sb2"]["paragraphs"], lambda n: W[sb2ans[n]].lower()), "</details>"]
@@ -197,9 +207,9 @@ def hoeren(sec_id, title, data):
     return "".join(p)
 
 
-SEC_H1 = hoeren("h1", "Teil 1 · 다섯 사람의 의견 (1회)", HOEREN1)
-SEC_H2 = hoeren("h2", "Teil 2 · 인터뷰 (2회)", HOEREN2)
-SEC_H3 = hoeren("h3", "Teil 3 · 안내 방송 (각 2회)", HOEREN3)
+SEC_H1 = hoeren("h1", "Teil 1 · " + e(HOEREN1["title"]) + " (1회)", HOEREN1)
+SEC_H2 = hoeren("h2", "Teil 2 · " + e(HOEREN2["title"]) + " (2회)", HOEREN2)
+SEC_H3 = hoeren("h3", "Teil 3 · " + e(HOEREN3["title"]) + " (각 2회)", HOEREN3)
 
 # ---------- Schreiben ----------
 mail = "".join("<p>" + e(x).replace("\n", "<br>") + "</p>" for x in S["mail"])
@@ -212,9 +222,9 @@ model = "".join(
     f'<div class="mrow"><span class="lp">{("LP " + m) if m else ""}</span><p lang="de">{e(t).replace(chr(10), "<br>")}</p><p class="tr">{e(k)}</p></div>'
     for t, m, k in zip(paras, marks, SCHREIBEN["model_ko"]))
 wc = len(re.findall(r"\S+", S["model"]["text"]))
-SEC_W = f"""<section id="w"><h2><small>Schriftlicher Ausdruck</small>쓰기 · Julia에게 답장</h2>
+SEC_W = f"""<section id="w"><h2><small>Schriftlicher Ausdruck</small>쓰기 · {e(SCHREIBEN["title"])}</h2>
 <p class="intro">{e(SCHREIBEN["situation"])}</p>
-<div class="box mail" lang="de"><h5>Julia의 메일</h5>{mail}</div>
+<div class="box mail" lang="de"><h5>{e(SCHREIBEN["mail_label"])}</h5>{mail}</div>
 <h3>Leitpunkte 네 개와 쓸 수 있는 문장</h3><ol class="lps">{pts}</ol>
 <h3>자주 하는 실수</h3><ul class="dots">{"".join(f"<li>{e(t)}</li>" for t in SCHREIBEN["traps"])}</ul>
 <h3>편지 구성</h3><table class="tbl"><tbody>{"".join(f'<tr><th lang="de">{e(a)}</th><td lang="de">{e(b)}</td></tr>' for a, b in SCHREIBEN["structure"])}</tbody></table>
@@ -272,7 +282,7 @@ KEY = ('<section id="key"><h2><small>Lösungsschlüssel</small>정답표</h2><p 
 
 # ---------- 글꼴과 로고 ----------
 body_html = KEY + SEC_L1 + SEC_L2 + SEC_L3 + SEC_S1 + SEC_S2 + SEC_H1 + SEC_H2 + SEC_H3 + SEC_W + SEC_M
-chars = set(body_html) | set("telc B1 Modelltest I 해설 SODA LEHRWERK 소피아 독일어학원 Sophia Deutsch Akademie 정답 가리기 보기 목차 정답표 위로 다크 모드 켜기 끄기 켜짐 꺼짐 누르면 라이트로 바뀌어요 카드를 눌러 확인하세요")
+chars = set(body_html) | set(f"telc B1 Modelltest {ROMAN} 해설 SODA LEHRWERK 소피아 독일어학원 Sophia Deutsch Akademie 정답 가리기 보기 목차 정답표 위로 다크 모드 켜기 끄기 켜짐 꺼짐 누르면 라이트로 바뀌어요 카드를 눌러 확인하세요")
 from fontTools import subset  # noqa: E402
 from fontTools.ttLib import TTFont  # noqa: E402
 cps = set(range(0x20, 0x7F)) | {ord(c) for c in chars if ord(c) >= 0x20}
@@ -295,8 +305,8 @@ NAV = [("key", "정답표"), ("l1", "Lesen 1"), ("l2", "Lesen 2"), ("l3", "Lesen
        ("h1", "Hören 1"), ("h2", "Hören 2"), ("h3", "Hören 3"), ("w", "Schreiben"), ("m", "Sprechen")]
 nav = "".join(f'<a href="#{a}">{b}</a>' for a, b in NAV)
 if WEB:
-    back = (st.TOC_JS.replace("__HREF__", "index.html#1").replace("목차로 돌아가기", "Modelltest I 페이지로 돌아가기")
-            .replace("</svg>목차", "</svg>Modelltest I"))
+    back = (st.TOC_JS.replace("__HREF__", f"index.html#{N}").replace("목차로 돌아가기", f"Modelltest {ROMAN} 페이지로 돌아가기")
+            .replace("</svg>목차", f"</svg>Modelltest {ROMAN}"))
     theme_js = st.THEME_JS.replace("__TOC__", back)
     EXTRA_HEAD = st.ANALYTICS_TAG
 else:
@@ -311,7 +321,7 @@ page = f"""<!doctype html>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="color-scheme" content="dark">
 <meta name="theme-color" content="#14181E">
-<title>telc B1 Modelltest I 해설</title>
+<title>telc B1 Modelltest {ROMAN} 해설</title>
 <style>{CSS}</style>
 {EXTRA_HEAD}<style id="soda-dark">{st.BUTTON_CSS}</style>
 </head>
@@ -319,13 +329,13 @@ page = f"""<!doctype html>
 <header class="cover">
 <div class="brand"><img src="data:image/png;base64,{LOGO64}" alt=""><b>Sophia Deutsch Akademie</b></div>
 <p class="eyebrow">SODA Lehrwerk · telc Deutsch B1</p>
-<h1>Modelltest I</h1>
+<h1>Modelltest {ROMAN}</h1>
 <p class="sub">해설</p>
 <p class="lead">Lesen · Sprachbausteine · Hören 60문항의 근거와 함정, Schreiben 모범 답안, Sprechen 진행 요령</p>
 </header>
 <nav class="nav" aria-label="목차"><div class="navin">{nav}<button type="button" id="hide" aria-pressed="false">정답 가리기</button></div></nav>
 <main>{body_html}</main>
-<footer class="foot"><span>© Sophia Deutsch Akademie · telc B1 Modelltest I 해설</span><a href="#top" onclick="scrollTo(0,0);return false">위로</a></footer>
+<footer class="foot"><span>© Sophia Deutsch Akademie · telc B1 Modelltest {ROMAN} 해설</span><a href="#top" onclick="scrollTo(0,0);return false">위로</a></footer>
 <script>
 (function(){{
   var b=document.getElementById('hide'), d=document.body;

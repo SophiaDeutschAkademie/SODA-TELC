@@ -2,6 +2,7 @@
 # 근거 문장은 문제지 22–23쪽 Hörtexte를 그대로 옮긴 것입니다.
 
 HOEREN1 = {
+  "title": "다섯 사람의 의견",
   "intro": "주제: „Stadt oder Land – wo lebt man besser?“ 거리 인터뷰 다섯 개. 한 번만 듣습니다.",
   "tip": "Teil 1은 말하는 사람의 태도와 생각(Haltung)을 묻습니다. 앞부분의 단정적인 말만 듣고 답하지 마십시오. obwohl, aber, allerdings, ehrlich gesagt 뒤에서 생각이 바뀌는 경우가 많습니다.",
   "items": [
@@ -33,6 +34,7 @@ HOEREN1 = {
   ]}
 
 HOEREN2 = {
+  "title": "인터뷰",
   "intro": "라디오 인터뷰 „Neuanfang mit 45“. 22년 동안 은행원이었던 Lukas Berger가 버스 기사가 된 이야기입니다. 두 번 듣습니다.",
   "tip": "Teil 2는 문항 순서와 대화 순서가 같습니다. 첫 번째 들을 때 확실한 문항을 표시하고, 두 번째 들을 때 숫자(금액, 횟수, 비율)와 사람(누가 말했는지)을 확인하십시오.",
   "items": [
@@ -90,6 +92,7 @@ HOEREN2 = {
   ]}
 
 HOEREN3 = {
+  "title": "안내 방송",
   "intro": "안내 방송과 자동 응답 메시지 다섯 개. 각각 두 번 듣습니다.",
   "tip": "Teil 3은 시간, 장소, 요일, 예외를 묻습니다. Korrektur, allerdings, davon ausgenommen, nur, ab, bis 같은 단어 뒤의 정보가 정답의 근거가 됩니다. 들으면서 숫자를 메모하십시오.",
   "items": [
@@ -122,6 +125,8 @@ HOEREN3 = {
   ]}
 
 SCHREIBEN = {
+  "title": "Julia에게 답장",
+  "mail_label": "Julia의 메일",
   "situation": "친구 Julia가 5월 14~16일에 놀러 오겠다는 이메일을 보냈습니다. 친구에게 쓰는 답장이므로 du로 씁니다.",
   "points": [
     ["ob das Wochenende passt – wenn nicht, schlagen Sie einen anderen Termin vor", "그 주말이 괜찮은지 – 안 되면 다른 날짜를 제안", "Das Wochenende passt mir gut. / Leider passt es mir nicht, aber wie wäre es mit …?"],
