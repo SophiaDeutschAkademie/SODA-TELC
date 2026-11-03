@@ -37,7 +37,7 @@ HOEREN1 = {
 HOEREN2 = {
   "title": "라디오 인터뷰",
   "intro": "라디오 방송 „Menschen und Berufe“ 인터뷰입니다. 12년 전까지 슈투트가르트의 설계 사무소에서 일하던 Jana Sander가 지금은 양 650마리를 데리고 Schwäbische Alb를 돌아다니는 직업 양치기가 된 이야기입니다. 한 번만 듣습니다.",
-  "tip": "Teil 2는 문항이 열 개이고 한 번만 듣습니다. 듣기 전 60초 동안 문장을 읽고 핵심어에 표시하십시오. 문항 순서와 대화 순서가 같습니다. 진행자(M)의 질문에 들어 있는 짐작은 함정인 경우가 많습니다(시골에서 자랐을 것이다, 양털로 돈을 벌 것이다, 개가 늑대를 막을 것이다). Jana Sander가 그 짐작을 맞다고 하는지 아니라고 하는지(Im Gegenteil, Nein, Das glauben fast alle, aber nein)를 들으십시오.",
+  "tip": "Teil 2는 문항이 열 개이고 한 번만 듣습니다. 듣기 전 60초 동안 문장을 읽고 핵심어에 표시하십시오. 문항 순서와 대화 순서가 같습니다. 진행자(M)의 질문에 들어 있는 짐작은 함정인 경우가 많습니다(시골에서 자랐으리라는 짐작, 양털로 돈을 벌리라는 짐작, 개가 늑대를 막으리라는 짐작). Jana Sander가 그 짐작을 맞다고 하는지 아니라고 하는지(Im Gegenteil, Nein, Das glauben fast alle, aber nein)를 들으십시오.",
   "items": [
     {"no": "46", "ans": "F",
      "st": "Jana Sander ist in ländlicher Umgebung mit Tieren groß geworden.",
@@ -242,13 +242,13 @@ SPRECHEN = {
     "b": "의무 봉사는 젊은이의 자유를 크게 침해하고, 직업 교육이나 대학 공부를 1년 늦게 시작하게 만듭니다. 의욕 없는 보조 인력은 요양 분야에서 도움보다 해가 될 수 있고 전문 인력을 대신할 수 없습니다. 강제는 젊은이를 오히려 멀어지게 할 수 있고, 숙소·식사·관리·용돈 비용도 매우 큽니다. 많은 단체는 의무 대신 자원봉사 제도(매년 약 10만 명 참여)를 더 매력적으로 만들자고 합니다. 설문에서는 나이 든 사람의 다수가 찬성하고, 정작 해당되는 젊은이들은 많이 반대합니다.",
     "steps": [
       ["Text wiedergeben", "글의 주제와 찬성·반대 논거를 1분 안에 짧게 소개합니다. 글의 문장을 그대로 읽지 말고 간접 인용으로 바꿉니다(Befürworter meinen, das stärke den Zusammenhalt)."],
-      ["Meinung und Erfahrung", "내 의견과 근거를 말하고, 내 나라나 주변의 경험을 넣습니다(23쪽 예시: 고향 나라의 의무 복무에서 처음으로 전혀 다른 환경의 사람들을 알게 되었다)."],
+      ["Meinung und Erfahrung", "내 의견과 근거를 말하고, 내 나라나 주변의 경험을 넣습니다(23쪽 예시: 고향 나라의 의무 복무에서 처음으로 전혀 다른 환경의 사람들을 알게 된 경험)."],
       ["Auf den Partner eingehen", "파트너의 논거에 동의하거나 부분적으로 동의하고 반박합니다(Das mag sein, aber … / Da haben Sie nicht ganz unrecht)."],
       ["Lösungen suchen", "해결책을 함께 찾습니다(23쪽 예시: 모두 1년 동안 봉사하되 장소는 스스로 고르기, 자원봉사를 더 매력적으로 만들어 의무를 없애기)."]],
     "points": [
       "글 소개는 최대 1분입니다. 소개만 하고 끝내면 과제 수행 점수가 낮습니다. 의견, 경험, 반응, 해결책까지 가야 합니다.",
       "글에 나온 숫자와 사실(매년 약 10만 명이 자원봉사, 나이 든 층은 찬성·젊은 층은 반대)을 근거로 쓰면 설득력이 높아집니다.",
-      "글은 접속법 1식으로 의견을 전합니다(bringe, arbeite, greife, ließen sich). 말할 때도 „Kritiker meinen, ein Pflichtdienst greife in die Freiheit ein.“처럼 쓰거나, 간단히 „Kritiker meinen, dass …“로 바꿔 말하면 됩니다.",
+      "글은 남의 의견을 간접화법으로 전합니다. bringe, arbeite, greife는 접속법 1식이고, ließen sich, hätten은 1식 형태가 직설법과 같아서 대신 쓴 접속법 2식입니다. 말할 때도 „Kritiker meinen, ein Pflichtdienst greife in die Freiheit ein.“처럼 쓰거나, 간단히 „Kritiker meinen, dass …“로 바꿔 말하면 됩니다.",
       "한 사람이 계속 말하지 말고 „Wie sehen Sie das?“로 파트너에게 넘기십시오. 의견이 끝까지 달라도 괜찮습니다. 서로의 논거에 반응하는 과정을 평가합니다."],
     "redemittel": [
       ["In dem Text geht es um die Frage, ob …", "이 글은 …인지에 관한 것입니다."],

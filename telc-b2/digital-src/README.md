@@ -11,3 +11,7 @@
 - 명령은 이 앱 폴더(`telc-b2/`)에서 실행합니다. 파일을 다시 만들 때마다 `../tools/soda-theme.py`가 Lehrwerk 공통 다크 모드 스위치를 자동으로 넣습니다.
 
 공식 DIGItelc 화면의 복제가 아니라, 공개된 정보(좌우 분할, 컴퓨터 입력, 형광펜, 단어 수 표시 등)에 맞춘 연습용 화면입니다.
+
+## 해설
+
+시험 페이지마다 Lösungsschlüssel 앞에 「해설」 버튼이 있고, `telc B2 Modelltest N 해설.html`로 연결됩니다. 원본과 다시 만드는 방법은 `erklaerung/README.md`에 있습니다.
