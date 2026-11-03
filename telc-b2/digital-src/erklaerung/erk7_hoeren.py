@@ -127,7 +127,7 @@ HOEREN3 = {
     {"no": "60", "ans": "R",
      "st": "Okan würde Paula ab Januar unentgeltlich nach Westerstede mitnehmen, über Kaffee würde er sich aber freuen.",
      "stko": "Okan은 1월부터 Paula를 무료로 베스터슈테데까지 태워 줄 수 있고, 커피를 가져오면 기뻐할 것입니다.",
-     "basis": [["Ich habe gehört, dass du ab Januar auch in Westerstede arbeitest. Ich fahre jeden Morgen von Oldenburg dorthin und könnte dich mitnehmen. Geld möchte ich dafür keins. Aber wenn du ab und zu Kaffee für unterwegs mitbringst, sage ich nicht Nein.", "1월부터 너도 베스터슈테데에서 일한다고 들었어. 나는 매일 아침 올덴부르크에서 거기로 가니까 태워 줄 수 있어. 돈은 받지 않을 거야. 하지만 가끔 가는 길에 마실 커피를 가져오면 거절하지 않을게."]],
+     "basis": [["Ich habe gehört, dass du ab Januar auch in Westerstede arbeitest. Ich fahre jeden Morgen von Oldenburg dorthin und könnte dich mitnehmen. Geld möchte ich dafür keins. Aber wenn du ab und zu Kaffee für unterwegs mitbringst, sage ich nicht Nein.", "1월부터 Paula 씨도 베스터슈테데에서 일한다고 들었어요. 저는 매일 아침 올덴부르크에서 거기로 가니까 태워 줄 수 있어요. 돈은 받지 않을 거예요. 하지만 가끔 가는 길에 마실 커피를 가져오면 거절하지 않을게요."]],
      "why": "Geld möchte ich dafür keins(돈은 받고 싶지 않다) = unentgeltlich(무료로)이고, sage ich nicht Nein(거절하지 않겠다) = würde sich freuen(기뻐할 것이다)입니다. ab Januar(1월부터)와 Westerstede도 맞습니다. nicht Nein처럼 부정이 두 번 나오면 긍정이 됩니다."},
   ]}
 
@@ -144,7 +144,7 @@ SCHREIBEN = {
      "traps": [
        "정보 요청 편지인데 주문을 해 버리면 과제를 벗어납니다(Bestellung statt Anfrage). „Hiermit bestelle ich eine Probekiste.“ 대신 „Bevor ich eine Probekiste bestelle, habe ich noch einige Fragen.“처럼 씁니다.",
        "b)를 고를 때 내가 고른 다른 내용(eigener Aspekt)이 Leitpunkt를 되풀이하면 안 됩니다. 예를 들어 가격(Leitpunkt 4)을 한 번 더 묻는 것은 새 내용이 아닙니다. 모범 답안은 포장과 빈 상자 회수를 묻습니다.",
-       "질문만 나열하지 말고 내 상황과 연결하십시오. ‘집에 아무도 없으면?’ 앞에 ‘남편과 저는 둘 다 일을 합니다’처럼 질문이 필요한 이유를 붙입니다.",
+       "질문만 나열하지 말고 내 상황과 연결하십시오. ‘집에 아무도 없으면 어떻게 되나요?’ 앞에 ‘남편과 저는 둘 다 일을 합니다’처럼 질문이 필요한 이유를 붙입니다.",
        "광고 문장(„Probekiste zum halben Preis“, „jederzeit pausieren oder kündigen“)을 그대로 옮겨 적으면 내 표현으로 인정되지 않습니다.",
        "간접의문문에서는 동사가 문장 끝에 옵니다: Könnten Sie mir mitteilen, ob man einzelne Produkte austauschen kann? (kann이 끝)",
        "본문만으로 150단어를 넘기십시오. 모범 답안은 약 160단어입니다."],
@@ -163,7 +163,7 @@ SCHREIBEN = {
        "남편과 저는 둘 다 일을 하기 때문에 낮에는 집에 아무도 없습니다. 이런 경우 배송은 어떻게 됩니까? 기사님이 상자를 현관문 앞에 두어도 됩니까, 아니면 이웃집에 맡겨 주실 수 있습니까?",
        "또한 채소를 비닐 포장 없이 배송하시는지 알고 싶습니다. 빈 상자는 다음 배송 때 다시 가져가십니까, 아니면 저희가 직접 돌려드려야 합니까?",
        "답변해 주시는 것에 미리 감사드립니다.",
-       "정중한 인사를 드리며\nAna Ribeiro"],
+       "정중한 인사를 드리며, Ana Ribeiro"],
      "redemittel": [
        ["in einem Stadtmagazin habe ich Ihre Anzeige gelesen.", "도입: 광고를 본 곳"],
        ["Bevor ich …, habe ich noch einige Fragen.", "편지를 쓰는 이유"],
@@ -201,7 +201,7 @@ SCHREIBEN = {
        "저는 10시 정각에 도착했는데도 40분 넘게 기다려야 했습니다. 포스터에는 기다림 없는 촬영을 약속하고 있는데도 말입니다. 안내된 옷과 배경 상담은 전혀 없었고, 사진사는 눈에 띄게 서둘렀습니다.",
        "사진은 5일이 지나서야 받았고, 그것도 인화된 사진만 받고 파일로는 받지 못했습니다. 게다가 네 장 중 두 장은 배경에 얼룩이 있습니다. 지원 마감일이 그 전에 끝나서 저는 예전 사진을 써야 했습니다.",
        "이번 주 말까지 파일을 이메일로 보내 주시고, 가격의 절반인 24.50유로를 돌려주실 것을 제안합니다. 그렇지 않으면 소비자 센터(Verbraucherzentrale)에 상담을 받겠습니다.",
-       "정중한 인사를 드리며\nViktor Lehmann"],
+       "정중한 인사를 드리며, Viktor Lehmann"],
      "redemittel": [
        ["am 3. März habe ich in Ihrem Studio Bewerbungsfotos machen lassen.", "도입: 언제 무엇을 했는지"],
        ["Leider hat Ihr Service fast nichts von dem gehalten, was Ihr Plakat verspricht.", "핵심 불만"],
@@ -213,9 +213,9 @@ SCHREIBEN = {
        ["Andernfalls lasse ich mich von der Verbraucherzentrale beraten.", "다음 조치(사실로 쓰기)"]]},
   ],
   "criteria": [
-    ["I", "Behandlung des Schreibanlasses", "고른 Leitpunkt 3개(또는 2개와 eigener Aspekt)를 상황에 맞게 다뤘는가. 포인트마다 세부 사항과 구체적인 질문이나 요구가 있어야 합니다."],
-    ["II", "Kommunikative Gestaltung", "Betreff·Anrede·Einleitung·Schluss·Gruß를 갖추고 Sie로 썼는가, 문단을 나눴는가, 공손한 접속법 2식(würden Sie, wüsste ich gern, könnte)과 연결어(da, außerdem, obwohl)로 문장을 이었는가."],
-    ["III", "Formale Richtigkeit", "문장 구조, 어형 변화, 철자의 오류가 이해를 방해하지 않는가."]],
+    ["I", "Behandlung des Schreibanlasses", "고른 Leitpunkt 3개(또는 2개와 eigener Aspekt)를 상황에 맞게 다뤘는지 봅니다. 포인트마다 세부 사항과 구체적인 질문이나 요구가 있어야 합니다."],
+    ["II", "Kommunikative Gestaltung", "Betreff·Anrede·Einleitung·Schluss·Gruß를 갖추고 Sie로 썼는지, 문단을 나눴는지, 공손한 접속법 2식(würden Sie, wüsste ich gern, könnte)과 연결어(da, außerdem, obwohl)로 문장을 이었는지 봅니다."],
+    ["III", "Formale Richtigkeit", "문장 구조, 어형 변화, 철자의 오류가 이해를 방해하지 않는지 봅니다."]],
   "criteria_note": "세 기준을 각각 A·B·C·D(5·3·1·0점)로 평가하고 합계 15점에 3을 곱해 최대 45점입니다. 기준 I이 D이면 그 기준은 0점이므로, 포인트를 빠뜨리거나 과제와 다른 내용을 쓰지 마십시오.",
 }
 
@@ -239,7 +239,7 @@ SPRECHEN = {
       ["Was für eine schöne Geschichte! Hat er eigentlich …?", "정말 멋진 이야기네요! 그런데 그분이 …했나요?"],
       ["Wie hast du dich dabei gefühlt?", "그때 기분이 어땠어요?"]]},
   "t2": {
-    "task": "글 „Bus und Bahn zum Nulltarif? Sollte der öffentliche Nahverkehr kostenlos sein?“(버스와 기차를 무료로? 대중교통은 공짜여야 할까?)를 읽고 파트너와 토론합니다. 글의 내용을 이야기하고, 자기 경험을 넣고, 의견과 근거를 말하고, 가능한 해결책을 이야기합니다.",
+    "task": "글 „Bus und Bahn zum Nulltarif? Sollte der öffentliche Nahverkehr kostenlos sein?“(버스와 기차를 무료로 탈 수 있어야 할까요? 대중교통은 무료여야 할까요?)를 읽고 파트너와 토론합니다. 글의 내용을 이야기하고, 자기 경험을 넣고, 의견과 근거를 말하고, 가능한 해결책을 이야기합니다.",
     "a_label": "글의 찬성 논거",
     "a": "룩셈부르크는 2020년 2월 말부터 전국 대중교통이 무료이고(1등석만 유료), 에스토니아 탈린은 2013년부터 주민이 무료로 탑니다. 찬성하는 사람들은 기후 보호를 듭니다. 표가 공짜면 더 많은 사람이 차를 두고 다녀 도로가 한산해지고 공기가 깨끗해집니다. 돈이 적은 사람도 병원, 장보기, 영화관에 다닐 수 있습니다. 발매기와 검표가 필요 없어 비용이 줄고, 시내에서 주차 자리를 찾지 않아도 됩니다.",
     "b_label": "글의 반대 논거와 중간 해법",
@@ -258,7 +258,7 @@ SPRECHEN = {
       ["Befürworter hoffen, dass … Kritiker sagen, …", "찬성하는 사람들은 …을 기대합니다. 비판하는 사람들은 …라고 말합니다."],
       ["Wie siehst du das?", "어떻게 생각해요?"],
       ["Auf der einen Seite …, auf der anderen Seite …", "한편으로는 …, 다른 한편으로는 …"],
-      ["Da muss ich Ihnen widersprechen.", "그 점에는 반대 의견을 말씀드려야겠습니다."],
+      ["Da muss ich dir (Ihnen) widersprechen.", "그 점에는 반대 의견을 말해야겠어요."],
       ["Da hast du recht, aber …", "그 말이 맞아요, 하지만 …"],
       ["Auch wenn er kostenlos wäre, würde ich …", "그게 무료라고 해도 저는 …할 거예요."],
       ["Das wäre ein guter Kompromiss.", "그게 좋은 타협안이겠네요."]]},
