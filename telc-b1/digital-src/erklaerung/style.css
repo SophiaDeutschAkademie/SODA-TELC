@@ -142,6 +142,11 @@ body.hide .words li.u{font-weight:400}
   .tbl{font-size:14.5px}
   .tbl th,.tbl td{padding:8px 10px}
   .navin{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;padding-right:12px;margin-right:56px}
+  body:has(#soda-toc-btn) .navin{margin-right:104px}
+  .brand{padding-right:96px}
+  .brand b{font-size:16px}
+  #soda-toc-btn{width:38px;padding:0;justify-content:center;font-size:0;gap:0}
+  #soda-toc-btn svg{width:18px;height:18px}
   .navin a,.navin button{padding:8px 11px;font-size:13.5px}
 }
 @media print{
