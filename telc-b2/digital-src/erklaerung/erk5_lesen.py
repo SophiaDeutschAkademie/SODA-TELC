@@ -232,7 +232,7 @@ SB2 = {
     {"no": "33", "ans": "h",
      "sent": "Untersuchungen belegen, dass Beschäftigte, die mittags tatsächlich abschalten, in den darauffolgenden Stunden deutlich leistungsfähiger sind.",
      "ko": "연구에 따르면 점심때 실제로 머리를 쉬는 직원들은 그 뒤 몇 시간 동안 훨씬 더 능률이 높습니다.",
-     "why": "sind 앞은 서술어 형용사 자리이고, 서술어 형용사에는 어미가 붙지 않습니다. deutlich(뚜렷이, 훨씬)는 비교급 앞에 자주 옵니다: deutlich besser, deutlich leistungsfähiger.",
+     "why": "sind 앞은 서술어 형용사 자리이고, 서술어 형용사에는 격 어미가 붙지 않습니다. leistungsfähiger의 -er는 격 어미가 아니라 비교급 표시입니다(leistungsfähig → leistungsfähiger). deutlich(뚜렷이, 훨씬)는 비교급 앞에 자주 옵니다: deutlich besser, deutlich leistungsfähiger.",
      "wrong": "GESETZLICHEN은 어미 -en이 붙어 있어 명사 앞에만 올 수 있습니다. sein 뒤 서술어 자리에는 올 수 없습니다."},
     {"no": "34", "ans": "k",
      "sent": "Besonders wirksam ist eine Unterbrechung allerdings nur, sofern sie räumlichen und gedanklichen Abstand zur Arbeit schafft.",
