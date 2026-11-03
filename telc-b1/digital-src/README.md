@@ -12,6 +12,7 @@
 | `build-index.py` | `data`, PDF, MP3로 이 앱 폴더의 `index.html`(표지·응시 방식·목록·시험별 페이지)을 만듭니다 |
 | `guidelib.py`, `build-guide.py`, `build-sprechen.py` | 쓰기·말하기 시험 대비 가이드(`schreiben-guide.html`, `sprechen-guide.html`)를 만듭니다. 글은 `guide-data.json`, `sprechen-data.json`에 있고, 모범 답안·대화의 단어 수가 범위를 벗어나면 빌드가 멈춥니다 |
 | `index-style.css` | `index.html`의 스타일 |
+| `erklaerung/` | Modelltest별 해설 페이지 원본(`erklaerung/README.md`). 해설 파일이 있으면 `build-index.py`가 시험 페이지에 「해설」 버튼을 넣습니다 |
 | `validate.py` | `data/mtN.json` 형식 검사. PDF에 글자층이 있으면 정답 40개를 Lösungsschlüssel와 대조하고 본문 누락을 찾습니다 |
 | `logo-small.png`, `logo-index.png` | 시험 화면, 목록 페이지의 로고 |
 | `fonts/pretendard-soda.woff`, `fonts/pretendard-index.woff` | Pretendard 중 시험 화면, 목록 페이지에 쓰는 글자만 담은 파일(SIL OFL 1.1) |
