@@ -177,7 +177,7 @@ SB1 = {
      "sent": "Den Termin können Sie auch direkt mit meiner Nachbarin Frau Özdemir vereinbaren, die einen Schlüssel hat.",
      "ko": "열쇠를 가지고 있는 제 이웃 Özdemir 씨와 직접 날짜를 정하셔도 됩니다.",
      "why": "einen Termin (mit + 3격) vereinbaren은 ‘(누구와) 약속 날짜를 정하다’라는 고정 표현(명사-동사 연어)입니다. 공식 편지와 업무에서 가장 많이 씁니다.",
-     "wrong": {"a": "verabreden은 주로 sich mit + 3격 verabreden(누구와 만나기로 약속하다)처럼 재귀동사로, 친구와의 사적인 약속에 씁니다. „einen Termin verabreden“도 틀린 독일어는 아니지만 일상 대화에 가까운 말입니다. 공식 편지에서 Termin과 짝을 이루는 표준 표현은 vereinbaren이고, 시험은 이것을 정답으로 봅니다.",
+     "wrong": {"a": "verabschieden은 ‘작별 인사를 하다’(sich verabschieden) 또는 ‘(법안을) 통과시키다’(ein Gesetz verabschieden)입니다. 앞부분 ver-가 vereinbaren과 같아 헷갈리기 쉽지만 Termin과 함께 쓰지 않습니다.",
                "b": "veranstalten은 ‘(행사를) 열다, 개최하다’입니다: ein Konzert veranstalten. Termin과 쓰지 않습니다."}},
     {"no": "27", "ans": "a",
      "sent": "Darüber hinaus möchte ich Sie fragen, ob die Miete für diesen Monat wegen der kalten Wohnung gemindert werden kann.",

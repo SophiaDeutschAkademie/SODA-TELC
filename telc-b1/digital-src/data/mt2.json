@@ -105,7 +105,7 @@
    "instruction": "Lesen Sie den Text und die Aufgaben 6–10. Welche Lösung (a, b oder c) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 6–10 auf dem Antwortbogen.",
    "kind": "article",
    "title": "Vier Tage arbeiten, drei Tage frei",
-   "lead": "Der Malerbetrieb Janssen in Bremen hat ein Jahr lang die Vier-Tage-Woche getestet. Jetzt erzählen Chef und Mitarbeiter, was sich Verändert hat.",
+   "lead": "Der Malerbetrieb Janssen in Bremen hat ein Jahr lang die Vier-Tage-Woche getestet. Jetzt erzählen Chef und Mitarbeiter, was sich verändert hat.",
    "paragraphs": [
     "Freitagmorgen, acht Uhr. In der Werkstatt des Malerbetriebs Janssen ist es still, die Autos stehen auf dem Hof. Seit einem Jahr arbeiten die 14 Angestellten nur noch von Montag bis Donnerstag – bei gleichem Lohn. „Wir haben drei Jahre lang keinen einzigen Auszubildenden gefunden“, erzählt Inhaber Peter Janssen, 58. „Junge Leute wollen heute nicht mehr 40 Stunden auf der Leiter stehen. Also musste uns etwas einfallen.“ Von einem Kollegen aus Dänemark hatte er gehört, dass es dort funktioniert; seine eigene Frau hielt die Idee zunächst für verrückt.",
     "Das Modell ist einfach: Statt fünfmal acht Stunden arbeiten die Maler jetzt viermal neun, von sieben bis halb fünf. Die Wochenarbeitszeit ist damit von 40 auf 36 Stunden gesunken. Am Anfang hatte Janssen Angst, dass die Kunden das nicht akzeptieren würden. „Aber die meisten Aufträge dauern sowieso mehrere Tage. Ob wir am Freitag da sind oder nicht, merken die Kunden kaum.“ Eine einzige Beschwerde gab es – von einem Kunden, der ausgerechnet an einem Freitag einen Wasserschaden hatte. Seitdem gibt es für Notfälle eine Telefonnummer.",
@@ -471,7 +471,7 @@
     {
      "no": "26",
      "options": {
-      "a": "verabreden",
+      "a": "verabschieden",
       "b": "veranstalten",
       "c": "vereinbaren"
      },

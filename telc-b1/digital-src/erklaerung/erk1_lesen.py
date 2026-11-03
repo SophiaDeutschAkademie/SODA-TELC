@@ -155,7 +155,7 @@ SB1 = {
      "sent": "Noch am selben Tag habe ich mich telefonisch an Ihre Hotline gewandt",
      "ko": "바로 그날 저는 전화로 귀사의 고객센터에 문의했습니다.",
      "why": "sich an + 4격 wenden은 ‘~에게 문의하다, 연락하다’입니다. 이 뜻일 때 과거분사는 gewandt를 씁니다(wenden – wandte – hat gewandt).",
-     "wrong": {"a": "gewendet는 주로 ‘뒤집다, 방향을 돌리다’(das Auto wenden, den Braten wenden)의 과거분사입니다. ‘문의하다’에는 gewandt를 쓰는 것이 표준입니다.",
+     "wrong": {"a": "gewandert는 wandern(걷다, 하이킹하다)의 과거분사입니다. 철자가 gewandt와 비슷해 헷갈리기 쉽지만 뜻이 맞지 않고, wandern은 재귀동사로 쓰지 않습니다.",
                "b": "gewunden은 winden(감다, 비틀다)의 과거분사입니다. 뜻이 다릅니다."}},
     {"no": "24", "ans": "b",
      "sent": "… sind wir auf den Kinderwagen dringend angewiesen.",
