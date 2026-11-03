@@ -208,7 +208,7 @@ SB1 = {
 SB2 = {
   "title": "Wenn die Nacht zu hell wird",
   "tip": "Sprachbausteine Teil 2는 단어 15개 중 10개를 고르는 문제입니다. 먼저 단어를 품사별로 나누십시오(전치사 3, 접속사 2, 대명부사 2, 명사 3, 동사 2, 형용사 3). 빈칸 앞뒤를 보고 필요한 품사와 짝 표현(zum … kommen, in diesem …, reagieren auf)을 찾으면 후보가 둘로 줄어듭니다. 같은 품사의 두 단어(BEEINTRÄCHTIGEN과 ENTSCHÄRFEN, DARAUF와 DARÜBER, ANGESICHTS와 LAUT)는 뜻과 함께 쓰는 동사로 구별합니다.",
-  "unused": "남는 단어 5개: AUSDRUCK(zum Ausdruck kommen은 생각이나 감정이 드러날 때 씀), DARÜBER(sich ärgern über, sprechen über와 짝), OBWOHL(‘~에도 불구하고’, 양보), ÜBERFLÜSSIG(‘불필요한’, 31번과 40번에 문법상 들어가지만 뜻이 맞지 않음), WÄHREND(‘~하는 동안’ 또는 ‘~인 반면’). 모두 정답 단어와 같은 품사로 만든 함정입니다.",
+  "unused": "남는 단어 5개: AUSDRUCK(zum Ausdruck kommen은 생각이나 감정이 드러날 때 씀), DARÜBER(sich ärgern über, sprechen über와 짝), OBWOHL(‘~에도 불구하고’, 양보), ÜBERFLÜSSIG(‘불필요한’, 31번에 문법상 들어가지만 뜻이 맞지 않음), WÄHREND(‘~하는 동안’ 또는 ‘~인 반면’). 모두 정답 단어와 같은 품사로 만든 함정입니다.",
   "items": [
     {"no": "31", "ans": "k",
      "sent": "während die Milchstraße für die meisten Menschen in Europa längst unsichtbar geworden ist.",
