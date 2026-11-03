@@ -220,7 +220,7 @@ SB2 = {
   "unused": "남는 단어 5개: DARAN(an과 짝을 이루는 전치사 결합 부사), GEMÜTLICH(‘편안하게’, 31번의 함정), OBWOHL(양보의 종속접속사, 34·36번의 함정), TROTZ(2격 전치사, 40번의 반대 뜻), URSACHEN(복수 명사, 35번의 함정). 모두 정답 단어와 품사가 같아 헷갈리게 만든 단어입니다.",
   "items": [
     {"no": "31", "ans": "j",
-     "sent": "Einer repräsentativen Umfrage zufolge isst nahezu jeder Dritte REGELMÄSSIG am Arbeitsplatz, …",
+     "sent": "Einer repräsentativen Umfrage zufolge isst nahezu jeder Dritte regelmäßig am Arbeitsplatz, …",
      "ko": "대표성 있는 설문 조사에 따르면 거의 세 명 중 한 명이 규칙적으로 일하는 자리에서 점심을 먹습니다.",
      "why": "빈칸은 동사 isst와 장소 am Arbeitsplatz 사이의 부사 자리입니다. 앞 문장의 Tag für Tag(날마다)를 regelmäßig(규칙적으로)가 받습니다. 대문자로만 쓸 때는 ß를 SS로 쓰므로 단어 상자의 REGELMÄSSIG는 regelmäßig입니다.",
      "wrong": "GEMÜTLICH(편안하게)도 부사 자리에 들어갈 수 있지만, 앞 문장의 „nebenbei noch rasch“(곁들여 서둘러)와 뜻이 반대입니다."},

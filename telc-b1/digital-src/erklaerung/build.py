@@ -77,10 +77,23 @@ for it in SB1["items"]:
     w = next(x for x in L["sb1"]["items"] if x["no"] == it["no"])["options"][it["ans"]]
     if w not in it["sent"]:
         sys.exit(f"SB {it['no']}: 문장에 정답 {w} 없음")
+def _norm(t):
+    return t.lower().replace("ß", "ss")
+
+
+SB2_SHOW = {}  # 정답을 채운 글에 보일 형태: 해설 문장 속 실제 철자(REGELMÄSSIG → regelmäßig)
 for it in SB2["items"]:
-    w = L["sb2"]["words"][it["ans"]].lower()
-    if w not in it["sent"].lower():
+    w = L["sb2"]["words"][it["ans"]]
+    m = re.search(r"\b" + re.escape(_norm(w)) + r"\b", _norm(it["sent"]))
+    if not m:
         sys.exit(f"SB {it['no']}: 문장에 정답 {w} 없음")
+    # 같은 위치의 원래 철자 찾기 (ß가 ss로 바뀌어 길이가 다를 수 있음)
+    for tok in re.findall(r"[\wÄÖÜäöüß-]+", it["sent"]):
+        if _norm(tok) == _norm(w):
+            SB2_SHOW[it["no"]] = tok if tok != tok.upper() or len(tok) == 1 else tok.lower()
+            break
+    else:
+        SB2_SHOW[it["no"]] = w.lower()
 
 
 # ---------- 조각 ----------
@@ -190,7 +203,7 @@ wbox = "".join(f'<li class="{"u" if k in used else "n"}"><b>{k}</b><span lang="d
 p = [f'<section id="s2"><h2><small>Sprachbausteine</small>Teil 2 · {e(SB2["title"])}</h2>', tip(SB2["tip"]),
      f'<div class="words"><h5>단어 상자 <small>진하게 = 정답으로 쓰인 단어</small></h5><ul>{wbox}</ul></div>',
      '<details class="full"><summary>정답을 채운 전체 글 보기</summary>',
-     gap_text(L["sb2"]["paragraphs"], lambda n: W[sb2ans[n]].lower()), "</details>"]
+     gap_text(L["sb2"]["paragraphs"], lambda n: SB2_SHOW.get(n, W[sb2ans[n]].lower())), "</details>"]
 for it in SB2["items"]:
     head = f'<p class="pick rv">{de(it["sent"])}</p><p class="tr rv">{e(it["ko"])}</p>'
     body = f'<p>{e(it["why"])}</p>' + (f'<p class="trap"><b>헷갈리는 단어</b>{e(it["wrong"])}</p>' if it["wrong"] else "")
