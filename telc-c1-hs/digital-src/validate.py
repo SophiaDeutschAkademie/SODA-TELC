@@ -218,7 +218,7 @@ def pdf_text(path, first, last):
 
 def despace(s):
     s = re.sub(r"\{\{(\d+)\}\}", r"\1", s)
-    return re.sub(r"[\s\-­]+", "", s)
+    return re.sub(r"[\s\-­‐]+", "", s)
 
 
 def check_key(d, pdf):
