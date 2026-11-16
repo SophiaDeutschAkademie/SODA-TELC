@@ -15,3 +15,7 @@
 ## 해설
 
 시험 페이지마다 Lösungsschlüssel 앞에 「해설」 버튼이 있고, `telc B2 Modelltest N 해설.html`로 연결됩니다. 원본과 다시 만드는 방법은 `erklaerung/README.md`에 있습니다.
+
+## 작문 연습
+
+Modelltest I–V의 시험 페이지(페이퍼는 Schriftlicher Ausdruck 영역, 디지털은 Schreiben 줄 아래)에 「작문 연습」 줄이 있고, `telc B2 Modelltest N 작문 연습.html`로 연결됩니다. Aufgabe A·B마다 B1 답안을 주어진 B2 표현으로 고쳐 쓰는 연습지입니다. 원본과 다시 만드는 방법은 `schreibuebung/README.md`에 있습니다.

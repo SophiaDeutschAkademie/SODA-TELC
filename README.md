@@ -7,7 +7,7 @@ telc Deutsch B1, B2, C1 Hochschule 모의고사(Modelltest)입니다. 페이퍼 
 | 폴더 | 내용 |
 |---|---|
 | `telc-b1/` | telc Deutsch B1, Modelltest 5개, 쓰기·말하기 시험 대비 가이드 |
-| `telc-b2/` | telc Deutsch B2, Modelltest 7개 (페이퍼·디지털 모두), 쓰기·말하기 시험 대비 가이드 |
+| `telc-b2/` | telc Deutsch B2, Modelltest 7개 (페이퍼·디지털 모두), 쓰기·말하기 시험 대비 가이드, Modelltest I–V 작문 연습(`… 작문 연습.html`, B1 답안을 B2 표현으로 고쳐 쓰기) |
 | `telc-c1-hs/` | telc Deutsch C1 Hochschule, Modelltest 5개 (Mündlich는 PDF로만, 디지털 화면 없음), 쓰기·말하기 시험 대비 가이드 |
 | `tools/` | 다크 모드 스위치와 「목차」 버튼을 넣는 `soda-theme.py` |
 | `assets/` | 시작 페이지의 로고와 글꼴 |
@@ -56,4 +56,4 @@ python3 tools/soda-theme.py telc-b1/index.html --kind index
 
 ## 선생님께 제출하기
 
-디지털 시험 결과 화면의 「선생님께 제출하기」는 소피아 독일어학원 수강생 전용입니다. 필기 결과와, 같은 브라우저에서 한 말하기 실전 연습 기록(telc B1·B2)을 한 통으로 Google Apps Script 웹 앱에 보내고, 웹 앱이 선생님 메일로 전달합니다. 스크립트와 설정 방법은 SODA-Goethe 저장소의 `tools/제출 받기/`에 있고, 이 저장소의 시험 화면도 같은 웹 앱 주소를 씁니다. 주소는 `python3 tools/set-submit-url.py "<웹 앱 URL>"`로 한 번에 넣습니다. 새 앱 폴더에는 `python3 tools/add-submit.py <폴더>`로 기능을 넣습니다(지금 template.html에는 이미 들어 있습니다).
+디지털 시험 결과 화면의 「선생님께 제출하기」는 소피아 독일어학원 수강생 전용입니다. 필기 결과와, 같은 브라우저에서 한 말하기 실전 연습 기록(telc B1·B2)을 한 통으로 Google Apps Script 웹 앱에 보내고, 웹 앱이 선생님 메일로 전달합니다. 스크립트와 설정 방법은 SODA-Goethe 저장소의 `tools/제출 받기/`에 있고, 이 저장소의 시험 화면도 같은 웹 앱 주소를 씁니다. 주소는 `python3 tools/set-submit-url.py "<웹 앱 URL>"`로 한 번에 넣습니다. telc B2 작문 연습(`telc-b2/telc B2 Modelltest N 작문 연습.html`)의 「선생님께 제출하기」도 같은 주소로 보냅니다. 학습 기록 형식(`app: 'lehrwerk'`)이라 메일 제목은 「[SODA 학습 기록] telc B2 Modelltest N 작문 연습 · 이름」이고, `set-submit-url.py`가 이 페이지들의 주소도 함께 바꿉니다. 새 앱 폴더에는 `python3 tools/add-submit.py <폴더>`로 기능을 넣습니다(지금 template.html에는 이미 들어 있습니다).
