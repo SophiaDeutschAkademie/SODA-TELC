@@ -7,12 +7,12 @@
    "intro": "In einer populärwissenschaftlichen Zeitschrift lesen Sie folgenden Beitrag:",
    "title": "Der Mann, der die Kontinente wandern ließ",
    "paragraphs": [
-    "Wer eine Weltkarte aufmerksam betrachtet, dem fällt es fast zwangsläufig auf: Die Ostküste Südamerikas und die Westküste Afrikas passen zusammen wie die Teile eines Puzzles. {{0}} Der Meteorologe und Polarforscher Alfred Wegener dagegen nahm die Beobachtung ernst und zog daraus 1912 einen kühnen Schluss: Die Kontinente seien einst zu einer einzigen Landmasse vereint gewesen und hätten sich im Laufe von Jahrmillionen voneinander entfernt.",
-    "Dabei stützte sich Wegener keineswegs nur auf die Form der Küstenlinien. {{1}} So fand man Fossilien des Mesosaurus, eines kleinen Süßwasserreptils, sowohl in Brasilien als auch im Süden Afrikas – ein Tier, das niemals einen ganzen Ozean hätte durchqueren können. Auch Gesteinsschichten und Gebirgszüge setzten sich auf beiden Seiten des Atlantiks nahezu nahtlos fort. In ihrer Gesamtheit ergaben diese Indizien ein Bild, das sich mit bloßem Zufall kaum erklären ließ.",
-    "Dennoch stieß seine Theorie in der Fachwelt überwiegend auf heftige Ablehnung. {{2}} Vor allem konnte Wegener nicht überzeugend erklären, welche Kraft imstande sein sollte, ganze Kontinente über die Erdoberfläche zu schieben. Seine Vermutung, dafür seien die Fliehkraft der Erddrehung und die Gezeiten verantwortlich, ließ sich rechnerisch leicht widerlegen: Beide Kräfte sind viel zu schwach.",
-    "Die späte Anerkennung seiner Idee erlebte Wegener selbst nicht mehr. {{3}} Erst in den 1950er- und 1960er-Jahren lieferte die systematische Erforschung der Ozeanböden die lange fehlenden Belege. Geologen entdeckten, dass entlang der mittelozeanischen Rücken ständig glutflüssiges Gestein aus dem Erdinneren aufsteigt, erkaltet und als neue Kruste zu beiden Seiten hin auseinandergedrückt wird. {{4}}",
-    "Am Meeresboden entstehen so Streifen mit wechselnder Magnetisierung, die beiderseits der Rücken spiegelbildlich verlaufen. Aus diesen und weiteren Befunden entwickelte sich die Theorie der Plattentektonik, die heute als Fundament der modernen Geowissenschaften gilt. {{5}}",
-    "Wegeners Grundgedanke, dass die Kontinente wandern, hat sich damit als richtig erwiesen, auch wenn er sich in der Frage nach dem Antrieb geirrt hatte. Heute lässt sich die Drift, die er nur indirekt erschließen konnte, sogar direkt messen. {{6}} Das entspricht ungefähr dem Tempo, mit dem unsere Fingernägel wachsen. Ein großes Institut für Polar- und Meeresforschung in Bremerhaven trägt seinen Namen."
+    "Bei der Betrachtung einer Weltkarte fällt es fast zwangsläufig auf: Die Ostküste Südamerikas und die Westküste Afrikas passen zusammen wie die Teile eines Puzzles. {{0}} Der Meteorologe und Polarforscher Alfred Wegener dagegen nahm diese Beobachtung ernst und zog daraus 1912 eine kühne Schlussfolgerung: Die Kontinente seien ursprünglich zu einer einzigen Landmasse vereint gewesen und hätten sich im Laufe von Jahrmillionen voneinander entfernt.",
+    "Dabei stützte sich Wegener keineswegs nur auf die Übereinstimmung der Küstenlinien. {{1}} So entdeckte man Fossilien des Mesosaurus, eines kleinen Süßwasserreptils, sowohl in Brasilien als auch im Süden Afrikas – ein Lebewesen, das niemals einen ganzen Ozean hätte durchqueren können. Auch Gesteinsschichten und Gebirgszüge setzten sich auf beiden Seiten des Atlantiks nahezu nahtlos fort. In ihrer Gesamtheit ergaben diese Belege ein Bild, das sich mit bloßem Zufall kaum erklären ließ.",
+    "Dennoch stieß seine Theorie in der Fachwelt überwiegend auf heftige Ablehnung. {{2}} Vor allem fehlte Wegener eine überzeugende Erklärung dafür, welche Kräfte imstande sein sollten, ganze Kontinente über die Erdoberfläche zu schieben. Seine Vermutung, dafür seien die Fliehkraft der Erdrotation und die Gezeiten verantwortlich, ließ sich durch einfache Berechnungen widerlegen: Beide Kräfte sind viel zu schwach.",
+    "Die späte Anerkennung seiner Theorie erlebte Wegener selbst nicht mehr. {{3}} Erst in den 1950er- und 1960er-Jahren lieferte die systematische Erforschung der Ozeanböden die lange fehlenden Belege. Geologen wiesen nach, dass entlang der mittelozeanischen Rücken ständig glutflüssiges Gestein aus dem Erdinneren aufsteigt, erkaltet und als neue Erdkruste zu beiden Seiten hin auseinandergedrückt wird. {{4}}",
+    "Auf den Ozeanböden entstehen so Streifen mit wechselnder Magnetisierung, die zu beiden Seiten der Ozeanrücken spiegelbildlich verlaufen. Aus diesen und weiteren Befunden entwickelte sich die Theorie der Plattentektonik, die mittlerweile als Fundament der modernen Geowissenschaften gilt. {{5}}",
+    "Wegeners Grundgedanke einer Wanderung der Kontinente hat sich damit als zutreffend erwiesen, auch wenn er sich in der Frage nach dem Antrieb geirrt hatte. Inzwischen lässt sich diese Wanderung, die er nur indirekt erschließen konnte, sogar direkt messen. {{6}} Das entspricht ungefähr der Geschwindigkeit, mit der unsere Fingernägel wachsen. Ein bedeutendes Institut für Polar- und Meeresforschung in Bremerhaven trägt seinen Namen."
    ],
    "sentences": [
     {
@@ -25,11 +25,11 @@
     },
     {
      "letter": "c",
-     "text": "Dass ausgerechnet ein Meteorologe die Geologie umkrempeln wollte, empfanden viele Fachleute als Anmaßung."
+     "text": "Dass ausgerechnet ein Meteorologe die Geologie umkrempeln wollte, empfanden zahlreiche Geologen als Anmaßung."
     },
     {
      "letter": "d",
-     "text": "Satellitendaten zeigen, dass sich Europa und Nordamerika jedes Jahr um zwei bis drei Zentimeter voneinander entfernen."
+     "text": "Satellitenmessungen zeigen, dass sich Europa und Nordamerika jährlich um zwei bis drei Zentimeter voneinander entfernen."
     },
     {
      "letter": "e",
@@ -37,7 +37,7 @@
     },
     {
      "letter": "f",
-     "text": "Er trug vielmehr Belege aus ganz unterschiedlichen Fachgebieten zusammen, von der Paläontologie bis zur Klimageschichte."
+     "text": "Er trug vielmehr Belege aus völlig unterschiedlichen Fachgebieten zusammen, von der Paläontologie bis zur Klimageschichte."
     },
     {
      "letter": "g",
@@ -45,7 +45,7 @@
     },
     {
      "letter": "h",
-     "text": "Dabei hält das erkaltende Gestein die Richtung des Erdmagnetfelds fest, das sich im Laufe der Erdgeschichte immer wieder umgepolt hat."
+     "text": "Dabei hält das erkaltende Gestein die Ausrichtung des Erdmagnetfelds fest, das sich im Laufe der Erdgeschichte immer wieder umgepolt hat."
     }
    ],
    "example": {
@@ -85,23 +85,23 @@
    "sections": [
     {
      "letter": "a",
-     "text": "Das Smartphone liegt beim Abendessen neben dem Teller, es vibriert kurz, und schon ist man in Gedanken wieder im Büro. Für einen großen Teil der Berufstätigen gehört das längst zum Alltag: Umfragen zufolge ist die Mehrheit auch abends, am Wochenende und sogar im Urlaub für Vorgesetzte oder Kollegen erreichbar. Wo der Arbeitstag endet und das Privatleben beginnt, können viele kaum noch sagen, wobei manche die ständige Verfügbarkeit nicht einmal mehr als Belastung, sondern als selbstverständlichen Bestandteil des Berufslebens empfinden. Einige Staaten haben darauf bereits mit Gesetzen reagiert: In Frankreich müssen größere Unternehmen seit 2017 mit ihren Beschäftigten Regeln aushandeln, die ein ‚Recht auf Abschalten‘ sichern. Portugal ist noch weiter gegangen und hat es Arbeitgebern inzwischen weitgehend untersagt, ihre Angestellten nach Dienstschluss zu kontaktieren. In Deutschland dagegen wird zwar intensiv über das Thema diskutiert, verbindliche Vorgaben existieren bislang jedoch kaum. Ich bin überzeugt, dass wir dringend klare Regeln brauchen – die Frage ist nur, wer sie aufstellen sollte."
+     "text": "Das Smartphone liegt beim Abendessen neben dem Teller, es vibriert kurz, und schon ist man in Gedanken wieder bei der Arbeit. Für viele Beschäftigte gehört das längst zum Arbeitsalltag: Umfragen zufolge ist die Mehrheit der Beschäftigten auch nach Feierabend, am Wochenende und sogar im Urlaub für Vorgesetzte erreichbar. Wo die Arbeit endet und das Privatleben beginnt, können viele kaum noch sagen; manche empfinden die ständige Erreichbarkeit nicht einmal mehr als Belastung, sondern als selbstverständlichen Bestandteil des Berufslebens. Als Reaktion auf diese Entgrenzung haben einige Staaten bereits gesetzliche Regelungen eingeführt: In Frankreich müssen größere Firmen seit 2017 mit ihren Beschäftigten Vereinbarungen aushandeln, die ein ‚Recht auf Abschalten‘ sichern. Portugal ist noch weiter gegangen und hat es Arbeitgebern inzwischen weitgehend untersagt, Beschäftigte nach Feierabend zu kontaktieren. In Deutschland dagegen wird über die Erreichbarkeit zwar intensiv diskutiert, verbindliche Vorgaben existieren bislang jedoch kaum. Ich bin überzeugt, dass wir klare Regelungen brauchen – offen ist nur, wer sie aufstellen sollte."
     },
     {
      "letter": "b",
-     "text": "Zugegeben: Die ständige Verbindung hat auch Vorzüge, und manche Beschäftigte möchten sie nicht mehr missen. Wer kleine Kinder hat, kann nachmittags früher gehen und abends noch eine dringende Anfrage bearbeiten, statt bis sechs Uhr im Büro zu sitzen. Teams, die über mehrere Zeitzonen verteilt sind, könnten ohne ein gewisses Maß an Flexibilität kaum zusammenarbeiten. Auch ist nicht jede Nachricht nach Feierabend eine Zumutung: Eine kurze Rückfrage, die man in einer Minute beantworten kann, erspart einem Kollegen am nächsten Morgen womöglich einen halben Tag Arbeit. Viele Selbstständige schätzen es zudem, ihre Zeit frei einzuteilen und auch spätabends noch Aufträge anzunehmen, und mancher Vorgesetzte ist schlicht dankbar, wenn eine wichtige Entscheidung nicht bis Montag warten muss. Es wäre also falsch, die Erreichbarkeit pauschal zu verteufeln; ausschlaggebend ist vielmehr, ob sie freiwillig ist und die Ausnahme bleibt – oder ob sie stillschweigend erwartet wird."
+     "text": "Zugegeben: Die ständige Erreichbarkeit hat auch Vorzüge, und manche Beschäftigte möchten sie nicht mehr missen. Wer kleine Kinder hat, kann nachmittags früher gehen und abends noch eine dringende Mail beantworten. Teams, die über mehrere Zeitzonen verteilt sind, wären ohne ein gewisses Maß an Flexibilität kaum arbeitsfähig. Auch ist nicht jede Mail nach Feierabend eine Zumutung: Eine kurze Rückfrage, deren Beantwortung eine Minute dauert, erspart einer Kollegin am nächsten Morgen womöglich einen halben Tag Arbeit. Viele Selbstständige schätzen zudem die freie Einteilung ihrer Arbeitszeit und nehmen auch spätabends noch Aufträge an, und mancher Vorgesetzte ist schlicht dankbar, wenn eine wichtige Entscheidung nicht bis zum nächsten Morgen warten muss. Eine pauschale Verurteilung der Erreichbarkeit wäre also verfehlt; ausschlaggebend ist vielmehr, ob sie freiwillig ist und die Ausnahme bleibt – oder ob sie stillschweigend erwartet wird."
     },
     {
      "letter": "c",
-     "text": "Genau diese stille Erwartung ist das eigentliche Problem. Arbeitspsychologen wissen seit Langem, dass Erholung nur gelingt, wenn man auch gedanklich Abstand von der Arbeit gewinnt. Wer jederzeit mit einer Nachricht rechnen muss, findet diesen Abstand nie. Gefährdet sind dabei gerade die besonders Engagierten, denen es ohnehin schwerfällt, Grenzen zu ziehen. Eine Untersuchung aus den USA kam zu dem Ergebnis, dass bereits die Erwartung, abends E-Mails lesen zu müssen, Anspannung und Ängste auslöst – unabhängig davon, wie viel Zeit man tatsächlich damit verbringt. Bemerkenswert ist ein weiterer Befund: Auch die Partnerinnen und Partner der Befragten waren mit ihrer Beziehung weniger zufrieden, was zeigt, dass die Auswirkungen nicht nur den Einzelnen betreffen. Auf Dauer drohen Schlafstörungen und Erschöpfung, im schlimmsten Fall ein Burn-out, der Betroffene monatelang aus dem Berufsleben reißt. Dass die Unternehmen dabei am Ende mehr verlieren, als sie durch schnelle Antworten gewinnen, wird erstaunlich selten bedacht."
+     "text": "Genau diese stillschweigende Erwartung ist das eigentliche Problem. Arbeitspsychologen wissen seit Langem, dass Erholung nur gelingt, wenn man auch gedanklich Abstand von der Arbeit gewinnt. Wer jederzeit mit einer Mail rechnen muss, findet diesen Abstand nie. Gefährdet sind dabei gerade besonders engagierte Beschäftigte, denen die Abgrenzung ohnehin schwerfällt. Eine Studie aus den USA kam zu dem Ergebnis, dass bereits die Erwartung, nach Feierabend Mails lesen zu müssen, Anspannung und Ängste auslöst – unabhängig davon, wie viel Zeit man tatsächlich mit den Mails verbringt. Bemerkenswert ist ein weiteres Ergebnis der Studie: Auch die Partnerinnen und Partner der Befragten waren mit ihrer Beziehung weniger zufrieden; die Folgen der Erreichbarkeit betreffen also nicht nur die Beschäftigten selbst. Auf Dauer drohen Schlafstörungen und Erschöpfung, im schlimmsten Fall ein Burn-out, der Beschäftigte monatelang aus dem Arbeitsalltag reißt. Dass die Firmen dabei am Ende mehr verlieren, als sie durch eine schnelle Antwort gewinnen, wird erstaunlich selten bedacht."
     },
     {
      "letter": "d",
-     "text": "Muss also der Gesetzgeber eingreifen? Hier bin ich skeptisch. Das französische Gesetz verpflichtet die Unternehmen lediglich dazu, Vereinbarungen auszuhandeln; wie viel sich dadurch im Arbeitsalltag tatsächlich verändert hat, ist umstritten. Ein starres Verbot wiederum ließe sich in vielen Berufen kaum umsetzen; in einer Klinik oder bei der Feuerwehr wäre eine feste Sperrzeit schlicht undenkbar. Zudem birgt ein solches Verbot eine Gefahr: Wer abends keine Nachrichten mehr verschicken darf, erledigt die Arbeit womöglich trotzdem – nur eben unsichtbar, ohne dass sie irgendwo erfasst wird. Für Selbstständige, die niemandem Rechenschaft schulden, hilft ein Gesetz ohnehin nicht. Vor allem aber nützt ein Recht auf Unerreichbarkeit wenig, wenn sich niemand traut, es in Anspruch zu nehmen, weil er fürchtet, als weniger engagiert zu gelten. Eine Regel, die nur auf dem Papier steht, beruhigt allenfalls das Gewissen der Politik."
+     "text": "Muss also der Gesetzgeber eingreifen? Hier bin ich skeptisch. Die französische Regelung verpflichtet die Firmen lediglich zur Aushandlung von Vereinbarungen; wie viel sich dadurch im Arbeitsalltag tatsächlich verändert hat, ist umstritten. Ein starres Verbot wiederum ließe sich in vielen Berufen kaum umsetzen; in einer Klinik oder bei der Feuerwehr wäre eine feste Sperrzeit schlicht undenkbar. Zudem birgt ein Verbot eine Gefahr: Wer nach Feierabend keine Mails mehr verschicken darf, erledigt die Arbeit womöglich trotzdem – nur eben unsichtbar und ohne Erfassung der Arbeitszeit. Für Selbstständige, die niemandem Rechenschaft schulden, bleiben gesetzliche Regelungen ohnehin wirkungslos. Vor allem aber nützt ein Recht auf Abschalten wenig, wenn die Beschäftigten es aus Furcht, als weniger engagiert zu gelten, nicht in Anspruch nehmen. Eine Regelung, die nur auf dem Papier steht, beruhigt allenfalls das Gewissen der Politik."
     },
     {
      "letter": "e",
-     "text": "Entscheidend ist deshalb, was in den Betrieben selbst geschieht. Teams sollten offen darüber sprechen, wann eine schnelle Antwort wirklich nötig ist und wann eine Nachricht bis zum nächsten Morgen warten kann. Schon eine einfache Abmachung hilft: Wer abends schreibt, erwartet keine Antwort vor Arbeitsbeginn. Einige Unternehmen sind dabei bereits vor Jahren eigene Wege gegangen: Bei Volkswagen leiten die Server für viele Beschäftigte nach Dienstschluss keine E-Mails mehr auf das Diensthandy weiter, und bei Daimler werden Mails, die im Urlaub eintreffen, auf Wunsch automatisch gelöscht. Technik allein ändert allerdings wenig an der Haltung. Solange die Chefin selbst um Mitternacht Nachrichten verschickt, wird kaum jemand glauben, dass Abschalten tatsächlich erwünscht ist. Wer will, dass der Feierabend respektiert wird, muss ihn also zuerst selbst vorleben. Erreichbarkeit sollte die Ausnahme sein, auf die man sich für Notfälle verständigt – nicht eine Pflicht, die man stillschweigend erfüllt."
+     "text": "Entscheidend ist deshalb, was in den Firmen selbst geschieht. Teams sollten offen darüber sprechen, wann eine schnelle Antwort wirklich nötig ist und wann eine Mail bis zum nächsten Morgen warten kann. Schon eine einfache Vereinbarung hilft: Wer nach Feierabend eine Mail schreibt, erwartet keine Antwort vor Arbeitsbeginn. Einige Firmen sind dabei bereits vor Jahren eigene Wege gegangen: Bei Volkswagen leiten die Server für viele Beschäftigte nach Feierabend keine Mails mehr auf das Diensthandy weiter, und bei Daimler werden Mails, die im Urlaub eintreffen, auf Wunsch automatisch gelöscht. Technik allein ändert allerdings wenig an der Haltung. Solange die Vorgesetzte selbst um Mitternacht Mails verschickt, glauben die Beschäftigten kaum, dass Abschalten tatsächlich erwünscht ist. Wer will, dass der Feierabend respektiert wird, muss ihn also zuerst selbst vorleben. Erreichbarkeit sollte die Ausnahme sein, auf die man sich für Notfälle verständigt – nicht eine Pflicht, die man stillschweigend erfüllt."
     }
    ],
    "exampleLead": "In welchem Abschnitt …",
@@ -113,7 +113,7 @@
    "items": [
     {
      "no": "7",
-     "stem": "stellt der Autor fest, dass die meisten Beschäftigten auch außerhalb der Arbeitszeit erreichbar sind?",
+     "stem": "beruft sich der Autor auf Befragungen, nach denen die meisten Berufstätigen auch in ihrer Freizeit kontaktiert werden können?",
      "answer": "a"
     },
     {
@@ -133,7 +133,7 @@
     },
     {
      "no": "11",
-     "stem": "fordert der Autor, dass Vorgesetzte beim Abschalten mit gutem Beispiel vorangehen?",
+     "stem": "erwartet der Autor von Führungskräften, dass sie den Feierabend vorbildlich einhalten?",
      "answer": "e"
     },
     {
@@ -147,21 +147,21 @@
    "instruction": "Lesen Sie den folgenden Text und die Aussagen 13–23. Welche der Aussagen sind richtig (r), falsch (f) oder gar nicht im Text enthalten (–)? Es gibt jeweils nur eine richtige Lösung. Markieren Sie Ihre Lösungen für die Aufgaben 13–23 auf dem Antwortbogen.",
    "title": "",
    "paragraphs": [
-    "Herr K., 86 Jahre alt, erkennt seine eigene Tochter nicht mehr: Wenn sie ihn im Pflegeheim besucht, begrüßt er sie höflich wie eine Unbekannte. Doch als im Aufenthaltsraum die ersten Takte eines altbekannten Schlagers erklingen, hebt er den Kopf, bewegt die Lippen – und singt die zweite Strophe fehlerfrei mit. Pflegekräften sind solche Momente seit Langem vertraut. Die Forschung dagegen hat erst in den vergangenen Jahren begonnen, systematisch zu untersuchen, warum Melodien offenbar noch im Gedächtnis haften, wenn vieles andere längst verloren ist.",
-    "„Musikalische Erinnerungen sind erstaunlich widerstandsfähig“, sagt Jonas Berger, der als Musikpsychologe an einer Universität erforscht, wie das Gehirn Musik verarbeitet. Ein wesentlicher Grund dafür sei, dass ein Lied nicht an einer einzigen Stelle abgelegt werde. Beim Hören und Mitsingen arbeiten vielmehr zahlreiche Hirnregionen zusammen: solche, die Klänge entschlüsseln, solche, die Bewegungen steuern, und solche, die für Gefühle zuständig sind. Fällt eine dieser Regionen aus, können andere einen Teil ihrer Aufgaben übernehmen, was auch erklärt, warum manche Menschen nach einem Schlaganfall nicht mehr sprechen, wohl aber noch singen können. Eine Studie belegte zudem, dass gerade jene Areale, die beim Wiedererkennen vertrauter Melodien aktiv sind, von der Alzheimer-Krankheit vergleichsweise spät angegriffen werden.",
-    "Hinzu kommt die Macht der Gefühle: Was uns emotional bewegt, behalten wir besser – und kaum etwas bewegt uns so sehr wie die Musik unserer Jugend. Fragt man ältere Menschen nach ihren Lieblingsliedern, nennen sie auffallend häufig Titel, die sie zwischen dem zehnten und dem dreißigsten Lebensjahr kennengelernt haben. Psychologen sprechen vom ‚Erinnerungshügel‘: In diesem Lebensabschnitt bildet sich die Persönlichkeit heraus, erste enge Beziehungen entstehen, und die Musik, die diese Zeit begleitet, verknüpft sich mit besonders intensiven Erlebnissen. Der erste Tanz, das erste Konzert oder die Abschlussfeier bleiben deshalb oft lebenslang mit einem bestimmten Lied verbunden.",
-    "Wie eng Musik und Gefühl zusammenhängen, lässt sich sogar im Gehirn unmittelbar beobachten. Forschende in Kanada stellten fest, dass bei besonders ergreifenden Stellen eines Musikstücks der Botenstoff Dopamin ausgeschüttet wird – derselbe, der auch bei gutem Essen oder anderen Belohnungen eine Rolle spielt. Die Teilnehmenden hatten dafür Lieblingsstücke mitgebracht, bei denen sie regelmäßig Gänsehaut bekamen. Bemerkenswert ist der Zeitpunkt: Die Ausschüttung beginnt bereits kurz vor dem Höhepunkt, also in dem Moment, in dem wir ihn erwarten – die Vorfreude gehört offenbar zum Genuss dazu.",
-    "Genau hier setzt die Musiktherapie an: In immer mehr Pflegeheimen werden für die Bewohnerinnen und Bewohner persönliche Playlists zusammengestellt, die Lieder aus ihrer Vergangenheit enthalten. Erste Studien deuten darauf hin, dass solche Angebote Unruhe und Ängste lindern können und manche Betroffene sogar weniger Beruhigungsmittel benötigen. Pflegekräfte berichten zudem, dass sich einige Bewohnerinnen und Bewohner im Anschluss bereitwilliger waschen und anziehen lassen. Berger warnt allerdings vor überzogenen Erwartungen: „Musik bremst den Verlauf einer Demenz nicht. Aber sie kann Momente schaffen, in denen ein Mensch für kurze Zeit wieder er selbst ist – und in denen die Angehörigen ihn wiederfinden.“",
+    "Herr K., 86 Jahre alt, erkennt seine eigene Tochter nicht mehr: Bei ihren Besuchen im Pflegeheim begrüßt er sie höflich wie eine Unbekannte. Als jedoch im Aufenthaltsraum die ersten Takte eines altbekannten Schlagers erklingen, hebt er den Kopf, bewegt die Lippen – und singt die zweite Strophe fehlerfrei mit. Pflegekräfte kennen solche Momente gut. Die Forschung dagegen hat erst in den vergangenen Jahren mit der systematischen Untersuchung der Frage begonnen, warum Melodien noch im Gedächtnis haften, wenn andere Erinnerungen längst verloren sind.",
+    "„Musikalische Erinnerungen sind erstaunlich widerstandsfähig“, sagt Jonas Berger, der als Musikpsychologe an einer Universität die Verarbeitung von Musik im Gehirn erforscht. Ein wesentlicher Grund dafür sei die Speicherung eines Liedes an vielen Stellen im Gehirn zugleich. Beim Hören und Mitsingen arbeiten nämlich zahlreiche Hirnregionen zusammen: Regionen für die Entschlüsselung von Klängen, für die Steuerung von Bewegungen und für die Verarbeitung von Emotionen. Fällt eine dieser Regionen aus, können andere ihre Funktion teilweise übernehmen, was auch erklärt, warum manche Schlaganfallpatienten nicht mehr sprechen, aber noch singen können. Eine Untersuchung belegte zudem, dass ausgerechnet jene Hirnregionen, die beim Wiedererkennen vertrauter Melodien aktiv sind, von der Alzheimer-Krankheit vergleichsweise spät angegriffen werden.",
+    "Hinzu kommt die Wirkung von Emotionen, denn was uns emotional bewegt, behalten wir besser – und kaum etwas bewegt uns so sehr wie die Musik unserer Jugend. Bei der Frage nach ihren Lieblingsliedern nennen ältere Menschen auffallend häufig Musikstücke, die sie zwischen dem zehnten und dem dreißigsten Lebensjahr kennengelernt haben. Psychologen sprechen vom ‚Erinnerungshügel‘: In dieser Lebensphase bildet sich die Persönlichkeit heraus, erste enge Beziehungen entstehen, und die Musik dieser Zeit verbindet sich mit besonders intensiven Erlebnissen. Der erste Tanz, das erste Konzert oder die Abschlussfeier bleiben deshalb häufig lebenslang mit einer bestimmten Melodie verbunden.",
+    "Die enge Verbindung von Musik und Emotionen lässt sich sogar im Gehirn unmittelbar beobachten. Forschende in Kanada wiesen nach, dass bei besonders ergreifenden Stellen eines Musikstücks der Botenstoff Dopamin ausgeschüttet wird – derselbe Botenstoff, der auch bei gutem Essen oder anderen Belohnungen eine Rolle spielt. Die Teilnehmenden hatten für die Studie Lieblingsstücke mitgebracht, bei denen sie regelmäßig Gänsehaut bekamen. Bemerkenswert ist der Zeitpunkt der Ausschüttung, die bereits kurz vor dem Höhepunkt beginnt, also im Moment der Erwartung – die Vorfreude gehört offenbar zum Genuss dazu.",
+    "Genau hier setzt die Musiktherapie an: In immer mehr Pflegeheimen werden für die Bewohnerinnen und Bewohner persönliche Playlists mit Liedern aus ihrer Vergangenheit zusammengestellt. Erste Studien deuten darauf hin, dass solche Angebote Unruhe und Ängste lindern und bei manchen Betroffenen sogar den Bedarf an Beruhigungsmitteln verringern. Pflegekräfte berichten zudem von einer größeren Bereitschaft einiger Bewohnerinnen und Bewohner, sich im Anschluss waschen und anziehen zu lassen. Berger warnt allerdings vor überzogenen Erwartungen: „Musik bremst den Verlauf einer Demenz nicht. Aber sie kann Momente schaffen, in denen ein Mensch für kurze Zeit wieder er selbst ist – und in denen die Angehörigen ihn wiederfinden.“",
     "Auch in der Neurologie wird die Wirkung von Musik inzwischen gezielt therapeutisch genutzt.",
-    "Menschen mit Parkinson, die beim Gehen oft ins Stocken geraten, finden mithilfe eines gleichmäßigen Rhythmus leichter in einen flüssigen Schritt, wobei die Musik gewissermaßen die Rolle eines inneren Taktgebers übernimmt, den die Krankheit gestört hat. Ähnlich hilft sie Menschen nach einem Schlaganfall, verlorene Bewegungsabläufe wieder einzuüben.",
-    "Dass sich Musik hartnäckig im Kopf festsetzt, erleben aber auch Gesunde – manchmal mehr, als ihnen lieb ist. Den sogenannten Ohrwurm kennt fast jeder: Einer finnischen Untersuchung zufolge haben neun von zehn Menschen mindestens einmal pro Woche eine Melodie im Kopf, die sich nicht abstellen lässt. Meist handelt es sich lediglich um einen kurzen Ausschnitt, oft um den Refrain, der sich in einer Endlosschleife wiederholt. Begünstigt werden Ohrwürmer durch Stress, Müdigkeit und Langeweile, vor allem aber durch Lieder, die man kurz zuvor oder besonders häufig gehört hat. Warum ausgerechnet bestimmte Melodien hängen bleiben, ist nur teilweise geklärt; eingängige Tonfolgen mit einem überraschenden Sprung prägen sich offenbar besonders leicht ein.",
-    "Wer einen Ohrwurm loswerden möchte, kann es mit einem verblüffend einfachen Mittel versuchen: Kaugummi kauen. Britische Psychologen wiesen nach, dass die Bewegungen von Kiefer und Zunge jene Bereiche beanspruchen, die wir auch zum inneren Mitsingen benötigen. Die Melodie verliert dadurch an Kraft, verschwindet allerdings nicht in jedem Fall. Manche Experten empfehlen außerdem, das Lied einmal vollständig anzuhören, damit das Gehirn es als abgeschlossen ablegt.",
-    "Keinen Bestand hatte dagegen eine andere populäre Annahme, nämlich die, dass bloßes Musikhören intelligenter macht. Anfang der 1990er-Jahre sorgte eine kleine Studie für Aufsehen, nach der Studierende räumliche Aufgaben besser lösten, nachdem sie zehn Minuten lang eine Sonate von Mozart gehört hatten. Obwohl der Effekt gering war und nur etwa eine Viertelstunde anhielt, kamen bald spezielle CDs für Säuglinge auf den Markt. In einem amerikanischen Bundesstaat sollten die Eltern Neugeborener sogar eine CD mit klassischer Musik geschenkt bekommen. Spätere Untersuchungen konnten den ‚Mozart-Effekt‘ jedoch nicht bestätigen. Eine umfangreiche Auswertung zahlreicher Studien kam 2010 zu dem Schluss, dass es ihn praktisch nicht gibt.",
-    "Anders sieht es aus, wenn Menschen selbst musizieren: Wer über Jahre ein Instrument lernt, trainiert Gehör, Feinmotorik und Konzentration zugleich, und bei Berufsmusikern lassen sich tatsächlich Unterschiede im Aufbau des Gehirns nachweisen. „Ob Musikunterricht Kinder allgemein klüger macht, ist allerdings umstritten“, sagt Berger, „denn Kinder, die ein Instrument lernen, wachsen häufig in Familien auf, die auch sonst viel in Bildung investieren. Was davon Ursache und was Folge ist, lässt sich nur schwer auseinanderhalten.“ Als Argument gegen den Musikunterricht will er das nicht verstanden wissen: „Musik ist wertvoll, auch ohne dass sie uns schlauer machen muss.“",
-    "Viele Studierende schwören darauf, beim Lernen Kopfhörer zu tragen, während sich die Forschung in der Frage, ob Musik dabei hilft oder eher stört, keineswegs einig ist. Instrumentalmusik kann die Stimmung heben und störende Hintergrundgeräusche überdecken, etwa wenn man in einem lauten Café arbeitet. Musik mit Gesang dagegen lenkt bei Leseaufgaben eher ab, weil das Gehirn die Wörter des Liedes unwillkürlich mitverarbeitet und diese mit dem gelesenen Text konkurrieren. „Wer einen anspruchsvollen Fachtext verstehen will, sollte lieber auf Lieder mit Text verzichten“, rät Berger. „Beim Abtippen von Notizen oder bei anderen Routinearbeiten ist die Lieblingsplaylist dagegen kein Problem.“",
-    "Beim Sprachenlernen wiederum kann Gesang sogar nützen, wie ein Experiment in Schottland zeigte, bei dem Erwachsene kurze Sätze in einer ihnen unbekannten Sprache, dem Ungarischen, lernten. Wer sie singend einübte, konnte sie später deutlich besser wiedergeben als Teilnehmende, die sie lediglich nachsprachen. Rhythmus und Tonhöhe verleihen den Wörtern offenbar zusätzliche Merkmale, die das Abrufen erleichtern.",
+    "Parkinson-Patienten geraten beim Gehen häufig ins Stocken; mithilfe eines gleichmäßigen Rhythmus finden sie leichter in einen flüssigen Schritt. Die Musik übernimmt gewissermaßen die Funktion eines inneren Taktgebers, den die Erkrankung gestört hat. Ähnlich unterstützt sie Schlaganfallpatienten bei der Wiederherstellung verlorener Bewegungsabläufe.",
+    "Wie hartnäckig sich Musik im Gedächtnis festsetzt, erleben aber auch Gesunde – manchmal mehr, als ihnen lieb ist. Den sogenannten Ohrwurm kennt fast jeder; einer finnischen Studie zufolge haben neun von zehn Menschen mindestens einmal wöchentlich einen Ohrwurm, also eine Melodie im Kopf, die sich nicht abstellen lässt. Meist handelt es sich dabei lediglich um einen kurzen Ausschnitt der Melodie, häufig um den Refrain, in ständiger Wiederholung. Begünstigt werden Ohrwürmer durch Stress, Müdigkeit und Langeweile, vor allem aber durch Musikstücke, die man kurz zuvor oder besonders häufig gehört hat. Warum ausgerechnet bestimmte Melodien im Gedächtnis haften bleiben, ist nur teilweise geklärt; eingängige Tonfolgen mit einem überraschenden Tonsprung prägen sich offenbar besonders leicht ein.",
+    "Gegen einen Ohrwurm gibt es ein verblüffend einfaches Hilfsmittel – Kaugummi kauen. Britische Psychologen wiesen nach, dass die Bewegungen von Kiefer und Zunge jene Hirnregionen beanspruchen, die wir auch zum inneren Mitsingen einer Melodie benötigen. Die Melodie verliert dadurch an Wirkung, der Ohrwurm verschwindet allerdings nicht zuverlässig. Manche Psychologen empfehlen zudem, die Melodie einmal vollständig zu hören, damit das Gehirn sie als abgeschlossen ablegt.",
+    "Keinen Bestand hatte dagegen eine andere populäre Annahme, nämlich die, dass bloßes Musikhören die Intelligenz steigert. Anfang der 1990er-Jahre sorgte eine kleine Studie für Aufsehen, nach der Studierende räumliche Aufgaben besser lösten, nachdem sie zehn Minuten lang eine Sonate von Mozart gehört hatten. Obwohl dieser ‚Mozart-Effekt‘ gering war und nur etwa eine Viertelstunde anhielt, kamen bald spezielle CDs für Säuglinge auf den Markt. In einem amerikanischen Bundesstaat sollten die Eltern Neugeborener sogar eine CD mit klassischer Musik geschenkt bekommen. Spätere Studien konnten den Effekt jedoch nicht bestätigen, und eine umfangreiche Auswertung zahlreicher Studien kam 2010 zu dem Schluss, dass es den Effekt praktisch nicht gibt.",
+    "Anders sieht es beim eigenen Musizieren aus: Wer jahrelang ein Instrument lernt, trainiert Gehör, Feinmotorik und Konzentration zugleich, und bei Berufsmusikern lassen sich tatsächlich Unterschiede im Aufbau des Gehirns nachweisen. „Ob Musikunterricht die Intelligenz von Kindern allgemein steigert, ist allerdings umstritten“, sagt Berger, „denn Kinder, die ein Instrument lernen, wachsen häufig in Familien auf, die auch sonst viel in Bildung investieren. Was davon Ursache und was Folge ist, lässt sich nur schwer auseinanderhalten.“ Gegen den Musikunterricht spricht das für Berger jedoch nicht: „Musik ist wertvoll, auch ohne dass sie Kinder intelligenter macht.“",
+    "Zahlreiche Studierende schwören darauf, beim Lernen Kopfhörer zu tragen, während sich die Forschung über den Nutzen von Musik keineswegs einig ist. Instrumentalmusik kann die Stimmung heben und störende Hintergrundgeräusche überdecken, beispielsweise beim Lernen in einem lauten Café. Musik mit Gesang dagegen führt bei Leseaufgaben eher zu Ablenkung, weil das Gehirn die Wörter des Liedes unwillkürlich mitverarbeitet und sie mit dem gelesenen Text konkurrieren. „Wer einen anspruchsvollen Fachtext verstehen will, sollte lieber auf Lieder mit Text verzichten“, rät Berger. „Beim Abtippen von Notizen oder bei anderen Routinearbeiten ist die Lieblingsplaylist dagegen unproblematisch.“",
+    "Beim Sprachenlernen wiederum ist Gesang sogar von Nutzen, wie ein Experiment in Schottland zeigte, bei dem Erwachsene kurze Sätze in einer ihnen unbekannten Sprache, dem Ungarischen, lernten. Teilnehmende, die die Sätze singend einübten, konnten sie später deutlich besser wiedergeben als Teilnehmende, die sie lediglich nachsprachen. Rhythmus und Melodie verleihen den Wörtern offenbar zusätzliche Merkmale, die die Speicherung und den Abruf aus dem Gedächtnis erleichtern.",
     "„Die Melodie dient dem Gedächtnis als Gerüst“, erklärt Berger, „an dem sich die Wörter gewissermaßen aufhängen lassen.“",
-    "Für den 86-Jährigen spielen solche wissenschaftlichen Fragen keine Rolle mehr. Wenn am Nachmittag die Musiktherapeutin kommt, sitzt er bereits in der ersten Reihe und singt mit, manchmal falsch, aber mit sichtlicher Freude. Seine Tochter sagt, das seien die Augenblicke, in denen sie ihren Vater zurückbekomme – zumindest für die Dauer eines Liedes."
+    "Für Herrn K. spielt die Forschung keine Rolle mehr. Wenn nachmittags die Musiktherapeutin kommt, sitzt er bereits in der ersten Reihe und singt mit, manchmal falsch, aber mit sichtlicher Begeisterung. Seine Tochter sagt, das seien die Momente, in denen sie ihren Vater zurückbekomme – zumindest für die Dauer eines Liedes."
    ],
    "itemsLead": "Aussagen 13–23",
    "items": [
@@ -172,12 +172,12 @@
     },
     {
      "no": "14",
-     "text": "Laut Berger ist das Gedächtnis für Lieder auf viele Stellen im Gehirn verteilt.",
+     "text": "Laut Berger legt das Gehirn ein Lied nicht an einem einzigen Ort ab.",
      "answer": "r"
     },
     {
      "no": "15",
-     "text": "Ältere Menschen haben oft eine Vorliebe für Musik, die sie in jungen Jahren kennengelernt haben.",
+     "text": "Im Alter bevorzugen viele Menschen Lieder, die sie in jungen Jahren kennengelernt haben.",
      "answer": "r"
     },
     {
@@ -202,7 +202,7 @@
     },
     {
      "no": "20",
-     "text": "Kauen kann helfen, eine lästige Melodie im Kopf abzuschwächen.",
+     "text": "Wer Kaugummi kaut, kann ein lästiges Lied im Kopf zumindest abschwächen.",
      "answer": "r"
     },
     {
@@ -217,7 +217,7 @@
     },
     {
      "no": "23",
-     "text": "Berger empfiehlt, schwierige Fachtexte ohne Gesang im Hintergrund zu lesen.",
+     "text": "Beim Lesen schwieriger Fachliteratur rät Berger von gesungener Musik ab.",
      "answer": "r"
     }
    ],
@@ -236,11 +236,11 @@
    "instruction": "Lesen Sie den folgenden Text. Welche Lösung (a, b, c oder d) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 25–46 auf dem Antwortbogen. Lücke (0) ist ein Beispiel.",
    "title": "Wie das Fahrrad laufen lernte",
    "paragraphs": [
-    "Am 12. Juni 1817 {{0}} in Mannheim ein merkwürdiges Gefährt für Aufsehen: Der badische Forstbeamte Karl Drais saß auf einem {{25}} Gestell mit zwei hintereinander angeordneten Rädern und stieß {{26}} mit den Füßen vom Boden ab. Auf diese Weise legte er in knapp einer Stunde rund vierzehn Kilometer {{27}} und übertraf damit die Geschwindigkeit der damaligen Postkutsche. Seine ‚Laufmaschine‘ gilt mittlerweile als Urahn des modernen Fahrrads.",
-    "Warum Drais ausgerechnet in diesen Jahren nach einem von Pferden unabhängigen Fortbewegungsmittel suchte, ist bis heute {{28}}. Manche Historiker vermuten einen Zusammenhang mit einer Naturkatastrophe: 1815 war in Indonesien der Vulkan Tambora {{29}}. Die ausgestoßenen Gase kühlten das Klima weltweit spürbar ab, {{30}} das Jahr 1816 in Europa als ‚Jahr ohne Sommer‘ in die Geschichte einging. Infolge verheerender Missernten wurde Hafer unerschwinglich, und zahlreiche Pferde mussten geschlachtet {{31}}. Ein Fahrzeug, das ohne Tierfutter auskam, erschien vor diesem Hintergrund plötzlich äußerst verlockend.",
-    "Die anfängliche Begeisterung war groß: Drais erhielt 1818 ein badisches Privileg, {{32}} seine Erfindung schützte, und {{33}} in Paris als auch in London fuhren junge Männer, {{34}} Familien sich das neuartige Spielzeug leisten konnten, stolz durch die Parkanlagen. Doch {{35}} der holprigen, oft schlammigen Straßen wichen viele Fahrer auf die Gehwege aus, woraufhin mehrere Städte das Fahren dort bis auf {{36}} verboten; die Mode {{37}} fast so schnell, wie sie gekommen war. Drais selbst starb 1851 verarmt in Karlsruhe; im {{38}} betrachtet war er seiner Zeit jedoch weit voraus.",
-    "Erst Jahrzehnte später griffen französische Handwerker die Idee wieder {{39}}, indem sie in den 1860er-Jahren Pedale {{40}} Vorderrad anbrachten. Bald darauf folgten Hochräder, auf {{41}} nur Wagemutige fuhren, denn ihr Antriebsrad war beinahe mannshoch, und Stürze endeten häufig mit schweren Verletzungen. Den entscheidenden Durchbruch brachte schließlich das sogenannte Niederrad mit zwei etwa gleich großen Rädern und Kettenantrieb, das 1885 in England vorgestellt {{42}}. Als drei Jahre später der luftgefüllte Reifen {{43}} wurde, war das moderne Fahrrad geboren.",
-    "Heute kommt in Deutschland auf fast jeden Einwohner ein Fahrrad, und Millionen Menschen fahren täglich {{44}}. Je dichter der Verkehr in den Innenstädten wird, {{45}} wichtiger wird das Fahrrad als umweltfreundliche Alternative zum Auto. Ob Drais geahnt hat, was aus seiner unscheinbaren Laufmaschine einmal werden {{46}}?"
+    "Am 12. Juni 1817 {{0}} in Mannheim eine Erfindung für Aufsehen: Der badische Forstbeamte Karl Drais saß auf einem {{25}} Gestell mit zwei hintereinander angeordneten Rädern und stieß {{26}} mit den Füßen vom Boden ab. Mit dieser Form der Fortbewegung legte Drais innerhalb einer Stunde rund vierzehn Kilometer {{27}} und übertraf damit die Geschwindigkeit der Postkutsche. Seine ‚Laufmaschine‘ gilt mittlerweile als Ausgangspunkt der Entwicklung des Fahrrads.",
+    "Warum Drais ausgerechnet in diesen Jahren nach einer Form der Fortbewegung ohne Pferde suchte, ist bis heute {{28}}. Manche Historiker vermuten einen Zusammenhang mit einer Naturkatastrophe: 1815 war in Indonesien der Vulkan Tambora {{29}}. Die bei dieser Eruption ausgestoßenen Gase führten weltweit zu einer spürbaren Abkühlung des Klimas, {{30}} das Jahr 1816 in Europa als ‚Jahr ohne Sommer‘ in die Geschichte einging. Infolge der Missernten wurde Tierfutter unerschwinglich, und zahlreiche Pferde mussten geschlachtet {{31}}. Eine Erfindung, die ohne Tierfutter auskam, erschien unter diesen Bedingungen äußerst verlockend.",
+    "Die anfängliche Begeisterung war überwältigend: Drais erhielt 1818 ein badisches Privileg, {{32}} seine Erfindung schützte, und {{33}} in Paris als auch in London fuhren junge Männer, {{34}} Familien sich die kostspielige Laufmaschine leisten konnten, durch die städtischen Parkanlagen. Doch {{35}} der schlechten Beschaffenheit der Straßen wichen zahlreiche Fahrer auf die Gehwege aus, woraufhin mehrere Stadtverwaltungen das Fahren dort bis auf {{36}} verboten; die Modeerscheinung {{37}} fast so schnell, wie sie gekommen war. Drais selbst starb 1851 verarmt in Karlsruhe; im {{38}} betrachtet war er seiner Zeit jedoch weit voraus.",
+    "Erst Jahrzehnte später griffen französische Handwerker die Laufmaschine wieder {{39}}, indem sie in den 1860er-Jahren Tretkurbeln {{40}} Vorderrad anbrachten. Anschließend folgten Hochräder, auf {{41}} nur besonders Wagemutige fuhren, denn ihr Vorderrad war beinahe mannshoch, und Stürze endeten häufig mit schweren Verletzungen. Den entscheidenden Durchbruch für das Fahrrad brachte schließlich das Niederrad mit zwei etwa gleich großen Rädern und Kettenantrieb, das 1885 in England vorgestellt {{42}}. Als drei Jahre später der luftgefüllte Reifen {{43}} wurde, war das moderne Fahrrad geboren.",
+    "Heute kommt in Deutschland auf nahezu jeden Einwohner ein Fahrrad, und Millionen Menschen fahren täglich {{44}}. Je stärker die Belastung der Innenstädte durch den Autoverkehr wird, {{45}} größer wird die Bedeutung des Fahrrads als umweltfreundliche Alternative. Ob Drais geahnt hat, was aus seiner Erfindung einmal werden {{46}}?"
    ],
    "example": {
     "options": {
@@ -487,7 +487,7 @@
     },
     {
      "letter": "b",
-     "text": "Wer an seinem Studium zweifelt, sollte sich möglichst bald Unterstützung holen."
+     "text": "Wer Zweifel am eigenen Studium hat, sollte nicht zögern, sich beraten zu lassen."
     },
     {
      "letter": "c",
@@ -495,7 +495,7 @@
     },
     {
      "letter": "d",
-     "text": "In manchen Fächern ist der Sprung von der Schule an die Hochschule zu groß."
+     "text": "Für viele Studienanfänger in technischen Fächern kommt der Wechsel zu abstraktem, theoretischem Arbeiten zu abrupt."
     },
     {
      "letter": "e",
@@ -574,7 +574,7 @@
      "stem": "Bionik bedeutet nach Prof. Seifert,",
      "options": {
       "a": "Formen aus der Natur möglichst detailgetreu nachzubauen.",
-      "b": "Funktionsprinzipien der Natur technisch zu nutzen.",
+      "b": "den Kern natürlicher Lösungen technisch umzusetzen.",
       "c": "Lebewesen mithilfe der Technik gezielt zu verändern."
      },
      "answer": "b"
@@ -644,7 +644,7 @@
      "stem": "Die Zusammenarbeit in den Projekten wird nach Prof. Seifert vor allem erschwert durch",
      "options": {
       "a": "fehlendes Geld für gemeinsame Vorhaben.",
-      "b": "die verschiedenen Sprachen der Fächer.",
+      "b": "Unterschiede in der Fachsprache.",
       "c": "das geringe Interesse der Technik an Biologie."
      },
      "answer": "b"

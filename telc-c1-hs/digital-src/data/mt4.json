@@ -7,25 +7,25 @@
    "intro": "In einer populärwissenschaftlichen Zeitschrift lesen Sie folgenden Beitrag:",
    "title": "Wie die Hieroglyphen ihre Stimme zurückbekamen",
    "paragraphs": [
-    "Nachdem im Jahr 394 nach Christus die jüngste bekannte Inschrift in Hieroglyphen entstanden war, konnte mehr als vierzehn Jahrhunderte lang niemand die Schrift an den Tempeln und in den Gräbern Ägyptens entziffern. {{0}} Die Gelehrten der frühen Neuzeit hielten die Zeichen deshalb für eine Bilderschrift voller geheimer Symbole, deren Sinn sich nur Eingeweihten erschließe. Der Jesuit Athanasius Kircher etwa deutete im 17. Jahrhundert ganze Inschriften als religiöse Botschaften – durchweg falsch.",
-    "Die Wende brachte im Juli 1799 ein Zufallsfund: Bei Schanzarbeiten nahe der Stadt Rosette im Nildelta stießen französische Soldaten auf eine Steinplatte mit drei Inschriften. {{1}} Da man den griechischen Text lesen konnte, schien der Schlüssel zur Entzifferung plötzlich zum Greifen nah.",
-    "Doch die Hoffnung trog zunächst: Nach der Niederlage der Franzosen in Ägypten gelangte der Stein 1802 nach London, wo er bis heute im British Museum zu sehen ist. {{2}} Der englische Arzt und Physiker Thomas Young, der auch durch seine Versuche zur Natur des Lichts berühmt wurde, erkannte zwar, dass die ovalen Umrandungen, die sogenannten Kartuschen, die Namen von Herrschern enthielten. Ein System hinter den Zeichen entdeckte er allerdings nicht, zumal er annahm, dass nur fremde Namen mit Lautzeichen geschrieben wurden.",
-    "Den Durchbruch schaffte schließlich der Franzose Jean-François Champollion. {{3}} Er verglich die Kartuschen mit den Namen Ptolemaios und Kleopatra, die er aus griechischen Inschriften kannte, und konnte so einzelnen Zeichen Laute zuordnen. {{4}} Am 14. September 1822 soll er in das Arbeitszimmer seines Bruders gestürmt sein, „Ich hab’s!“ gerufen haben und vor Aufregung ohnmächtig geworden sein.",
-    "Kurz darauf stellte er seine Ergebnisse in einem Brief an die Pariser Akademie vor. {{5}} Die Hieroglyphen waren also keine geheimnisvolle Symbolschrift, wie man jahrhundertelang geglaubt hatte; in den folgenden Jahren zeigte Champollion zudem, dass sich mit ihnen ganz alltägliche Wörter festhalten ließen. Sein 1824 veröffentlichtes Hauptwerk über das System der Hieroglyphen gilt bis heute als Grundstein der Ägyptologie.",
-    "Champollion selbst blieb nur wenig Zeit, die Früchte seiner Arbeit zu ernten. 1828 brach er zu seiner ersten Reise nach Ägypten auf, wo er zahlreiche Inschriften vor Ort abschrieb und übersetzte, statt sich wie bisher auf ungenaue Kopien verlassen zu müssen. {{6}} Vollständig erschlossen wurde die Sprache erst von späteren Generationen, die auf seinen Grundlagen aufbauten."
+    "Die jüngste bekannte Hieroglypheninschrift entstand im Jahr 394 nach Christus. Danach konnte mehr als vierzehn Jahrhunderte lang niemand die Hieroglyphen an den Tempeln und Gräbern Ägyptens entziffern. {{0}} Die Gelehrten der frühen Neuzeit hielten die Hieroglyphen deshalb für eine Bilderschrift aus geheimen Symbolen, deren Deutung allein Eingeweihten vorbehalten sei. So lag etwa der Jesuit Athanasius Kircher im 17. Jahrhundert mit seiner Deutung ganzer Inschriften als religiöse Botschaften durchweg falsch.",
+    "Die Wende brachte im Juli 1799 ein Zufallsfund: Bei Schanzarbeiten nahe der Stadt Rosette im Nildelta stießen französische Soldaten auf eine Steinplatte mit drei Inschriften. {{1}} Da man den griechischen Text lesen konnte, schien der Schlüssel zur Entzifferung der Hieroglyphen plötzlich zum Greifen nah.",
+    "Doch die Hoffnung trog zunächst: Nach der Niederlage der Franzosen in Ägypten gelangte der Stein 1802 nach London, wo er bis heute im British Museum zu sehen ist. {{2}} Der englische Physiker Thomas Young erkannte zwar, dass die ovalen Umrandungen, die sogenannten Kartuschen, die Namen von Herrschern enthielten. Ein System hinter den Zeichen entdeckte er allerdings nicht, zumal er annahm, nur fremde Namen seien mit Zeichen für Laute geschrieben worden.",
+    "Den Durchbruch bei der Entzifferung schaffte schließlich der französische Gelehrte Jean-François Champollion. {{3}} Er verglich die Kartuschen mit den Namen Ptolemaios und Kleopatra, die er aus griechischen Inschriften kannte, und konnte so einzelnen Zeichen Lautwerte zuordnen. {{4}} Am 14. September 1822 soll er in das Arbeitszimmer seines Bruders gestürmt sein, „Ich hab’s!“ gerufen haben und vor Aufregung ohnmächtig geworden sein.",
+    "Kurz darauf stellte er seine Ergebnisse in einem Brief an die Pariser Akademie vor. {{5}} Die Hieroglyphen waren also keine geheime Bilderschrift, wie die Gelehrten jahrhundertelang angenommen hatten; in den folgenden Jahren zeigte Champollion zudem, dass sich mit den Hieroglyphen auch alltägliche Wörter schreiben ließen. Sein 1824 erschienenes Hauptwerk, eine Darstellung des Systems der Hieroglyphen, gilt bis heute als Grundstein der Ägyptologie.",
+    "Champollion selbst blieb nur wenig Zeit, die Früchte seiner Arbeit zu ernten. 1828 brach er zu seiner ersten Expedition nach Ägypten auf, wo er zahlreiche Inschriften vor Ort abschrieb und übersetzte, statt sich wie bisher auf ungenaue Abschriften verlassen zu müssen. {{6}} Die vollständige Erschließung der Sprache blieb späteren Generationen vorbehalten, die auf seinen Grundlagen aufbauten."
    ],
    "sentences": [
     {
      "letter": "a",
-     "text": "Darin wies er nach, dass die Zeichen nicht nur für Begriffe standen, sondern häufig auch Laute wiedergaben."
+     "text": "Darin lieferte er den Nachweis, dass die Hieroglyphen nicht nur für Begriffe standen, sondern häufig auch Laute wiedergaben."
     },
     {
      "letter": "b",
-     "text": "Young hatte das System zu diesem Zeitpunkt bereits vollständig entschlüsselt, seine Ergebnisse aber nie veröffentlicht."
+     "text": "Young hatte die Entschlüsselung zu diesem Zeitpunkt bereits abgeschlossen, seine Ergebnisse aber nie veröffentlicht."
     },
     {
      "letter": "c",
-     "text": "Abschriften verbreiteten sich jedoch rasch unter Europas Gelehrten, und ein regelrechter Wettlauf begann."
+     "text": "Abschriften verbreiteten sich jedoch rasch unter Europas Gelehrten, und ein regelrechter Wettlauf um die Entzifferung begann."
     },
     {
      "letter": "d",
@@ -33,24 +33,24 @@
     },
     {
      "letter": "e",
-     "text": "Sie enthielt denselben Erlass dreimal: in Hieroglyphen, in demotischer Alltagsschrift und auf Griechisch."
+     "text": "Sie enthielt denselben Erlass in drei Fassungen: in Hieroglyphen, in demotischer Alltagsschrift und auf Griechisch."
     },
     {
      "letter": "f",
-     "text": "Mit diesen Lautwerten las er bald auch Namen, die auf keiner zweisprachigen Inschrift standen, etwa Ramses."
+     "text": "Mit diesen Lautwerten entzifferte er bald auch Namen wie Ramses, die auf keiner zweisprachigen Inschrift standen."
     },
     {
      "letter": "g",
-     "text": "Er beherrschte zahlreiche alte und orientalische Sprachen, darunter das Koptische, die späteste Form des Ägyptischen."
+     "text": "Er beherrschte zahlreiche alte und orientalische Sprachen, darunter das Koptische, die späteste Form der ägyptischen Sprache."
     },
     {
      "letter": "h",
-     "text": "Der Stein wurde zunächst in Kairo ausgestellt, wo ihn der junge Champollion während seines Studiums mehrmals abzeichnete."
+     "text": "Der Stein wurde zunächst in Kairo ausgestellt, wo ihn der junge Champollion bei mehreren Besuchen abzeichnete."
     }
    ],
    "example": {
     "letter": "z",
-    "text": "Mit den letzten Priestern, die sie noch beherrschten, ging auch das Wissen um ihre Bedeutung verloren."
+    "text": "Mit den letzten Priestern, die sie noch beherrschten, ging auch die Kenntnis ihrer Bedeutung verloren."
    },
    "items": [
     {
@@ -85,23 +85,23 @@
    "sections": [
     {
      "letter": "a",
-     "text": "Wer heute einen Kleiderschrank öffnet, findet darin oft mehr, als er jemals tragen wird. Zwischen 2000 und 2014 hat sich die weltweite Kleidungsproduktion ungefähr verdoppelt, und in Deutschland erwirbt jeder Mensch Schätzungen zufolge im Schnitt sechzig neue Teile pro Jahr. Gleichzeitig verkürzt sich die Nutzungsdauer der einzelnen Stücke: Manche tragen wir nur ein paar Mal, andere hängen noch mit Preisschild im Schrank, bis wir sie irgendwann aussortieren. Ermöglicht hat diesen Wandel ein unter dem Namen „Fast Fashion“ bekannt gewordenes Geschäftsmodell. Große Ketten bringen nicht mehr zwei Kollektionen jährlich heraus, sondern beinahe jede Woche neue Ware, und zwar zu Preisen, die kaum höher liegen als die eines Mittagessens. Ich halte diese Entwicklung für einen der großen blinden Flecken unserer Konsumgesellschaft, über den in der Öffentlichkeit erstaunlich wenig gesprochen wird."
+     "text": "Wer heute seinen Kleiderschrank öffnet, findet darin oft mehr Kleidungsstücke, als er jemals tragen wird. Zwischen 2000 und 2014 hat sich die weltweite Produktion von Kleidung ungefähr verdoppelt, und hierzulande erwirbt jeder Einwohner Schätzungen zufolge im Durchschnitt sechzig neue Kleidungsstücke im Jahr. Zugleich werden die Kleidungsstücke immer kürzer getragen: Manche tragen wir nur ein paar Mal, andere hängen noch mit Preisschild im Kleiderschrank, bis wir sie aussortieren. Ermöglicht hat diese Entwicklung das Geschäftsmodell der „Fast Fashion“. Die großen Modeketten bringen nicht mehr zwei neue Kollektionen im Jahr heraus, sondern beinahe wöchentlich neue Mode – und zwar zu Preisen, die kaum höher sind als die eines Mittagessens. Ich halte diese Entwicklung für einen blinden Fleck unserer Konsumgesellschaft, denn in der Öffentlichkeit wird über sie erstaunlich wenig gesprochen."
     },
     {
      "letter": "b",
-     "text": "Zugegeben: Die billige Mode hat nicht nur Schattenseiten, denn für Familien mit kleinem Einkommen bedeutet es eine erhebliche Erleichterung, dass ein Wintermantel für Kinder nicht mehr ein halbes Monatsgehalt kostet. Auch Jugendliche, die mit ihrer Kleidung zeigen wollen, wer sie sind, können heute Trends folgen, die früher nur Wohlhabenden offenstanden. Mode ist dadurch gewissermaßen demokratischer geworden, und der Wunsch, sich ansprechend zu kleiden, ist ohnehin nichts Verwerfliches. Zudem garantiert ein hoher Preis keineswegs, dass ein Kleidungsstück unter besseren Bedingungen entstanden ist; manche teure Marke lässt in denselben Fabriken nähen wie die Billigketten. Mir geht es daher nicht darum, Menschen für ihre Einkäufe zu verurteilen; wer mit wenig Geld auskommen muss, kann sich die fair produzierte Jacke für zweihundert Euro schlicht nicht leisten. Mein Unbehagen gilt vielmehr einem System, das darauf angelegt ist, uns zu möglichst häufigen Neukäufen zu bewegen."
+     "text": "Zugegeben: Die billige Mode hat nicht nur Schattenseiten. Für Haushalte mit kleinem Einkommen ist es eine erhebliche Entlastung, dass ein Wintermantel für Kinder nicht mehr ein halbes Monatsgehalt kostet. Auch Jugendliche, die mit ihrer Kleidung zeigen wollen, wer sie sind, können heute mit der Mode gehen, was früher Wohlhabenden vorbehalten war. Die Mode ist dadurch gewissermaßen demokratischer geworden, und der Wunsch nach schöner Kleidung ist ohnehin nichts Verwerfliches. Zudem ist ein hoher Preis keine Garantie für bessere Arbeitsbedingungen: Manche teure Marke lässt ihre Kleidung in denselben Fabriken nähen wie die Modeketten. Mir geht es daher nicht darum, die Kundschaft für ihre Einkäufe zu verurteilen. Wer mit kleinem Einkommen auskommen muss, kann sich einen fair produzierten Wintermantel für zweihundert Euro schlicht nicht leisten. Meine Kritik gilt vielmehr einem Geschäftsmodell, das auf möglichst häufige Neukäufe angelegt ist."
     },
     {
      "letter": "c",
-     "text": "Die Rechnung für dieses System zahlen andere: Für ein einziges Baumwoll-T-Shirt werden je nach Anbaugebiet mehrere Tausend Liter Wasser verbraucht, häufig in Regionen, in denen es ohnehin knapp ist. Beim Färben gelangen Chemikalien in Flüsse, und Synthetikkleidung verliert bei jeder Wäsche winzige Fasern, die Kläranlagen nur zum Teil zurückhalten; der Rest landet schließlich im Meer. Hinzu kommen weite Transportwege, denn kaum ein Kleidungsstück, das in deutschen Geschäften verkauft wird, ist auch hierzulande entstanden. Noch schwerer wiegen allerdings die Arbeitsbedingungen in den Herstellerländern. Als 2013 in Bangladesch das Fabrikgebäude Rana Plaza einstürzte, starben mehr als 1100 Menschen, die meisten von ihnen Näherinnen. Daraufhin versprachen viele Unternehmen Besserung, und manche Fabriken sind inzwischen tatsächlich sicherer, wohingegen sich an den niedrigen Löhnen kaum etwas geändert hat. Es beschämt mich, wie schnell solche Katastrophen aus den Schlagzeilen verschwinden, während die Kleidung, die dort genäht wird, weiterhin in unseren Läden hängt."
+     "text": "Die Kosten für dieses Geschäftsmodell tragen andere. Für die Herstellung eines einzigen T-Shirts aus Baumwolle werden je nach Anbaugebiet mehrere Tausend Liter Wasser verbraucht, häufig in Regionen, in denen Wasser ohnehin knapp ist. Bei der Färbung der Textilien gelangen Chemikalien in das Wasser der Flüsse, und Synthetikkleidung verliert bei jeder Wäsche winzige Fasern, die von Kläranlagen nur zum Teil zurückgehalten werden; der Rest dieser Fasern landet im Meer. Hinzu kommen weite Transportwege, denn kaum ein Kleidungsstück, das hierzulande verkauft wird, ist auch hierzulande hergestellt worden. Noch schwerer wiegen allerdings die Arbeitsbedingungen in den Fabriken der Herstellerländer. Beim Einsturz des Fabrikgebäudes Rana Plaza in Bangladesch starben 2013 mehr als 1100 Menschen, die meisten von ihnen Näherinnen. Daraufhin versprachen viele Modeketten bessere Arbeitsbedingungen, und manche Fabriken sind inzwischen tatsächlich sicherer; an den niedrigen Löhnen hat sich dagegen kaum etwas geändert. Es beschämt mich, wie schnell solche Katastrophen aus den Schlagzeilen verschwinden, während die Kleidungsstücke aus diesen Fabriken weiterhin in unseren Geschäften hängen."
     },
     {
      "letter": "d",
-     "text": "Viele beruhigen ihr Gewissen, indem sie aussortierte Kleidung in den Altkleidercontainer werfen. Ich bezweifle allerdings, dass damit viel gewonnen ist, denn nur ein kleiner Teil der gesammelten Ware wird hierzulande weiterverkauft, während ein großer Teil ins Ausland geht, etwa nach Osteuropa oder Westafrika. Dort landet vieles auf Märkten, die längst mit Altkleidern überschwemmt sind, und was niemand kauft, endet auf Deponien oder an Stränden. Gemeinnützige Sammelstellen berichten zudem seit Jahren, dass die Qualität der abgegebenen Kleidung sinkt und immer weniger davon noch tragbar ist. Auch das Recycling ist nicht so weit, wie die Werbung verspricht: In der Regel entstehen aus alten Textilien allenfalls Putzlappen oder Dämmstoffe. Weil die meisten Kleidungsstücke aus Mischgeweben bestehen, lassen sich die Fasern kaum sortenrein trennen, sodass weltweit weniger als ein Prozent des Materials wieder zu neuer Kleidung verarbeitet wird. Die Vorstellung, man könne unbesorgt weiter konsumieren, solange man nur ordentlich entsorgt, hält einer genaueren Prüfung nicht stand."
+     "text": "Viele beruhigen ihr Gewissen, indem sie aussortierte Kleidungsstücke in den Altkleidercontainer werfen. Ich bezweifle allerdings, dass damit viel gewonnen ist. Nur ein kleiner Teil der gesammelten Altkleider wird hierzulande weiterverkauft; ein großer Teil geht ins Ausland, etwa nach Osteuropa oder Westafrika. Dort landen die Kleidungsstücke auf Märkten, die längst mit Altkleidern überschwemmt sind, und was niemand kauft, endet auf Deponien oder an Stränden. Gemeinnützige Sammelstellen berichten zudem seit Jahren, dass die Qualität der gesammelten Altkleider sinkt und immer weniger davon noch tragbar ist. Auch die Verwertung ist nicht so weit, wie die Werbung verspricht: Aus alten Textilien entstehen in der Regel allenfalls Putzlappen oder Dämmstoffe. Weil die meisten Kleidungsstücke aus Mischgeweben bestehen, ist eine sortenreine Trennung der Fasern kaum möglich, sodass weltweit weniger als ein Prozent der alten Textilien wieder zu neuer Kleidung verarbeitet wird. Die Vorstellung, man könne unbesorgt neue Kleidung kaufen, solange man die alte Kleidung nur in den Altkleidercontainer wirft, hält einer genaueren Prüfung nicht stand."
     },
     {
      "letter": "e",
-     "text": "Was also ist zu tun? Mit Appellen an die Vernunft der Kundschaft allein wird es nicht gehen; vielmehr muss die Politik dafür sorgen, dass die tatsächlichen Kosten im Preis sichtbar werden. Dass die Europäische Union Hersteller künftig für Sammlung und Verwertung ihrer Textilien zahlen lassen will, ist ein Schritt in die richtige Richtung, der allerdings nur wirkt, wenn die Abgaben spürbar ausfallen. Wegen eines Betrags, den man an der Kasse kaum bemerkt, wird kein Konzern sein Geschäftsmodell ändern. Ebenso wichtig wären längere Garantiefristen und ein Recht auf Reparatur, damit es sich wieder lohnt, ein Kleidungsstück flicken zu lassen, statt es zu ersetzen. Wir Verbraucherinnen und Verbraucher könnten uns vor jedem Kauf schlicht fragen, ob wir das betreffende Teil mindestens dreißigmal tragen würden. Wer ehrlich antwortet, wird manches im Laden hängen lassen. Mode darf Freude machen – aber sie sollte nicht zum Wegwerfartikel werden."
+     "text": "Was also ist zu tun? Mit Appellen an die Vernunft der Kundschaft allein wird es nicht gehen; vielmehr muss der Gesetzgeber dafür sorgen, dass die tatsächlichen Kosten im Preis sichtbar werden. Dass die Europäische Union die Hersteller künftig für die Sammlung und Verwertung ihrer Textilien zahlen lassen will, ist ein Schritt in die richtige Richtung. Dieser Schritt wirkt allerdings nur, wenn die Abgaben spürbar ausfallen, denn wegen eines Betrags, den man an der Kasse kaum bemerkt, wird kein Hersteller sein Geschäftsmodell ändern. Ebenso wichtig wären längere Garantiefristen und ein Recht auf Reparatur, damit es sich wieder lohnt, ein Kleidungsstück flicken zu lassen, statt neue Kleidung zu kaufen. Wir als Kundschaft könnten uns vor jedem Kauf fragen, ob wir ein Kleidungsstück mindestens dreißigmal tragen würden. Wer ehrlich antwortet, wird manches Kleidungsstück im Geschäft hängen lassen. Mode darf Freude machen – aber sie sollte nicht zum Wegwerfartikel werden."
     }
    ],
    "exampleLead": "In welchem Abschnitt …",
@@ -113,32 +113,32 @@
    "items": [
     {
      "no": "7",
-     "stem": "stellt der Autor fest, dass viele Kleidungsstücke kaum benutzt werden?",
+     "stem": "erwähnt der Autor, dass manches Gekaufte so gut wie ungenutzt bleibt?",
      "answer": "a"
     },
     {
      "no": "8",
-     "stem": "räumt der Autor ein, dass preiswerte Mode manchen Menschen mehr Möglichkeiten bietet?",
+     "stem": "gesteht der Autor zu, dass günstige Bekleidung manchen Käufergruppen neue Spielräume eröffnet?",
      "answer": "b"
     },
     {
      "no": "9",
-     "stem": "weist der Autor darauf hin, dass manche Kleidung beim Waschen Kunststoff abgibt?",
+     "stem": "erwähnt der Autor, dass bestimmte Textilien in der Waschmaschine Plastik freisetzen?",
      "answer": "c"
     },
     {
      "no": "10",
-     "stem": "zweifelt der Autor am Nutzen von Kleiderspenden?",
+     "stem": "hält der Autor das Spenden ausrangierter Kleidung für wenig wirksam?",
      "answer": "d"
     },
     {
      "no": "11",
-     "stem": "fordert der Autor, dass die Preise die wahren Kosten der Mode zeigen?",
+     "stem": "spricht sich der Autor dafür aus, die Folgekosten der Herstellung im Verkaufspreis abzubilden?",
      "answer": "e"
     },
     {
      "no": "12",
-     "stem": "begründet der Autor, warum aus alter Kleidung nur selten neue entsteht?",
+     "stem": "erklärt der Autor, weshalb sich ausgediente Textilien so schwer wiederverwerten lassen?",
      "answer": "d"
     }
    ]
@@ -147,21 +147,21 @@
    "instruction": "Lesen Sie den folgenden Text und die Aussagen 13–23. Welche der Aussagen sind richtig (r), falsch (f) oder gar nicht im Text enthalten (–)? Es gibt jeweils nur eine richtige Lösung. Markieren Sie Ihre Lösungen für die Aufgaben 13–23 auf dem Antwortbogen.",
    "title": "",
    "paragraphs": [
-    "Der Regionalzug hat zwanzig Minuten Verspätung, und auf dem Bahnsteig geschieht, was inzwischen beinahe überall geschieht: Kaum ist die Durchsage verklungen, greifen die Wartenden zu ihren Smartphones. Niemand betrachtet die umliegende Landschaft, niemand überlässt sich einfach seinen Gedanken, und als ein Kind fragt, wie lange es noch dauert, reicht ihm die Mutter kommentarlos das Tablet. Die zwanzig Minuten werden ausgefüllt, bevor überhaupt eine Leere entstehen kann. Dabei hätte die Langeweile, der wir so eifrig ausweichen, womöglich mehr zu bieten, als wir ihr gemeinhin zutrauen.",
-    "„Langeweile ist ein unterschätztes Gefühl“, sagt Ines Kramer, die als Psychologin an einer Universität erforscht, wie Menschen mit ungenutzter Zeit umgehen. Mit Ruhe habe Langeweile wenig zu tun: Wer sich entspannt, genießt das Nichtstun; wer sich hingegen langweilt, möchte durchaus aktiv werden, findet aber nichts, was ihn fesselt. Die meisten Menschen empfinden diese Kluft zwischen dem Wunsch nach Beschäftigung und dem Fehlen einer lohnenden Aufgabe als ausgesprochen quälend – quälender sogar, als man vermuten würde.",
-    "Wie unangenehm schon wenige Minuten ohne jede Ablenkung sein können, belegte 2014 ein Experiment an einer amerikanischen Universität. Die Teilnehmenden sollten bis zu einer Viertelstunde allein in einem kargen Raum verbringen und sich ausschließlich mit ihren Gedanken beschäftigen; zuvor hatten sie probeweise einen leichten Stromschlag erhalten. Viele erklärten daraufhin, sie würden sogar Geld bezahlen, um eine Wiederholung zu vermeiden. Dennoch lösten selbst unter ihnen zwei Drittel der Männer und ein Viertel der Frauen während des Versuchs mindestens einmal per Knopfdruck einen weiteren Stromschlag aus. Offenbar zogen sie den kurzen Schmerz der inneren Leere vor.",
-    "Der schlechte Ruf der Langeweile ist keineswegs neu; bereits das deutsche Wort verrät, wie sie sich anfühlt: Die Weile, also die Zeit, wird lang. Der dänische Philosoph Søren Kierkegaard bezeichnete die Langeweile 1843 sogar als „Wurzel allen Übels“. In der Literatur des 19. Jahrhunderts erscheint sie vielfach als Leiden wohlhabender Adliger, die mit ihrer freien Zeit nichts anzufangen wissen. Erzieher und Moralisten betrachteten sie lange als Charakterfehler, den man durch Fleiß und Pflichterfüllung austreiben müsse. Erst in den vergangenen zwei Jahrzehnten hat sich die psychologische Forschung intensiver mit der Langeweile beschäftigt – und dabei manches Vorurteil korrigiert.",
-    "Kramer versteht die Langeweile heute als Signal, vergleichbar mit Hunger oder Schmerz. „Hunger zeigt uns, dass wir etwas essen sollten, Langeweile dagegen, dass uns unsere momentane Beschäftigung nicht genügt“, erklärt sie. Das Gefühl dränge dazu, die jeweilige Situation zu verändern: sich ein neues Ziel zu suchen, eine Tätigkeit abzubrechen oder eine andere Perspektive einzunehmen. In diesem Sinne sei Langeweile kein Defekt, sondern ein durchaus nützlicher Mechanismus, den die Evolution nicht ohne Grund hervorgebracht habe.",
-    "Dass Langeweile sogar kreativ machen kann, legt eine Studie aus Großbritannien nahe, deren Teilnehmende in drei Gruppen eingeteilt wurden. Die erste Gruppe musste zunächst eine Viertelstunde lang Nummern aus einem Telefonbuch abschreiben, die zweite sollte die Nummern lediglich durchlesen, die dritte begann ohne diese eintönige Vorübung. Anschließend sollten alle möglichst viele Verwendungsmöglichkeiten für zwei Plastikbecher finden. Dabei kamen die beiden gelangweilten Gruppen auf deutlich mehr Einfälle als die dritte – am meisten diejenigen, die die Nummern bloß gelesen hatten.",
-    "„Wenn uns die Umgebung keinerlei Anregung bietet, beginnt der Geist, sich selbst zu beschäftigen“, erläutert Kramer; Tagträume, in denen sich Gedanken ungehindert verknüpfen, seien dafür ein idealer Nährboden.",
-    "Allerdings warnt Kramer davor, die Langeweile zu verklären. Wer sich dauerhaft langweilt, etwa weil der Alltag kaum Abwechslung oder Sinn bietet, ist häufig unzufrieden und neigt eher zu riskantem Verhalten. Die Forschung unterscheidet deshalb zwischen der vorübergehenden Langeweile, die jeder kennt, und einer dauerhaften Neigung, sich zu langweilen; entscheidend sei, was man aus dem Gefühl mache. „Kurze Phasen der Langeweile können uns anregen, chronische Langeweile dagegen ist ein Hinweis darauf, dass im Leben etwas Grundsätzliches nicht stimmt, und sollte ernst genommen werden.“",
-    "Gerade solche kurzen Leerlaufphasen sind im heutigen Alltag jedoch selten geworden, da Wartezeiten an der Supermarktkasse, im Nahverkehr oder in der Arztpraxis nahezu automatisch mit dem Smartphone überbrückt werden. Kramer vermutet, dass wir dadurch verlernen, Langeweile auszuhalten, die durch das ständige Wischen ohnehin nicht wirklich vertrieben werde. „Viele berichten, dass sie sich nach einer halbstündigen Nutzung sozialer Netzwerke leerer fühlen als zuvor. Die Ablenkung füllt zwar die Zeit, vermittelt uns aber nicht das befriedigende Gefühl, etwas Sinnvolles erledigt zu haben.“",
-    "Auch in der Arbeitswelt ist Langeweile ein Thema, wenn auch eines, über das selten gesprochen wird: 2007 machten zwei Schweizer Unternehmensberater den Begriff „Boreout“ bekannt. Gemeint ist ein Zustand, in dem Beschäftigte dauerhaft unterfordert sind und ihre Tätigkeit als sinnlos erleben. Nach außen wirken die Betroffenen oft vielbeschäftigt: Sie dehnen einfache Aufgaben über den gesamten Arbeitstag aus oder öffnen rasch ein Dokument, sobald jemand das Büro betritt. Wer zugibt, sich zu langweilen, fürchtet nämlich, als überflüssig zu gelten – dabei kann eine solche Unterforderung auf Dauer ähnlich gesundheitsschädlich sein wie ständige Überforderung.",
-    "Bei Kindern sehen viele Eltern in der Langeweile ein Alarmsignal, auf das sie sofort reagieren müssen. Kaum klagt das Kind, ihm sei langweilig, wird ihm ein Spiel, ein Ausflug oder ein Film angeboten. Kramer hält diese Reaktion für einen Fehler, denn Kinder, die lernen, mit Langeweile umzugehen, entdeckten dabei eigene Interessen. „Sie bauen aus Decken eine Höhle oder erfinden ein Spiel, auf das kein Erwachsener gekommen wäre“, berichtet die Psychologin. Eltern rät sie, die Klage gelassen hinzunehmen und dem Kind zuzutrauen, selbst eine Lösung zu finden. Ein Nachmittag ohne Programm sei für Kinder kein verlorener, sondern oft ein besonders wertvoller.",
-    "An der Hochschule wiederum gilt Langeweile vielen als sicheres Zeichen schlechter Lehre, und häufig ist zu lesen, die Aufmerksamkeit sinke in jeder Vorlesung nach zehn bis fünfzehn Minuten zwangsläufig ab. Kramer hält diese Regel für schlecht belegt, da die zugrunde liegenden Studien klein und methodisch fragwürdig seien. Wie lange Studierende konzentriert bleiben, hänge vielmehr davon ab, ob ein Thema sie persönlich berührt und ob sie selbst aktiv werden dürfen. Eine kurze Pause, eine Frage an das Publikum oder ein überraschendes Beispiel könne die Aufmerksamkeit jederzeit zurückholen.",
-    "Sobald sich die Langeweile bemerkbar macht, empfiehlt Kramer, das Gefühl zunächst bewusst wahrzunehmen, statt es sofort zu verdrängen. Hilfreich sei die Frage, was gerade fehlt: eine Herausforderung, ein Sinn oder schlicht eine Pause. Manchmal genüge es bereits, die Gedanken eine Weile treiben zu lassen. Wer das regelmäßig übe, werde mit der Zeit gelassener; wer dagegen bei jeder Regung zum Smartphone greife, nehme sich selbst die Chance, herauszufinden, was er eigentlich braucht. „Langeweile auszuhalten ist eine Fähigkeit, die man trainieren kann – ähnlich wie Geduld.“",
-    "Auf dem Bahnsteig hat sich inzwischen etwas verändert: Ein älterer Mann hat sein Telefon in die Jackentasche gesteckt und beobachtet die Krähen, die auf dem Nachbargleis nach Futter suchen.",
-    "Der Zug kommt in fünf Minuten, doch der Mann blickt nicht auf die Anzeigetafel. Vielleicht langweilt er sich. Vielleicht kommt ihm gerade eine Idee."
+    "Der Regionalzug hat zwanzig Minuten Verspätung, und auf dem Bahnsteig geschieht, was inzwischen nahezu überall geschieht: Kaum ist die Durchsage verklungen, greifen die Wartenden zum Smartphone. Niemand betrachtet die Landschaft, niemand überlässt sich seinen Gedanken, und als ein Kind nach der restlichen Wartezeit fragt, reicht ihm die Mutter kommentarlos ihr Tablet. Die Wartezeit wird mit Ablenkung gefüllt, bevor überhaupt Langeweile entstehen kann. Dabei hätte die Langeweile, der wir so eifrig ausweichen, womöglich mehr zu bieten, als wir ihr gemeinhin zutrauen.",
+    "„Langeweile ist eine unterschätzte Empfindung“, sagt Ines Kramer, die als Psychologin an einer Hochschule den Umgang mit Langeweile erforscht. Mit Entspannung habe Langeweile wenig zu tun: Wer sich entspannt, genießt das Nichtstun; wer sich hingegen langweilt, möchte durchaus aktiv werden, findet aber keine Beschäftigung, die ihn fesselt. Diese Kluft zwischen dem Bedürfnis nach Beschäftigung und dem Fehlen einer lohnenden Aufgabe empfinden die meisten Betroffenen als ausgesprochen quälend – quälender, als man vermuten würde.",
+    "Wie unangenehm bereits wenige Minuten ohne jede Ablenkung sein können, belegte 2014 ein Experiment an einer amerikanischen Universität. Die Teilnehmenden sollten bis zu einer Viertelstunde allein in einem kargen Versuchsraum verbringen, ohne jede Beschäftigung außer ihren eigenen Gedanken; zuvor hatten sie probeweise einen leichten Stromschlag erhalten. Viele von ihnen erklärten daraufhin, sie würden sogar Geld bezahlen, um eine Wiederholung zu vermeiden. Dennoch lösten selbst unter ihnen zwei Drittel der Männer und ein Viertel der Frauen während des Experiments mindestens einmal per Knopfdruck einen weiteren Stromschlag aus. Offenbar zogen sie den kurzen Schmerz der Untätigkeit vor.",
+    "Der schlechte Ruf der Langeweile ist keineswegs neu; bereits das deutsche Wort verrät, wie sich Langeweile anfühlt: Die Weile, also die Zeit, wird lang. Der dänische Philosoph Søren Kierkegaard bezeichnete die Langeweile 1843 sogar als „Wurzel allen Übels“. In der Literatur des 19. Jahrhunderts erscheint sie vielfach als Leiden wohlhabender Adliger, die mit ihrer Zeit nichts anzufangen wissen. Erzieher und Moralisten betrachteten sie lange als Charakterfehler, den man durch Fleiß und Pflichterfüllung austreiben müsse. Erst in den vergangenen zwei Jahrzehnten hat die psychologische Forschung der Langeweile mehr Aufmerksamkeit geschenkt – und dabei manches Vorurteil korrigiert.",
+    "Kramer versteht die Langeweile heute als Warnsignal, vergleichbar mit Hunger oder Schmerz. „Hunger zeigt uns, dass wir etwas essen sollten, Langeweile dagegen, dass uns unsere momentane Beschäftigung nicht genügt“, erklärt die Psychologin. Die Langeweile dränge zu einer Veränderung der Situation: zur Suche nach einem neuen Ziel, zum Abbruch einer Tätigkeit oder zum Wechsel der Perspektive. In diesem Sinne sei Langeweile kein Defekt, sondern ein durchaus nützlicher Mechanismus, den die Evolution nicht ohne Grund hervorgebracht habe.",
+    "Dass Langeweile sogar die Kreativität fördern kann, legt eine Untersuchung aus Großbritannien nahe, deren Teilnehmende in drei Versuchsgruppen eingeteilt wurden. Die erste Gruppe musste zunächst eine Viertelstunde lang Nummern aus einem Telefonbuch abschreiben, die zweite sollte die Nummern lediglich durchlesen, die dritte begann ohne diese eintönige Vorübung. Anschließend sollten alle Teilnehmenden möglichst viele Verwendungsmöglichkeiten für zwei Plastikbecher finden. Dabei kamen die beiden gelangweilten Versuchsgruppen auf deutlich mehr Verwendungsmöglichkeiten als die dritte Gruppe – allen voran die zweite Gruppe, die die Nummern lediglich durchlesen sollte.",
+    "„Wenn uns die Umgebung keinerlei Anregung bietet, beginnt der Geist, sich selbst zu beschäftigen“, erklärt Kramer; Tagträume, in denen sich Gedanken ungehindert verknüpfen, seien dafür ein idealer Nährboden.",
+    "Allerdings warnt die Psychologin vor einer Verklärung der Langeweile. Chronische Langeweile, etwa infolge eines Alltags ohne Abwechslung oder Sinn, gehe häufig mit Unzufriedenheit und einer Neigung zu riskantem Verhalten einher. Die Forschung unterscheidet deshalb zwischen der vorübergehenden Langeweile, die jeder kennt, und einer dauerhaften Neigung zur Langeweile; entscheidend sei der Umgang mit dieser Empfindung. „Kurze Phasen der Langeweile können uns anregen, chronische Langeweile dagegen ist ein Hinweis darauf, dass im Leben etwas Grundsätzliches nicht stimmt, und sollte ernst genommen werden.“",
+    "Gerade solche kurzen Phasen der Langeweile sind im heutigen Alltag jedoch selten geworden, da Wartezeiten an der Supermarktkasse, im Nahverkehr oder in der Arztpraxis nahezu automatisch mit dem Smartphone überbrückt werden. Die Psychologin vermutet, dass wir dadurch verlernen, Langeweile auszuhalten, die durch das ständige Wischen ohnehin nicht wirklich vertrieben werde. „Viele Betroffene berichten, dass sie sich nach einer halbstündigen Nutzung sozialer Netzwerke leerer fühlen als zuvor. Die Ablenkung füllt zwar die Zeit, vermittelt uns aber nicht das befriedigende Gefühl, etwas Sinnvolles erledigt zu haben.“",
+    "Auch in der Arbeitswelt ist Langeweile ein Thema, wenn auch eines, über das selten gesprochen wird: 2007 machten zwei Schweizer Unternehmensberater den Begriff „Boreout“ bekannt. Gemeint ist ein Zustand dauerhafter Unterforderung, in dem Beschäftigte ihre Tätigkeit als sinnlos erleben. Nach außen wirken die Betroffenen oft vielbeschäftigt: Sie dehnen einfache Aufgaben über den gesamten Arbeitstag aus oder öffnen rasch ein Dokument, sobald jemand das Büro betritt. Wer zugibt, sich zu langweilen, fürchtet nämlich, als überflüssig zu gelten – dabei kann eine solche Unterforderung auf Dauer ähnlich gesundheitsschädlich sein wie ständige Überforderung.",
+    "Bei Kindern sehen viele Eltern in der Langeweile ein Alarmsignal, auf das sie sofort reagieren müssen. Kaum klagt das Kind über Langeweile, wird ihm ein Spiel, ein Ausflug oder ein Film angeboten. Kramer hält diese Reaktion für einen Erziehungsfehler, denn Kinder, die lernen, mit Langeweile umzugehen, entdeckten dabei eigene Interessen. „Sie bauen aus Decken eine Höhle oder erfinden ein Spiel, auf das kein Erwachsener gekommen wäre“, erklärt die Psychologin. Eltern rät Kramer, die Klage über Langeweile gelassen hinzunehmen und dem Kind zuzutrauen, selbst eine Beschäftigung zu finden. Ein Nachmittag ohne Freizeitprogramm sei für Kinder kein verlorener, sondern oft ein besonders wertvoller.",
+    "An der Hochschule wiederum gilt Langeweile vielen als verlässliches Zeichen mangelhafter Lehre, und häufig ist zu lesen, die Aufmerksamkeit sinke in jeder Vorlesung nach zehn bis fünfzehn Minuten zwangsläufig ab. Kramer hält diese Faustregel für unzureichend belegt, da die zugrunde liegenden Studien klein und methodisch fragwürdig seien. Die Dauer der Aufmerksamkeit hänge vielmehr davon ab, ob ein Vorlesungsthema die Studierenden persönlich berührt und ob sie selbst aktiv werden dürfen. Eine kurze Pause, eine Frage an die Zuhörenden oder ein überraschendes Beispiel könne die Aufmerksamkeit jederzeit zurückholen.",
+    "Sobald sich die Langeweile bemerkbar macht, empfiehlt Kramer, diese Empfindung zunächst bewusst wahrzunehmen, statt sie sofort zu verdrängen. Hilfreich sei die Frage, was gerade fehlt: eine Herausforderung, ein Sinn oder schlicht eine Pause. Manchmal genüge es bereits, die Gedanken eine Weile treiben zu lassen. Wer das regelmäßig übe, werde mit der Zeit gelassener; wer dagegen bei jeder Regung zum Smartphone greife, nehme sich selbst die Chance, herauszufinden, was er eigentlich braucht. „Langeweile auszuhalten ist eine Fähigkeit, die man trainieren kann – ähnlich wie Geduld.“",
+    "Auf dem Bahnsteig hat sich inzwischen etwas verändert: Ein älterer Mann hat sein Smartphone in die Jackentasche gesteckt und beobachtet die Krähen, die auf dem Nachbargleis nach Futter suchen.",
+    "Der Regionalzug kommt in fünf Minuten, doch der Mann blickt nicht auf die Anzeigetafel. Vielleicht langweilt er sich. Vielleicht kommt ihm gerade eine Idee."
    ],
    "itemsLead": "Aussagen 13–23",
    "items": [
@@ -172,7 +172,7 @@
     },
     {
      "no": "14",
-     "text": "Im amerikanischen Versuch nahmen einige Teilnehmende lieber einen kurzen Schmerz in Kauf, als nur nachzudenken.",
+     "text": "Bei dem Experiment in den USA nahmen manche Versuchspersonen lieber eine unangenehme Empfindung in Kauf, als bloß ihren Gedanken nachzuhängen.",
      "answer": "r"
     },
     {
@@ -182,12 +182,12 @@
     },
     {
      "no": "16",
-     "text": "Kramer zufolge funktioniert Langeweile ähnlich wie Signale des Körpers.",
+     "text": "Laut der Psychologin funktioniert Langeweile wie ein körperliches Alarmzeichen.",
      "answer": "r"
     },
     {
      "no": "17",
-     "text": "In der britischen Studie schrieben einige Teilnehmende Nummern ab und hatten danach weniger Ideen als die Gruppe ohne Vorübung.",
+     "text": "In der britischen Untersuchung hatte die Versuchsgruppe, die Nummern abschrieb, danach weniger Ideen als die Gruppe ohne Vorübung.",
      "answer": "f"
     },
     {
@@ -197,7 +197,7 @@
     },
     {
      "no": "19",
-     "text": "Bekannt gemacht wurde der Begriff „Boreout“ von zwei Fachleuten aus der Wirtschaftsberatung.",
+     "text": "Zwei Berater aus der Schweiz haben den Ausdruck „Boreout“ populär gemacht.",
      "answer": "r"
     },
     {
@@ -212,12 +212,12 @@
     },
     {
      "no": "22",
-     "text": "Kramer bezweifelt, dass die Konzentration in Vorlesungen nach einer festen Zeit nachlässt.",
+     "text": "Kramer hält die verbreitete Annahme, das Konzentrationsvermögen im Hörsaal schwinde nach einer festen Zeitspanne, für nicht hinreichend gesichert.",
      "answer": "r"
     },
     {
      "no": "23",
-     "text": "Kramer bietet Kurse an, in denen man den Umgang mit Langeweile üben kann.",
+     "text": "Kramer leitet Kurse, in denen Erwachsene lernen, Langeweile besser auszuhalten.",
      "answer": "n"
     }
    ],
@@ -236,11 +236,11 @@
    "instruction": "Lesen Sie den folgenden Text. Welche Lösung (a, b, c oder d) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 25–46 auf dem Antwortbogen. Lücke (0) ist ein Beispiel.",
    "title": "Eine Erfindung aus dem Schulheft",
    "paragraphs": [
-    "Kaffee gehörte um 1900 in Deutschland längst zum Alltag, doch seine Zubereitung {{0}} viele Hausfrauen vor ein lästiges Problem. Üblicherweise wurde das Pulver einfach mit heißem Wasser {{25}}, sodass beim Trinken oft Kaffeesatz {{26}} die Zunge geriet. Andere Verfahren, bei {{27}} man Stoffbeutel oder Metallsiebe verwendete, lieferten {{28}} einen klareren Kaffee, doch die Reinigung der Utensilien war äußerst mühsam, weshalb mancher lieber gleich zum Tee griff.",
-    "Die Dresdner Hausfrau Melitta Bentz wollte sich damit nicht {{29}} und experimentierte zunächst mit verschiedenen Stoffen, von denen jedoch keiner den Kaffeesatz zuverlässig zurückhielt. Kurzerhand funktionierte sie einen Messingtopf um, indem sie mit Hammer und Nagel Löcher {{30}} den Boden schlug und ein Blatt Löschpapier aus dem Schulheft ihres Sohnes hineinlegte. Das Ergebnis überzeugte sie: Der Kaffee floss klar und ohne störende Krümel hindurch, und das benutzte Papier {{31}} anschließend einfach weggeworfen werden.",
-    "Am 20. Juni 1908 ließ sie ihre Erfindung beim Kaiserlichen Patentamt als Gebrauchsmuster {{32}}. Noch im selben Jahr gründete sie gemeinsam mit ihrem Ehemann eine Firma, {{33}} Startkapital aus wenigen Pfennigen bestand. Hergestellt {{34}} die ersten Filter in der Dresdner Wohnung der Familie, und auf der Leipziger Messe {{35}} sich die Neuheit bald großer Beliebtheit: 1909 wurden dort bereits mehr als tausend Filter verkauft.",
-    "Der Erfolg hatte {{36}} Gründe: Der Filter war preiswert, und er sparte Zeit, {{37}} man keine Stofftücher mehr auskochen musste. Während des {{38}} Weltkriegs kam die Produktion infolge der Papierknappheit allerdings fast zum {{39}}. 1929 verlegte das Unternehmen seinen Standort nach Minden in Westfalen, wo sich bis heute der Firmensitz befindet. In den Dreißigerjahren folgte schließlich die kegelförmige Filtertüte, die bald in beinahe jeder Küche zu {{40}} war.",
-    "Melitta Bentz {{41}} die Leitung des Familienunternehmens später ihren Söhnen und starb 1950; ihr Name aber ist bis heute der {{42}} des Filterkaffees geblieben, da er zum Markennamen wurde. Zwar haben inzwischen Kapselmaschinen und Vollautomaten {{43}} Markt erobert, doch greifen weltweit {{44}} immer Millionen Menschen zur Filtertüte. {{45}} aus einem Blatt Löschpapier einmal ein Weltunternehmen entstehen würde, hätte 1908 wohl niemand {{46}}. Für ihre Erfindung benötigte Melitta Bentz weder ein Labor noch ein Studium, sondern vor allem Hartnäckigkeit. Heute beschäftigt die Unternehmensgruppe mehrere Tausend Menschen und stellt längst nicht mehr nur Filter her."
+    "Kaffee gehörte um 1900 in Deutschland längst zum Alltag. Seine Zubereitung {{0}} jedoch zahlreiche Hausfrauen vor ein lästiges Problem. Üblicherweise wurde das Kaffeepulver einfach mit heißem Wasser {{25}}, sodass beim Trinken regelmäßig Kaffeesatz {{26}} die Zunge geriet. Andere Verfahren, bei {{27}} man Stoffbeutel oder Metallsiebe verwendete, lieferten {{28}} einen klareren Kaffee, doch ihre Reinigung war äußerst aufwendig. Manche Hausfrauen griffen deshalb lieber gleich zum Tee.",
+    "Die Dresdner Hausfrau Melitta Bentz wollte sich mit diesem Problem nicht {{29}} und erprobte zunächst verschiedene Stoffe, von denen jedoch keiner den Kaffeesatz zuverlässig zurückhielt. Kurzerhand funktionierte sie einen Messingtopf um, indem sie mit Hammer und Nagel Löcher {{30}} den Boden schlug und ein Blatt Löschpapier aus dem Schulheft ihres Sohnes hineinlegte. Die Lösung überzeugte – der Kaffee lief klar und ohne Kaffeesatz durch den Kaffeefilter, und das benutzte Löschpapier {{31}} anschließend einfach weggeworfen werden.",
+    "Am 20. Juni 1908 ließ sie ihre Erfindung beim Kaiserlichen Patentamt als Gebrauchsmuster {{32}}. Noch im selben Jahr gründete sie gemeinsam mit ihrem Ehemann eine Firma, {{33}} Startkapital aus wenigen Pfennigen bestand. Hergestellt {{34}} die ersten Kaffeefilter in der Dresdner Wohnung der Familie, und auf der Leipziger Messe {{35}} sich die Neuheit bald großer Beliebtheit – 1909 wurden dort bereits mehr als tausend Kaffeefilter verkauft.",
+    "Der Erfolg der Erfindung hatte {{36}} Gründe: Der Kaffeefilter war in der Anschaffung günstig, und er verkürzte die Zubereitung, {{37}} man keine Stoffbeutel mehr auskochen musste. Während des {{38}} Weltkriegs kam die Produktion infolge der Papierknappheit allerdings beinahe zum {{39}}. 1929 erfolgte die Verlegung des Unternehmens nach Minden in Westfalen, wo sich der Firmensitz bis heute befindet. In den Dreißigerjahren folgte schließlich die kegelförmige Filtertüte, die bald in beinahe jeder Küche zu {{40}} war.",
+    "Melitta Bentz {{41}} die Leitung des Unternehmens später ihren Söhnen und starb 1950; ihr Name aber ist bis heute der {{42}} des Filterkaffees geblieben, da er zum Markennamen wurde. Zwar haben inzwischen Kapselmaschinen und Vollautomaten {{43}} Markt erobert, doch greifen weltweit {{44}} immer Millionen Menschen zur Filtertüte. {{45}} aus einem Blatt Löschpapier einmal ein Weltunternehmen entstehen würde, hätte 1908 wohl niemand {{46}}. Für ihre Erfindung benötigte Melitta Bentz weder Laborausstattung noch Hochschulausbildung, sondern vor allem Hartnäckigkeit. Heute zählt das Unternehmen mehrere Tausend Beschäftigte und stellt längst nicht mehr nur Kaffeefilter her."
    ],
    "example": {
     "options": {
@@ -487,7 +487,7 @@
     },
     {
      "letter": "b",
-     "text": "Wer sich nicht wirklich für sein Thema interessiert, sollte keine Doktorarbeit anfangen."
+     "text": "Nur wer von seiner Fragestellung wirklich gefesselt ist, sollte sich auf eine Doktorarbeit einlassen."
     },
     {
      "letter": "c",
@@ -495,15 +495,15 @@
     },
     {
      "letter": "d",
-     "text": "In meinem Fach ist der Doktortitel für den Berufseinstieg fast unverzichtbar."
+     "text": "In meinem Fachgebiet ist der Doktorgrad praktisch Voraussetzung für den Berufseinstieg."
     },
     {
      "letter": "e",
-     "text": "Nach der Promotion steigen auffallend viele Frauen aus der Hochschulkarriere aus."
+     "text": "Den Hochschulen gehen weibliche Nachwuchskräfte vor allem nach der Promotion verloren."
     },
     {
      "letter": "f",
-     "text": "Ich bereue nicht, dass ich meine Promotion aufgegeben habe."
+     "text": "Den Ausstieg aus der Doktorarbeit betrachte ich im Nachhinein als richtigen Schritt."
     },
     {
      "letter": "g",
@@ -515,11 +515,11 @@
     },
     {
      "letter": "i",
-     "text": "Zeitverträge führen dazu, dass begabte Leute die Hochschule verlassen."
+     "text": "Weil Stellen immer nur auf Zeit vergeben werden, wandern die Fähigsten ab."
     },
     {
      "letter": "j",
-     "text": "Bei der Wahl des Promotionsortes zählt gute Unterstützung mehr als ein großer Name."
+     "text": "Eine intensive Betreuung ist für Promovierende wichtiger als das Ansehen der Hochschule."
     }
    ],
    "items": [
@@ -594,7 +594,7 @@
      "stem": "Holzwracks bleiben in der Ostsee lange erhalten, weil",
      "options": {
       "a": "das salzige Wasser das Holz vor dem Zerfall schützt.",
-      "b": "ein bestimmter Schädling dort kaum vorkommt.",
+      "b": "ein holzfressendes Lebewesen dort kaum vorkommt.",
       "c": "die Wracks dort schnell im Sand versinken."
      },
      "answer": "b"
@@ -613,7 +613,7 @@
      "no": "59",
      "stem": "Die „Vasa“ ist für Dr. Maurer ein Beispiel dafür, dass",
      "options": {
-      "a": "die Erhaltung gehobener Wracks sehr teuer ist.",
+      "a": "die Konservierung gehobener Funde viel kostet.",
       "b": "Schiffe früher oft bei der ersten Fahrt sanken.",
       "c": "Holz an der Luft besser erhalten bleibt."
      },
@@ -624,7 +624,7 @@
      "stem": "Die dreidimensionalen Modelle",
      "options": {
       "a": "machen das Abdecken der Wracks überflüssig.",
-      "b": "erlauben Untersuchungen vom Schreibtisch aus.",
+      "b": "öffnen die Forschung auch für Nichttaucher.",
       "c": "ersetzen die Arbeit unter Wasser inzwischen ganz."
      },
      "answer": "b"
@@ -643,7 +643,7 @@
      "no": "62",
      "stem": "Mithilfe der Jahresringe kann man",
      "options": {
-      "a": "Holz oft auf das Jahr genau datieren.",
+      "a": "das Fälljahr oft exakt bestimmen.",
       "b": "auch das Alter von Stoffen und Netzen ermitteln.",
       "c": "meist nur das ungefähre Jahrhundert angeben."
      },
@@ -664,7 +664,7 @@
      "stem": "Dr. Maurer würde am liebsten",
      "options": {
       "a": "ein Wrack aus dem Mittelalter an Land holen.",
-      "b": "das Land unter der Nordsee erforschen.",
+      "b": "ein längst überflutetes Gebiet erkunden.",
       "c": "mit Fischern nach alten Werkzeugen suchen."
      },
      "answer": "b"

@@ -7,21 +7,21 @@
    "intro": "Im Online-Magazin Ihrer Hochschule lesen Sie folgenden Beitrag:",
    "title": "Was römischen Beton so haltbar macht",
    "paragraphs": [
-    "Fast zweitausend Jahre nach ihrer Fertigstellung überspannt die Kuppel des Pantheons in Rom einen Raum von gut 43 Metern Durchmesser – ohne eine einzige Stahlstange. {{0}} Moderne Stahlbetonbauwerke weisen dagegen häufig bereits nach wenigen Jahrzehnten Risse auf, weil eindringendes Wasser den Stahl im Inneren rosten lässt.",
-    "Als Erklärung für die erstaunliche Widerstandsfähigkeit des römischen Betons galt lange Zeit vor allem eine bestimmte Zutat. {{1}} Diese sogenannte Puzzolanerde reagiert mit Kalk und Wasser zu äußerst beständigen Mineralen, die das Material dauerhaft stabilisieren.",
-    "Besonders rätselhaft erschienen Forschenden die antiken Hafenanlagen, die seit zwei Jahrtausenden ununterbrochen im Meer stehen. {{2}} Die Geologin Marie Jackson von der Universität Utah fand heraus, warum: Meerwasser sickert langsam in den Beton ein und lässt darin neue Kristalle wachsen, die das Gefüge im Laufe der Zeit nicht sprengen, sondern zusätzlich verdichten.",
-    "Für die Beständigkeit römischer Mauern an Land fehlte damit jedoch noch immer eine überzeugende Erklärung. {{3}} Im Mörtel zahlreicher antiker Bauwerke finden sich nämlich kleine weiße Klümpchen aus Kalk, die häufig nur wenige Millimeter messen. Bis dahin hatte man in ihnen lediglich ein Zeichen nachlässiger Verarbeitung gesehen: Die römischen Handwerker hätten ihre Zutaten schlicht nicht gründlich genug vermischt.",
-    "Masic und seine Kollegen gelangten allerdings zu einer anderen Schlussfolgerung. {{4}} Dabei entsteht große Hitze, und infolgedessen bleibt ein Teil des Kalks in Form kleiner Klümpchen im Material zurück. Dringt später Wasser durch einen feinen Riss ein, löst es Kalk aus diesen Einschlüssen, der sich anschließend als Kalkstein in der Spalte ablagert und sie dauerhaft verschließt. Im Labor schlossen sich Risse in Probekörpern, die nach diesem Rezept hergestellt worden waren, innerhalb von zwei Wochen von selbst, während sie in herkömmlichen Vergleichsproben offen blieben.",
-    "Für die Bauindustrie ist diese Entdeckung weit mehr als eine historische Kuriosität, denn sie berührt eines der drängendsten Probleme der Branche. {{5}} Ein Beton, der kleinere Schäden selbstständig behebt, müsste seltener erneuert werden und könnte auf diese Weise dazu beitragen, diesen Anteil spürbar zu verringern. {{6}} Ob sich das antike Rezept tatsächlich auf die Anforderungen moderner Großbauwerke übertragen lässt, muss sich allerdings erst noch zeigen."
+    "Fast zweitausend Jahre nach ihrer Fertigstellung überspannt die Kuppel des Pantheons in Rom einen Raum von gut 43 Metern Durchmesser – ohne jede Bewehrung aus Stahl. {{0}} Bei modernen Bauwerken aus Stahlbeton zeigen sich dagegen häufig bereits nach wenigen Jahrzehnten Risse, deren Ursache meist in der Korrosion der Bewehrung liegt: Eindringendes Wasser lässt den Stahl im Inneren des Betons rosten; der Rost dehnt sich aus und sprengt den umgebenden Beton.",
+    "Die Forschung führte die Beständigkeit des römischen Betons lange Zeit vor allem auf eine bestimmte Zutat zurück. {{1}} Diese sogenannte Puzzolanerde reagiert mit Kalk und Wasser zu äußerst beständigen Mineralen, die zur dauerhaften Stabilisierung des Betons beitragen.",
+    "Besonders rätselhaft erschienen der Forschung die römischen Hafenanlagen, die seit zwei Jahrtausenden ununterbrochen im Meer stehen. {{2}} Den Grund dafür wies die Geologin Marie Jackson von der Universität Utah nach – durch das Eindringen von Meerwasser wachsen im Beton neue Kristalle, die das Material im Laufe der Zeit nicht sprengen, sondern zusätzlich verdichten.",
+    "Für die Beständigkeit römischer Mauern an Land fehlte damit jedoch noch immer eine überzeugende Erklärung. {{3}} Im Mörtel zahlreicher römischer Bauwerke finden sich nämlich kleine weiße Klümpchen aus Kalk von oft nur wenigen Millimetern Größe. Bis dahin galten diese Klümpchen lediglich als Zeichen mangelnder Sorgfalt bei der Verarbeitung – die römischen Handwerker hätten den Kalk schlicht nicht gründlich genug mit den übrigen Zutaten vermischt.",
+    "Masic und seine Kollegen gelangten allerdings zu einer anderen Schlussfolgerung. {{4}} Bei diesem Verfahren entsteht große Hitze, sodass ein Teil des Kalks in Form kleiner Klümpchen im Beton zurückbleibt. Beim Eindringen von Wasser in feine Risse löst sich Kalk aus diesen Klümpchen, lagert sich anschließend als Kalkstein in den Rissen ab und bewirkt deren dauerhafte Abdichtung. Bei Laborversuchen schlossen sich Risse in Probekörpern aus diesem Beton innerhalb von zwei Wochen selbstständig, in herkömmlichen Probekörpern dagegen nicht.",
+    "Für die Bauindustrie ist diese Entdeckung weit mehr als eine historische Kuriosität, denn sie berührt eines der drängendsten Probleme der Branche. {{5}} Ein Beton mit der Fähigkeit zur Selbstheilung müsste seltener erneuert werden und könnte so zur Verringerung dieses Anteils beitragen. {{6}} Ob sich das Rezept der Römer tatsächlich auf die Anforderungen moderner Bauwerke übertragen lässt, muss sich allerdings erst noch zeigen."
    ],
    "sentences": [
     {
      "letter": "a",
-     "text": "Ihrer Ansicht nach verwendeten die Römer ungelöschten Kalk, den sie unmittelbar mit Asche und Wasser mischten."
+     "text": "Ihrer Ansicht nach verwendeten die Römer ungelöschten Kalk, den sie unmittelbar mit Asche und Wasser vermischten."
     },
     {
      "letter": "b",
-     "text": "Während moderner Beton im Salzwasser allmählich zerfällt, scheinen sie mit den Jahren sogar fester zu werden."
+     "text": "Während moderner Beton im Salzwasser allmählich zerfällt, scheinen sie mit den Jahren sogar an Festigkeit zu gewinnen."
     },
     {
      "letter": "c",
@@ -33,7 +33,7 @@
     },
     {
      "letter": "e",
-     "text": "Schon der Baumeister Vitruv empfahl im ersten Jahrhundert vor Christus eine besondere Asche aus der Gegend um Pozzuoli bei Neapel."
+     "text": "Bereits der Baumeister Vitruv empfahl im ersten Jahrhundert vor Christus eine besondere Asche aus der Gegend um Pozzuoli bei Neapel."
     },
     {
      "letter": "f",
@@ -41,7 +41,7 @@
     },
     {
      "letter": "g",
-     "text": "Erste Versuche mit modernen Mischungen, denen ungelöschter Kalk zugesetzt wurde, verliefen bereits vielversprechend."
+     "text": "Erste Versuche mit modernen Mischungen unter Zusatz von ungelöschtem Kalk verliefen bereits vielversprechend."
     },
     {
      "letter": "h",
@@ -85,23 +85,23 @@
    "sections": [
     {
      "letter": "a",
-     "text": "Kaum ein Land hing so sehr am Bargeld wie Deutschland. Noch vor gut zehn Jahren wurden hierzulande vier von fünf Einkäufen an der Ladenkasse mit Münzen und Scheinen beglichen, und „Nur Bares ist Wahres“ war mehr als ein Sprichwort. Inzwischen hat sich das spürbar verschoben: Nach Erhebungen der Bundesbank wird nur noch etwa jeder zweite Einkauf bar bezahlt, und bei größeren Beträgen greifen die meisten längst zur Karte oder zum Smartphone. Verschwunden ist das Bargeld damit aber keineswegs, denn gerade bei kleineren Summen bleibt es für viele Menschen das bevorzugte Zahlungsmittel. Wie eine weitgehend bargeldlose Gesellschaft aussehen kann, zeigt Schweden, wo nur noch eine kleine Minderheit bar zahlt, zahlreiche Geschäfte überhaupt keine Scheine mehr annehmen und selbst die Kollekte im Gottesdienst per App eingesammelt wird. Ich halte es dennoch für einen Fehler, das Bargeld leichtfertig aufzugeben."
+     "text": "Kaum ein Land hing so beharrlich am Bargeld wie Deutschland. Noch vor gut zehn Jahren wurden hierzulande vier von fünf Einkäufen mit Bargeld bezahlt, und „Nur Bares ist Wahres“ war mehr als ein Sprichwort. Inzwischen hat sich das spürbar verschoben. Nach Erhebungen der Bundesbank wird nur noch etwa jeder zweite Einkauf mit Bargeld bezahlt, und bei größeren Beträgen ist die Kartenzahlung längst die Regel. Verschwunden ist das Bargeld damit aber keineswegs, denn gerade bei kleineren Beträgen bleibt es für viele Menschen das bevorzugte Zahlungsmittel. Wie eine weitgehend bargeldlose Gesellschaft aussehen kann, zeigt Schweden. Dort zahlt nur noch eine kleine Minderheit mit Bargeld, zahlreiche Geschäfte verweigern die Annahme von Bargeld, und selbst die Kollekte im Gottesdienst wird per App eingesammelt. Ich halte eine leichtfertige Abschaffung des Bargelds dennoch für einen Fehler."
     },
     {
      "letter": "b",
-     "text": "Dass so viele Menschen umsteigen, hat gute Gründe. Die Kartenzahlung ist bequem, niemand muss nach passenden Münzen suchen, und wer sein Konto über eine App verwaltet, behält seine Ausgaben jederzeit im Blick. Zudem geht es an der Kasse schneller voran, und auf Auslandsreisen entfällt der lästige Geldumtausch. Während der Pandemie kam ein weiteres Argument hinzu: Viele wollten keine Scheine mehr anfassen, die durch zahllose Hände gegangen waren, und Geschäfte baten ausdrücklich um kontaktloses Bezahlen. Auch für den Handel ist Bargeld weniger günstig, als es auf den ersten Blick scheint. Es muss gezählt, im Tresor aufbewahrt, versichert und von Sicherheitsdiensten zur Bank gebracht werden, und jede Kasse, in der über Nacht Geld liegt, zieht Einbrecher an. Wer ausschließlich auf die Gebühren der Kartenanbieter schaut, übersieht diese versteckten Kosten, die auch erklären, warum immer mehr Cafés nur noch Karten annehmen."
+     "text": "Für den Umstieg auf die Kartenzahlung gibt es triftige Gründe. Die Kartenzahlung ist bequem, die Suche nach passenden Münzen entfällt, und bei der Verwaltung des Kontos über eine App bleiben die Ausgaben jederzeit im Blick. Zudem verkürzt sich die Wartezeit an der Ladenkasse, und auf Auslandsreisen entfällt der lästige Geldumtausch. Während der Pandemie kam ein weiteres Argument hinzu: Viele Menschen wollten keine Scheine mehr anfassen, die durch zahllose Hände gegangen waren, und Geschäfte baten ausdrücklich um kontaktlose Bezahlung. Auch für die Geschäfte ist Bargeld weniger günstig, als es auf den ersten Blick scheint. Bargeld muss gezählt, im Tresor aufbewahrt, versichert und von Sicherheitsdiensten zur Bank gebracht werden, und jede Ladenkasse, in der über Nacht Bargeld liegt, zieht Einbrecher an. Wer ausschließlich auf die Gebühren für die Kartenzahlung schaut, übersieht diese versteckten Kosten. Sie erklären auch, warum immer mehr Cafés nur noch Kartenzahlungen akzeptieren."
     },
     {
      "letter": "c",
-     "text": "Ich will nicht verschweigen, dass ich selbst längst zu den Kartenzahlern gehöre. In meinem Portemonnaie steckt selten mehr als ein Zwanzigeuroschein, und an manchen Tagen bemerke ich erst abends, dass ich überhaupt kein Bargeld ausgegeben habe. Auch die Kritiker des Bargelds haben in einem Punkt recht: Wer schwarzarbeitet oder Steuern hinterziehen will, wickelt seine Geschäfte bevorzugt mit Scheinen ab, die keine Spuren hinterlassen. Ein Allheilmittel gegen solche Machenschaften wäre die Abschaffung des Bargelds allerdings nicht, da Betrüger erfahrungsgemäß rasch andere Wege finden. Ebenso verstehe ich, dass viele Jüngere, die mit dem Smartphone aufgewachsen sind, die gesamte Debatte für nostalgisch halten. Für die meisten Menschen geht es beim Bezahlen ohnehin um etwas anderes, nämlich um Gewohnheit, um Kontrolle und um das Gefühl, selbst entscheiden zu können, wie sie mit ihrem Geld umgehen."
+     "text": "Ich will nicht verschweigen, dass ich selbst längst zu den Kartenzahlern gehöre. In meinem Portemonnaie steckt selten mehr als ein Zwanzigeuroschein, und an manchen Tagen bemerke ich erst abends, dass ich überhaupt kein Bargeld ausgegeben habe. Auch die Kritiker des Bargelds haben in einem Punkt recht. Bei Schwarzarbeit und Steuerhinterziehung ist Bargeld das bevorzugte Zahlungsmittel, da es keine Spuren hinterlässt. Ein Allheilmittel gegen Schwarzarbeit und Steuerhinterziehung wäre die Abschaffung des Bargelds allerdings nicht, da Kriminelle erfahrungsgemäß rasch andere Wege finden. Ebenso verstehe ich, dass viele Jüngere, die mit dem Smartphone aufgewachsen sind, die gesamte Debatte für nostalgisch halten. Für die meisten Menschen geht es bei der Bezahlung ohnehin um etwas anderes, nämlich um Gewohnheit, um Kontrolle und um das Gefühl der Selbstbestimmung im Umgang mit dem eigenen Geld."
     },
     {
      "letter": "d",
-     "text": "Genau diese Entscheidungsfreiheit sehe ich in Gefahr. Digitales Bezahlen ist nur möglich, solange Strom, Netz und Rechenzentren zuverlässig funktionieren. Vor wenigen Jahren fielen in Deutschland tagelang Tausende Kartenlesegeräte aus, sodass man in manchen Supermärkten nur noch mit Bargeld einkaufen konnte. Bei einem großflächigen Stromausfall oder einem gezielten Cyberangriff wäre die Lage ungleich ernster, denn wer dann kein Bargeld im Haus hat, steht im schlimmsten Fall ohne Zahlungsmittel da. Hinzu kommt, dass ein Großteil aller Kartenzahlungen über einige wenige Konzerne abgewickelt wird, die meist nicht in Europa sitzen. Wer sich ausschließlich auf sie verlässt, liefert sich ihren Preisen, ihren Regeln und ihrer Technik aus. Schließlich hinterlässt jede digitale Zahlung Daten, aus denen sich ablesen lässt, wer wann wo was gekauft hat, wohingegen der Einkauf beim Bäcker mit Münzen und Scheinen eine Angelegenheit zwischen Kundin und Verkäufer bleibt."
+     "text": "Genau diese Selbstbestimmung sehe ich in Gefahr. Die digitale Bezahlung setzt das zuverlässige Funktionieren von Strom, Netz und Rechenzentren voraus. Vor wenigen Jahren fielen in Deutschland tagelang Tausende Kartenlesegeräte aus, sodass in manchen Supermärkten nur noch die Bezahlung mit Bargeld möglich war. Bei einem großflächigen Stromausfall oder einem gezielten Cyberangriff wäre die Lage ungleich ernster, denn wer dann kein Bargeld im Haus hat, steht im schlimmsten Fall ohne Zahlungsmittel da. Hinzu kommt, dass ein Großteil aller Kartenzahlungen über einige wenige Konzerne abgewickelt wird, die meist nicht in Europa sitzen. Wer sich ausschließlich auf diese Konzerne verlässt, liefert sich ihren Preisen, ihren Regeln und ihrer Technik aus. Schließlich hinterlässt jede digitale Bezahlung Daten, aus denen sich ablesen lässt, wer wann wo was gekauft hat. Die Barzahlung beim Bäcker bleibt dagegen eine Angelegenheit zwischen Kundin und Verkäufer."
     },
     {
      "letter": "e",
-     "text": "Was also ist zu tun? Niemand muss das digitale Bezahlen bremsen; vielmehr kommt es darauf an, die Wahlfreiheit dauerhaft zu sichern. Geschäfte, die Waren des täglichen Bedarfs verkaufen, also Supermärkte, Apotheken oder Bäckereien, sollten gesetzlich verpflichtet werden, Bargeld anzunehmen. Banken und Kommunen müssten gemeinsam dafür sorgen, dass auch in ländlichen Regionen ein Geldautomat in erreichbarer Nähe bleibt, da gerade ältere Menschen, die mit Apps wenig anfangen können, andernfalls von einem Teil des Alltags ausgeschlossen wären. Zudem lernen Kinder den Wert des Geldes vermutlich noch immer am besten, wenn sie Münzen in der Hand halten. Selbst in Schweden setzt sich die Zentralbank inzwischen dafür ein, dass man Lebensmittel und Medikamente weiterhin bar bezahlen kann. Wer das Bargeld hierzulande vorschnell abschreibt, wiederholt also einen Fehler, den andere Länder gerade mühsam korrigieren."
+     "text": "Was also ist zu tun? Niemand muss die digitale Bezahlung bremsen; vielmehr kommt es auf die dauerhafte Sicherung der Wahlfreiheit an. Geschäfte für Waren des täglichen Bedarfs, also Supermärkte, Apotheken oder Bäckereien, sollten zur Annahme von Bargeld gesetzlich verpflichtet werden. Banken und Kommunen müssten gemeinsam für die Versorgung ländlicher Regionen mit Geldautomaten in erreichbarer Nähe sorgen, da andernfalls gerade ältere Menschen, die mit der digitalen Bezahlung wenig vertraut sind, von einem Teil des Alltags ausgeschlossen wären. Zudem lernen Kinder den Wert des Geldes vermutlich noch immer am besten, wenn sie Münzen in der Hand halten. Selbst in Schweden setzt sich die Zentralbank inzwischen dafür ein, dass Lebensmittel und Medikamente weiterhin mit Bargeld bezahlt werden können. Wer das Bargeld hierzulande vorschnell abschreibt, wiederholt also einen Fehler, den andere Länder gerade mühsam korrigieren."
     }
    ],
    "exampleLead": "In welchem Abschnitt …",
@@ -113,32 +113,32 @@
    "items": [
     {
      "no": "7",
-     "stem": "gibt die Autorin zu, dass sie selbst kaum noch mit Münzen und Scheinen bezahlt?",
+     "stem": "räumt die Autorin ein, im eigenen Alltag nur noch selten zu Münzen und Scheinen zu greifen?",
      "answer": "c"
     },
     {
      "no": "8",
-     "stem": "fordert die Autorin, bestimmte Geschäfte zur Annahme von Bargeld zu verpflichten?",
+     "stem": "plädiert die Autorin für ein Verbot, Barzahlungen in Geschäften der Grundversorgung abzulehnen?",
      "answer": "e"
     },
     {
      "no": "9",
-     "stem": "erläutert die Autorin, warum Bargeld für Händler teurer ist, als viele glauben?",
+     "stem": "legt die Autorin dar, dass Bargeld den Handel mehr kostet, als man zunächst annimmt?",
      "answer": "b"
     },
     {
      "no": "10",
-     "stem": "sieht die Autorin eine Gefahr darin, dass nur wenige Firmen den Zahlungsverkehr beherrschen?",
+     "stem": "warnt die Autorin vor der Marktmacht einer kleinen Zahl meist außereuropäischer Unternehmen?",
      "answer": "d"
     },
     {
      "no": "11",
-     "stem": "nennt die Autorin einen gesundheitlichen Grund dafür, auf Bargeld zu verzichten?",
+     "stem": "führt die Autorin die Sorge vor Krankheitserregern als Motiv für den Verzicht auf Bargeld an?",
      "answer": "b"
     },
     {
      "no": "12",
-     "stem": "stellt die Autorin fest, dass Bargeld trotz aller Veränderungen noch häufig genutzt wird?",
+     "stem": "hält die Autorin fest, dass Münzen und Scheine trotz des Wandels nach wie vor eine wichtige Rolle spielen?",
      "answer": "a"
     }
    ]
@@ -147,25 +147,25 @@
    "instruction": "Lesen Sie den folgenden Text und die Aussagen 13–23. Welche der Aussagen sind richtig (r), falsch (f) oder gar nicht im Text enthalten (–)? Es gibt jeweils nur eine richtige Lösung. Markieren Sie Ihre Lösungen für die Aufgaben 13–23 auf dem Antwortbogen.",
    "title": "",
    "paragraphs": [
-    "Wer in einer deutschen Großstadt nachts zum Himmel blickt, sieht mit etwas Glück ein paar Dutzend Sterne. In einer klaren Nacht fernab jeder Siedlung wären es mehrere Tausend, dazu das schimmernde Band der Milchstraße. Für einen großen Teil der Menschheit ist dieser Anblick inzwischen zu einer Seltenheit geworden. Einer vielbeachteten Studie zufolge kann ein Drittel der Weltbevölkerung die Milchstraße nicht mehr mit bloßem Auge erkennen, in Europa sind es sogar rund sechzig Prozent. Wer jünger als dreißig ist und in einer Stadt aufwuchs, hat das Sternenband womöglich noch nie mit eigenen Augen gesehen.",
-    "Zudem wird die Nacht von Jahr zu Jahr heller, was sich allerdings mit Satelliten nur unvollständig messen lässt. Diese erfassen zwar das Licht, das von der Erdoberfläche nach oben abstrahlt, doch für den bläulichen Anteil moderner Leuchtdioden sind ihre Sensoren kaum empfindlich. Aufschlussreicher sind deshalb die Meldungen von Zehntausenden Freiwilligen in aller Welt, die in regelmäßigen Abständen dokumentieren, welche Sterne sie noch erkennen können. Ihre Beobachtungen legen nahe, dass die Helligkeit des Nachthimmels zwischen 2011 und 2022 um knapp zehn Prozent jährlich zugenommen hat – deutlich schneller, als die Satellitenmessungen vermuten ließen.",
-    "Ausgerechnet eine Technik, die als Fortschritt gefeiert wurde, hat diese Entwicklung beschleunigt. Leuchtdioden verbrauchen erheblich weniger Strom als die früher üblichen Natriumdampflampen, weshalb viele Gemeinden ihre Straßenbeleuchtung in den vergangenen Jahren umgerüstet haben. Die Einsparung verleitet jedoch dazu, mehr und heller zu beleuchten: Parkplätze, Fassaden, Werbetafeln und Gärten werden mittlerweile die ganze Nacht hindurch angestrahlt, weil es kaum noch etwas kostet – ein Phänomen, das Fachleute als Rebound-Effekt bezeichnen. Hinzu kommt, dass das Licht vieler Leuchtdioden einen hohen Blauanteil enthält, der in der Atmosphäre stärker gestreut wird als gelbes Licht und den Himmel deshalb besonders aufhellt.",
-    "Genau genommen lassen sich dabei zwei Formen der Lichtbelastung unterscheiden. Zum einen gibt es das direkte Licht einzelner Lampen, das blendet und in Räume fällt, in denen es nichts zu suchen hat. Zum anderen bildet sich über jeder Stadt eine sogenannte Lichtglocke: Nach oben entweichendes Licht wird an Staubpartikeln und Wassertröpfchen in der Luft gestreut und hellt den Himmel großflächig auf. Bei Bewölkung verstärkt sich dieser Effekt sogar noch, weil die Wolkendecke das Licht zurückwirft. Selbst Dörfer, die Dutzende Kilometer von der nächsten Großstadt entfernt liegen, erleben infolgedessen kaum noch eine wirklich dunkle Nacht.",
-    "„Für viele Tiere ist künstliches Licht eine Falle“, sagt Lena Hartwig, die als Biologin an einer Universität die Folgen nächtlicher Beleuchtung erforscht. Nachtaktive Insekten orientieren sich am Mond und an den Sternen, und eine Straßenlaterne bringt sie von ihrem Kurs ab; viele umkreisen die Lampe so lange, bis sie erschöpft sind oder von Fressfeinden erbeutet werden. Nach einer häufig zitierten Schätzung sterben in Deutschland in einer einzigen Sommernacht rund eine Milliarde Insekten an künstlichen Lichtquellen. Das hat wiederum Auswirkungen auf Pflanzen, die auf nächtliche Bestäuber angewiesen sind: In einem Schweizer Experiment besuchten Insekten unter Straßenlaternen deutlich weniger Blüten, und die Pflanzen bildeten weniger Früchte als auf unbeleuchteten Vergleichsflächen.",
-    "Ebenso betroffen sind Vögel, denn viele Arten ziehen nachts und nutzen dabei die Sterne als Kompass. Hell erleuchtete Gebäude locken sie an, sodass manche stundenlang um hohe Türme kreisen, bis sie entkräftet zu Boden gehen, während andere gegen Glasfassaden prallen.",
-    "In einigen Städten werden deshalb während der Hauptzugzeit nachts die Lichter an Hochhäusern gelöscht. Viele Fledermausarten wiederum meiden beleuchtete Bereiche und finden dadurch weniger Nahrung. An Küsten verlieren frisch geschlüpfte Meeresschildkröten die Orientierung, weil sie instinktiv dem hellsten Horizont folgen, der heute vielfach nicht mehr über dem Meer, sondern über der beleuchteten Uferpromenade liegt.",
-    "Und welche Folgen hat das künstliche Licht für den Menschen? Unsere innere Uhr wird vor allem durch Licht gesteuert: Am Abend schüttet der Körper das Hormon Melatonin aus, das uns müde macht; helles, insbesondere bläuliches Licht hemmt diese Ausschüttung. Ob das Licht, das von der Straße ins Schlafzimmer fällt, tatsächlich krank macht, ist allerdings umstritten. Hartwig mahnt zur Vorsicht: „Es gibt Hinweise auf Zusammenhänge mit Schlafstörungen und Stoffwechselerkrankungen, aber die meisten Studien zeigen lediglich Korrelationen. Wer in einer hell erleuchteten Innenstadt wohnt, unterscheidet sich in seiner Lebensweise meist auch sonst von jemandem auf dem Land.“",
+    "Wer in einer deutschen Großstadt nachts zum Himmel blickt, sieht mit etwas Glück allenfalls einige Dutzend Sterne. In einer klaren Nacht fernab jeder Siedlung wären es mehrere Tausend, dazu das schimmernde Band der Milchstraße. Für einen großen Teil der Menschheit ist der Anblick der Milchstraße inzwischen zu einer Seltenheit geworden. Nach einer vielbeachteten Untersuchung ist die Milchstraße für ein Drittel der Weltbevölkerung nicht mehr mit bloßem Auge erkennbar, in Europa sogar für rund sechzig Prozent der Bevölkerung. Wer jünger als dreißig ist und in einer Stadt aufwuchs, hat die Milchstraße womöglich noch nie mit eigenen Augen gesehen.",
+    "Zudem nimmt die Helligkeit des Nachthimmels von Jahr zu Jahr zu, was sich allerdings mit Satelliten nur unvollständig messen lässt. Diese erfassen zwar das von der Erdoberfläche nach oben abgestrahlte Licht, doch für den bläulichen Anteil moderner Leuchtdioden sind ihre Sensoren kaum empfindlich. Aufschlussreicher sind deshalb die Beobachtungen von Zehntausenden Freiwilligen in aller Welt, die in regelmäßigen Abständen die noch sichtbaren Sterne dokumentieren. Ihre Beobachtungen deuten für die Jahre 2011 bis 2022 auf eine jährliche Zunahme der Helligkeit des Nachthimmels um knapp zehn Prozent hin – deutlich mehr, als die Satellitenmessungen vermuten ließen.",
+    "Ausgerechnet eine Technik, die als Fortschritt gefeiert wurde, hat diese Entwicklung beschleunigt. Leuchtdioden verbrauchen erheblich weniger Strom als die früher üblichen Natriumdampflampen, weshalb viele Gemeinden in den vergangenen Jahren eine Umrüstung ihrer Straßenbeleuchtung vorgenommen haben. Die Einsparung verleitet jedoch zu einer Ausweitung der Beleuchtung: Parkplätze, Fassaden, Werbeanlagen und Gärten werden mittlerweile die ganze Nacht hindurch angestrahlt, weil es kaum noch etwas kostet – ein Phänomen, das Fachleute als Rebound-Effekt bezeichnen. Hinzu kommt der hohe Blauanteil im Licht vieler Leuchtdioden, der in der Atmosphäre stärker gestreut wird als gelbes Licht und den Himmel deshalb besonders aufhellt.",
+    "Genau genommen lassen sich dabei zwei Formen der Lichtverschmutzung unterscheiden. Zum einen gibt es die Blendung durch das direkte Licht einzelner Lampen, das auch in Räume fällt, in denen es nichts zu suchen hat. Zum anderen bildet sich über jeder Stadt eine sogenannte Lichtglocke, indem nach oben entweichendes Licht an Staubpartikeln und Wassertröpfchen in der Luft gestreut wird und den Himmel großflächig aufhellt. Bei Bewölkung verstärkt sich dieser Effekt sogar noch, weil die Wolkendecke das Licht zurückwirft. Selbst Dörfer in einer Entfernung von Dutzenden Kilometern zur nächsten Großstadt erleben infolgedessen kaum noch eine wirklich dunkle Nacht.",
+    "„Für viele Tiere ist künstliches Licht eine Falle“, sagt Lena Hartwig, die als Biologin an einer Universität die Folgen nächtlicher Beleuchtung erforscht. Nachtaktive Insekten nutzen Mond und Sterne zur Orientierung, und Straßenlaternen bringen sie von ihrem Kurs ab; viele umkreisen die Lampen bis zur völligen Erschöpfung oder werden von Fressfeinden erbeutet. Nach einer häufig zitierten Schätzung sterben in Deutschland in einer einzigen Sommernacht rund eine Milliarde Insekten an künstlicher Beleuchtung. Das hat wiederum Auswirkungen auf Pflanzen, die auf die Bestäubung durch nachtaktive Insekten angewiesen sind: In einem Schweizer Experiment besuchten Insekten unter Straßenlaternen deutlich weniger Blüten, und die Pflanzen bildeten weniger Früchte als auf unbeleuchteten Vergleichsflächen.",
+    "Ebenso betroffen sind Vögel, denn viele Arten ziehen nachts und nutzen dabei die Sterne zur Orientierung. Hell beleuchtete Gebäude locken sie an, sodass manche stundenlang um hohe Türme kreisen, bis sie entkräftet zu Boden gehen, während andere gegen Glasfassaden prallen.",
+    "In einigen Städten wird deshalb während der Hauptzugzeit nachts die Beleuchtung von Hochhäusern abgeschaltet. Viele Fledermausarten wiederum meiden beleuchtete Bereiche und finden dadurch weniger Nahrung. An Küsten verlieren frisch geschlüpfte Meeresschildkröten die Orientierung, weil sie instinktiv dem hellsten Horizont folgen, der heute vielfach nicht mehr über dem Meer, sondern über der beleuchteten Uferpromenade liegt.",
+    "Und welche Folgen hat künstliches Licht für den Menschen? Die Steuerung unserer inneren Uhr erfolgt vor allem durch Licht: Am Abend schüttet der Körper das Hormon Melatonin aus, das uns müde macht; helles, insbesondere bläuliches Licht hemmt diese Ausschüttung. Ob das Licht, das von der Straße ins Schlafzimmer fällt, tatsächlich krank macht, ist allerdings umstritten. „Es gibt Hinweise auf Zusammenhänge mit Schlafstörungen und Stoffwechselerkrankungen, aber die meisten Studien zeigen lediglich Korrelationen“, mahnt Hartwig zur Vorsicht. „Wer in einer hell beleuchteten Innenstadt wohnt, unterscheidet sich in seiner Lebensweise meist auch sonst von jemandem auf dem Land.“",
     "Auch für die Wissenschaft selbst stellt der aufgehellte Himmel ein ernsthaftes Problem dar. Etliche traditionsreiche Sternwarten in Europa liegen heute mitten in Städten und dienen nahezu ausschließlich der Lehre oder der Öffentlichkeitsarbeit. Für ihre Forschung weichen Astronominnen und Astronomen daher auf abgelegene Standorte aus. Die Europäische Südsternwarte etwa betreibt ihre größten Teleskope in der chilenischen Atacamawüste, wo die Luft außergewöhnlich trocken ist und die nächste Großstadt weit entfernt liegt.",
-    "Dass es auch anders geht, zeigen die sogenannten Sternenparks. Als einer der ersten in Deutschland wurde 2014 das Westhavelland in Brandenburg anerkannt; weitere Schutzgebiete, etwa in der Rhön und in der Eifel, kamen hinzu. Die beteiligten Gemeinden verpflichten sich, ihre Beleuchtung schrittweise anzupassen, ohne dass die Straßen deshalb dunkel bleiben müssten. Für den regionalen Tourismus bedeutet das einen Gewinn, da Hobbyastronomen lange Anfahrten in Kauf nehmen, um einmal einen Himmel ohne Lichtglocke zu erleben, und manche Pension inzwischen mit Sternführungen statt mit Wellnessangeboten wirbt.",
-    "Auch Städte verfügen über erheblichen Handlungsspielraum, wie das 2019 als erste deutsche „Sternenstadt“ ausgezeichnete Fulda zeigt. Neue Laternen strahlen dort ausschließlich nach unten, ihr Licht ist warmweiß statt bläulich, und in der zweiten Nachthälfte wird es gedimmt. „Entscheidend ist, Licht nur dort einzusetzen, wo es gebraucht wird, nur dann, wenn es gebraucht wird, und nicht heller als nötig“, sagt Hartwig. Viele Maßnahmen seien zudem einfach umzusetzen: Abgeschirmte Leuchten verhindern, dass Licht zur Seite oder in den Himmel fällt, und Bewegungsmelder sorgen dafür, dass Wege nur so lange beleuchtet sind, wie jemand sie benutzt.",
-    "Vom Gesetzgeber ist das Thema lange vernachlässigt worden. Seit 2021 verlangt das Bundesnaturschutzgesetz zwar, dass neu errichtete Beleuchtungsanlagen an Straßen und Wegen Insekten möglichst wenig schaden. Für private Grundstücke gibt es aber kaum Vorgaben, sodass jeder seinen Garten oder seine Hausfassade nach Belieben anstrahlen darf. Frankreich ist in dieser Hinsicht weiter, denn dort müssen beleuchtete Schaufenster und Werbeanlagen bereits seit Jahren während der Nachtstunden ausgeschaltet werden.",
-    "Hartwig sieht dennoch Grund zur Zuversicht, denn jeder Einzelne kann etwas beitragen. Gartenleuchten mit Zeitschaltuhr, warmweiße Lampen und Vorhänge, die das Licht im Haus halten, kosten wenig. „Niemand muss im Dunkeln stolpern“, betont sie. „Es geht nicht darum, auf Licht zu verzichten, sondern darum, es klüger zu nutzen. Anders als bei vielen Umweltproblemen verschwindet die Belastung in dem Moment, in dem man das Licht ausschaltet.“ Abschließend fügt sie hinzu: „Wir müssen nur wieder lernen, dass zur Nacht auch die Dunkelheit gehört.“"
+    "Dass es auch anders geht, zeigen die sogenannten Sternenparks. Als einer der ersten in Deutschland wurde 2014 das Westhavelland in Brandenburg anerkannt; weitere Schutzgebiete, etwa in der Rhön und in der Eifel, kamen hinzu. Die beteiligten Gemeinden verpflichten sich zu einer schrittweisen Anpassung ihrer Beleuchtung, ohne dass die Straßen deshalb dunkel bleiben müssten. Für den regionalen Tourismus bedeutet das einen Gewinn, da Hobbyastronomen lange Anfahrten in Kauf nehmen, um einmal einen Himmel ohne Lichtglocke zu erleben. Manche Pension wirbt inzwischen mit Sternführungen statt mit Wellnessangeboten.",
+    "Auch Städte verfügen über erheblichen Handlungsspielraum, wie das 2019 als erste deutsche „Sternenstadt“ ausgezeichnete Fulda zeigt. Neue Straßenlaternen strahlen dort ausschließlich nach unten, ihr Licht ist warmweiß statt bläulich, und in der zweiten Nachthälfte wird die Beleuchtung gedimmt. „Entscheidend ist, Licht nur dort einzusetzen, wo es gebraucht wird, nur dann, wenn es gebraucht wird, und nicht heller als nötig“, sagt Hartwig. Viele Maßnahmen seien zudem einfach umzusetzen: Abgeschirmte Lampen verhindern die Abstrahlung von Licht zur Seite oder in den Himmel, und Bewegungsmelder sorgen dafür, dass Wege nur beleuchtet sind, solange jemand sie benutzt.",
+    "Vom Gesetzgeber ist die Lichtverschmutzung lange vernachlässigt worden. Seit 2021 verlangt das Bundesnaturschutzgesetz zwar, dass neu errichtete Beleuchtungsanlagen an Straßen und Wegen Insekten möglichst wenig schaden. Für private Grundstücke gibt es aber kaum Vorgaben, sodass jeder seinen Garten oder seine Hausfassade nach Belieben anstrahlen darf. Frankreich ist in dieser Hinsicht weiter, denn dort gilt bereits seit Jahren eine Pflicht zur Abschaltung beleuchteter Schaufenster und Werbeanlagen während der Nachtstunden.",
+    "Hartwig sieht dennoch Grund zur Zuversicht, denn jeder Einzelne kann einen Beitrag leisten. Lampen mit Zeitschaltuhr im Garten, warmweißes Licht und Vorhänge, die das Licht im Haus halten, kosten wenig. „Niemand muss im Dunkeln stolpern“, betont sie. „Es geht nicht um einen Verzicht auf Beleuchtung, sondern um einen klügeren Umgang mit Licht. Anders als bei vielen Umweltproblemen verschwindet die Belastung in dem Moment, in dem man das Licht ausschaltet.“ „Wir müssen nur wieder lernen, dass zur Nacht auch die Dunkelheit gehört“, fügt sie abschließend hinzu."
    ],
    "itemsLead": "Aussagen 13–23",
    "items": [
     {
      "no": "13",
-     "text": "In Europa kann die Mehrheit der Menschen die Milchstraße nicht mehr sehen.",
+     "text": "Über die Hälfte der Europäer kann die Milchstraße ohne Hilfsmittel nicht mehr wahrnehmen.",
      "answer": "r"
     },
     {
@@ -175,22 +175,22 @@
     },
     {
      "no": "15",
-     "text": "Weil Leuchtdioden wenig Strom verbrauchen, wird heute mehr beleuchtet als früher.",
+     "text": "Der geringe Energiebedarf moderner Lampen hat dazu geführt, dass großzügiger beleuchtet wird.",
      "answer": "r"
     },
     {
      "no": "16",
-     "text": "Im Schweizer Versuch bildeten die Pflanzen unter den Laternen mehr Früchte.",
+     "text": "Im Schweizer Experiment bildeten die Pflanzen unter Straßenlaternen mehr Früchte.",
      "answer": "f"
     },
     {
      "no": "17",
-     "text": "Seit Hochhäuser nachts dunkel bleiben, sterben nur noch halb so viele Zugvögel.",
+     "text": "Die Abschaltung der Beleuchtung an Hochhäusern hat die Zahl verunglückter Zugvögel halbiert.",
      "answer": "n"
     },
     {
      "no": "18",
-     "text": "Hartwig hält die gesundheitlichen Folgen nächtlicher Beleuchtung für ausreichend erforscht.",
+     "text": "Hartwig hält einen ursächlichen Zusammenhang zwischen Licht und Schlafstörungen für erwiesen.",
      "answer": "f"
     },
     {
@@ -200,12 +200,12 @@
     },
     {
      "no": "20",
-     "text": "Fulda hat für die Umrüstung seiner Laternen Fördergeld vom Bund erhalten.",
+     "text": "Fulda hat für die Umrüstung seiner Straßenlaternen Fördergeld vom Bund erhalten.",
      "answer": "n"
     },
     {
      "no": "21",
-     "text": "Für private Grundstücke gelten in Deutschland strenge Regeln zur Beleuchtung.",
+     "text": "Für die Beleuchtung privater Grundstücke gibt es in Deutschland strenge Vorgaben.",
      "answer": "f"
     },
     {
@@ -215,7 +215,7 @@
     },
     {
      "no": "23",
-     "text": "Hartwig hält die Folgen künstlichen Lichts für schnell umkehrbar.",
+     "text": "Hartwig hält die Lichtverschmutzung für sofort umkehrbar.",
      "answer": "r"
     }
    ],
@@ -234,11 +234,11 @@
    "instruction": "Lesen Sie den folgenden Text. Welche Lösung (a, b, c oder d) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 25–46 auf dem Antwortbogen. Lücke (0) ist ein Beispiel.",
    "title": "Ein Garten für Kinder",
    "paragraphs": [
-    "Kaum ein deutsches Wort hat eine so weite Reise {{0}} wie „Kindergarten“: In London, New York oder Sydney benutzt man es ganz selbstverständlich, meist ohne zu ahnen, {{25}} es aus dem Deutschen stammt. {{26}} hat es Friedrich Fröbel, ein Pädagoge aus Thüringen, {{27}} es zeitlebens um die Frage ging, wie Kleinkinder eigentlich lernen. Von {{28}} strenger Disziplin hielt er wenig, denn Kinder lernen seiner Überzeugung nach nicht durch Stillsitzen und Zuhören. {{29}} erkunden sie ihre Umgebung spielerisch, mit allen Sinnen und aus eigenem Antrieb, wobei Erwachsene sie lediglich begleiten sollten.",
-    "1840 verwendete Fröbel das Wort {{30}} für eine Einrichtung im thüringischen Bad Blankenburg, und der Name war Programm: Kinder sollten dort {{31}} Pflanzen gepflegt werden, die man nicht in eine vorgegebene Form zwingt, sondern in ihrem natürlichen Wachstum unterstützt. Für das Spiel entwickelte Fröbel spezielle Lernmaterialien, {{32}} er „Spielgaben“ nannte – einfache Körper wie Ball, Kugel, Walze und Würfel, {{33}} Kinder Formen, Zahlen und Gesetzmäßigkeiten entdecken sollten. Manche Holzbaukästen, mit denen Kinder {{34}} spielen, gehen auf diese pädagogischen Überlegungen zurück.",
-    "Allerdings stieß Fröbel keineswegs überall auf Zustimmung: 1851 {{35}} Preußen die Kindergärten, weil die Behörden befürchteten, dort würden Unglauben und politischer Umsturz gelehrt. Auslöser war {{36}} Anschein nach eine folgenreiche Verwechslung, denn ein Neffe Fröbels hatte Schriften verfasst, die als staatsgefährdend {{37}}. Fröbel selbst erlebte das Ende des Verbots nicht mehr, da er bereits 1852 starb, acht Jahre bevor es {{38}} wurde.",
-    "Anschließend verbreitete sich die Idee umso rascher: Engagierte Frauen wie Bertha von Marenholtz-Bülow warben in ganz Europa {{39}} Fröbels Pädagogik, während deutsche Auswanderer sie nach Amerika brachten. Bereits 1856 hatte Margarethe Schurz in Wisconsin den ersten Kindergarten der Vereinigten Staaten eröffnet – zu einer Zeit, {{40}} dort noch kaum jemand an frühkindliche Bildung dachte.",
-    "Heute besucht in Deutschland nahezu jedes Kind vor der Einschulung eine Kindertagesstätte. Das Wort „Kindergarten“ hört man hierzulande zwar immer seltener, {{41}} im englischen Sprachraum {{42}} es sich bis heute gehalten. Ob Fröbel das gefallen {{43}}? Gefreut hätte ihn aber {{44}}, dass Kinder nicht mehr als kleine Erwachsene betrachtet werden, {{45}} man möglichst früh das Stillsitzen beibringen muss. Sein Leitgedanke, dass Lernen im freien Spiel beginnt, ist {{46}} aktuell wie vor bald zweihundert Jahren."
+    "Kaum ein deutsches Wort hat eine so weite Reise {{0}} wie „Kindergarten“: In London, New York oder Sydney benutzt man es ganz selbstverständlich, meist ohne zu ahnen, {{25}} es aus dem Deutschen stammt. {{26}} hat es Friedrich Fröbel, ein Pädagoge aus Thüringen, {{27}} es zeitlebens um die Frage ging, wie frühkindliche Bildung gelingt. Von {{28}} strenger Disziplin hielt er wenig, denn Kinder lernen seiner Überzeugung nach nicht durch Stillsitzen und Zuhören. {{29}} erkunden sie ihre Umgebung spielerisch, mit allen Sinnen und aus eigenem Antrieb, wobei Erwachsenen lediglich eine begleitende Rolle zukommt.",
+    "1840 verwendete Fröbel das Wort „Kindergarten“ {{30}} für eine Einrichtung im thüringischen Bad Blankenburg, und die Bezeichnung war Programm: Kinder sollten dort {{31}} Pflanzen gepflegt werden, die man nicht in eine vorgegebene Form zwingt, sondern in ihrer natürlichen Entwicklung unterstützt. Für die Förderung des Spiels entwickelte Fröbel spezielle Lernmaterialien, {{32}} er „Spielgaben“ nannte – einfache Körper wie Ball, Kugel, Walze und Würfel, {{33}} Kinder Formen, Zahlen und Gesetzmäßigkeiten entdecken sollten. Manche Holzbaukästen, mit denen Kinder {{34}} spielen, gehen auf diese Überlegungen Fröbels zurück.",
+    "Allerdings stieß Fröbel keineswegs überall auf Zustimmung – 1851 {{35}} Preußen die Kindergärten, weil die Behörden die Verbreitung von Unglauben und politischen Umsturzideen befürchteten. Auslöser war {{36}} Anschein nach eine folgenreiche Verwechslung, denn ein Neffe Fröbels hatte Schriften verfasst, die als staatsgefährdend {{37}}. Fröbel selbst erlebte das Ende des Verbots in Preußen nicht mehr, da er bereits 1852 verstarb, acht Jahre bevor es {{38}} wurde.",
+    "In der Folgezeit erfuhr Fröbels Idee eine umso raschere Verbreitung – engagierte Frauen wie Bertha von Marenholtz-Bülow warben in ganz Europa {{39}} Fröbels Pädagogik, während deutsche Auswanderer sie nach Nordamerika brachten. Bereits 1856 hatte Margarethe Schurz in Wisconsin den ersten Kindergarten der Vereinigten Staaten eröffnet – zu einer Zeit, {{40}} dort noch kaum jemand an frühkindliche Bildung dachte.",
+    "Mittlerweile besuchen in Deutschland nahezu alle Kinder vor der Einschulung eine Kindertagesstätte. Das Wort „Kindergarten“ hört man hierzulande zwar immer seltener, {{41}} im englischen Sprachraum {{42}} es sich bis heute gehalten. Ob Fröbel diese Entwicklung gefallen {{43}}? Gefreut hätte ihn aber {{44}}, dass Kinder nicht mehr als kleine Erwachsene betrachtet werden, {{45}} man möglichst früh das Stillsitzen beibringen muss. Seine Grundüberzeugung, dass Bildung im freien Spiel beginnt, ist {{46}} aktuell wie vor bald zweihundert Jahren."
    ],
    "example": {
     "options": {
@@ -481,43 +481,43 @@
    "statements": [
     {
      "letter": "a",
-     "text": "Bewerber aus dem Ausland haben es bei der Wohnungssuche besonders schwer."
+     "text": "Wer neu aus dem Ausland kommt, muss bei der Wohnungssuche zusätzliche Hürden überwinden."
     },
     {
      "letter": "b",
-     "text": "Möblierte Kleinstapartments sind für Studienanfänger die beste Lösung."
+     "text": "Kleine möblierte Einzelwohnungen sind für Erstsemester ideal."
     },
     {
      "letter": "c",
-     "text": "Ein Wohnheim braucht Angebote, die die Bewohner miteinander ins Gespräch bringen."
+     "text": "Damit im Wohnheim Gemeinschaft entsteht, muss man gezielt etwas dafür tun."
     },
     {
      "letter": "d",
-     "text": "Die Höhe der Mieten hat bei der Wahl meines Studienorts den Ausschlag gegeben."
+     "text": "Ausschlaggebend für meinen Studienort waren die Wohnkosten, nicht der Ruf der Hochschule."
     },
     {
      "letter": "e",
-     "text": "Wer bei den Eltern wohnt, spart Geld, verpasst aber einen Teil des Studentenlebens."
+     "text": "Mietfreies Wohnen im Elternhaus geht zulasten des sozialen Lebens an der Hochschule."
     },
     {
      "letter": "f",
-     "text": "Ein Zimmer gegen Hilfe im Alltag kann für beide Seiten ein Gewinn sein."
+     "text": "Ein günstiges Zimmer gegen Unterstützung im Alltag nützt Jung und Alt gleichermaßen."
     },
     {
      "letter": "g",
-     "text": "Alle Studienanfänger sollten im ersten Jahr in einem Wohnheim wohnen, damit sie leichter Anschluss finden."
+     "text": "Ein Pflichtjahr im Wohnheim würde Erstsemestern den Einstieg erleichtern."
     },
     {
      "letter": "h",
-     "text": "Das Zusammenleben mit Fremden hat mir beigebracht, Kompromisse einzugehen."
+     "text": "In der Wohngemeinschaft habe ich gelernt, auch einmal zurückzustecken."
     },
     {
      "letter": "i",
-     "text": "Leer stehende Bürogebäude könnten zu Wohnraum für Studierende umgebaut werden."
+     "text": "Ungenutzte Gewerbeflächen könnten den Mangel an Studentenzimmern lindern."
     },
     {
      "letter": "j",
-     "text": "Der Staat müsste deutlich mehr Geld in günstige Wohnheimplätze investieren."
+     "text": "Ohne langfristige staatliche Förderung wird es nie genug günstige Wohnheimplätze geben."
     }
    ],
    "items": [
@@ -572,8 +572,8 @@
      "stem": "Zum Weltraumschrott zählen nach Frau Wendt",
      "options": {
       "a": "ausschließlich Teile, die größer als zehn Zentimeter sind.",
-      "b": "vor allem Satelliten, die noch in Betrieb sind.",
-      "c": "auch Gegenstände, die Astronauten verloren haben."
+      "b": "vor allem Satelliten, die noch funktionieren.",
+      "c": "auch Utensilien, die bei Arbeiten im All abhandenkamen."
      },
      "answer": "c"
     },
@@ -581,9 +581,9 @@
      "no": "56",
      "stem": "Das Problem ist nach Frau Wendt vor allem, dass",
      "options": {
-      "a": "sich der Schrott in bestimmten Umlaufbahnen ballt.",
+      "a": "sich die Trümmer in stark genutzten Bahnen häufen.",
       "b": "sich die Teile gleichmäßig um die Erde verteilen.",
-      "c": "die meisten Teile zu klein sind, um Schaden anzurichten."
+      "c": "die meisten Teile zu klein sind, um Satelliten zu zerstören."
      },
      "answer": "a"
     },
@@ -591,9 +591,9 @@
      "no": "57",
      "stem": "Die Internationale Raumstation",
      "options": {
-      "a": "ist durch ihre Hülle vor allen Trümmern geschützt.",
-      "b": "muss größeren Teilen regelmäßig ausweichen.",
-      "c": "ist 2009 mit einem Satelliten zusammengestoßen."
+      "a": "ist durch Panzerung vor allen Trümmern geschützt.",
+      "b": "muss größeren Brocken öfter aus dem Weg gehen.",
+      "c": "stieß 2009 mit einem Satelliten zusammen."
      },
      "answer": "b"
     },
@@ -603,7 +603,7 @@
      "options": {
       "a": "die Gefahr, die herabfallende Teile für Menschen darstellen.",
       "b": "die rasche Zunahme der Satelliten privater Firmen.",
-      "c": "eine Kettenreaktion von Zusammenstößen."
+      "c": "eine Lawine von Kollisionen durch neue Trümmer."
      },
      "answer": "c"
     },
@@ -611,9 +611,9 @@
      "no": "59",
      "stem": "Wie lange ein Teil im All bleibt, hängt nach Frau Wendt vor allem",
      "options": {
-      "a": "von der Höhe seiner Umlaufbahn ab.",
+      "a": "davon ab, wie weit oben es kreist.",
       "b": "von seiner Geschwindigkeit ab.",
-      "c": "von dem Material ab, aus dem es besteht."
+      "c": "vom Material seiner Bauteile ab."
      },
      "answer": "a"
     },
@@ -621,9 +621,9 @@
      "no": "60",
      "stem": "Die internationalen Regeln gegen Weltraumschrott",
      "options": {
-      "a": "sind seit Kurzem für alle Staaten der Welt verbindlich.",
-      "b": "haben bisher meist den Charakter von Empfehlungen.",
-      "c": "sehen bei Verstößen hohe Geldstrafen vor."
+      "a": "gelten ab 2030 für alle Staaten verbindlich.",
+      "b": "sind bislang eher Ratschläge als Pflichten.",
+      "c": "sehen bei Verstößen Strafen vor."
      },
      "answer": "b"
     },
@@ -631,9 +631,9 @@
      "no": "61",
      "stem": "Missionen, die Schrott einsammeln sollen,",
      "options": {
-      "a": "sind bereits seit einigen Jahren erfolgreich im Einsatz.",
-      "b": "eignen sich vor allem für kleine Splitter.",
-      "c": "können jeweils nur einzelne große Teile bergen."
+      "a": "sind mit Greifarm oder Netz schon im Einsatz.",
+      "b": "eignen sich für kleine Splitter.",
+      "c": "beseitigen je Flug nur ein Trümmerstück."
      },
      "answer": "c"
     },
@@ -641,9 +641,9 @@
      "no": "62",
      "stem": "Am wichtigsten ist nach Frau Wendt, dass",
      "options": {
-      "a": "Satelliten nach ihrer Mission die Umlaufbahn verlassen.",
-      "b": "künftig deutlich weniger Raketen gestartet werden.",
-      "c": "Satelliten künftig robuster und besser gepanzert gebaut werden."
+      "a": "Raumfahrzeuge nach getaner Arbeit ihre Umlaufbahn verlassen.",
+      "b": "auf neue Satelliten ganz verzichtet wird.",
+      "c": "Satelliten mit dickerer Panzerung gebaut werden."
      },
      "answer": "a"
     },
@@ -653,7 +653,7 @@
      "options": {
       "a": "beobachten Studierende Schrott mit einem eigenen Radar.",
       "b": "haben Studierende ein Gerät zum Einfangen von Trümmern gebaut.",
-      "c": "erproben Studierende ein Segel, das Satelliten abbremst."
+      "c": "wird eine Folie getestet, die den Abstieg beschleunigt."
      },
      "answer": "c"
     },
@@ -661,8 +661,8 @@
      "no": "64",
      "stem": "Frau Wendt ist vorsichtig optimistisch, weil",
      "options": {
-      "a": "die Zahl der Satelliten inzwischen wieder sinkt.",
-      "b": "auch die Betreiber saubere Umlaufbahnen brauchen.",
+      "a": "die Zahl der Satelliten sinkt.",
+      "b": "Unternehmen selbst Schäden vermeiden wollen.",
       "c": "neue Technik den Schrott bald vollständig beseitigen wird."
      },
      "answer": "b"

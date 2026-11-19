@@ -7,11 +7,11 @@
    "intro": "In der Wissenschaftsbeilage Ihrer Hochschulzeitung lesen Sie folgenden Artikel:",
    "title": "Basisdemokratie im Bienenschwarm",
    "paragraphs": [
-    "Wird ein Bienenvolk zu groß, teilt es sich: Die alte Königin verlässt mit einem beträchtlichen Teil der Arbeiterinnen den Stock, und der Schwarm lässt sich zunächst an einem Ast in unmittelbarer Nähe nieder. {{0}} Diese Entscheidung ist für das Volk überlebenswichtig, denn ein schlecht gewählter Nistplatz – zu klein, zu feucht oder zu nah am Boden – kann bedeuten, dass es den bevorstehenden Winter nicht übersteht.",
-    "Auf die Suche nach einer geeigneten Bleibe begeben sich allerdings nicht alle Bienen, sondern nur einige Hundert erfahrene Kundschafterinnen. {{1}} Kehrt eine von ihnen von der Besichtigung einer vielversprechenden Höhle zurück, wirbt sie auf der Oberfläche der Traube mit einem Schwänzeltanz für ihre Entdeckung. Winkel und Dauer der sogenannten Schwänzelphase verraten den Artgenossinnen, in welcher Richtung und Entfernung der Ort liegt. {{2}} Ein hervorragender Standort gewinnt daher schneller neue Unterstützerinnen als ein mittelmäßiger; diese prüfen ihn ihrerseits und werben anschließend ebenfalls für ihn.",
-    "Bemerkenswert an diesem Verfahren ist, dass keine einzelne Biene die verschiedenen Angebote miteinander vergleicht. {{3}} Mit jedem weiteren Besuch tanzt eine Kundschafterin weniger ausdauernd für ihren Favoriten, bis sie schließlich ganz damit aufhört, sodass nur Orte im Rennen bleiben, die fortlaufend neue Fürsprecherinnen gewinnen. Hinzu kommt eine Art Einspruchsrecht: Bienen, die einen konkurrierenden Standort bevorzugen, stoßen Tänzerinnen mit dem Kopf an und senden zugleich ein kurzes Vibrationssignal aus. {{4}}",
-    "Die eigentliche Entscheidung fällt jedoch nicht auf der Traube, sondern am potenziellen Nistplatz selbst. {{5}} Ist diese Schwelle erreicht, kehren die Kundschafterinnen zurück und erzeugen einen hohen Pfeifton, der die übrigen Bienen veranlasst, ihre Flugmuskulatur aufzuwärmen. Kurz darauf erhebt sich der gesamte Schwarm, dem die Kundschafterinnen den Weg zum neuen Zuhause weisen, indem sie in schnellem Flug wiederholt durch die Bienenwolke schießen.",
-    "Der amerikanische Biologe Thomas Seeley, der Bienenschwärme seit den Siebzigerjahren erforscht und dafür unter anderem Nistkästen auf einer Insel vor der Küste von Maine aufgestellt hat, spricht deshalb von einer „Bienendemokratie“ und sieht darin ein Vorbild für menschliche Gremien. {{6}} Statt sich in endlosen Debatten zu verlieren, lassen sie zahlreiche voneinander unabhängige Prüfungen zu, bündeln deren Ergebnisse und legen im Voraus fest, ab wann genügend Zustimmung erreicht ist."
+    "Wird ein Bienenvolk zu groß, kommt es zur Teilung: Die alte Königin verlässt mit einem beträchtlichen Teil der Arbeiterinnen den Stock, und der Schwarm lässt sich zunächst an einem Ast in unmittelbarer Nähe nieder. {{0}} Diese Entscheidung ist für das Volk überlebenswichtig, denn ein ungeeigneter Nistplatz – zu klein, zu feucht oder zu nah am Boden – gefährdet die Überwinterung des Volkes.",
+    "An der Suche nach einem geeigneten Nistplatz beteiligen sich allerdings nicht alle Bienen, sondern nur einige Hundert erfahrene Kundschafterinnen. {{1}} Kehrt eine von ihnen von der Besichtigung eines vielversprechenden Standorts zurück, wirbt sie auf der Oberfläche der Traube mit einem Schwänzeltanz für ihre Entdeckung. Winkel und Dauer der sogenannten Schwänzelphase geben Auskunft über Richtung und Entfernung des Standorts. {{2}} Ein hervorragender Standort gewinnt daher schneller neue Unterstützerinnen als ein mittelmäßiger; diese Unterstützerinnen besichtigen den Standort ihrerseits und werben anschließend ebenfalls für ihn.",
+    "Bemerkenswert an diesem Verfahren ist, dass keine einzelne Kundschafterin die konkurrierenden Standorte miteinander vergleicht. {{3}} Mit jeder weiteren Besichtigung tanzt eine Kundschafterin weniger ausdauernd für ihren Standort, bis sie schließlich ganz damit aufhört. Im Rennen bleiben deshalb nur Standorte mit einem fortlaufenden Zustrom neuer Unterstützerinnen. Hinzu kommt eine Art Einspruchsrecht: Bienen mit einer Vorliebe für einen konkurrierenden Standort stoßen tanzende Kundschafterinnen mit dem Kopf an und senden zugleich ein kurzes Vibrationssignal aus. {{4}}",
+    "Die eigentliche Entscheidung fällt jedoch nicht auf der Traube, sondern am potenziellen Nistplatz selbst. {{5}} Bei Erreichen dieser Schwelle kehren die Kundschafterinnen zurück und erzeugen einen hohen Pfeifton. Dieser Pfeifton veranlasst die übrigen Bienen zum Aufwärmen ihrer Flugmuskulatur. Kurz darauf erhebt sich der Schwarm, und die Kundschafterinnen weisen ihm den Weg zum neuen Nistplatz, indem sie in schnellem Flug wiederholt durch den Schwarm schießen.",
+    "Der amerikanische Biologe Thomas Seeley, der die Entscheidungsfindung von Bienenschwärmen seit den Siebzigerjahren erforscht und dafür Nistkästen auf einer Insel vor der Küste von Maine aufgestellt hat, spricht deshalb von einer „Bienendemokratie“ und sieht darin ein Vorbild für menschliche Gremien. {{6}} Statt sich in endlosen Debatten zu verlieren, ermöglichen sie zahlreiche unabhängige Prüfungen, bündeln deren Ergebnisse und legen im Voraus fest, ab welchem Maß an Zustimmung die Wahl als getroffen gilt."
    ],
    "sentences": [
     {
@@ -20,27 +20,27 @@
     },
     {
      "letter": "b",
-     "text": "Wie oft sie tanzt, hängt dagegen davon ab, wie sehr sie der Ort überzeugt hat."
+     "text": "Die Häufigkeit ihrer Tanzrunden richtet sich dagegen nach der Qualität des Standorts."
     },
     {
      "letter": "c",
-     "text": "Gut funktionierende Gruppen, so seine Beobachtung, gehen nämlich ganz ähnlich vor."
+     "text": "Gut funktionierende Gremien, so seine Beobachtung, gehen nämlich ganz ähnlich vor."
     },
     {
      "letter": "d",
-     "text": "Der Schwänzeltanz verrät allerdings nichts über die Qualität eines Ortes, sondern ausschließlich etwas über dessen Richtung und Entfernung."
+     "text": "Der Schwänzeltanz verrät allerdings nichts über die Qualität eines Standorts, sondern ausschließlich etwas über dessen Lage."
     },
     {
      "letter": "e",
-     "text": "Sie schwärmen in alle Richtungen aus und inspizieren Baumhöhlen oder Mauerspalten, manchmal fast eine Stunde lang."
+     "text": "Sie schwärmen in alle Richtungen aus und inspizieren Baumhöhlen oder Mauerspalten, mitunter fast eine Stunde lang."
     },
     {
      "letter": "f",
-     "text": "Dort bleibt er in der Regel mehrere Wochen, bis die Königin die Reise fortsetzt."
+     "text": "Dort verharrt er in der Regel mehrere Wochen, bis die Königin die Weiterreise antritt."
     },
     {
      "letter": "g",
-     "text": "Vielmehr sorgt ein schlichter Mechanismus dafür, dass schwächere Vorschläge nach und nach von selbst verschwinden."
+     "text": "Vielmehr sorgt ein schlichter Mechanismus für das allmähliche Verschwinden schwächerer Vorschläge."
     },
     {
      "letter": "h",
@@ -49,7 +49,7 @@
    ],
    "example": {
     "letter": "z",
-    "text": "Dort hängt er als dichte Traube, bis feststeht, wo er sich dauerhaft niederlassen wird."
+    "text": "Dort hängt der Schwarm als dichte Traube, bis die Entscheidung über einen dauerhaften Nistplatz gefallen ist."
    },
    "items": [
     {
@@ -84,23 +84,23 @@
    "sections": [
     {
      "letter": "a",
-     "text": "Die Wissenschaft hat schon mehrfach die Sprache gewechselt. Jahrhundertelang verständigten sich Gelehrte in ganz Europa auf Latein, bevor sich ab dem 17. Jahrhundert nach und nach die Landessprachen durchsetzten. Um 1900 war Deutsch eine der führenden Wissenschaftssprachen; so erschienen Albert Einsteins bahnbrechende Arbeiten aus dem Jahr 1905 in den Leipziger „Annalen der Physik“. Mathematiker und Mediziner schrieben je nach Herkunft auf Deutsch, Französisch oder Englisch, und wer mitreden wollte, las alle drei Sprachen. Dass sich das änderte, hatte zunächst wenig mit der Sprache selbst zu tun. Nach dem Ersten Weltkrieg schloss man deutsche Forscher jahrelang von internationalen Kongressen aus. In den Dreißigerjahren vertrieb dann das NS-Regime zahlreiche Wissenschaftlerinnen und Wissenschaftler ins Ausland, viele von ihnen in die USA. Heute erscheinen in den Naturwissenschaften Schätzungen zufolge weit über neunzig Prozent aller Fachaufsätze auf Englisch. In den Geistes- und Sozialwissenschaften ist der Anteil zwar geringer, wächst aber ebenfalls."
+     "text": "Die Wissenschaft hat ihre Sprache schon mehrfach gewechselt. Jahrhundertelang verständigten sich die Gelehrten in ganz Europa auf Latein. Ab dem 17. Jahrhundert setzten sich dann nach und nach die Landessprachen als Wissenschaftssprachen durch. Um 1900 war Deutsch eine der führenden Wissenschaftssprachen; so erschienen Albert Einsteins bahnbrechende Arbeiten aus dem Jahr 1905 in den Leipziger „Annalen der Physik“. Mathematiker und Mediziner publizierten je nach Herkunft auf Deutsch, Französisch oder Englisch, und wer mitreden wollte, las alle drei Sprachen. Der Niedergang des Deutschen als Wissenschaftssprache hatte zunächst wenig mit der Sprache selbst zu tun. Nach dem Ersten Weltkrieg blieben die deutschen Gelehrten jahrelang von internationalen Kongressen ausgeschlossen. In den Dreißigerjahren vertrieb dann das NS-Regime zahlreiche Forschende ins Ausland, viele von ihnen in die USA. Heute erscheinen in den Naturwissenschaften Schätzungen zufolge weit über neunzig Prozent aller Fachartikel auf Englisch. In den Geistes- und Sozialwissenschaften ist der Anteil des Englischen zwar geringer, wächst aber ebenfalls."
     },
     {
      "letter": "b",
-     "text": "Die Vorzüge dieser Entwicklung lassen sich kaum bestreiten. Eine gemeinsame Sprache senkt die Hürden für die Zusammenarbeit erheblich. So kann eine Epidemiologin in Seoul die Daten ihrer Kollegen aus São Paulo noch am Tag der Veröffentlichung lesen, und internationale Forschungsteams wären ohne Englisch kaum denkbar. Einheitliche Begriffe beugen zudem Missverständnissen vor, die beim Übersetzen von einer Sprache in die andere zwangsläufig entstünden. Auch lassen sich Gutachterinnen und Gutachter leichter finden, wenn sie nicht aus derselben Sprachgemeinschaft stammen müssen wie die Autorinnen und Autoren. Selbst kleine Länder profitieren: Ergebnisse aus Estland oder Slowenien finden eine weltweite Leserschaft, die ihnen in der jeweiligen Landessprache verschlossen bliebe. Für junge Forschende aus ärmeren Staaten kann die gemeinsame Sprache sogar zur Eintrittskarte in die internationale Fachwelt werden. Wer das Englische als Sprache der Forschung grundsätzlich ablehnt, verkennt also, wie viel Austausch es überhaupt erst möglich gemacht hat. Es wäre deshalb naiv, die Uhr zurückdrehen zu wollen."
+     "text": "Die Vorzüge dieser Entwicklung lassen sich kaum bestreiten. Eine gemeinsame Wissenschaftssprache senkt die Hürden für die Zusammenarbeit erheblich. So kann eine Epidemiologin in Seoul die Daten ihrer Fachkollegen aus São Paulo noch am Tag der Veröffentlichung lesen. Internationale Forschungsteams wären ohne eine gemeinsame Wissenschaftssprache kaum denkbar. Einheitliche Fachbegriffe beugen zudem Missverständnissen vor, die bei der Übersetzung von einer Sprache in die andere zwangsläufig entstünden. Auch die Suche nach Gutachterinnen und Gutachtern wird leichter, wenn diese nicht aus derselben Sprachgemeinschaft stammen müssen wie die Autorinnen und Autoren. Selbst kleine Länder profitieren: Fachartikel aus Estland oder Slowenien finden eine weltweite Leserschaft, die ihnen in der jeweiligen Landessprache verschlossen bliebe. Für junge Forschende aus ärmeren Ländern kann Englisch sogar zur Eintrittskarte in die internationale Forschung werden. Wer Englisch als Wissenschaftssprache grundsätzlich ablehnt, verkennt also, wie viel Austausch die gemeinsame Sprache überhaupt erst ermöglicht hat. Es wäre deshalb naiv, die Uhr zurückdrehen zu wollen."
     },
     {
      "letter": "c",
-     "text": "Weniger Beachtung findet dagegen die Frage, wer die Rechnung für diese Verständigung bezahlt. Befragungen unter Forschenden zeigen, dass jene, deren Muttersprache nicht Englisch ist, für das Lesen eines Fachartikels deutlich mehr Zeit brauchen. Für einen eigenen Aufsatz arbeiten sie oft tagelang zusätzlich – nicht selten auf eigene Kosten, wenn sie ein Lektorat in Anspruch nehmen. Hinzu kommt, dass Gutachter ihnen ihre Manuskripte öfter wegen sprachlicher Mängel zurückschicken, selbst wenn die Ergebnisse überzeugen. Manche Nachwuchswissenschaftlerinnen und -wissenschaftler verzichten sogar darauf, auf internationalen Tagungen vorzutragen, weil sie fürchten, in der anschließenden Diskussion nicht schlagfertig genug zu sein. Wer für jeden Antrag, jedes Gutachten und jede E-Mail an Partner im Ausland länger braucht, hat am Ende weniger Zeit für das, worum es eigentlich gehen sollte: die Forschung. Ich halte es für ein Ärgernis, dass dieser Mehraufwand fast ausschließlich an den Einzelnen hängen bleibt. Wer Englisch als Muttersprache spricht, genießt dagegen einen Vorsprung, für den er nichts getan hat."
+     "text": "Weniger Beachtung findet dagegen die Frage, wer die Rechnung für diese Verständigung bezahlt. Befragungen unter Forschenden zeigen: Wer nicht mit Englisch als Muttersprache aufgewachsen ist, braucht für die Lektüre eines Fachartikels deutlich mehr Zeit. Für einen eigenen Aufsatz arbeiten diese Forschenden oft tagelang zusätzlich – nicht selten auf eigene Kosten, wenn sie ein Lektorat in Anspruch nehmen. Hinzu kommt, dass Gutachter ihnen ihre Manuskripte öfter wegen sprachlicher Mängel zurückschicken, selbst bei überzeugenden Ergebnissen. Manche jungen Forschenden verzichten sogar auf Vorträge bei internationalen Tagungen, weil sie fürchten, in der anschließenden Diskussion nicht schlagfertig genug zu sein. Wer für jeden Antrag, jedes Gutachten und jede E-Mail an Partner im Ausland länger braucht, hat am Ende weniger Zeit für das Wesentliche: die Forschung. Ich halte es für ein Ärgernis, dass dieser Mehraufwand fast ausschließlich an den Einzelnen hängen bleibt. Wer Englisch als Muttersprache spricht, genießt dagegen einen Vorsprung, für den er nichts getan hat."
     },
     {
      "letter": "d",
-     "text": "Folgen hat die Einsprachigkeit aber nicht nur für die Forschenden, sondern auch für die Sprachen, die aus der Wissenschaft verdrängt werden. Linguisten sprechen von einem Domänenverlust: Wo neue Fachbegriffe nur noch auf Englisch entstehen, bildet das Deutsche keinen eigenen Wortschatz mehr für das, was in den Laboren gerade geschieht. Schon heute lernen viele Studierende zentrale Konzepte ausschließlich auf Englisch und merken erst im Beruf, dass ihnen die deutschen Wörter dafür fehlen. Das mag zunächst wie ein Anliegen von Sprachpflegern klingen, betrifft aber tatsächlich alle, die auf eine verständliche Vermittlung angewiesen sind. Dazu gehören Patientinnen, die ihre Diagnose verstehen wollen, Lehrkräfte, die neue Erkenntnisse in den Unterricht tragen, und Abgeordnete, die über Forschungsgelder entscheiden. Können Fachleute ihr Wissen eines Tages nur noch in einer Sprache ausdrücken, die ein großer Teil der Bevölkerung nicht sicher beherrscht, droht sich die Wissenschaft von der Gesellschaft zu entfernen, die sie finanziert."
+     "text": "Folgen hat die Einsprachigkeit aber nicht nur für die Forschenden, sondern auch für die Sprachen, die aus der Wissenschaft verdrängt werden. Linguisten sprechen von einem Domänenverlust: Wo neue Fachbegriffe nur noch auf Englisch entstehen, bildet das Deutsche keinen eigenen Wortschatz mehr für die Vorgänge in den Laboren. Schon heute lernen viele Studierende zentrale Konzepte ausschließlich auf Englisch. Erst im Beruf bemerken sie dann, dass ihnen die deutschen Fachbegriffe dafür fehlen. Das mag zunächst wie ein Anliegen von Sprachpflegern klingen. Tatsächlich betrifft es aber alle, die auf eine verständliche Vermittlung angewiesen sind: Patientinnen, die ihre Diagnose verstehen wollen, Lehrkräfte, die neue Erkenntnisse in den Unterricht tragen, und Abgeordnete, die über Forschungsgelder entscheiden. Können Forschende ihr Fachwissen eines Tages nur noch in einer Sprache ausdrücken, die ein großer Teil der Bevölkerung nicht sicher beherrscht, droht sich die Wissenschaft von der Gesellschaft zu entfernen, die sie finanziert."
     },
     {
      "letter": "e",
-     "text": "Die Lösung kann daher nicht in einer Rückkehr zu nationalen Wissenschaftssprachen liegen, wohl aber in einer bewusst gepflegten Mehrsprachigkeit. Fachaufsätze dürfen und sollen weiterhin auf Englisch erscheinen. Wer Forschung fördert, könnte aber verlangen, dass die wichtigsten Ergebnisse auch allgemein verständlich in der Landessprache vorliegen. Grundständige Studiengänge sollten in der Landessprache beginnen, damit sich Studierende die Begriffe ihres Faches zunächst in der Sprache aneignen, in der sie diese später auch erklären müssen. Hochschulen wiederum sollten mehrsprachige Kurse nicht als Zugeständnis an Studierende aus dem Ausland sehen, sondern als Bildungsziel für alle. Denn wer in zwei Sprachen über sein Fach sprechen kann, versteht es in der Regel auch gründlicher. Große Hoffnungen ruhen derzeit auf der maschinellen Übersetzung, und tatsächlich leisten KI-Programme schon heute Erstaunliches. Ob sie aber Fachbegriffe hervorbringen können, die es in der Zielsprache noch gar nicht gibt, darf bezweifelt werden. Übersetzen lässt sich nur, wofür eine Sprache Wörter hat – und die entstehen nicht von selbst."
+     "text": "Die Lösung kann daher nicht in einer Rückkehr zu nationalen Wissenschaftssprachen liegen, wohl aber in einer bewusst gepflegten Mehrsprachigkeit. Fachartikel dürfen und sollen weiterhin auf Englisch erscheinen. Wer Forschung fördert, könnte aber verlangen, dass die wichtigsten Ergebnisse auch allgemein verständlich in der Landessprache vorliegen. Grundständige Studiengänge sollten in der Landessprache beginnen. So eignen sich Studierende die Fachbegriffe zunächst in der Sprache an, in der sie diese später auch erklären müssen. Hochschulen wiederum sollten mehrsprachige Lehrveranstaltungen nicht als Zugeständnis an Studierende aus dem Ausland sehen, sondern als Bildungsziel für alle. Denn wer in zwei Sprachen über sein Fach sprechen kann, versteht es in der Regel auch gründlicher. Große Hoffnungen ruhen derzeit auf der maschinellen Übersetzung, und tatsächlich leisten KI-Programme schon heute Erstaunliches. Ob sie aber Fachbegriffe hervorbringen können, die es in der Zielsprache noch gar nicht gibt, darf bezweifelt werden. Übersetzen lässt sich nur, wofür eine Sprache Wörter hat – und die entstehen nicht von selbst."
     }
    ],
    "exampleLead": "In welchem Abschnitt …",
@@ -146,19 +146,19 @@
    "instruction": "Lesen Sie den folgenden Text und die Aussagen 13–23. Welche der Aussagen sind richtig (r), falsch (f) oder gar nicht im Text enthalten (–)? Es gibt jeweils nur eine richtige Lösung. Markieren Sie Ihre Lösungen für die Aufgaben 13–23 auf dem Antwortbogen.",
    "title": "",
    "paragraphs": [
-    "Die Hausarbeit ist in zehn Tagen fällig, die Literatur liegt bereit, der Laptop ist aufgeklappt. Und doch beginnt der Nachmittag nicht mit der Gliederung, sondern mit dem Entkalken der Kaffeemaschine, dem Sortieren alter Urlaubsfotos und einem kurzen Blick aufs Handy, aus dem eine Stunde wird. Kaum jemand, der je studiert hat, kennt diese Szene nicht. Was nach einer harmlosen Marotte klingt, beschäftigt die Psychologie seit Jahrzehnten – und hat für viele Betroffene durchaus ernste Folgen.",
-    "Fachleute sprechen von Prokrastination, wenn jemand eine Aufgabe, die er selbst für wichtig hält, freiwillig und ohne triftigen Grund verschiebt, obwohl er absehen kann, dass ihm daraus Nachteile entstehen. Nicht jedes Aufschieben fällt also darunter. Wer eine Präsentation zurückstellt, um sich zunächst auf eine dringendere Prüfung vorzubereiten, setzt sinnvolle Prioritäten. Und wer weiß, dass er unter leichtem Zeitdruck am konzentriertesten arbeitet, und sich die verbleibende Zeit realistisch einteilt, schiebt ebenfalls nicht im psychologischen Sinn auf. Entscheidend ist das Gefühl, eigentlich anders handeln zu wollen – und es trotzdem nicht zu tun.",
-    "Wie verbreitet das Phänomen ist, lässt sich nur schätzen, weil die einschlägigen Untersuchungen mit unterschiedlichen Definitionen arbeiten. Internationale Studien gehen davon aus, dass etwa jeder fünfte Erwachsene chronisch aufschiebt, also nicht nur gelegentlich, sondern dauerhaft und in vielen Lebensbereichen. Unter Studierenden liegen die Werte deutlich höher, was Fachleute unter anderem auf die großen Freiräume des Studiums zurückführen: Anders als in der Schule kontrolliert kaum jemand, ob man regelmäßig arbeitet. In einer Befragung an einer süddeutschen Universität gab knapp die Hälfte der Teilnehmenden an, wichtige Aufgaben so häufig hinauszuzögern, dass ihre Leistungen darunter litten. Besonders oft aufgeschoben werden demnach Aufgaben ohne klare Struktur, etwa umfangreiche Haus- und Abschlussarbeiten.",
-    "Lange galt Aufschieben als Zeichen von Faulheit oder mangelnder Selbstorganisation. Diese Sichtweise ist nicht nur ungenau, sondern auch wenig hilfreich, weil sie bei Betroffenen zusätzlich Schuldgefühle weckt. Die Forschung zeichnet inzwischen ein anderes Bild. „Wer prokrastiniert, hat in der Regel kein Zeitproblem, sondern ein Gefühlsproblem“, sagt die Psychologin Annika Brandauer, die an einer Hochschulambulanz Studierende berät. Aufgaben, die als eintönig, unübersichtlich oder bedrohlich erlebt werden, lösen unangenehme Empfindungen aus – Langeweile, Frust oder die Angst, den eigenen Ansprüchen nicht zu genügen. Indem man sich einer angenehmeren Tätigkeit zuwendet, verschafft man sich kurzfristig Erleichterung, und genau diese Erleichterung wirkt wie eine Belohnung, die das Verhalten verstärkt. Zeitmanagementkurse, die lediglich Wochenpläne und Prioritätenlisten vermitteln, greifen deshalb oft zu kurz.",
-    "Hinzu kommt eine Eigenheit unseres Denkens, die Verhaltensökonomen seit Langem als Gegenwartsverzerrung beschreiben: Belohnungen, die wir sofort erhalten, erscheinen uns wertvoller als solche, die erst in Wochen oder Monaten winken. Die gute Note am Semesterende kann mit der Entspannung, die ein Serienabend unmittelbar verschafft, kaum konkurrieren. Studien deuten zudem darauf hin, dass manche Menschen ihr zukünftiges Ich beinahe wie eine fremde Person wahrnehmen. Die Arbeit auf später zu verschieben, fühlt sich dann an, als würde man sie einem anderen überlassen.",
+    "Die Hausarbeit ist in zehn Tagen fällig, die Literatur liegt bereit, der Laptop ist aufgeklappt. Und doch beginnt der Nachmittag nicht mit der Gliederung der Hausarbeit, sondern mit dem Entkalken der Kaffeemaschine, dem Sortieren alter Urlaubsfotos und einem kurzen Blick aufs Smartphone, aus dem eine Stunde wird. Fast alle Studierenden kennen diese Situation. Was nach einer harmlosen Marotte klingt, beschäftigt die Forschung seit Jahrzehnten – und das Aufschieben hat für viele Studierende ernste Folgen.",
+    "Fachleute sprechen von Prokrastination, wenn jemand eine Aufgabe, die er selbst für wichtig hält, freiwillig und ohne triftigen Grund verschiebt, obwohl er die nachteiligen Folgen absehen kann. Nicht jedes Aufschieben fällt also unter diese Definition. Wer die Vorbereitung einer Präsentation zugunsten einer dringenderen Prüfung zurückstellt, setzt sinnvolle Prioritäten. Und wer unter leichtem Zeitdruck am konzentriertesten arbeitet und sich die verbleibende Zeit realistisch einteilt, prokrastiniert ebenfalls nicht im psychologischen Sinn. Entscheidend für die Definition ist das Gefühl, eigentlich anders handeln zu wollen – und es trotzdem nicht zu tun.",
+    "Die Verbreitung der Prokrastination lässt sich nur schätzen, weil die einschlägigen Studien mit unterschiedlichen Definitionen arbeiten. Internationalen Studien zufolge prokrastiniert etwa jeder fünfte Erwachsene chronisch, also nicht nur gelegentlich, sondern dauerhaft und in vielen Lebensbereichen. Unter Studierenden liegt dieser Anteil deutlich höher; Fachleute führen diesen Unterschied unter anderem auf die großen Freiräume des Studiums zurück: Anders als in der Schule wird im Studium kaum kontrolliert, ob man regelmäßig arbeitet. In einer Befragung an einer süddeutschen Universität gab knapp die Hälfte der Studierenden an, wichtige Aufgaben so häufig aufzuschieben, dass ihre Leistungen im Studium darunter litten. Besonders oft aufgeschoben werden demnach Aufgaben ohne klare Struktur, etwa eine umfangreiche Hausarbeit oder die Abschlussarbeit.",
+    "Lange galt das Aufschieben als Zeichen von Faulheit oder mangelnder Selbstorganisation. Diese Sichtweise ist nicht nur ungenau, sondern auch wenig hilfreich, weil sie bei den Studierenden zusätzlich Schuldgefühle weckt. Die psychologische Forschung zeichnet inzwischen ein anderes Bild. „Wer prokrastiniert, hat in der Regel kein Zeitproblem, sondern ein Gefühlsproblem“, sagt die Psychologin Annika Brandauer, die an einer Hochschulambulanz Studierende berät. Aufgaben, die als eintönig, unübersichtlich oder bedrohlich erlebt werden, lösen unangenehme Gefühle aus – Langeweile, Frust oder die Angst, den eigenen Ansprüchen nicht zu genügen. Die Hinwendung zu einer angenehmeren Tätigkeit verschafft kurzfristig Erleichterung, und genau diese Erleichterung wirkt wie eine Belohnung, die das Aufschieben verstärkt. Zeitmanagementkurse, die nur Wochenpläne und Prioritätenlisten vermitteln, greifen deshalb oft zu kurz.",
+    "Hinzu kommt eine Eigenheit des menschlichen Denkens, die Verhaltensökonomen als Gegenwartsverzerrung beschreiben: Eine sofortige Belohnung erscheint uns wertvoller als eine Belohnung, die erst in Wochen oder Monaten winkt. Die gute Note am Semesterende kann mit der unmittelbaren Entspannung eines Serienabends kaum konkurrieren. Studien deuten zudem darauf hin, dass manche Menschen ihr zukünftiges Ich beinahe wie eine fremde Person wahrnehmen. Das Aufschieben der Hausarbeit fühlt sich dann an, als würde man sie einem anderen überlassen.",
     "Eine Rolle spielt häufig auch Perfektionismus. Wer an sich selbst den Anspruch stellt, eine Hausarbeit müsse auf Anhieb brillant werden, erlebt schon den ersten, unvermeidlich holprigen Entwurf als Kränkung – und fängt lieber gar nicht erst an. Brandauer rät in solchen Fällen zu einer bewusst unvollkommenen Rohfassung: „Einen schlechten Text kann man verbessern, einen ungeschriebenen nicht.“",
-    "Die Folgen reichen über verpasste Fristen hinaus. Chronisches Aufschieben ist mit mehr Stress, schlechterem Schlaf und häufigeren Infekten in Verbindung gebracht worden, wobei bislang offen ist, was dabei Ursache und was Wirkung ist. Außerdem drohen finanzielle Nachteile, wenn sich das Studium verlängert und Förderungen wie das BAföG auslaufen. Besonders tückisch ist ein Kreislauf, den Brandauer in ihrer Beratung immer wieder beobachtet: Wer eine Aufgabe zu lange liegen lässt, schämt sich, und weil auch Scham ein unangenehmes Gefühl ist, wird die Aufgabe erst recht gemieden. „Viele kommen erst zu uns, wenn sie bereits eine Prüfung nicht angetreten haben“, berichtet sie.",
-    "Ausgerechnet Nachsicht mit sich selbst kann aus diesem Kreislauf herausführen. In einer kanadischen Studie wurden Studierende vor zwei aufeinanderfolgenden Zwischenprüfungen befragt. Wer angab, sich das Aufschieben vor der ersten Prüfung verziehen zu haben, schob vor der zweiten deutlich weniger auf. Die Forschenden erklären das damit, dass Selbstvergebung die negativen Gefühle abschwächt, die mit der Aufgabe verknüpft sind. Harte Selbstkritik dagegen macht es nach ihrem Befund wahrscheinlicher, dass man beim nächsten Mal erneut ausweicht.",
-    "Für den Alltag empfehlen Fachleute vor allem, den Einstieg so leicht wie möglich zu machen. Statt sich vorzunehmen, „am Wochenende an der Hausarbeit zu schreiben“, hilft es, einen konkreten ersten Schritt festzulegen, etwa: „Wenn ich am Samstag gefrühstückt habe, lese ich zwanzig Minuten lang den ersten Aufsatz.“ Solche Wenn-dann-Pläne entlasten, weil sie die Entscheidung vorwegnehmen, wann und womit man anfängt. Wer gar nicht weiß, wo er ansetzen soll, kann die Aufgabe zudem in so kleine Schritte zerlegen, dass jeder einzelne beinahe lächerlich leicht erscheint. Bewährt hat sich auch, in festen Zeitblöcken von etwa 25 Minuten zu arbeiten und dazwischen kurze Pausen einzulegen. Wichtig sei dabei weniger die genaue Dauer als das Signal, so Brandauer: Diese Zeit gehört der Aufgabe und nichts anderem.",
-    "Auch äußere Strukturen können helfen. In einem Experiment mit Studierenden schnitten diejenigen am besten ab, denen für eine Reihe von Aufgaben gleichmäßig verteilte Abgabetermine vorgegeben wurden. Wer sich die Fristen selbst setzen durfte, landete im Mittelfeld, und am schlechtesten erging es jenen, für die nur ein einziger Abgabetermin am Semesterende galt. Viele Hochschulen bieten deshalb Schreibgruppen an, in denen Studierende zu festen Zeiten gemeinsam arbeiten. Einmal im Jahr laden zahlreiche Schreibzentren außerdem zu einer „Langen Nacht der aufgeschobenen Hausarbeiten“ ein, bei der bis in die frühen Morgenstunden geschrieben, beraten und gemeinsam durchgehalten wird.",
-    "Und das Smartphone? Dass ständig verfügbare Ablenkung das Aufschieben erleichtert, bestreitet niemand. Brandauer warnt jedoch davor, die Technik zum Hauptschuldigen zu erklären. „Das Handy ist nicht die Ursache, sondern nur der bequemste Notausgang“, sagt sie. Wer es beim Lernen in einen anderen Raum legt, gewinnt zwar Ruhe; das unangenehme Gefühl, vor dem man flieht, bleibt jedoch bestehen und sucht sich notfalls einen anderen Ausweg – etwa einen plötzlich unaufschiebbaren Wohnungsputz. Apps, die das Telefon für eine bestimmte Zeit sperren, können den Einstieg erleichtern, lösen das Grundproblem aber nicht.",
-    "Wann sollte man sich Unterstützung holen? Gelegentliches Aufschieben ist kein Grund zur Sorge. Führt es aber dazu, dass man Prüfungen wiederholt verschiebt, Fristen verstreichen lässt oder das Studium insgesamt infrage stellt, raten Fachleute zu einem Gespräch in der psychologischen Beratungsstelle der Hochschule. Dort lässt sich auch klären, ob hinter dem Verhalten andere Belastungen stecken, etwa eine depressive Verstimmung, die einer eigenen Behandlung bedarf. Viele Beratungsstellen bieten dafür offene Sprechstunden an, teilweise auch online.",
-    "Ein Patentrezept gegen das Aufschieben gibt es nicht, und vermutlich wird kaum jemand es je ganz ablegen. Ziel sei es vielmehr, so Brandauer, das eigene Ausweichen früher zu bemerken und zu verstehen, welches Gefühl man gerade zu vermeiden versucht. „Wer weiß, wovor er davonläuft, kann sich auch dafür entscheiden, stehen zu bleiben.“"
+    "Die Folgen der Prokrastination reichen über verpasste Fristen hinaus. Chronische Prokrastination ist mit mehr Stress, schlechterem Schlaf und häufigeren Infekten in Verbindung gebracht worden, wobei bislang offen ist, was dabei Ursache und was Wirkung ist. Außerdem drohen finanzielle Nachteile durch eine Verlängerung des Studiums und das Auslaufen von Förderungen wie dem BAföG. Besonders tückisch ist ein Kreislauf, den Brandauer in ihrer Beratung immer wieder beobachtet: Wer eine Aufgabe zu lange aufschiebt, schämt sich, und weil auch die Scham zu den unangenehmen Gefühlen gehört, wird die Aufgabe erst recht gemieden. „Viele Studierende kommen erst zu uns, wenn sie bereits eine Prüfung nicht angetreten haben“, berichtet sie.",
+    "Ausgerechnet Nachsicht mit sich selbst kann aus diesem Kreislauf herausführen. In einer kanadischen Studie wurden Studierende vor zwei aufeinanderfolgenden Zwischenprüfungen befragt. Wer angab, sich das Aufschieben vor der ersten Prüfung verziehen zu haben, schob vor der zweiten Prüfung deutlich weniger auf. Die Forschenden führen das darauf zurück, dass Selbstvergebung die unangenehmen Gefühle abschwächt, die mit der Aufgabe verknüpft sind. Harte Selbstkritik dagegen erhöht nach ihrem Befund die Wahrscheinlichkeit eines erneuten Aufschiebens.",
+    "Für den Alltag empfehlen Fachleute vor allem, den Einstieg in die Aufgabe so leicht wie möglich zu machen. Statt sich vorzunehmen, „am Wochenende an der Hausarbeit zu schreiben“, hilft die Festlegung eines konkreten ersten Schritts, etwa: „Wenn ich am Samstag gefrühstückt habe, lese ich zwanzig Minuten lang den ersten Text.“ Solche Wenn-dann-Pläne entlasten, weil sie die Entscheidung vorwegnehmen, wann und womit man anfängt. Wer keinen Einstieg findet, kann die Aufgabe zudem in so kleine Schritte zerlegen, dass jeder einzelne Schritt beinahe lächerlich leicht erscheint. Bewährt hat sich auch die Arbeit an der Aufgabe in festen Zeitblöcken von etwa 25 Minuten mit kurzen Pausen dazwischen. Wichtig sei dabei weniger die genaue Dauer als das Signal, so Brandauer: Diese Zeit gehört der Aufgabe und nichts anderem.",
+    "Auch eine äußere Struktur kann helfen. In einem Experiment schnitten diejenigen Studierenden am besten ab, denen für eine Reihe von Aufgaben gleichmäßig verteilte Abgabetermine vorgegeben wurden. Studierende, die sich die Abgabetermine selbst setzen durften, landeten im Mittelfeld, und am schlechtesten erging es jenen, für die nur ein einziger Abgabetermin am Semesterende galt. Viele Hochschulen bieten deshalb Schreibgruppen an, in denen Studierende zu festen Zeiten gemeinsam an ihrer Hausarbeit schreiben. Einmal im Jahr laden zahlreiche Schreibzentren außerdem zu einer „Langen Nacht der aufgeschobenen Hausarbeiten“ ein, bei der bis in die frühen Morgenstunden geschrieben, beraten und gemeinsam durchgehalten wird.",
+    "Und das Smartphone? Dass ständig verfügbare Ablenkung das Aufschieben erleichtert, bestreitet niemand. Brandauer warnt jedoch davor, die Technik zum Hauptschuldigen zu erklären. „Das Handy ist nicht die Ursache, sondern nur der bequemste Notausgang“, sagt sie. Die Verbannung des Smartphones in einen anderen Raum verschafft zwar Ruhe; das unangenehme Gefühl, vor dem man flieht, bleibt jedoch bestehen und sucht sich notfalls einen anderen Ausweg – etwa einen plötzlich unaufschiebbaren Wohnungsputz. Eine App zur zeitweisen Sperrung des Smartphones kann den Einstieg erleichtern, löst das Gefühlsproblem aber nicht.",
+    "Wann sollten sich Studierende Unterstützung holen? Gelegentliches Aufschieben ist kein Grund zur Sorge. Führt das Aufschieben aber zur wiederholten Verschiebung von Prüfungen, zum Verstreichen von Fristen oder zu grundsätzlichen Zweifeln am Studium, raten Fachleute zu einem Gespräch in der psychologischen Beratungsstelle der Hochschule. Dort lässt sich auch klären, ob dahinter andere Belastungen stecken, etwa eine depressive Verstimmung, die einer eigenen Behandlung bedarf. Die Beratungsstelle bietet dafür häufig offene Sprechstunden an, teilweise auch online.",
+    "Ein Patentrezept gegen die Prokrastination gibt es nicht, und vermutlich wird kaum jemand das Aufschieben je ganz ablegen. Ziel sei es vielmehr, so Brandauer, das eigene Ausweichen früher zu bemerken und zu verstehen, welches unangenehme Gefühl man gerade zu vermeiden versucht. „Wer weiß, wovor er davonläuft, kann sich auch dafür entscheiden, stehen zu bleiben.“"
    ],
    "itemsLead": "Aussagen 13–23",
    "items": [
@@ -179,7 +179,7 @@
     },
     {
      "no": "16",
-     "text": "Brandauer zufolge steckt hinter dem Aufschieben meist der Wunsch, unangenehmen Gefühlen auszuweichen.",
+     "text": "Der Psychologin zufolge ist Prokrastination in erster Linie ein Versuch, belastenden Emotionen zu entgehen.",
      "answer": "r"
     },
     {
@@ -199,7 +199,7 @@
     },
     {
      "no": "20",
-     "text": "Wenn-dann-Pläne legen im Voraus fest, wann und womit man beginnt.",
+     "text": "Mit Wenn-dann-Plänen steht schon vorher fest, zu welchem Zeitpunkt und mit welcher Tätigkeit man loslegt.",
      "answer": "r"
     },
     {
@@ -233,10 +233,10 @@
    "instruction": "Lesen Sie den folgenden Text. Welche Lösung (a, b, c oder d) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 25–46 auf dem Antwortbogen. Lücke (0) ist ein Beispiel.",
    "title": "Wie die deutsche Rechtschreibung einheitlich wurde",
    "paragraphs": [
-    "Wer um 1870 einen Brief aus Bayern mit einem aus Preußen verglich, stieß auf erstaunliche Unterschiede. Wie man ein Wort schrieb, hing {{0}} davon ab, in welcher Region man zur Schule gegangen war; mitunter schwankte die Schreibung sogar innerhalb eines einzigen Briefes. Einer, {{25}} sich mit diesem Durcheinander nicht abfinden wollte, war Konrad Duden. Der Gymnasialdirektor aus dem {{26}} Hersfeld veröffentlichte 1880 ein Wörterbuch von {{27}} 190 Seiten. Er erfand darin keine neuen Regeln, {{28}} stützte sich weitgehend auf Schreibweisen, die an preußischen Schulen bereits üblich waren. Gerade {{29}} wurde das Buch rasch zu einem Erfolg: Lehrer, Drucker und Verlage griffen bereitwillig darauf zurück.",
-    "Eine verbindliche Regelung {{30}} es jedoch erst 1901, als sich Vertreter der deutschen Einzelstaaten in Berlin auf ein gemeinsames Regelwerk einigten; Österreich und die Schweiz schlossen sich kurz darauf an. Dudens Wörterbuch, {{31}} Einträge rasch an die Beschlüsse angepasst wurden, entwickelte sich zum maßgeblichen Nachschlagewerk, und 1955 bestätigten die Kultusminister der Bundesrepublik diese Stellung sogar amtlich, indem sie erklärten, in {{32}} sei der Duden verbindlich. Dieses Vorrecht behielt er gut vier Jahrzehnte lang, {{33}} die Rechtschreibreform von 1996 es ihm entzog. Seitdem entscheidet die Redaktion nicht mehr selbst, {{34}} als richtig gilt; über das amtliche Regelwerk wacht seit 2004 der Rat für deutsche Rechtschreibung.",
-    "{{35}} ist der Name Duden bis heute ein Synonym für korrektes Schreiben geblieben. Das Wörterbuch {{36}} inzwischen in seiner 29. Auflage vor, und mit jeder Ausgabe kommen Wörter hinzu, die sich im Sprachgebrauch {{37}} haben. Wie sie ausgewählt werden, ist {{38}} spektakulär, als man vermuten könnte: Die Redaktion wertet ein riesiges Textkorpus aus und prüft, wie häufig ein Wort in unterschiedlichen Textsorten vorkommt. Auf diese Weise gelangen jedes Mal einige Tausend Einträge neu ins Wörterbuch, {{39}} veraltete Wörter nur selten gestrichen werden, {{40}} auch ältere Texte sollen verständlich bleiben.",
-    "Kritiker {{41}} dem Werk vor, es stifte mehr Verwirrung, als es beseitige, weil es bei vielen Wörtern zwei Schreibweisen zulasse, {{42}} „Delfin“ und „Delphin“. Für {{43}} Fälle markiert die Redaktion ihre Empfehlung gelb; wer sich {{44}} hält, schreibt {{45}} einheitlich, auch wenn die andere Variante ebenso korrekt wäre. Dass ein Familienname einmal {{46}} sorgfältiges Schreiben stehen würde, hätte Konrad Duden, der 1911 starb, wohl selbst überrascht."
+    "Wer um 1870 einen Brief aus Bayern mit einem aus Preußen verglich, stieß auf erhebliche Unterschiede. Die Schreibung eines Wortes hing {{0}} vom Schulort des Schreibers ab; manchmal schwankte die Schreibweise sogar innerhalb eines einzigen Briefes. Einer, {{25}} sich mit dieser Uneinheitlichkeit nicht abfinden wollte, war Konrad Duden. Der Gymnasialdirektor aus dem {{26}} Hersfeld veröffentlichte 1880 ein Wörterbuch von {{27}} 190 Seiten. Er erfand darin keine neuen Regeln, {{28}} stützte sich weitgehend auf die an preußischen Schulen bereits geltenden Schreibregeln. Gerade {{29}} wurde das Wörterbuch schnell zu einem Erfolg: Schulen, Druckereien und Verlage griffen bereitwillig darauf zurück.",
+    "Eine verbindliche Regelung {{30}} es jedoch erst 1901, als sich Vertreter der deutschen Einzelstaaten bei einer Konferenz in Berlin auf gemeinsame Schreibregeln einigten; Österreich und die Schweiz schlossen sich der Regelung kurz darauf an. Dudens Wörterbuch, {{31}} Einträge rasch an die neue Regelung angepasst wurden, entwickelte sich zur maßgeblichen Instanz in Fragen der Rechtschreibung. 1955 bestätigten die Kultusminister der Bundesrepublik diese Stellung sogar amtlich mit der Erklärung, in {{32}} sei der Duden verbindlich. Dieses Vorrecht behielt der Duden gut vier Jahrzehnte lang, {{33}} die Rechtschreibreform von 1996 es ihm entzog. Seit dieser Reform entscheidet die Dudenredaktion nicht mehr selbst, {{34}} als richtig gilt; über das amtliche Regelwerk wacht seit 2004 der Rat für deutsche Rechtschreibung.",
+    "{{35}} ist der Name Duden bis heute ein Synonym für korrekte Rechtschreibung geblieben. Das Wörterbuch {{36}} inzwischen in seiner 29. Auflage vor, und mit jeder Auflage kommen Stichwörter hinzu, die sich im Sprachgebrauch {{37}} haben. Die Auswahl dieser Stichwörter ist {{38}} spektakulär, als man vermuten könnte: Die Dudenredaktion wertet ein riesiges Textkorpus aus und prüft die Häufigkeit eines Wortes in unterschiedlichen Textsorten. So gelangen bei jeder Neubearbeitung einige Tausend Stichwörter in den Duden, {{39}} veraltete Einträge nur selten gestrichen werden, {{40}} auch ältere Texte sollen verständlich bleiben.",
+    "Kritiker {{41}} dem Wörterbuch vor, es stifte mehr Verwirrung, als es beseitige, weil es bei vielen Wörtern zwei Schreibungen zulasse, {{42}} „Delfin“ und „Delphin“. Für {{43}} Fälle markiert die Dudenredaktion ihre Empfehlung gelb; wer sich {{44}} hält, schreibt {{45}} einheitlich, auch wenn die andere Schreibung ebenso korrekt wäre. Dass ein Familienname einmal {{46}} sorgfältiges Schreiben stehen würde, hätte Konrad Duden, der 1911 starb, wohl selbst überrascht."
    ],
    "example": {
     "options": {
@@ -569,8 +569,8 @@
      "no": "55",
      "stem": "Frau Ostendorf hat die „Hitzewache“ ins Leben gerufen, weil",
      "options": {
-      "a": "ihr für ein eigenes Messnetz die Mittel fehlten.",
-      "b": "die städtischen Stationen ungenau maßen.",
+      "a": "ein engmaschiges eigenes Messnetz zu teuer war.",
+      "b": "die Stationen der Stadt ungenau messen.",
       "c": "sie die Vogelzählungen der Verbände fortsetzen wollte."
      },
      "answer": "a"
@@ -579,9 +579,9 @@
      "no": "56",
      "stem": "In der Testphase hat sich gezeigt, dass",
      "options": {
-      "a": "die Sensoren häufig technische Mängel aufwiesen.",
+      "a": "die preiswerten Sensoren oft defekt waren.",
       "b": "Teilnehmende ihre Messwerte selbst überprüfen sollten.",
-      "c": "der Standort jedes Geräts kontrolliert werden muss."
+      "c": "die Platzierung der Geräte überprüft werden muss."
      },
      "answer": "c"
     },
@@ -589,9 +589,9 @@
      "no": "57",
      "stem": "Unter den Freiwilligen sind vor allem",
      "options": {
-      "a": "Menschen im Ruhestand mit viel freier Zeit.",
-      "b": "Personen mittleren Alters, häufig mit Familie.",
-      "c": "Studierende, die selbst in Dachwohnungen leben."
+      "a": "Rentnerinnen und Rentner, die tagsüber Zeit haben.",
+      "b": "Menschen mittleren Alters, oft mit Kleinkindern.",
+      "c": "Studierende, die in Dachwohnungen leben."
      },
      "answer": "b"
     },
@@ -599,9 +599,9 @@
      "no": "58",
      "stem": "Frau Ostendorf bedauert, dass",
      "options": {
-      "a": "viele Teilnehmende nach kurzer Zeit wieder aufhören.",
-      "b": "wohlhabende Bewohner wenig Interesse zeigen.",
-      "c": "gerade in den heißesten Vierteln Messpunkte fehlen."
+      "a": "viele Teilnehmende schnell wieder aufhören.",
+      "b": "in Vierteln mit hohen Mieten kaum Freiwillige mitmachen.",
+      "c": "die wärmsten Wohngegenden kaum vertreten sind."
      },
      "answer": "c"
     },
@@ -609,7 +609,7 @@
      "no": "59",
      "stem": "Um neue Zielgruppen zu erreichen,",
      "options": {
-      "a": "kooperiert das Projekt mit Einrichtungen im Stadtteil.",
+      "a": "sucht das Team die Zusammenarbeit mit Partnern vor Ort.",
       "b": "zahlt das Team den Teilnehmenden eine kleine Entschädigung.",
       "c": "wirbt die Universität mit Pressemitteilungen."
      },
@@ -620,7 +620,7 @@
      "stem": "Zur Genauigkeit der Daten sagt Frau Ostendorf, dass",
      "options": {
       "a": "einzelne Sensoren ebenso präzise messen wie Profistationen.",
-      "b": "erst die Menge der Geräte verlässliche Aussagen erlaubt.",
+      "b": "sich Verlässlichkeit erst aus vielen Messpunkten ergibt.",
       "c": "Laien ihre Werte häufig falsch in die Karten eintragen."
      },
      "answer": "b"
@@ -629,9 +629,9 @@
      "no": "61",
      "stem": "Die städtischen Messstationen sind nach Frau Ostendorfs Ansicht",
      "options": {
-      "a": "durch Messungen von Bürgern bald ersetzbar.",
-      "b": "besser für feine räumliche Unterschiede geeignet.",
-      "c": "als Vergleichsgrundlage weiterhin unverzichtbar."
+      "a": "durch Messungen der Freiwilligen bald ersetzbar.",
+      "b": "besser für die räumliche Auflösung geeignet.",
+      "c": "als Bezugsgröße für die Daten unentbehrlich."
      },
      "answer": "c"
     },
@@ -639,7 +639,7 @@
      "no": "62",
      "stem": "Die Messungen haben unter anderem gezeigt, dass",
      "options": {
-      "a": "schon wenige Hundert Meter viel ausmachen können.",
+      "a": "schon auf engem Raum starke Abweichungen auftreten.",
       "b": "sich Innenhöfe nachts stärker aufheizen als Kreuzungen.",
       "c": "die Unterschiede tagsüber am größten sind."
      },
@@ -649,9 +649,9 @@
      "no": "63",
      "stem": "Dem Vorwurf, Freiwillige würden ausgenutzt, begegnet das Projekt, indem es",
      "options": {
-      "a": "die Zahl der Messungen pro Person von vornherein begrenzt.",
-      "b": "die Teilnehmenden an den Fragestellungen beteiligt.",
-      "c": "den Freiwilligen eine Aufwandsentschädigung in Aussicht stellt."
+      "a": "die Zahl der Messungen für jeden Freiwilligen begrenzt.",
+      "b": "Mitwirkende über die Fragestellungen mitbestimmen lässt.",
+      "c": "den Freiwilligen eine Aufwandsentschädigung zahlt."
      },
      "answer": "b"
     },
@@ -661,7 +661,7 @@
      "options": {
       "a": "die Stadt inzwischen mehr Geld für neue Bäume ausgibt.",
       "b": "es bald auf weitere Städte übertragen wird.",
-      "c": "die Ergebnisse für alle frei zugänglich sind."
+      "c": "die gesammelten Werte öffentlich verfügbar sind."
      },
      "answer": "c"
     }

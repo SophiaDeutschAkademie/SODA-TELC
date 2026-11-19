@@ -7,51 +7,51 @@
    "intro": "In einem Wissenschaftsmagazin lesen Sie den folgenden Artikel:",
    "title": "Spuren, die jeden verraten",
    "paragraphs": [
-    "Bis ins späte 19. Jahrhundert stand die Polizei vor einem heute kaum noch vorstellbaren Problem: Sie konnte Festgenommene nicht zuverlässig wiedererkennen. Wer verhaftet wurde, gab häufig einen falschen Namen an, und Fotografien halfen wenig, weil sich Gesichter mit zunehmendem Alter, durch Bärte oder durch Narben verändern. {{0}} Der Pariser Polizeischreiber Alphonse Bertillon entwickelte deshalb um 1880 ein Erkennungsverfahren, das auf exakten Körpermaßen beruhte.",
-    "Gemessen wurde unter anderem die Länge des Kopfes, des linken Unterarms und des rechten Ohrs. {{1}} Das System fand rasch Verbreitung in Europa und Amerika, hatte jedoch einen gravierenden Nachteil: Die Messwerte hingen stark von der Sorgfalt des jeweiligen Beamten ab, und schon ein Millimeter Abweichung konnte die Suche ins Leere laufen lassen.",
-    "Etwa zur selben Zeit beschäftigten sich mehrere Briten mit den feinen Linien auf den Fingerkuppen. {{2}} Der in Japan lebende schottische Arzt Henry Faulds schlug 1880 in der Fachzeitschrift „Nature“ vor, Täter mithilfe von Abdrücken dieser Linien zu überführen. Gut zehn Jahre später wies der Naturforscher Francis Galton nach, dass sich die Muster im Laufe des Lebens nicht verändern und bei jedem Menschen anders aussehen.",
-    "Den ersten spektakulären Erfolg feierte die neue Methode allerdings nicht in Europa, sondern in Argentinien, wo 1892 in der Kleinstadt Necochea zwei Kinder getötet wurden. {{3}} Ein Inspektor, den der Polizeibeamte Juan Vucetich in seinem eigenen Ordnungssystem für Fingerabdrücke geschult hatte, verglich daraufhin einen blutigen Abdruck vom Tatort mit den Abdrücken der Verdächtigen. Wie sich herausstellte, stammte der Abdruck vom Daumen der Mutter, Francisca Rojas, die schließlich ein Geständnis ablegte.",
-    "{{4}} Weil den Abdrücken jeder Person eine Formel aus Buchstaben und Zahlen zugeordnet wurde, ließ sich innerhalb weniger Minuten überprüfen, ob jemand bereits erfasst war. 1901 führte Scotland Yard in London das Verfahren ein, und kurz darauf folgten auch die deutschen Polizeibehörden.",
-    "Bertillons Körpermessung geriet damit allmählich in Vergessenheit. {{5}} Einer bekannten, wenn auch in ihren Einzelheiten umstrittenen Anekdote zufolge trafen 1903 im amerikanischen Gefängnis Leavenworth zwei Häftlinge aufeinander, die zwar nahezu identische Körpermaße aufwiesen, sich in ihren Fingerabdrücken jedoch deutlich unterschieden.",
-    "Heute gehört der Fingerabdruck zum Alltag – nicht nur in der Kriminalistik, sondern auch beim Entsperren des Smartphones. {{6}} Deshalb wird inzwischen jeder Treffer von einer zweiten Fachkraft unabhängig überprüft, bevor er vor Gericht als Beweismittel dienen darf."
+    "Bis ins späte 19. Jahrhundert stand die Polizei vor einem heute kaum vorstellbaren Problem: Die zuverlässige Identifizierung von Verhafteten war nicht möglich. Viele Festgenommene gaben einen falschen Namen an, und auch Fotografien halfen der Polizei wenig, weil sich Gesichtszüge mit dem Alter, durch Bärte oder Narben verändern. {{0}} Der Pariser Polizeischreiber Alphonse Bertillon entwickelte deshalb um 1880 ein Verfahren zur Identifizierung, das auf der Messung von Körpermaßen beruhte.",
+    "Erfasst wurde unter anderem die Länge des Kopfes, des linken Unterarms und des rechten Ohrs. {{1}} Das Verfahren fand rasch Verbreitung in Europa und Amerika, hatte jedoch einen gravierenden Nachteil: Die Genauigkeit der Messwerte hing stark von der Sorgfalt des jeweiligen Polizeibeamten ab, und schon ein Millimeter Abweichung konnte die Suche ins Leere laufen lassen.",
+    "Etwa zur selben Zeit beschäftigten sich mehrere Briten mit den feinen Linien auf den Fingerkuppen. {{2}} Der in Japan tätige schottische Arzt Henry Faulds schlug 1880 in der Fachzeitschrift „Nature“ vor, Täter mithilfe von Fingerabdrücken zu überführen. Gut zehn Jahre später erbrachte der Naturforscher Francis Galton den Nachweis, dass sich die Linien im Laufe des Lebens nicht verändern und bei jedem Menschen anders aussehen.",
+    "Den ersten Ermittlungserfolg erzielte das neue Verfahren allerdings nicht in Europa, sondern in Argentinien, wo 1892 in der Kleinstadt Necochea zwei Kinder getötet wurden. {{3}} Ein vom Polizeibeamten Juan Vucetich geschulter Inspektor verglich daraufhin einen blutigen Abdruck vom Tatort mit den Fingerabdrücken der Verdächtigen. Die Übereinstimmung war eindeutig: Der Abdruck stammte vom Daumen der Mutter, Francisca Rojas, die schließlich ein Geständnis ablegte.",
+    "{{4}} Durch die Zuordnung einer Formel aus Buchstaben und Zahlen zu den Fingerabdrücken jeder Person ließ sich in wenigen Minuten feststellen, ob ein Verhafteter bereits erfasst war. 1901 führte Scotland Yard in London das Verfahren ein, kurz darauf auch die deutsche Polizei.",
+    "Bertillons Körpermessung geriet damit allmählich in Vergessenheit. {{5}} Einer bekannten, in ihren Einzelheiten allerdings umstrittenen Anekdote zufolge trafen 1903 im amerikanischen Gefängnis Leavenworth zwei Häftlinge aufeinander, deren Körpermaße nahezu identisch, deren Fingerabdrücke dagegen eindeutig verschieden waren.",
+    "Heute gehört der Fingerabdruck zum Alltag – nicht nur in der Kriminalistik, sondern auch beim Entsperren des Smartphones. {{6}} Deshalb wird inzwischen jede Übereinstimmung von einer zweiten Fachkraft unabhängig überprüft, bevor der Fingerabdruck vor Gericht als Beweismittel zugelassen wird."
    ],
    "sentences": [
     {
      "letter": "a",
-     "text": "Die Maße wurden auf Karteikarten eingetragen, die nach einem festen Schema geordnet waren."
+     "text": "Die Messwerte wurden auf Karteikarten eingetragen, die nach einem festen Schema geordnet waren."
     },
     {
      "letter": "b",
-     "text": "Bertillon verfeinerte sein Verfahren jedoch bald so, dass Messfehler kaum noch vorkamen."
+     "text": "Durch eine Verfeinerung seines Verfahrens konnte Bertillon Messfehler jedoch bald nahezu ausschließen."
     },
     {
      "letter": "c",
-     "text": "Einer von ihnen, der Kolonialbeamte William Herschel, ließ schon 1858 in Indien einen Vertrag per Handabdruck besiegeln."
+     "text": "Einer von ihnen, der Kolonialbeamte William Herschel, verlangte schon 1858 in Indien zur Beglaubigung eines Vertrags einen Handabdruck."
     },
     {
      "letter": "d",
-     "text": "Entscheidend war jedoch ein Ordnungssystem, mit dem sich große Sammlungen von Fingerabdrücken durchsuchen ließen."
+     "text": "Entscheidend war jedoch ein Ordnungssystem, das die Durchsuchung großer Sammlungen von Fingerabdrücken ermöglichte."
     },
     {
      "letter": "e",
-     "text": "Zunächst fiel der Verdacht auf einen Nachbarn, der die Tat trotz harter Verhöre bestritt."
+     "text": "Zunächst richtete sich der Verdacht gegen einen Nachbarn, der die Tat trotz harter Verhöre bestritt."
     },
     {
      "letter": "f",
-     "text": "Unfehlbar ist das Verfahren dennoch nicht: Immer wieder geraten Unschuldige durch falsch gedeutete Spuren unter Verdacht."
+     "text": "Unfehlbar ist das Verfahren dennoch nicht: Immer wieder geraten Unschuldige durch die fehlerhafte Deutung von Fingerabdrücken unter Verdacht."
     },
     {
      "letter": "g",
-     "text": "Ihr Erfinder hielt allerdings lange an ihr fest und nahm Fingerabdrücke nur als Zusatz auf."
+     "text": "Ihr Erfinder hielt allerdings lange an ihr fest und nahm Fingerabdrücke nur zur Ergänzung auf."
     },
     {
      "letter": "h",
-     "text": "Bei eineiigen Zwillingen sind die Linien dagegen völlig gleich, sodass Ermittler dort auf andere Merkmale angewiesen sind."
+     "text": "Bei eineiigen Zwillingen sind die Linien dagegen völlig gleich, sodass Ermittler dort andere Merkmale benötigen."
     }
    ],
    "example": {
     "letter": "z",
-    "text": "Besonders bei Wiederholungstätern, die härter bestraft werden sollten, wog das schwer."
+    "text": "Besonders bei Wiederholungstätern, für die eine härtere Bestrafung vorgesehen war, wog das schwer."
    },
    "items": [
     {
@@ -86,23 +86,23 @@
    "sections": [
     {
      "letter": "a",
-     "text": "Im Jahr 2000 brachte eine Wölfin auf einem Truppenübungsplatz in der Oberlausitz Junge zur Welt – zum ersten Mal seit weit über hundert Jahren in Deutschland. Niemand hatte die Tiere ausgesetzt; sie waren aus Polen von selbst eingewandert. Inzwischen leben hierzulande mehr als zweihundert Rudel, vor allem im Norden und Osten; dennoch bekommen die meisten Bewohner der Wolfsgebiete die scheuen Raubtiere nie zu Gesicht. Kaum ein Wildtier hat in so kurzer Zeit derart heftige Debatten ausgelöst. Für die einen ist der Wolf ein Zeichen dafür, dass sich die Natur verlorenen Lebensraum zurückerobert, für die anderen eine Bedrohung für Weidetiere und die ländliche Lebensweise. Ich gestehe, dass ich mich über seine Rückkehr freue, und gerade deshalb stört es mich, wie selten in dieser Auseinandersetzung zwischen Fakten und Empfindungen unterschieden wird. Wer sich ein fundiertes Urteil bilden will, muss beides kennen: die Zahlen und die Erfahrungen derjenigen, die mit dem Wolf zusammenleben."
+     "text": "Im Jahr 2000 brachte eine Wölfin auf einem Truppenübungsplatz in der Oberlausitz Junge zur Welt – erstmals seit weit über hundert Jahren in Deutschland. Niemand hatte die Raubtiere ausgesetzt; sie waren aus Polen von selbst eingewandert. Inzwischen leben in Deutschland mehr als zweihundert Rudel, vor allem im Norden und Osten. Dennoch bekommen die meisten Bewohner der Wolfsgebiete nie einen Wolf zu Gesicht. Kaum ein Wildtier hat in so kurzer Zeit eine derart heftige Kontroverse ausgelöst. Für die einen ist die Rückkehr des Wolfs ein Zeichen für die Rückeroberung verlorenen Lebensraums durch die Natur, für die anderen eine Bedrohung für Weidetiere und die ländliche Lebensweise. Ich gestehe, dass ich mich über die Rückkehr des Wolfs freue. Gerade deshalb stört mich die mangelnde Unterscheidung zwischen Fakten und Empfindungen in dieser Kontroverse. Wer sich ein fundiertes Urteil bilden will, muss beides kennen: die Fakten und die Erfahrungen der Menschen, die in unmittelbarer Nachbarschaft des Wolfs leben."
     },
     {
      "letter": "b",
-     "text": "Eines muss man allerdings ohne Wenn und Aber anerkennen: Für Schäferinnen und Schäfer stellt der Wolf eine erhebliche Belastung dar, denn alljährlich werden in Deutschland mehrere Tausend Schafe, Ziegen und Kälber gerissen oder verletzt. Wer frühmorgens eine Weide betritt, auf der seine Tiere tot im Gras liegen, hat für Statistiken verständlicherweise wenig übrig. Erschwerend kommt hinzu, dass die Schafhaltung schon vor der Rückkehr des Wolfs kaum noch rentabel war; zahlreiche Betriebe kämpfen ums wirtschaftliche Überleben und können zusätzliche Verluste nicht verkraften. Dabei leisten gerade sie einen unverzichtbaren Dienst für die Allgemeinheit, denn ihre Herden pflegen Deiche und Heideflächen, die ohne Beweidung verbuschen würden. Dass die Betroffenen wütend sind und sich von der Politik im Stich gelassen fühlen, kann ich gut nachvollziehen. Manche Naturschützer tun deren Befürchtungen als Panikmache ab, was nicht nur überheblich ist, sondern am Ende auch dem Wolf selbst schadet."
+     "text": "Eines muss man allerdings ohne Wenn und Aber anerkennen: Für Schäferinnen und Schäfer ist der Wolf eine erhebliche Belastung, denn alljährlich werden in Deutschland mehrere Tausend Schafe, Ziegen und Kälber gerissen oder verletzt. Wer frühmorgens eine Weide betritt, auf der seine Tiere tot im Gras liegen, hat für Statistiken verständlicherweise wenig übrig. Erschwerend kommt hinzu, dass die Schafhaltung schon vor der Rückkehr des Wolfs kaum noch rentabel war; zahlreiche Betriebe kämpfen ums wirtschaftliche Überleben und können zusätzliche Verluste nicht verkraften. Dabei leisten gerade die Schäfer einen unverzichtbaren Dienst für die Allgemeinheit, denn ihre Herden pflegen Deiche und Heideflächen, die ohne Beweidung verbuschen würden. Die Wut der Schäfer und ihr Gefühl, von der Politik im Stich gelassen zu werden, kann ich durchaus nachvollziehen. Manche Naturschützer tun die Befürchtungen der Schäfer als Panikmache ab, was nicht nur überheblich ist, sondern am Ende auch dem Wolf selbst schadet."
     },
     {
      "letter": "c",
-     "text": "Nicht folgen kann ich dagegen der verbreiteten Forderung, den Bestand durch regelmäßige Abschüsse zu verkleinern. Dass dadurch weniger Weidetiere sterben, ist keineswegs ausgemacht; auch die Forschung liefert bislang kein eindeutiges Bild davon, ob eine intensivere Bejagung die Zahl der Übergriffe dauerhaft senkt. Ein Wolf greift nämlich nicht deshalb Schafe an, weil es zu viele Wölfe gibt, sondern weil ungeschützte Herden eine leichte Beute darstellen. Wird ein Rudel durch Abschüsse zerschlagen, ziehen junge, unerfahrene Tiere umher und suchen nach bequemen Gelegenheiten; zudem besetzen Wölfe aus benachbarten Gebieten die frei gewordenen Reviere oft innerhalb weniger Monate. Etwas anderes ist es, einzelne Exemplare zu töten, die gelernt haben, selbst hohe Zäune zu überwinden. Das ist bereits heute zulässig und in solchen Fällen richtig, denn ein Wolf, der dieses Verhalten an seine Nachkommen weitergibt, gefährdet die Akzeptanz aller anderen Artgenossen."
+     "text": "Nicht folgen kann ich dagegen der verbreiteten Forderung nach einer Verkleinerung des Bestands durch regelmäßige Abschüsse. Dass Abschüsse die Zahl getöteter Weidetiere senken, ist keineswegs ausgemacht. Auch die Forschung liefert bislang kein eindeutiges Bild davon, ob eine intensivere Bejagung die Zahl der Übergriffe dauerhaft verringert. Ein Wolf greift nämlich nicht deshalb Schafe an, weil es zu viele Wölfe gibt, sondern weil ungeschützte Herden eine leichte Beute darstellen. Wird ein Rudel durch Abschüsse zerschlagen, ziehen junge, unerfahrene Wölfe umher und suchen nach bequemen Gelegenheiten. Zudem besetzen Wölfe aus benachbarten Gebieten die frei gewordenen Reviere oft innerhalb weniger Monate. Etwas anderes ist der Abschuss einzelner Wölfe, die gelernt haben, selbst hohe Zäune zu überwinden. Er ist bereits heute rechtlich zulässig und in solchen Fällen richtig, denn ein Wolf, der dieses Verhalten an seine Nachkommen weitergibt, gefährdet die Akzeptanz aller anderen Wölfe."
     },
     {
      "letter": "d",
-     "text": "Wie gut sich Weidetiere schützen lassen, zeigen Regionen, in denen der Wolf schon seit Langem heimisch ist. Elektrozäune von ausreichender Höhe, Herdenschutzhunde und nächtliche Pferche wehren die meisten Angriffe ab; wo sie konsequent eingesetzt werden, gehen die Schäden deutlich zurück. Unerlässlich ist zudem eine fachkundige Beratung, denn ein Zaun, der an einer einzigen Stelle zu niedrig ist, verfehlt seinen Zweck. Zäune sind allerdings teuer, und ihr Aufbau und ihre Instandhaltung erfordern vor allem Zeit. Zwar übernehmen viele Bundesländer inzwischen einen Großteil der Anschaffungskosten, für den laufenden Aufwand gibt es jedoch oft nur geringe Unterstützung, weshalb der Staat hier weit mehr tun muss. Sollen Wolf und Weidewirtschaft nebeneinander bestehen, muss man den Herdenschutz als dauerhafte Aufgabe begreifen und ihn entsprechend finanzieren – und zwar einschließlich der Stunden, die Tierhalter Woche für Woche an ihren Zäunen verbringen."
+     "text": "Wie gut sich Weidetiere schützen lassen, zeigen Regionen, in denen der Wolf schon seit Langem heimisch ist. Elektrozäune von ausreichender Höhe, Herdenschutzhunde und nächtliche Pferche wehren dort die meisten Angriffe ab, und wo der Herdenschutz konsequent zur Anwendung kommt, gehen die Schäden deutlich zurück. Unerlässlich ist zudem eine fachkundige Beratung, denn ein Zaun, der an einer einzigen Stelle zu niedrig ist, verfehlt seinen Zweck. Herdenschutz ist allerdings kostspielig, und Aufbau und Instandhaltung der Zäune erfordern vor allem Zeit. Zwar übernehmen viele Bundesländer inzwischen einen Großteil der Anschaffungskosten für Zäune und Herdenschutzhunde, für den laufenden Aufwand gibt es jedoch oft nur eine geringe Unterstützung. Hier muss der Staat erheblich mehr tun. Sollen Wolf und Weidetierhaltung nebeneinander bestehen, muss man den Herdenschutz als dauerhafte Aufgabe begreifen und entsprechend finanzieren, und zwar einschließlich der Stunden, die Tierhalter Woche für Woche an ihren Zäunen verbringen."
     },
     {
      "letter": "e",
-     "text": "Die Politik macht es sich bislang zu leicht. Seit die Europäische Union 2025 den Schutzstatus des Wolfs gesenkt hat, überbieten sich manche Politiker mit Versprechen, den Bestand zu „regulieren“, als ließe sich der Konflikt mit dem Gewehr lösen. Solche Ankündigungen mögen Wählerstimmen bringen, wecken aber Erwartungen, die niemand erfüllen kann. Wer den Wolf zum Wahlkampfthema macht, vertieft lediglich das Misstrauen zwischen Stadt und Land. Ehrlicher wäre es, der ländlichen Bevölkerung offen mitzuteilen, dass der Wolf nicht wieder verschwinden wird, und ihr dafür verlässliche Hilfe zuzusichern. Und wir Städter, die ihn aus sicherer Entfernung so gern bewundern, sollten bereit sein, unseren Teil beizutragen. Wer die Rückkehr der Wildnis feiert, darf die Rechnung nicht allein denen überlassen, die Tag für Tag mit den Auswirkungen leben müssen."
+     "text": "Die Politik macht es sich bislang zu leicht. Seit die Europäische Union im Jahr 2025 den Schutzstatus des Wolfs herabgesetzt hat, überbieten sich manche Politiker mit dem Versprechen, den Bestand zu „regulieren“ – als ließe sich der Konflikt mit dem Gewehr lösen. Solche Versprechen mögen der Politik Wählerstimmen bringen, sie wecken aber Erwartungen, die keine Politik erfüllen kann. Wer den Wolf zum Wahlkampfthema macht, vertieft lediglich das Misstrauen zwischen Stadt und Land. Ehrlicher wäre es, der ländlichen Bevölkerung offen mitzuteilen, dass der Wolf nicht wieder verschwinden wird, und ihr dafür eine verlässliche Unterstützung zuzusichern. Und wir Städter, die den Wolf aus sicherer Entfernung so gern bewundern, sollten bereit sein, zu dieser Unterstützung unseren Teil beizutragen. Wer die Rückkehr des Wolfs feiert, darf die Rechnung nicht allein den Menschen überlassen, die Tag für Tag mit den Konsequenzen dieser Rückkehr leben müssen."
     }
    ],
    "exampleLead": "In welchem Abschnitt …",
@@ -114,7 +114,7 @@
    "items": [
     {
      "no": "7",
-     "stem": "bezweifelt der Autor, dass weniger Wölfe auch weniger Schäden bedeuten?",
+     "stem": "bezweifelt der Autor, dass mit weniger Wölfen auch die Verluste bei den Herden zurückgehen?",
      "answer": "c"
     },
     {
@@ -148,19 +148,19 @@
    "instruction": "Lesen Sie den folgenden Text und die Aussagen 13–23. Welche der Aussagen sind richtig (r), falsch (f) oder gar nicht im Text enthalten (–)? Es gibt jeweils nur eine richtige Lösung. Markieren Sie Ihre Lösungen für die Aufgaben 13–23 auf dem Antwortbogen.",
    "title": "",
    "paragraphs": [
-    "Die ersten Wochen mit dem Füller sind für Mia eine echte Geduldsprobe. Die Siebenjährige schreibt mit der linken Hand, und weil ihre Handkante über das frisch Geschriebene gleitet, sind die Seiten ihres Heftes voller verwischter Buchstaben. Ihre Großmutter, ebenfalls Linkshänderin, kannte dieses Problem nie, denn sie wurde in den Sechzigerjahren in der Schule gezwungen, mit rechts zu schreiben, und tut das bis heute. „Bei uns hieß es damals, die linke Hand sei die falsche“, erinnert sie sich. Mia dagegen darf schreiben, wie es ihr leichtfällt – und muss nun lernen, ihr Heft so auszurichten, dass die Tinte nicht verschmiert.",
-    "Linkshänder wie Mia bilden eine Minderheit, wenn auch keine kleine. Eine Auswertung von Studien mit insgesamt mehr als zwei Millionen Teilnehmenden kam 2020 zu dem Ergebnis, dass 10,6 Prozent der Menschen die linke Hand bevorzugen; zählt man alle mit, die nicht eindeutig rechtshändig sind, steigt der Anteil auf bis zu 18 Prozent. Männer sind dabei etwas häufiger Linkshänder als Frauen. Bemerkenswert ist, wie weit die Überzahl der Rechtshänder offenbar zurückreicht: Spuren an steinzeitlichen Werkzeugen und Zähnen deuten darauf hin, dass schon unsere Vorfahren vor Hunderttausenden von Jahren überwiegend die rechte Hand benutzten.",
-    "„Händigkeit ist weder eine Frage der Erziehung noch eine bloße Gewohnheit“, sagt Katrin Hollmann, die als Neuropsychologin an einer Universität erforscht, wie sich die beiden Hirnhälften die Arbeit teilen. Schon im Mutterleib zeige sich, welche Hand ein Kind später bevorzugen werde; Ultraschallaufnahmen belegen nämlich, dass die meisten Föten bereits in der fünfzehnten Schwangerschaftswoche lieber am rechten als am linken Daumen lutschen. Nachuntersuchungen ergaben, dass aus diesen Kindern fast ausnahmslos Rechtshänder wurden, während ein großer Teil derjenigen, die den linken Daumen vorgezogen hatten, später mit links schrieb.",
-    "Woher diese frühe Festlegung rührt, ist allerdings noch nicht vollständig geklärt. Ein einzelnes „Linkshänder-Gen“ gibt es nicht; vielmehr haben Forschende Dutzende Erbanlagen mit jeweils nur winzigem Einfluss identifiziert. Zwillingsstudien zufolge erklären die Gene insgesamt lediglich rund ein Viertel der Unterschiede. Besonders deutlich wird das bei eineiigen Zwillingen: Obwohl sie dasselbe Erbgut besitzen, schreibt nicht selten der eine mit rechts und der andere mit links. Welche Rolle Einflüsse während der Schwangerschaft – etwa Hormone – spielen, ist Gegenstand laufender Untersuchungen.",
-    "Lange Zeit galt die linke Hand in vielen Kulturen als die „falsche“, woran im Deutschen bis heute Ausdrücke wie „linkisch“ oder „zwei linke Hände haben“ erinnern. In Schulen hierzulande wurden Kinder noch bis in die Siebzigerjahre dazu gedrängt oder gezwungen, mit rechts zu schreiben – mitunter, indem man ihnen die linke Hand auf den Rücken band. Beratungsstellen berichten von Erwachsenen, die als Kinder umgeschult wurden und heute über Konzentrations- oder Gedächtnisprobleme klagen. Hollmann mahnt allerdings zur Vorsicht: Ob solche Beschwerden tatsächlich auf die Umschulung zurückgehen, lasse sich im Einzelfall kaum nachweisen. „Unstrittig ist aber, dass der Zwang vielen Kindern das Schreibenlernen unnötig schwer gemacht hat.“",
+    "Die ersten Wochen mit dem Füller sind für Mia eine echte Geduldsprobe. Die Siebenjährige ist Linkshänderin, und weil ihre Handkante beim Schreiben über das frisch Geschriebene gleitet, sind die Seiten ihres Heftes voller verwischter Buchstaben. Ihre Großmutter, ebenfalls Linkshänderin, kannte dieses Problem nie, denn sie wurde in den Sechzigerjahren in der Schule gezwungen, mit rechts zu schreiben, und tut das bis heute. „Bei uns hieß es damals, die linke Hand sei die falsche“, erinnert sie sich. Mia dagegen darf schreiben, wie es ihr leichtfällt – und muss nun lernen, ihr Heft so auszurichten, dass die Tinte nicht verschmiert.",
+    "Linkshänder wie Mia bilden eine Minderheit, wenn auch keine kleine. Eine Auswertung von Studien mit insgesamt mehr als zwei Millionen Teilnehmenden ergab 2020 einen Anteil von 10,6 Prozent Linkshändern. Bei Einbeziehung aller, die nicht eindeutig Rechtshänder sind, steigt der Anteil auf bis zu 18 Prozent. Männer sind dabei etwas häufiger Linkshänder als Frauen. Bemerkenswert ist, wie weit die Dominanz der rechten Hand offenbar zurückreicht: Gebrauchsspuren an steinzeitlichen Werkzeugen und Zähnen deuten darauf hin, dass schon unsere Vorfahren vor Hunderttausenden von Jahren überwiegend Rechtshänder waren.",
+    "„Händigkeit ist weder eine Frage der Erziehung noch eine bloße Gewohnheit“, sagt Katrin Hollmann, die als Neuropsychologin an einer Universität die Arbeitsteilung der beiden Hirnhälften erforscht. Die Vorliebe für eine Hand zeige sich schon im Mutterleib; Ultraschallaufnahmen belegen nämlich, dass die meisten Föten bereits in der fünfzehnten Schwangerschaftswoche lieber am rechten als am linken Daumen lutschen. Nachuntersuchungen ergaben, dass aus diesen Kindern fast ausnahmslos Rechtshänder wurden, während ein großer Teil der Föten mit einer Vorliebe für den linken Daumen später mit links schrieb.",
+    "Die Ursachen dieser frühen Festlegung sind allerdings noch nicht abschließend geklärt. Ein einzelnes „Linkshänder-Gen“ gibt es nicht; vielmehr haben Forschende Dutzende Erbanlagen mit jeweils nur winzigem Einfluss identifiziert. Zwillingsstudien zufolge erklären die Gene insgesamt lediglich rund ein Viertel der Unterschiede in der Händigkeit. Besonders anschaulich wird das bei eineiigen Zwillingen: Trotz identischen Erbguts ist nicht selten der eine Zwilling Rechtshänder und der andere Linkshänder. Die Bedeutung von Einflüssen während der Schwangerschaft, etwa durch Hormone, ist Gegenstand laufender Untersuchungen.",
+    "Lange Zeit galt die linke Hand in vielen Kulturen als die „falsche“, woran im Deutschen bis heute Ausdrücke wie „linkisch“ oder „zwei linke Hände haben“ erinnern. In Schulen hierzulande wurden linkshändige Kinder noch bis in die Siebzigerjahre zum Schreiben mit der rechten Hand gedrängt oder gezwungen – mitunter durch das Festbinden der linken Hand auf dem Rücken. Beratungsstellen für Linkshänder berichten von Erwachsenen, die als Kinder umgeschult wurden und heute über Konzentrations- oder Gedächtnisprobleme klagen. Hollmann mahnt allerdings zur Vorsicht: Ein ursächlicher Zusammenhang zwischen solchen Beschwerden und der Umschulung lasse sich im Einzelfall kaum nachweisen. „Unstrittig ist aber, dass die Umschulung vielen Kindern das Schreibenlernen unnötig erschwert hat.“",
     "Hartnäckig hält sich auch die auf eine amerikanische Studie von 1991 zurückgehende Behauptung, Linkshänder stürben im Durchschnitt neun Jahre früher.",
-    "Das Ergebnis erwies sich jedoch als statistischer Trugschluss: Unter den älteren Verstorbenen gab es vor allem deshalb so wenige Linkshänder, weil diese Generation häufig umgeschult worden war und daher als rechtshändig galt. Die Forschenden hatten nämlich Hinterbliebene befragt, ob ihre verstorbenen Angehörigen Links- oder Rechtshänder gewesen seien. Spätere Untersuchungen fanden keinen nennenswerten Unterschied in der Lebenserwartung.",
-    "Ebenso wenig lässt sich das freundlichere Gegenbild halten, nach dem Linkshänder besonders kreativ oder intelligent seien, denn große Vergleichsstudien ergaben bei der Intelligenz praktisch keine Unterschiede zwischen Links- und Rechtshändern. „Die Listen berühmter Linkshänder, die im Internet kursieren, beweisen gar nichts“, sagt Hollmann. Bei manchen der dort aufgeführten Namen sei nicht einmal gesichert, ob es sich tatsächlich um Linkshänder gehandelt habe. „Mit derselben Methode könnte man ebenso gut zeigen, dass Rechtshänder begabter sind – berühmte Rechtshänder gibt es schließlich viel mehr.“",
-    "Tatsächlich unterscheiden sich die Gehirne von Links- und Rechtshändern weniger, als oft angenommen wird. Bei rund 95 Prozent der Rechtshänder wird Sprache überwiegend in der linken Hirnhälfte verarbeitet; bei Linkshändern ist das zwar seltener der Fall, aber immer noch bei etwa drei Vierteln. Die verbreitete Vorstellung, bei ihnen sei einfach alles spiegelverkehrt angelegt, trifft also nicht zu. Liegt das Sprachzentrum doch einmal rechts, arbeitet es genauso gut; das Gehirn hat die Aufgaben lediglich anders verteilt.",
-    "Einen messbaren Vorteil haben Linkshänder dagegen in manchen Sportarten: Beim Fechten, Boxen, Tennis oder Tischtennis sind sie in der Weltspitze deutlich häufiger vertreten als in der Gesamtbevölkerung. Das liegt weniger an außergewöhnlichen Fähigkeiten als an den Gegnern: Diese trainieren fast immer gegen Rechtshänder und sind auf die ungewohnten Winkel eines Linkshänders schlecht vorbereitet. Im Baseball sind linkshändige Werfer deshalb so begehrt, dass Vereine gezielt nach ihnen Ausschau halten. In Sportarten ohne direkten Zweikampf, beispielsweise im Schwimmen oder Turnen, fällt dieser Vorteil weg.",
-    "Im Alltag hingegen ist die Welt nach wie vor auf Rechtshänder zugeschnitten: Scheren, Dosenöffner, Computermäuse oder die Klapptische in Hörsälen sind meist für die rechte Hand ausgelegt. Viele Linkshänder haben sich angepasst und erledigen manche Tätigkeiten ganz selbstverständlich mit rechts. Außenstehende unterschätzen leicht, wie viel Mühe solche Kleinigkeiten auf Dauer kosten. Inzwischen gibt es spezielle Füller, Scheren und Lineale, und viele Grundschulen achten darauf, dass linkshändige Kinder beim Schreibenlernen richtig angeleitet werden, etwa was die Lage des Heftes und die Haltung des Stifts betrifft.",
-    "Was sollen Eltern tun, wenn ihr Kind beide Hände benutzt? Hollmann rät zu Gelassenheit, denn bei Kleinkindern sei es völlig normal, dass sie zwischen den Händen wechseln; meist festige sich die Vorliebe bis zum Alter von etwa fünf oder sechs Jahren. Eltern sollten ihrem Kind deshalb Stifte, Löffel oder Spielzeug möglichst zur Körpermitte reichen und beobachten, mit welcher Hand es zugreift, vor allem bei Tätigkeiten, die Geschick erfordern. „In eine bestimmte Richtung lenken sollte man das Kind auf keinen Fall.“",
-    "Echte Beidhändigkeit, bei der jemand mit beiden Händen gleichermaßen geschickt ist, kommt übrigens äußerst selten vor. Weit häufiger sind sogenannte Mischhänder, die für verschiedene Tätigkeiten unterschiedliche Hände benutzen, etwa mit links schreiben, aber mit rechts werfen. Der Auswertung von 2020 zufolge trifft das auf rund neun Prozent der Bevölkerung zu. Für Hollmann ist das ein weiterer Hinweis darauf, dass Händigkeit kein Entweder-oder ist, sondern eher einer Skala gleicht.",
+    "Das Ergebnis erwies sich jedoch als statistischer Trugschluss: Unter den älteren Verstorbenen gab es vor allem deshalb so wenige Linkshänder, weil viele Linkshänder dieser Generation umgeschult worden waren und daher als Rechtshänder galten. Grundlage der Studie war nämlich eine Befragung von Hinterbliebenen nach der Händigkeit ihrer verstorbenen Angehörigen. Spätere Studien fanden keinen nennenswerten Unterschied in der Lebenserwartung von Links- und Rechtshändern.",
+    "Ebenso wenig lässt sich das freundlichere Gegenbild halten, nach dem Linkshänder besonders kreativ oder intelligent seien. Große Studien fanden hinsichtlich der Intelligenz keinen nennenswerten Unterschied zwischen Links- und Rechtshändern. „Die Listen berühmter Linkshänder, die im Internet kursieren, beweisen gar nichts“, sagt Hollmann. Bei manchen der dort aufgeführten Persönlichkeiten sei nicht einmal die Linkshändigkeit gesichert. „Mit derselben Methode könnte man ebenso gut zeigen, dass Rechtshänder begabter sind – berühmte Rechtshänder gibt es schließlich viel mehr.“",
+    "Tatsächlich unterscheiden sich die Gehirne von Links- und Rechtshändern weniger, als gemeinhin angenommen wird. Bei rund 95 Prozent der Rechtshänder erfolgt die Sprachverarbeitung überwiegend in der linken Hirnhälfte; bei Linkshändern ist das zwar seltener der Fall, aber immer noch bei etwa drei Vierteln. Die verbreitete Vorstellung einer spiegelverkehrten Organisation des Gehirns von Linkshändern trifft also nicht zu. Liegt das Sprachzentrum doch einmal in der rechten Hirnhälfte, arbeitet es ebenso zuverlässig; das Gehirn hat die Aufgaben lediglich anders verteilt.",
+    "Einen messbaren Vorteil haben Linkshänder dagegen in manchen Sportarten: Beim Fechten, Boxen, Tennis oder Tischtennis sind Linkshänder in der Weltspitze deutlich häufiger vertreten als in der Gesamtbevölkerung. Das liegt weniger an außergewöhnlichen Fähigkeiten der Linkshänder als an ihren Gegnern: Diese trainieren fast immer gegen Rechtshänder und sind auf die ungewohnten Winkel eines Linkshänders unzureichend vorbereitet. Im Baseball sind linkshändige Werfer deshalb so begehrt, dass Vereine gezielt nach Linkshändern Ausschau halten. In Sportarten ohne direkten Zweikampf, beispielsweise im Schwimmen oder Turnen, entfällt dieser Vorteil.",
+    "Im Alltag hingegen ist die Welt nach wie vor auf Rechtshänder zugeschnitten: Scheren, Dosenöffner, Computermäuse oder die Klapptische in Hörsälen sind meist für die rechte Hand ausgelegt. Viele Linkshänder haben sich angepasst und erledigen manche Tätigkeiten ganz selbstverständlich mit rechts. Außenstehende unterschätzen leicht die Belastung, die solche Kleinigkeiten für Linkshänder auf Dauer bedeuten. Mittlerweile gibt es spezielle Füller, Scheren und Lineale für Linkshänder, und viele Grundschulen achten zudem auf die richtige Anleitung linkshändiger Kinder beim Schreibenlernen, etwa bei der Lage des Heftes und der Haltung des Stifts.",
+    "Was sollen Eltern tun, wenn ihr Kind beide Hände benutzt? Hollmann rät zu Gelassenheit, denn bei Kleinkindern sei ein Wechsel zwischen den Händen völlig unbedenklich; meist festige sich die Vorliebe für eine Hand bis zum Alter von etwa fünf oder sechs Jahren. Eltern sollten ihrem Kind deshalb Stifte, Löffel oder Spielzeug möglichst zur Körpermitte reichen und beobachten, mit welcher Hand das Kind zugreift, vor allem bei Tätigkeiten, die Fingerfertigkeit erfordern. „In eine bestimmte Richtung lenken sollte man das Kind auf keinen Fall.“",
+    "Echte Beidhändigkeit, bei der jemand mit beiden Händen gleichermaßen geschickt ist, ist übrigens äußerst selten. Weit häufiger sind sogenannte Mischhänder, die je nach Tätigkeit eine andere Hand bevorzugen, etwa mit links schreiben, aber mit rechts werfen. Der Auswertung von 2020 zufolge sind das rund neun Prozent der Bevölkerung. Für Hollmann ist das ein weiteres Indiz dafür, dass Händigkeit kein Entweder-oder ist, sondern eher einer Skala gleicht.",
     "In Mias Klasse sitzen drei Linkshänder, denen ihre Lehrerin inzwischen Plätze am linken Tischende zugewiesen hat, damit sie beim Schreiben nicht mit dem Ellbogen an ihre Sitznachbarn stoßen. Mia selbst benutzt mittlerweile einen Füller mit schnell trocknender Tinte.",
     "Neulich hat sich die Großmutter das Heft ihrer Enkelin lange angesehen und dann, zum ersten Mal seit Jahrzehnten, mit der linken Hand ihren Namen daruntergeschrieben."
    ],
@@ -173,12 +173,12 @@
     },
     {
      "no": "14",
-     "text": "Bereits unsere frühen Vorfahren waren mehrheitlich rechtshändig.",
+     "text": "Die Überzahl der Rechtshänder ist ein Phänomen, das bis in die Urgeschichte zurückreicht.",
      "answer": "r"
     },
     {
      "no": "15",
-     "text": "Welche Hand ein Kind bevorzugen wird, lässt sich teilweise schon vor der Geburt erkennen.",
+     "text": "Die spätere Händigkeit eines Kindes kündigt sich teils schon vor der Geburt an.",
      "answer": "r"
     },
     {
@@ -208,7 +208,7 @@
     },
     {
      "no": "21",
-     "text": "Im Tischtennis profitieren Linkshänder davon, dass ihre Gegner kaum Erfahrung mit ihnen haben.",
+     "text": "Beim Tischtennis profitieren Linkshänder davon, dass ihren Gegnern die Übung im Spiel gegen Linkshänder fehlt.",
      "answer": "r"
     },
     {
@@ -237,11 +237,11 @@
    "instruction": "Lesen Sie den folgenden Text. Welche Lösung (a, b, c oder d) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 25–46 auf dem Antwortbogen. Lücke (0) ist ein Beispiel.",
    "title": "Die Säule des Herrn Litfaß",
    "paragraphs": [
-    "Mitte des 19. Jahrhunderts {{0}} Berlin rasant, und mit der Einwohnerzahl nahm auch die Flut der Plakate zu, die Theater, Geschäftsleute und Vereine an Hauswände, Bretterzäune und Bäume klebten. Kaum war ein Werbezettel angebracht, {{25}} er schon von einem anderen überklebt, und gegen das wilde {{26}} war die Polizei weitgehend machtlos.",
-    "Einer, {{27}} diese Zustände besonders ärgerten, war der Drucker und Verleger Ernst Litfaß, der die Zettelwirtschaft als „Hautkrankheit der Städte“ bezeichnete und vorschlug, eigens für Anzeigen konstruierte Säulen {{28}}. Ende 1854 schloss er {{29}} dem Berliner Polizeipräsidenten, der das Durcheinander ebenfalls beenden wollte, eine Vereinbarung: Litfaß durfte die Säulen errichten und an der Werbung verdienen; im Gegenzug konnte die Stadt ihre Bekanntmachungen kostenlos darauf {{30}}.",
-    "Im April 1855 wurde in der Münzstraße die erste dieser Anschlagsäulen aufgestellt. {{31}} im Juli die ersten hundert Exemplare im Stadtgebiet standen, wurde zur Feier sogar eine eigene Polka komponiert. Viele Berliner empfanden die wuchtigen Säulen anfangs als hässlich und spotteten {{32}} ihren Betreiber, den sie „Säulenheiligen“ nannten. {{33}} setzten sich die Säulen rasch durch: Wer etwas ankündigen wollte, konnte seine Anzeige nun aushängen, {{34}} dass sie gleich wieder verschwand, und wer sich informieren wollte, fand {{35}} Wichtige an einem einzigen Ort.",
-    "Für Litfaß zahlte sich die Geschäftsidee aus: {{36}} zunächst nur er in Berlin Säulen betreiben durfte, kam er schnell zu {{37}} und wurde bald als „König der Reklame“ berühmt. Der {{38}} der Säule war er allerdings nicht, denn vergleichbare Säulen hatte es in Paris und London schon Jahrzehnte zuvor {{39}}. In späteren Jahren sammelte er mit Wohltätigkeitskonzerten und Bootsfahrten Spenden für verwundete Soldaten und die Hinterbliebenen Gefallener, bevor er 1874 in Wiesbaden starb, wo er sich zur Kur {{40}}.",
-    "Seine Werbesäulen haben ihn um rund anderthalb Jahrhunderte überlebt. {{41}} mehr als 170 Jahren gehören sie zum Erscheinungsbild deutscher Städte, und noch immer {{42}} ihr Name an ihn. Manche Modelle drehen sich langsam, andere werden {{43}} von innen beleuchtet. Wer heute an einer Litfaßsäule vorbeigeht, {{44}} fallen vor allem Plakate für Konzerte, Theateraufführungen und Ausstellungen auf – ganz ähnlich wie im 19. Jahrhundert. Gegen digitale Werbeflächen, die oft mehr Aufmerksamkeit erregen {{45}} ein gedrucktes Plakat, müssen sich die Säulen allerdings zunehmend {{46}}."
+    "Mitte des 19. Jahrhunderts {{0}} Berlin rasant, und mit der Bevölkerung nahm auch die Flut der Plakate zu, die Theater, Geschäftsleute und Vereine an Hauswände, Bretterzäune und Bäume klebten. Kaum war ein Werbezettel angebracht, {{25}} er schon von einem anderen überklebt, und gegen das wilde {{26}} war die Polizei weitgehend machtlos.",
+    "Einer, {{27}} diese Zustände besonders ärgerten, war der Drucker und Verleger Ernst Litfaß, der die Zettelwirtschaft als „Hautkrankheit der Städte“ bezeichnete und vorschlug, eigens für Anzeigen konstruierte Säulen {{28}}. Ende 1854 schloss er {{29}} dem Berliner Polizeipräsidenten, der ebenfalls an einer Eindämmung des Plakatchaos interessiert war, eine Vereinbarung: Litfaß erhielt die Genehmigung zur Errichtung der Säulen und zur Vermarktung der Werbeflächen; im Gegenzug konnte die Stadt ihre Bekanntmachungen kostenlos darauf {{30}}.",
+    "Im April 1855 wurde in der Münzstraße die erste Anschlagsäule aufgestellt. {{31}} im Juli die ersten hundert Exemplare im Stadtgebiet standen, wurde zu ihrer Einweihung sogar eine Polka komponiert. Viele Berliner empfanden die wuchtigen Säulen anfangs als Verunstaltung des Stadtbildes und spotteten {{32}} ihren Betreiber, den sie „Säulenheiligen“ nannten. {{33}} setzten sich die Säulen rasch durch: Wer eine Veranstaltung ankündigen wollte, konnte seine Anzeige nun aushängen, {{34}} dass sie gleich wieder verschwand, und wer Informationen suchte, fand {{35}} Wichtige an einem einzigen Ort.",
+    "Für Litfaß zahlte sich die Geschäftsidee aus: {{36}} zunächst nur er in Berlin Säulen betreiben durfte, kam er schnell zu {{37}} und erlangte bald Berühmtheit als „König der Reklame“. Der {{38}} der Säule war er allerdings nicht, denn vergleichbare Säulen hatte es in Paris und London schon Jahrzehnte zuvor {{39}}. In späteren Jahren sammelte er mit Wohltätigkeitskonzerten und Bootsfahrten Spenden zur Unterstützung verwundeter Soldaten und der Hinterbliebenen Gefallener, bevor er 1874 in Wiesbaden starb, wo er sich zur Kur {{40}}.",
+    "Seine Werbesäulen haben ihn um rund anderthalb Jahrhunderte überlebt. {{41}} mehr als 170 Jahren gehören sie zum Erscheinungsbild deutscher Städte, und noch immer {{42}} ihr Name an ihn. Manche Exemplare verfügen über eine Drehvorrichtung, andere werden {{43}} von innen beleuchtet. Wer heute an einer Litfaßsäule vorbeigeht, {{44}} fallen vorwiegend Plakate für Konzerte, Theateraufführungen und Ausstellungen auf – ganz ähnlich wie zu Lebzeiten ihres Namensgebers. Gegen digitale Werbeflächen, die oft mehr Aufmerksamkeit erregen {{45}} ein gedrucktes Plakat, müssen sich die Säulen allerdings zunehmend {{46}}."
    ],
    "example": {
     "options": {
@@ -488,7 +488,7 @@
     },
     {
      "letter": "b",
-     "text": "Ein Video im Internet hat meine Studienwahl beeinflusst."
+     "text": "Erst ein Clip im Netz hat mich zu meinem Studienfach gebracht."
     },
     {
      "letter": "c",
@@ -504,7 +504,7 @@
     },
     {
      "letter": "f",
-     "text": "Berichte von Forschenden ersetzen keinen unabhängigen Journalismus."
+     "text": "Forschervideos machen eine unabhängige Prüfung durch Fachjournalisten nicht überflüssig."
     },
     {
      "letter": "g",
@@ -512,7 +512,7 @@
     },
     {
      "letter": "h",
-     "text": "Nach Anfeindungen habe ich mich aus dem Netz zurückgezogen."
+     "text": "Bedrohungen haben mich dazu gebracht, meine Konten in den sozialen Netzwerken zu löschen."
     },
     {
      "letter": "i",
@@ -520,7 +520,7 @@
     },
     {
      "letter": "j",
-     "text": "Hochschulen sollten ihre Forschenden bei der Arbeit im Netz unterstützen."
+     "text": "Die Universitäten stehen in der Verantwortung, ihren Beschäftigten den Schritt in die sozialen Netzwerke zu erleichtern."
     }
    ],
    "items": [
