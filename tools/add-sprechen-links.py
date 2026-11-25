@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Modelltest 1~5(telc B1은 1~8) 페이지의 Sprechen(Mündlicher Ausdruck) 영역에 「말하기 실전 연습」 줄을 넣습니다.
+"""Modelltest 전부(telc B1 1~8, B2 1~7, C1 HS 1~8) 페이지의 Sprechen(Mündlicher Ausdruck) 영역에 「말하기 실전 연습」 줄을 넣습니다.
 저장소 루트에서 실행합니다. 이미 들어 있으면 건너뛰므로 몇 번을 실행해도 결과가 같습니다.
 build-index.py 로 index.html 을 다시 만든 뒤에는 이 스크립트를 한 번 더 실행하십시오.
 """
@@ -8,13 +8,15 @@ BASE = 'https://sophiadeutschakademie.github.io/SODA-Lehrwerk/sprechen/'
 APPS = {  # 폴더: 앱 안 시험 id
     'telc-b1': 'telc-b1',
     'telc-b2': 'telc-b2',
+    'telc-c1-hs': 'telc-c1-hs',
 }
+MAXN = {'telc-b1': 8, 'telc-b2': 7, 'telc-c1-hs': 8}   # 폴더별 Modelltest 수
 MARK = 'sp-live'
 total = 0
 for folder, base_id in APPS.items():
     p = folder + '/index.html'
     s = open(p, encoding='utf-8').read()
-    for n in range(1, 9 if folder == 'telc-b1' else 6):
+    for n in range(1, MAXN[folder] + 1):
         if folder == 'goethe-b1' and n > 2:   # 말하기 연습 툴에 Goethe B1은 Modelltest 1·2만 있습니다.
             continue
         exam = base_id if n == 1 else '%s-%d' % (base_id, n)
