@@ -1,1030 +1,1030 @@
 {
- "id": 7,
- "roman": "VII",
- "lesen": {
-  "t1": {
-   "instruction": "Lesen Sie den folgenden Text. Welche der Sätze a–h gehören in die Lücken 1–6? Es gibt jeweils nur eine richtige Lösung. Zwei Sätze können nicht zugeordnet werden. Markieren Sie Ihre Lösungen für die Aufgaben 1–6 auf dem Antwortbogen. Lücke (0) ist ein Beispiel.",
-   "intro": "Im Wissenschaftsteil einer Zeitung lesen Sie den folgenden Artikel:",
-   "title": "Wie das Händewaschen Leben rettete",
-   "paragraphs": [
-    "Mitte des 19. Jahrhunderts war eine Geburt für viele Frauen lebensgefährlich, denn in Europas großen Kliniken starben zahlreiche Mütter kurz nach der Entbindung am sogenannten Kindbettfieber. {{0}} Dass diese Krankheit eine vermeidbare Ursache hatte, wies in Wien ein junger ungarischer Mediziner nach.",
-    "Ignaz Semmelweis wurde 1846 Assistent an der Wiener Geburtsklinik, die in zwei Abteilungen gegliedert war: In der einen wurden Medizinstudenten ausgebildet, in der anderen Hebammen. Bei den Ärzten war die Sterblichkeit weitaus höher: 1846 starben 11,4 Prozent der Mütter, bei den Hebammen lediglich 2,8 Prozent. {{1}} Manche entbanden sogar lieber auf der Straße und erkrankten anschließend auffallend selten.",
-    "Semmelweis überprüfte systematisch eine Erklärung nach der anderen: Am Wetter konnte es nicht liegen, da sich beide Abteilungen unmittelbar nebeneinander befanden, und auch eine Überbelegung schied aus, weil bei den Hebammen noch mehr Frauen untergebracht waren. {{2}} Doch auch das senkte die Zahl der Todesfälle nicht.",
-    "Die entscheidende Spur lieferte im Frühjahr 1847 ein Unglück: Sein Kollege Jakob Kolletschka wurde bei einer Leichenöffnung vom Messer eines Studenten verletzt und starb wenige Tage später. {{3}} Semmelweis schloss daraus, dass winzige „Leichenteilchen“ die Krankheit übertrugen, denn Ärzte und Studenten kamen häufig mit ungewaschenen Händen aus dem Sektionssaal zu den Schwangeren, wohingegen die Hebammen mit Verstorbenen nichts zu tun hatten.",
-    "Mitte Mai 1847 ordnete Semmelweis deshalb an, dass sich ausnahmslos alle vor jeder Untersuchung die Hände in einer Chlorlösung desinfizieren mussten. {{4}} Der Erfolg war verblüffend: Während im April in der ärztlichen Abteilung noch 18,3 Prozent der Mütter gestorben waren, betrug die Sterblichkeit im Juli nur noch 1,2 Prozent.",
-    "Trotzdem stieß Semmelweis bei vielen Kollegen auf Ablehnung: Sie empfanden die Vorstellung, gerade Ärzte könnten ihre Patientinnen anstecken, als Beleidigung, und worum es sich bei diesen „Leichenteilchen“ handeln sollte, konnte er nicht erklären. {{5}} Als sein Anstellungsvertrag 1849 auslief, wurde dieser nicht verlängert, und im Herbst 1850 verließ er Wien.",
-    "In Pest, dem heutigen Budapest, senkte er an seiner neuen Klinik ebenfalls die Sterblichkeit, und 1861 erschien endlich sein Buch, doch Anerkennung blieb ihm auch dort weitgehend versagt. 1865 wurde er in eine Wiener Nervenheilanstalt eingewiesen, wo er zwei Wochen später an einer Blutvergiftung verstarb. {{6}} Wissenschaftlich erklärt wurden seine Beobachtungen erst durch Louis Pasteurs Lehre von den Krankheitserregern; heute gilt Semmelweis als Wegbereiter der Krankenhaushygiene, und in Ungarn nennt man ihn den „Retter der Mütter“."
-   ],
-   "sentences": [
-    {
-     "letter": "a",
-     "text": "Bei der Obduktion des Kollegen zeigten sich dieselben krankhaften Veränderungen wie bei den verstorbenen Müttern."
-    },
-    {
-     "letter": "b",
-     "text": "Damit erlag er ausgerechnet einer Infektion, wie er sie sein Leben lang bekämpft hatte."
-    },
-    {
-     "letter": "c",
-     "text": "Unter den Schwangeren hatte sich das längst herumgesprochen, weshalb viele die Abteilung der Ärzte fürchteten."
-    },
-    {
-     "letter": "d",
-     "text": "Hinzu kam, dass er selbst jahrelang nichts über seine Entdeckung veröffentlichte."
-    },
-    {
-     "letter": "e",
-     "text": "Frauen, die unterwegs entbunden hatten, wurden anschließend dennoch in der Geburtsklinik aufgenommen und dort versorgt."
-    },
-    {
-     "letter": "f",
-     "text": "Das Chlor wählte er, weil es den typischen Leichengeruch am gründlichsten von den Händen entfernte."
-    },
-    {
-     "letter": "g",
-     "text": "Seine Wiener Kollegen übernahmen die Händedesinfektion deshalb bereitwillig und ohne Widerspruch."
-    },
-    {
-     "letter": "h",
-     "text": "Versuchsweise ließ er die Frauen sogar in Seitenlage entbinden."
-    }
-   ],
-   "example": {
-    "letter": "z",
-    "text": "Verantwortlich machten die meisten Ärzte dafür schlechte Luft, Witterungseinflüsse oder die Angst der Gebärenden."
-   },
-   "items": [
-    {
-     "no": "1",
-     "answer": "c"
-    },
-    {
-     "no": "2",
-     "answer": "h"
-    },
-    {
-     "no": "3",
-     "answer": "a"
-    },
-    {
-     "no": "4",
-     "answer": "f"
-    },
-    {
-     "no": "5",
-     "answer": "d"
-    },
-    {
-     "no": "6",
-     "answer": "b"
-    }
-   ]
-  },
-  "t2": {
-   "instruction": "Lesen Sie den folgenden Text. In welchem Textabsatz a–e finden Sie die Antworten auf die Fragen 7–12? Es gibt jeweils nur eine richtige Lösung. Jeder Absatz kann Antworten auf mehrere Fragen enthalten. Markieren Sie Ihre Lösungen für die Aufgaben 7–12 auf dem Antwortbogen.",
-   "title": "Trinkgeld auf Knopfdruck",
-   "sections": [
-    {
-     "letter": "a",
-     "text": "Kürzlich wollte ich mir in einer Hamburger Bäckerei einen Kaffee zum Mitnehmen kaufen, der 3,40 Euro kostete und dessen Pappbecher ich mir selbst vom Tresen nehmen musste. Als ich meine Bankkarte an das Lesegerät hielt, erschien auf dem Bildschirm unvermittelt die Frage, ob ich zehn, fünfzehn oder zwanzig Prozent Trinkgeld hinzufügen wolle. Die Schaltfläche „Kein Trinkgeld“ war klein und unscheinbar grau, hinter mir warteten zahlreiche weitere Kunden, und die Verkäuferin blickte mich freundlich an. Ich entschied mich für fünfzehn Prozent und ärgerte mich noch auf dem Weg zum Bahnhof. Mein Ärger galt allerdings nicht den 51 Cent, sondern der Tatsache, dass ich mich zu etwas hatte drängen lassen, das eigentlich ein freiwilliges Dankeschön sein sollte. Seither beschäftigt mich, wofür wir überhaupt Trinkgeld geben und ob die neuen digitalen Kassensysteme diesen sympathischen Brauch nicht allmählich verderben."
-    },
-    {
-     "letter": "b",
-     "text": "Damit kein falscher Eindruck entsteht: Ich gebe bereitwillig Trinkgeld, in der Gastronomie meist sogar großzügig, und halte diese Sitte grundsätzlich für sinnvoll. In Restaurants, Taxis und Friseursalons verdient man häufig kaum mehr als den gesetzlichen Mindestlohn, und für viele Beschäftigte ist das Trinkgeld ein fester Bestandteil ihres Einkommens. Selbst der Gesetzgeber erkennt das an: Solange ein Gast es freiwillig gibt, ist es für Angestellte steuerfrei. Eine Kellnerin aus meiner Nachbarschaft berichtete mir einmal, ohne das Trinkgeld könne sie ihre Miete kaum aufbringen. Schon der Begriff selbst verrät den ursprünglichen Zweck: Man gab dem Kutscher oder dem Hausdiener ein paar Münzen, damit er sich ein Getränk kaufen konnte. Im Französischen heißt das Trinkgeld bis heute „pourboire“, wörtlich „zum Trinken“. Wer aufmerksam bedient wurde, signalisiert mit einem Trinkgeld, dass er die Bemühungen des Personals bemerkt hat, und dagegen ist nichts einzuwenden."
-    },
-    {
-     "letter": "c",
-     "text": "Gerecht ist dieses System jedoch keineswegs, denn amerikanische Untersuchungen belegen, dass die Höhe des Trinkgelds nur wenig mit der Qualität der Bedienung zu tun hat. Weitaus stärker hängt sie von der Stimmung der Gäste, von der Witterung, vom Rechnungsbetrag oder vom äußeren Erscheinungsbild des Personals ab. In Experimenten genügte bereits eine Blume im Haar einer Kellnerin, um die Kundschaft spürbar großzügiger zu stimmen. Junge und sympathisch wirkende Beschäftigte erhalten höhere Beträge, unabhängig davon, ob das Essen zügig serviert wurde – mit Leistungsgerechtigkeit hat das wenig zu tun. Während die Bedienung die Trinkgelder entgegennimmt, gehen zudem die Köchin und der Spüler, ohne die kein Teller den Tisch erreichen würde, oft leer aus. Zahlreiche Betriebe verteilen das Trinkgeld deshalb auf sämtliche Mitarbeiter, die an diesem Tag gearbeitet haben, was ich ausdrücklich begrüße. Vorgeschrieben ist eine solche Aufteilung allerdings nicht, und wo sie fehlt, bleibt die Küche außen vor."
-    },
-    {
-     "letter": "d",
-     "text": "Die digitalen Bezahlterminals verschärfen dieses Problem erheblich, denn während man früher im Café um ein paar Cent aufrundete, schlagen sie heute Prozentsätze vor, wie man sie aus den USA kennt. Das geschieht zunehmend auch dort, wo überhaupt niemand bedient, etwa an Verkaufstheken, an Kiosken oder sogar bei Onlinebestellungen. Viele Amerikaner beklagen bereits eine regelrechte Trinkgeldinflation, weil inzwischen auch Selbstbedienungskassen um einen Aufschlag bitten. Wer auf „Kein Trinkgeld“ tippt, tut das zudem unter den Augen der Person, die er gerade nicht belohnt. Wohin das führen kann, zeigt ein Blick über den Atlantik: In vielen Bundesstaaten dürfen Restaurants ihren Bedienungen einen Stundenlohn von lediglich 2,13 Dollar zahlen, sofern das Trinkgeld die Differenz zum Mindestlohn ausgleicht. Aus dem Dankeschön ist dort ein Teil des Gehalts geworden. So weit darf es bei uns nicht kommen."
-    },
-    {
-     "letter": "e",
-     "text": "Gefordert sind deshalb vor allem Gastronomie und Einzelhandel, denn wer bedient, kassiert oder ausliefert, muss von seinem Lohn angemessen leben können, auch wenn die Preise dadurch geringfügig steigen. In Japan etwa ist das selbstverständlich, und ein Trinkgeld kann dort sogar als unhöflich gelten, ohne dass man deswegen schlechter bedient wird. Mir wären ehrliche Preise lieber, in denen der Service bereits steckt; schließlich ist gute Bedienung kein Luxus, sondern gehört zu dem, wofür man bezahlt. Abschaffen möchte ich das Trinkgeld trotzdem nicht; es sollte aber wieder werden, was es einmal war: eine freiwillige Anerkennung für eine tatsächlich erhaltene Leistung und keine Gebühr, die ein Bildschirm einfordert. Meinen Kaffee bezahle ich seitdem wieder mit Bargeld, und was ich geben möchte, lege ich in die Trinkgelddose auf dem Tresen – ganz ohne Publikum."
-    }
-   ],
-   "exampleLead": "In welchem Abschnitt …",
-   "example": {
-    "stem": "erwähnt der Autor, wie viel sein Kaffee gekostet hat?",
-    "answer": "a"
-   },
-   "itemsLead": "In welchem Abschnitt …",
-   "items": [
-    {
-     "no": "7",
-     "stem": "bezweifelt der Autor, dass Trinkgeld vor allem gute Bedienung belohnt?",
-     "answer": "c"
-    },
-    {
-     "no": "8",
-     "stem": "schlägt der Autor vor, die Kosten für die Bedienung in die Preise einzurechnen?",
-     "answer": "e"
-    },
-    {
-     "no": "9",
-     "stem": "räumt der Autor ein, dass viele Arbeitnehmer hierzulande auf Trinkgeld angewiesen sind?",
-     "answer": "b"
-    },
-    {
-     "no": "10",
-     "stem": "warnt der Autor davor, dass Trinkgeld an die Stelle des Lohns treten könnte?",
-     "answer": "d"
-    },
-    {
-     "no": "11",
-     "stem": "gibt der Autor zu, unter Druck nachgegeben zu haben?",
-     "answer": "a"
-    },
-    {
-     "no": "12",
-     "stem": "kritisiert der Autor, dass nicht alle Mitarbeiter etwas vom Trinkgeld erhalten?",
-     "answer": "c"
-    }
-   ]
-  },
-  "t3": {
-   "instruction": "Lesen Sie den folgenden Text und die Aussagen 13–23. Welche der Aussagen sind richtig (r), falsch (f) oder gar nicht im Text enthalten (–)? Es gibt jeweils nur eine richtige Lösung. Markieren Sie Ihre Lösungen für die Aufgaben 13–23 auf dem Antwortbogen.",
-   "title": "",
-   "paragraphs": [
-    "Im Großraumbüro einer Polizeidirektion sitzt eine Beamtin vor zwei Bildschirmen, während um sie herum Tastaturen klappern und irgendwo ein Telefon klingelt. Auf dem einen Monitor läuft eine unscharfe Videoaufzeichnung aus einer U-Bahn-Station, auf dem anderen sind Fotos gesuchter Personen zu sehen. Nach wenigen Sekunden hält sie das Video an und zeigt auf einen Mann mit Kapuze, der sich gerade an einer Frau vorbeischiebt. „Den kenne ich“, sagt sie ruhig. Gesehen hat sie ihn vor einem halben Jahr auf einem einzigen Bild, das eine Überwachungskamera bei einem Taschendiebstahl am Hauptbahnhof aufgenommen hatte.",
-    "Die Beamtin gehört zu den sogenannten Super-Recognizern. Diesen Begriff prägten amerikanische Psychologen 2009 für Menschen, die sich Gesichter außergewöhnlich gut merken können, selbst wenn sie diese nur kurz und unter schlechten Bedingungen gesehen haben. Schätzungen zufolge besitzen ein bis zwei Prozent der Bevölkerung diese Fähigkeit. Die Londoner Polizei setzt solche Spezialisten schon seit Jahren ein; bekannt wurde die Methode nach den Ausschreitungen in London im Sommer 2011, als einzelne Beamte auf Videoaufnahmen zahlreiche Verdächtige identifizierten. In München arbeitet seit 2018 eine eigene Einheit, deren Mitglieder anhand von Tests ausgewählt wurden, bei denen sie unter vielen ähnlichen Fotos dasselbe Gesicht wiederfinden mussten.",
-    "„Gesichter sind für unser Gehirn etwas ganz Besonderes“, sagt der Kognitionspsychologe Daniel Hofer, der an einer Universität erforscht, wie Menschen einander erkennen. In den Neunzigerjahren entdeckten Forscher an der Unterseite des Schläfenlappens ein Areal, das auf Gesichter weit stärker reagiert als auf Häuser, Autos oder Werkzeuge. Wird diese Hirnregion geschädigt, etwa durch einen Schlaganfall, erkennen Betroffene mitunter nicht einmal ihre engsten Angehörigen am Gesicht. Anders als bei Gegenständen achte das Gehirn bei Gesichtern weniger auf einzelne Merkmale wie Nase oder Augen als auf deren Zusammenspiel. Deshalb fällt es uns erstaunlich schwer, selbst ein vertrautes Gesicht zu erkennen, wenn das Foto auf dem Kopf steht.",
-    "Diese Vorliebe für Gesichter zeigt sich außerordentlich früh. Bereits Neugeborene folgen einem einfachen Muster aus drei Punkten, das an zwei Augen und einen Mund erinnert, länger mit dem Blick als demselben Muster in umgekehrter Anordnung. Britische Forscher projizierten 2017 sogar Lichtpunkte durch die Bauchdecke schwangerer Frauen und beobachteten mit Ultraschall, dass die Ungeborenen den Kopf häufiger dem gesichtsähnlichen Muster zuwandten. „Unterscheiden können wir Gesichter vor der Geburt aber noch nicht“, betont Hofer, „offenbar sind wir jedoch von Anfang an darauf vorbereitet, ihnen besondere Aufmerksamkeit zu schenken.“",
-    "Dieselbe Bereitschaft führt dazu, dass wir Gesichter auch dort wahrnehmen, wo keine sind, etwa in Steckdosen, in der Frontpartie eines Autos oder in einer Wolke – ein Phänomen, das Fachleute als Pareidolie bezeichnen. „Ein Gesicht zu übersehen konnte für unsere Vorfahren gefährlich sein, eines zu viel zu sehen dagegen kaum“, erklärt Hofer, der diese Neigung für den Nebeneffekt eines überaus nützlichen Systems hält. Lieber erschrickt das Gehirn also einmal zu oft vor einem Schatten, als einen Menschen im Gebüsch nicht zu bemerken.",
-    "Für manche Menschen ist schon das Erkennen vertrauter Gesichter eine tägliche Herausforderung, weil sie an Prosopagnosie leiden, der sogenannten Gesichtsblindheit. Eine Untersuchung aus Münster gelangte vor rund zwanzig Jahren zu dem Ergebnis, dass etwa zweieinhalb Prozent der Bevölkerung von Geburt an betroffen sind.",
-    "Viele Betroffene ahnen lange nichts von ihrer Beeinträchtigung und halten sich einfach für unaufmerksam oder vergesslich. Sie orientieren sich an der Stimme, am Gang oder an der Frisur ihrer Mitmenschen – lässt sich eine gute Freundin die Haare kurz schneiden, erkennen sie diese womöglich nicht wieder.",
-    "Doch auch Menschen ohne diese Störung erkennen Gesichter schlechter, als sie glauben, zumindest wenn es sich um Fremde handelt. In einer australischen Studie sollten Beschäftigte einer Passbehörde entscheiden, ob das Foto auf einem Ausweis tatsächlich die Person vor ihnen zeigte. Rund jedes siebte falsche Foto hielten sie irrtümlich für echt. Langjährige Mitarbeiter schnitten dabei nicht besser ab als Neulinge. „Vertraute Gesichter erkennen wir selbst auf schlechten Fotos sofort“, so Hofer, „bei Fremden vergleichen wir dagegen lediglich Bilder miteinander.“",
-    "Wie gut jemand Gesichter erkennt, ist zu einem großen Teil genetisch bedingt. Zwillingsstudien belegen, dass die Ergebnisse eineiiger Zwillinge in Gesichtertests einander weit stärker ähneln als die zweieiiger. Gezieltes Training bringt hingegen erstaunlich wenig. Man könne zwar lernen, genauer hinzusehen, etwa auf die Form der Ohren, erläutert Hofer; aus einem durchschnittlichen Menschen werde dadurch aber kein Super-Recognizer. Die Polizei setzt deshalb nicht auf Schulungen, sondern sucht ihre Spezialisten mithilfe von Tests unter den eigenen Beschäftigten.",
-    "Auch das Alter spielt eine Rolle, allerdings anders, als man vermuten könnte. Während bei vielen Gedächtnisaufgaben der Höhepunkt bereits in den frühen Zwanzigern liegt, wird das Lernen neuer Gesichter einer Online-Studie mit Zehntausenden Teilnehmenden zufolge bis Anfang dreißig immer besser und lässt erst danach allmählich nach. Worauf diese Entwicklung zurückzuführen ist, weiß man bislang nicht, doch vertraute Gesichter erkennen auch ältere Menschen meist noch sehr zuverlässig.",
-    "Die Fähigkeit, Gesichter zu unterscheiden, ist nicht auf den Menschen beschränkt: Schafe etwa können sich die Gesichter von rund fünfzig Artgenossen über zwei Jahre hinweg merken. In einem Versuch an der Universität Cambridge erkannten Schafe sogar Prominente wieder, die sie zuvor nur auf Fotos gesehen hatten. Das gelang ihnen auch dann, wenn ein neues Bild die Person aus einem anderen Blickwinkel zeigte. Derartige Experimente helfen der Forschung zudem, Erkrankungen des Gehirns zu untersuchen, die beim Menschen ähnlich verlaufen.",
-    "Ersetzt werden die menschlichen Spezialisten so bald wohl nicht, obwohl Computerprogramme in den vergangenen Jahren enorm aufgeholt haben: In einer amerikanischen Vergleichsstudie lagen die leistungsfähigsten Programme etwa gleichauf mit geschulten Gesichtsexperten der Behörden. Am zuverlässigsten war das Ergebnis jedoch, wenn man das Urteil eines Menschen mit dem einer Maschine kombinierte. Auch Super-Recognizer schnitten in dieser Studie gut ab, obwohl sie keinerlei Ausbildung erhalten hatten. Hinzu kommt, dass der Einsatz solcher Software im öffentlichen Raum rechtlich umstritten ist.",
-    "Für den Alltag hat Hofer einen einfachen Rat: Wer jemanden nicht erkennt, sollte das offen zugeben, statt so zu tun, als ob. „Die meisten reagieren verständnisvoll, wenn man fragt, woher man sich kennt“, sagt er. Umgekehrt helfe es, sich zur Begrüßung mit Namen vorzustellen, wenn man selbst nicht sofort erkannt wird. Gerade an der Universität, wo man in jeder Lehrveranstaltung neuen Menschen begegnet, erspare das beiden Seiten viel Verlegenheit. Namensschilder bei Einführungsveranstaltungen seien deshalb keine Spielerei, sondern eine echte Hilfe.",
-    "Im Großraumbüro hat die Beamtin ihren Fund inzwischen an die Kollegen weitergegeben, und ein Abgleich mit älteren Aufnahmen bestätigt ihren Verdacht. Erklären kann sie ihre außergewöhnliche Begabung selbst nicht: „Ich sehe ein Gesicht, und es ist einfach da.“",
-    "Im Privatleben sei diese Fähigkeit allerdings nicht immer angenehm. Im Supermarkt erkenne sie regelmäßig Menschen, die sie vor Jahren einmal flüchtig in der Bahn gesehen habe – und die sich natürlich nicht an sie erinnern. Ihre Kollegen nennen sie halb im Scherz ihr „Gedächtnis auf zwei Beinen“."
-   ],
-   "itemsLead": "Aussagen 13–23",
-   "items": [
-    {
-     "no": "13",
-     "text": "Super-Recognizer behalten auch flüchtig gesehene Gesichter; diese Gabe hat etwa jeder Zehnte.",
-     "answer": "f"
-    },
-    {
-     "no": "14",
-     "text": "Ein um 180 Grad gedrehtes Foto erschwert es bekannte Personen zu erkennen",
-     "answer": "r"
-    },
-    {
-     "no": "15",
-     "text": "Ungeborene können Gesichter bereits voneinander unterscheiden.",
-     "answer": "f"
-    },
-    {
-     "no": "16",
-     "text": "Auch Affen sehen in Gegenständen Gesichter.",
-     "answer": "n"
-    },
-    {
-     "no": "17",
-     "text": "Gesichtsblinde erkennen Bekannte oft an anderen Merkmalen als dem Gesicht.",
-     "answer": "r"
-    },
-    {
-     "no": "18",
-     "text": "Mehr Berufserfahrung machte die Mitarbeiter nicht treffsicherer.",
-     "answer": "r"
-    },
-    {
-     "no": "19",
-     "text": "Durch Übung lässt sich die Fähigkeit nur wenig verbessern.",
-     "answer": "r"
-    },
-    {
-     "no": "20",
-     "text": "Neue Gesichter prägt man sich mit Anfang zwanzig am besten ein.",
-     "answer": "f"
-    },
-    {
-     "no": "21",
-     "text": "Hunde erkennen ihre Besitzer selbst auf Fotos am Gesicht.",
-     "answer": "n"
-    },
-    {
-     "no": "22",
-     "text": "Hofer selbst fällt es schwer, sich die Gesichter seiner Studierenden zu merken.",
-     "answer": "n"
-    },
-    {
-     "no": "23",
-     "text": "Die Beamtin kann recht gut beschreiben, woran sie Gesichter wiedererkennt.",
-     "answer": "f"
-    }
-   ],
-   "headline": {
-    "instruction": "Welche der Überschriften a, b oder c trifft die Aussage des Textes am besten? Markieren Sie Ihre Lösung für die Aufgabe 24 auf dem Antwortbogen.",
-    "no": "24",
-    "options": {
-     "a": "Warum Computer Gesichter besser erkennen als Menschen",
-     "b": "Leben mit Gesichtsblindheit: wenn Vertraute fremd wirken",
-     "c": "Gesichter erkennen – eine sehr ungleich verteilte Gabe"
-    },
-    "answer": "c"
-   }
-  },
-  "sb": {
-   "instruction": "Lesen Sie den folgenden Text. Welche Lösung (a, b, c oder d) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 25–46 auf dem Antwortbogen. Lücke (0) ist ein Beispiel.",
-   "title": "Der Mann, der die Dinge festhielt",
-   "paragraphs": [
-    "Artur Fischer wurde am 31. Dezember 1919 in Tumlingen im Schwarzwald geboren. Seine Mutter erkannte frühzeitig, {{0}} geschickt der Junge mit Werkzeugen umging, und richtete ihm eine kleine Werkbank ein; nach der Volksschule absolvierte er eine Schlosserlehre.",
-    "Nach Kriegsende kehrte er in seinen Geburtsort zurück und {{25}} dort 1948 ein eigenes Unternehmen, in dem er zunächst aus Restbeständen von Militärmaterial Feuerzeuge und Schalter für Webstühle herstellte. 1949 gelang ihm eine Erfindung, {{26}} Fotoaufnahmen in Innenräumen wesentlich erleichterte: ein Blitzlicht, das genau beim Öffnen des Kameraverschlusses {{27}} wurde. Auf diesen Einfall war er gekommen, weil er seine kleine Tochter in der Wohnung nicht fotografieren {{28}}.",
-    "Berühmt wurde Fischer {{29}} durch ein Produkt, das heute in nahezu jedem Werkzeugkasten liegt. Während man Schrauben bis dahin üblicherweise mit Holzpflöcken oder Gips in der Wand verankerte, entwickelte er 1958 einen grauen Kunststoffdübel, der sich beim Eindrehen der Schraube {{30}} und dadurch fest im Bohrloch sitzt. Kleine Sperrzungen verhindern, {{31}} er sich dabei mitdreht. Der Spreizdübel war so {{32}}, dass das Unternehmen ihn schon bald in zahlreiche Länder exportierte.",
-    "Im {{33}} seines Lebens brachte es Fischer auf über 1100 Patente – mehr {{34}} Thomas Edison in den Vereinigten Staaten. Zu seinen Erfindungen zählen Spezialdübel zur Behandlung von Knochenbrüchen {{35}} ein Küchengerät, mit dem sich gekochte Eier jeder Größe mühelos köpfen lassen. Angeregt {{36}} er dazu von einem Hotelbesitzer, der sich darüber beklagt hatte, dass seine Gäste beim Frühstück ständig Eierschalen verstreuten.",
-    "Auch Kinder {{37}} ihm einiges, denn Mitte der Sechzigerjahre brachte er einen Baukasten auf den Markt, dessen Bauteile sich auf vielfältige Weise {{38}} lassen. Mit diesem Konstruktionssystem lernen bis heute zahlreiche Schülerinnen und Schüler, wie Technik {{39}}.",
-    "Fischer arbeitete bis ins hohe Alter an neuen Entwicklungen und {{40}} noch mit 94 Jahren den Europäischen Erfinderpreis für sein Lebenswerk. Das Unternehmen, das seinen Namen trägt, {{41}} heute weltweit Tausende Mitarbeiter. {{42}} seines Ruhms blieb Fischer seinem Heimatort treu: Er verstarb im Januar 2016 im Alter {{43}} 96 Jahren in Tumlingen. Wer schon einmal ein Bücherregal an der Wand befestigen musste, {{44}} Fischers Erfindung vermutlich bereits in der Hand gehalten – auch wenn er den Namen des {{45}} gar nicht {{46}}."
-   ],
-   "example": {
-    "options": {
-     "a": "als",
-     "b": "so",
-     "c": "solange",
-     "d": "wie"
-    },
-    "answer": "d"
-   },
-   "items": [
-    {
-     "no": "25",
-     "options": {
-      "a": "ergründete",
-      "b": "gründelte",
-      "c": "gründete",
-      "d": "grundierte"
-     },
-     "answer": "c"
-    },
-    {
-     "no": "26",
-     "options": {
-      "a": "das",
-      "b": "der",
-      "c": "deren",
-      "d": "die"
-     },
-     "answer": "d"
-    },
-    {
-     "no": "27",
-     "options": {
-      "a": "ausgelöst",
-      "b": "ausgelöste",
-      "c": "auslösen",
-      "d": "auslöste"
-     },
-     "answer": "a"
-    },
-    {
-     "no": "28",
-     "options": {
-      "a": "gekonnt",
-      "b": "kann",
-      "c": "kannte",
-      "d": "konnte"
-     },
-     "answer": "d"
-    },
-    {
-     "no": "29",
-     "options": {
-      "a": "jedoch",
-      "b": "sondern",
-      "c": "sowohl",
-      "d": "weder"
-     },
-     "answer": "a"
-    },
-    {
-     "no": "30",
-     "options": {
-      "a": "spart",
-      "b": "speist",
-      "c": "spreizt",
-      "d": "sprudelt"
-     },
-     "answer": "c"
-    },
-    {
-     "no": "31",
-     "options": {
-      "a": "damit",
-      "b": "dass",
-      "c": "ob",
-      "d": "wenn"
-     },
-     "answer": "b"
-    },
-    {
-     "no": "32",
-     "options": {
-      "a": "erfolgreich",
-      "b": "Erfolgreich",
-      "c": "erfolgreig",
-      "d": "erfolkreich"
-     },
-     "answer": "a"
-    },
-    {
-     "no": "33",
-     "options": {
-      "a": "Laufe",
-      "b": "Läufe",
-      "c": "Laufen",
-      "d": "Läufen"
-     },
-     "answer": "a"
-    },
-    {
-     "no": "34",
-     "options": {
-      "a": "als",
-      "b": "dass",
-      "c": "ob",
-      "d": "wie"
-     },
-     "answer": "a"
-    },
-    {
-     "no": "35",
-     "options": {
-      "a": "sobald",
-      "b": "sodass",
-      "c": "sondern",
-      "d": "sowie"
-     },
-     "answer": "d"
-    },
-    {
-     "no": "36",
-     "options": {
-      "a": "geworden",
-      "b": "wird",
-      "c": "wurde",
-      "d": "würde"
-     },
-     "answer": "c"
-    },
-    {
-     "no": "37",
-     "options": {
-      "a": "verdächtigen",
-      "b": "verdanken",
-      "c": "verdauen",
-      "d": "verdienen"
-     },
-     "answer": "b"
-    },
-    {
-     "no": "38",
-     "options": {
-      "a": "zusammen stecken",
-      "b": "zusammenstecken",
-      "c": "Zusammenstecken",
-      "d": "zusammenstekken"
-     },
-     "answer": "b"
-    },
-    {
-     "no": "39",
-     "options": {
-      "a": "Funktion",
-      "b": "funktional",
-      "c": "funktionieren",
-      "d": "funktioniert"
-     },
-     "answer": "d"
-    },
-    {
-     "no": "40",
-     "options": {
-      "a": "behielt",
-      "b": "enthielt",
-      "c": "erhielt",
-      "d": "verhielt"
-     },
-     "answer": "c"
-    },
-    {
-     "no": "41",
-     "options": {
-      "a": "beschädigt",
-      "b": "beschäftigt",
-      "c": "beschwichtigt",
-      "d": "bestätigt"
-     },
-     "answer": "b"
-    },
-    {
-     "no": "42",
-     "options": {
-      "a": "Obgleich",
-      "b": "Obwohl",
-      "c": "Trotz",
-      "d": "Trotzdem"
-     },
-     "answer": "c"
-    },
-    {
-     "no": "43",
-     "options": {
-      "a": "an",
-      "b": "nach",
-      "c": "von",
-      "d": "zu"
-     },
-     "answer": "c"
-    },
-    {
-     "no": "44",
-     "options": {
-      "a": "habe",
-      "b": "hat",
-      "c": "hätte",
-      "d": "ist"
-     },
-     "answer": "b"
-    },
-    {
-     "no": "45",
-     "options": {
-      "a": "Erfinder",
-      "b": "Erfinderin",
-      "c": "Erfindern",
-      "d": "Erfinders"
-     },
-     "answer": "d"
-    },
-    {
-     "no": "46",
-     "options": {
-      "a": "kenne",
-      "b": "kennt",
-      "c": "kennte",
-      "d": "könnt"
-     },
-     "answer": "b"
-    }
-   ]
-  }
- },
- "hoeren": {
-  "t1": {
-   "instruction": "Sie hören die Meinungen von acht Personen. Sie hören die Meinungen nur einmal. Entscheiden Sie beim Hören, welche Aussage (a–j) zu welcher Person (Sprecher/in 1–8) passt. Zwei Aussagen passen nicht. Markieren Sie Ihre Lösungen für die Aufgaben 47–54 auf dem Antwortbogen.",
-   "readNote": "Lesen Sie jetzt die Aussagen a–j. Sie haben dazu eine Minute Zeit.",
-   "title": "Das akademische Viertel – noch zeitgemäß?",
-   "statements": [
-    {
-     "letter": "a",
-     "text": "Ohne die Viertelstunde wäre der Lehrbetrieb kaum zu organisieren."
-    },
-    {
-     "letter": "b",
-     "text": "In der Arbeitswelt wird einem später nicht so viel Spielraum zugestanden."
-    },
-    {
-     "letter": "c",
-     "text": "Inzwischen weiß ich die Viertelstunde zu schätzen."
-    },
-    {
-     "letter": "d",
-     "text": "In Schweden gibt es die Regel an keiner Hochschule mehr."
-    },
-    {
-     "letter": "e",
-     "text": "Mir ist gleich, welche Regel gilt – Hauptsache, sie gilt überall."
-    },
-    {
-     "letter": "f",
-     "text": "Internationale Studierende werden schon vor Semesterbeginn über die Regel informiert."
-    },
-    {
-     "letter": "g",
-     "text": "Mich stört nicht die Viertelstunde, sondern wer noch später kommt."
-    },
-    {
-     "letter": "h",
-     "text": "Die Viertelstunde wäre ideal, um etwas für den Körper zu tun."
-    },
-    {
-     "letter": "i",
-     "text": "Dass eine Regel alt ist, macht sie noch nicht sinnvoll."
-    },
-    {
-     "letter": "j",
-     "text": "Eine Abschaffung hätte unter den Studierenden kaum Rückhalt."
-    }
-   ],
-   "items": [
-    {
-     "no": "47",
-     "label": "Sprecher 1",
-     "answer": "c"
-    },
-    {
-     "no": "48",
-     "label": "Sprecher 2",
-     "answer": "i"
-    },
-    {
-     "no": "49",
-     "label": "Sprecherin 3",
-     "answer": "a"
-    },
-    {
-     "no": "50",
-     "label": "Sprecherin 4",
-     "answer": "g"
-    },
-    {
-     "no": "51",
-     "label": "Sprecherin 5",
-     "answer": "e"
-    },
-    {
-     "no": "52",
-     "label": "Sprecher 6",
-     "answer": "j"
-    },
-    {
-     "no": "53",
-     "label": "Sprecher 7",
-     "answer": "b"
-    },
-    {
-     "no": "54",
-     "label": "Sprecherin 8",
-     "answer": "h"
-    }
-   ]
-  },
-  "t2": {
-   "instruction": "Sie hören eine Radiosendung. Sie hören die Sendung nur einmal. Entscheiden Sie beim Hören, welche Aussage (a, b oder c) am besten passt. Markieren Sie Ihre Lösungen für die Aufgaben 55–64 auf dem Antwortbogen.",
-   "readNote": "Lesen Sie jetzt die Aufgaben 55–64. Sie haben dazu drei Minuten Zeit.",
-   "items": [
-    {
-     "no": "55",
-     "stem": "Die Vulkane der Eifel sind nach Dr. Keller",
-     "options": {
-      "a": "nach dem letzten großen Ausbruch erloschen.",
-      "b": "kurz vor einem erneuten Ausbruch.",
-      "c": "bis heute nicht völlig zur Ruhe gekommen."
-     },
-     "answer": "c"
-    },
-    {
-     "no": "56",
-     "stem": "Beim Ausbruch des Laacher-See-Vulkans",
-     "options": {
-      "a": "staute sich der Rhein zeitweise auf.",
-      "b": "gelangte die Asche bis nach Nordafrika.",
-      "c": "floss die Lava bis weit ins Rheintal."
-     },
-     "answer": "a"
-    },
-    {
-     "no": "57",
-     "stem": "Bei Vulkanausbrüchen sterben die meisten Menschen durch",
-     "options": {
-      "a": "rasend schnelle Glutwolken.",
-      "b": "langsam fließende Lavaströme.",
-      "c": "durch Asche einstürzende Dächer."
-     },
-     "answer": "a"
-    },
-    {
-     "no": "58",
-     "stem": "Über die Vorhersage von Ausbrüchen sagt Dr. Keller, dass",
-     "options": {
-      "a": "es vorher kaum Warnzeichen gibt.",
-      "b": "sie heute meist auf den Tag genau gelingt.",
-      "c": "sich nur das Risiko einschätzen lässt."
-     },
-     "answer": "c"
-    },
-    {
-     "no": "59",
-     "stem": "Am Beispiel des Pinatubo zeigt Dr. Keller, dass",
-     "options": {
-      "a": "es vor dem Ausbruch jahrelang ruhig blieb.",
-      "b": "rechtzeitige Warnungen Leben retten.",
-      "c": "eine Räumung dort nichts nützte."
-     },
-     "answer": "b"
-    },
-    {
-     "no": "60",
-     "stem": "Drohnen werden vor allem eingesetzt, um",
-     "options": {
-      "a": "verunglückte Forscher am Kraterrand zu bergen.",
-      "b": "die Zusammensetzung der Gase zu messen.",
-      "c": "Verformungen des Bodens zu erkennen."
-     },
-     "answer": "b"
-    },
-    {
-     "no": "61",
-     "stem": "Für Flugzeuge ist Vulkanasche vor allem gefährlich, weil sie",
-     "options": {
-      "a": "aus weichem, feinem Staub besteht.",
-      "b": "die Scheiben im Cockpit stark zerkratzt.",
-      "c": "in den Triebwerken zu Glas schmilzt."
-     },
-     "answer": "c"
-    },
-    {
-     "no": "62",
-     "stem": "Zum Einfluss von Vulkanen auf das Klima sagt Dr. Keller, dass",
-     "options": {
-      "a": "sie mehr Kohlendioxid freisetzen als wir.",
-      "b": "große Ausbrüche die Erde zeitweise abkühlen.",
-      "c": "ihr Schwefel die Erderwärmung dauerhaft bremst."
-     },
-     "answer": "b"
-    },
-    {
-     "no": "63",
-     "stem": "Viele Menschen leben in der Nähe von Vulkanen vor allem, weil",
-     "options": {
-      "a": "die Erde dort sehr fruchtbar ist.",
-      "b": "sie sich nichts anderes leisten können.",
-      "c": "es dort viele heiße Quellen gibt."
-     },
-     "answer": "a"
-    },
-    {
-     "no": "64",
-     "stem": "Grindavík und ein nahes Kraftwerk hat man vor allem geschützt, indem man",
-     "options": {
-      "a": "die Lava mit Meerwasser abgekühlt hat.",
-      "b": "die Glutlawinen umgelenkt hat.",
-      "c": "Dämme aus Erde aufgeschüttet hat."
-     },
-     "answer": "c"
-    }
-   ]
-  },
-  "t3": {
-   "instruction": "Sie hören einen Vortrag. Sie hören den Vortrag nur einmal. Sie haben Handzettel mit den Folien der Präsentation erhalten. Schreiben Sie die fehlenden Informationen stichwortartig in die freien Zeilen 65–74 in der rechten Spalte.",
-   "exampleNote": "Die Lösung 0 ist ein Beispiel.",
-   "readNote": "Lesen Sie jetzt die Stichworte. Sie haben dazu eine Minute Zeit.",
-   "finalNote": "Sie haben jetzt fünf Minuten Zeit, Ihre Antworten zu den Aufgaben 65–74 auf den Antwortbogen zu übertragen.",
-   "exampleAnswer": "Umwelt im Wandel",
-   "slides": [
-    {
-     "title": "Ringvorlesung",
-     "lines": [
-      {
-       "no": "0",
-       "bullet": false,
-       "dash": false,
-       "text": "„…“"
-      },
-      {
-       "no": "",
-       "bullet": false,
-       "dash": false,
-       "text": "Thema heute: Mikroplastik – unsichtbar und überall?"
-      },
-      {
-       "no": "",
-       "bullet": false,
-       "dash": false,
-       "text": "Referentin: Dr. Clara Engel, Umweltchemikerin"
-      }
-     ]
-    },
-    {
-     "title": "Was ist Mikroplastik?",
-     "lines": [
-      {
-       "no": "",
-       "bullet": true,
-       "dash": false,
-       "text": "Kunststoffteilchen kleiner als fünf Millimeter"
-      },
-      {
-       "no": "",
-       "bullet": true,
-       "dash": false,
-       "text": "Kügelchen in Kosmetik: absichtlich so klein hergestellt"
-      },
-      {
-       "no": "65",
-       "bullet": true,
-       "dash": false,
-       "text": "Fachbegriff für Teilchen aus zerfallenem Kunststoff: …"
-      }
-     ]
-    },
-    {
-     "title": "Quellen in Deutschland",
-     "lines": [
-      {
-       "no": "",
-       "bullet": true,
-       "dash": false,
-       "text": "insgesamt gut vier Kilogramm pro Kopf und Jahr"
-      },
-      {
-       "no": "66",
-       "bullet": true,
-       "dash": false,
-       "text": "Hauptverursacher: …"
-      },
-      {
-       "no": "67",
-       "bullet": true,
-       "dash": false,
-       "text": "Bedeutung der Kosmetik: …"
-      }
-     ]
-    },
-    {
-     "title": "Verbreitung",
-     "lines": [
-      {
-       "no": "68",
-       "bullet": true,
-       "dash": false,
-       "text": "Fundorte fern von Städten (zwei Beispiele): …"
-      },
-      {
-       "no": "",
-       "bullet": true,
-       "dash": false,
-       "text": "Kläranlagen halten über 90 Prozent zurück"
-      },
-      {
-       "no": "69",
-       "bullet": true,
-       "dash": false,
-       "text": "Problem dabei: …"
-      }
-     ]
-    },
-    {
-     "title": "Mikroplastik im Menschen",
-     "lines": [
-      {
-       "no": "",
-       "bullet": true,
-       "dash": false,
-       "text": "Blutproben von 22 Spendern, 2022"
-      },
-      {
-       "no": "70",
-       "bullet": true,
-       "dash": false,
-       "text": "Anteil der Spender mit Kunststoff im Blut: …"
-      },
-      {
-       "no": "71",
-       "bullet": true,
-       "dash": false,
-       "text": "Bewertung der Behauptung „eine Kreditkarte pro Woche“: …"
-      },
-      {
-       "no": "72",
-       "bullet": true,
-       "dash": false,
-       "text": "Gesundheitsfolgen – Stand der Forschung: …"
-      }
-     ]
-    },
-    {
-     "title": "Maßnahmen",
-     "lines": [
-      {
-       "no": "",
-       "bullet": true,
-       "dash": false,
-       "text": "EU-Beschränkung seit Oktober 2023"
-      },
-      {
-       "no": "73",
-       "bullet": true,
-       "dash": false,
-       "text": "ohne Übergangsfrist verboten (Beispiel): …"
-      }
-     ]
-    },
-    {
-     "title": "Fazit",
-     "lines": [
-      {
-       "no": "74",
-       "bullet": true,
-       "dash": false,
-       "text": "Was am meisten hilft: …"
-      }
-     ]
-    }
-   ],
-   "items": [
-    {
-     "no": "65",
-     "solution": "sekundäres Mikroplastik (Oberbegriff erforderlich)"
-    },
-    {
-     "no": "66",
-     "solution": "Abrieb von Autoreifen / Reifenabrieb (etwa ein Drittel)"
-    },
-    {
-     "no": "67",
-     "solution": "sehr gering (ca. 19 g pro Kopf und Jahr, nur Platz 17)"
-    },
-    {
-     "no": "68",
-     "solution": "Meereis der Arktis, Mount Everest, Tiefsee / Marianengraben (zwei von drei erforderlich)"
-    },
-    {
-     "no": "69",
-     "solution": "Klärschlamm wird auf Felder ausgebracht → Mikroplastik gelangt in die Böden"
-    },
-    {
-     "no": "70",
-     "solution": "bei etwa drei von vier Spendern („Plastik im Blut“ ohne Anteil genügt nicht)"
-    },
-    {
-     "no": "71",
-     "solution": "stark übertrieben / viel zu hoch („etwa fünf Gramm“ allein genügt nicht)"
-    },
-    {
-     "no": "72",
-     "solution": "noch weitgehend unklar / Zusammenhang nicht als Ursache belegt (Entzündungen oder Herzinfarkte als gesicherte Folge genügen nicht)"
-    },
-    {
-     "no": "73",
-     "solution": "loser Glitzer"
-    },
-    {
-     "no": "74",
-     "solution": "Kunststoff gar nicht erst in die Umwelt gelangen lassen / Vermeidung an der Quelle („weniger Plastik kaufen“ allein genügt nicht)"
-    }
-   ]
-  }
- },
- "schreiben": {
-  "instruction": "Wählen Sie eines der folgenden zwei Themen. Schreiben Sie einen Text, in dem Sie Ihren eigenen Standpunkt dazu erarbeiten und argumentativ darlegen. Ihr Text soll mindestens 350 Wörter umfassen. Sie haben 70 Minuten Zeit.",
-  "minWords": 350,
-  "minutes": 70,
-  "themes": [
-   {
-    "no": "1",
-    "paragraphs": [
-     "In einem Seminar zum Thema „Wissenschaft und Öffentlichkeit“ wird diskutiert, ob Forschende verpflichtet werden sollten, ihre Ergebnisse allgemeinverständlich zu vermitteln.",
-     "Erörtern Sie Vor- und Nachteile einer solchen Pflicht, greifen Sie die Zitate auf und beziehen Sie eigene Erfahrungen ein. Ziehen Sie ein begründetes Fazit."
-    ],
-    "quoteLead": "Die folgenden Zitate geben Ihnen erste Ideen:",
-    "quotes": [
-     "„Wer mit öffentlichem Geld forscht, schuldet der Öffentlichkeit eine verständliche Antwort.“",
-     "„Gute Forschung braucht Zeit im Labor, nicht auf der Bühne.“"
-    ],
-    "model": {
-     "title": "Forschung erklären – eine Pflicht?",
-     "paragraphs": [
-      "Spätestens seit der Corona-Pandemie ist deutlich geworden, wie sehr politische Entscheidungen von wissenschaftlichen Erkenntnissen abhängen und wie wenig viele Menschen über die Arbeitsweise der Forschung wissen. In unserem Seminar stellt sich deshalb die Frage, ob Forschende verpflichtet werden sollten, ihre Ergebnisse regelmäßig allgemeinverständlich zu vermitteln. Im Folgenden werden die wichtigsten Argumente beider Seiten gegeneinander abgewogen.",
-      "Für eine solche Pflicht spricht zunächst, dass ein großer Teil der Forschung aus Steuermitteln finanziert wird. Das erste Zitat bringt diesen Gedanken auf den Punkt: Wer mit öffentlichem Geld arbeitet, sollte auch erklären können, was mit diesem Geld geschieht. Hinzu kommt, dass Vertrauen in die Wissenschaft nur entsteht, wenn Menschen nachvollziehen können, wie Ergebnisse zustande kommen. Wo Forschende schweigen, füllen oft andere die Lücke, nicht selten mit Halbwahrheiten oder gezielten Falschmeldungen. Gerade junge Menschen informieren sich heute kaum noch aus Zeitungen, sondern aus Videos und Podcasts, und dort sollten auch seriöse Stimmen zu hören sein.",
-      "Andererseits ist der Einwand, der im zweiten Zitat zum Ausdruck kommt, ernst zu nehmen. Wissenschaftliche Arbeit ist zeitaufwendig, und viele Nachwuchskräfte haben ohnehin befristete Verträge, unterrichten und schreiben Anträge. Eine zusätzliche Pflicht würde diese Belastung weiter erhöhen. Außerdem ist nicht jeder begabte Forscher auch ein guter Vermittler. Wer gezwungen wird, komplizierte Zusammenhänge in wenigen Sätzen darzustellen, läuft Gefahr, sie so stark zu vereinfachen, dass am Ende ein falsches Bild entsteht. Nicht zuletzt erleben manche Forschende, die sich öffentlich äußern, Anfeindungen bis hin zu Drohungen.",
-      "Ich habe im vergangenen Semester einen Science-Slam an unserer Universität besucht, bei dem junge Forschende ihre Projekte in jeweils zehn Minuten vorstellten. Einige Beiträge waren witzig und gleichzeitig präzise, andere blieben oberflächlich. Ein Doktorand erzählte mir danach, er habe zwei Wochen an seinem Auftritt gearbeitet, aber auch selbst viel dabei gelernt, weil er sein Thema zum ersten Mal von außen betrachten musste. Diese Erfahrung hat mir gezeigt, dass Vermittlung gelingen kann, wenn man ihr ausreichend Zeit gibt.",
-      "Insgesamt halte ich eine Pflicht für jeden einzelnen Forschenden nicht für sinnvoll. Wohl aber sollten Hochschulen die Vermittlung als Teil der wissenschaftlichen Arbeit anerkennen, etwa durch Schulungen, durch eigene Stellen für Wissenschaftskommunikation und dadurch, dass solche Leistungen bei Bewerbungen zählen. So würde die Vermittlung nicht erzwungen, aber gezielt gefördert. Vermutlich würden dann gerade diejenigen öfter vor Publikum treten, die das gut können und gern tun."
-     ],
-     "hint": "Textsorte Erörterung für ein Seminar. Aufbau: Einleitung mit aktuellem Anlass und Leitfrage – Argumente für eine Pflicht mit Bezug auf Zitat 1 – Argumente dagegen mit Bezug auf Zitat 2 – eigene Erfahrung, die beide Seiten aufgreift – Fazit mit einem Gegenvorschlag. Sprachliche Mittel: überwiegend sachlicher, unpersönlicher Stil (Im Folgenden werden … abgewogen; ist … ernst zu nehmen), Ich-Form nur bei der eigenen Erfahrung und im Fazit, Passiv (finanziert wird), Nominalstil (Vermittlung, Belastung), Konjunktiv II (würde … erhöhen, würde … gefördert), Konnektoren der Abwägung (zunächst, hinzu kommt, andererseits, außerdem, insgesamt, wohl aber). Umfang: 376 Wörter."
-    }
-   },
-   {
-    "no": "2",
-    "paragraphs": [
-     "Eine Hochschulzeitschrift fragt, ob Hochschulen ihre Absolventinnen und Absolventen mit einer Feier verabschieden sollten.",
-     "Nehmen Sie persönlich Stellung: Legen Sie dar, was für und was gegen solche Feiern spricht, beziehen Sie die Zitate ein und begründen Sie Ihre Meinung."
-    ],
-    "quoteLead": "Die folgenden Zitate geben Ihnen erste Ideen:",
-    "quotes": [
-     "„Ein Studienabschluss ist ein Meilenstein im Leben und verdient einen festlichen Rahmen.“",
-     "„Das Geld für Talare und Bühnen wäre in besseren Lernräumen sinnvoller angelegt.“"
-    ],
-    "model": {
-     "title": "Ein Abschied mit Hut?",
-     "paragraphs": [
-      "Als ich meinen Bachelor abgeschlossen hatte, kam das Zeugnis mit der Post. Ich öffnete den Umschlag in meiner Küche, rief meine Eltern an, und das war alles. Ein paar Monate später sah ich die Fotos von der Abschlussfeier meiner Cousine in Seoul: Talar, Hut, stolze Familien und eine Rede der Präsidentin. Seitdem beschäftigt mich die Frage, ob auch deutsche Hochschulen ihre Absolventinnen und Absolventen feierlich verabschieden sollten.",
-      "Für solche Feiern spricht aus meiner Sicht vor allem, dass ein Studienabschluss tatsächlich ein Einschnitt im Leben ist. Das erste Zitat hat deshalb einen wahren Kern. Hinter einem Abschluss stecken Jahre voller Prüfungen, Nebenjobs und Zweifel, und viele Familien haben dafür große Opfer gebracht. Eine Feier würdigt diese Leistung und gibt auch den Eltern die Gelegenheit, stolz zu sein. Außerdem stärkt sie die Bindung an die Hochschule. Wer gern an seinen Abschied zurückdenkt, bleibt ihr eher als Ehemaliger verbunden. In vielen Ländern gehört die Feier fest zur Studienkultur, und internationale Studierende vermissen sie an deutschen Hochschulen.",
-      "Gleichzeitig verstehe ich alle, die wie im zweiten Zitat lieber in bessere Lernräume investieren würden. An meiner Hochschule fehlen Arbeitsplätze in der Bibliothek, und in manchen Seminarräumen funktioniert die Technik nur mit Glück. Eine aufwendige Zeremonie mit gemieteten Talaren und Bühnentechnik wirkt da wie eine falsche Prioritätensetzung. Für manche Feiern werden Teilnahmegebühren verlangt, die sich nicht alle leisten können. Hinzu kommt die Geschichte: Nach den Studentenprotesten der späten Sechzigerjahre sind Talare aus deutschen Hörsälen fast vollständig verschwunden, weil sie für veraltete Hierarchien standen.",
-      "Ich bin trotzdem für Abschlussfeiern, allerdings in einer bescheidenen Form. Die Fachbereiche könnten einmal im Semester eine Feier im eigenen Hörsaal veranstalten, mit kurzen Reden, Musik von Studierenden und einem Empfang, zu dem man die Familie mitbringen darf. Talare halte ich für überflüssig. Wer möchte, kann sich festlich kleiden, aber niemand sollte für die Teilnahme Geld ausgeben müssen. So stünde die Feier allen offen, und die Ausgaben würden überschaubar bleiben. Dennoch würde sie zeigen, dass die Hochschule ihre Absolventen nicht einfach vergisst.",
-      "Mein Zeugnis liegt heute in einer Mappe im Schrank. Ich bin stolz darauf, doch an den Tag, an dem ich es bekommen habe, erinnere ich mich kaum. Für meinen Masterabschluss wünsche ich mir etwas anderes: keinen Hut, aber einen Moment, in dem man gemeinsam feiert, was man geschafft hat."
-     ],
-     "hint": "Textsorte persönliche Stellungnahme für eine Hochschulzeitschrift. Aufbau: persönlicher Einstieg mit einem Erlebnis – Argumente dafür mit Bezug auf Zitat 1 – Einwände mit Bezug auf Zitat 2 und auf die Geschichte der Talare – eigene Position mit einem konkreten Vorschlag – Rückgriff auf den Einstieg im Schluss. Sprachliche Mittel: Ich-Perspektive und wertende Ausdrücke (aus meiner Sicht, Ich bin trotzdem für …, halte ich für überflüssig), Konjunktiv II für Vorschläge (könnten, stünde, würden … bleiben), Gegenüberstellung (gleichzeitig), Ergänzung (hinzu kommt), Rückgriff auf den Einstieg im Schlusssatz. Umfang: 377 Wörter."
-    }
-   }
-  ]
- },
- "muendlich": {
-  "teil1": [
-   {
-    "who": "A",
-    "themes": [
-     "Stellen Sie ein traditionelles Handwerk aus Ihrem Heimatland vor. Wie wird es ausgeübt, und hat es heute noch eine Zukunft?",
-     "Sollten Smartphones an Schulen verboten werden? Begründen Sie Ihre Meinung und gehen Sie auch auf Gegenargumente ein."
-    ]
-   },
-   {
-    "who": "B",
-    "themes": [
-     "Beschreiben Sie, wie man sich in Ihrem Heimatland um eine Arbeitsstelle bewirbt. Was ist dabei besonders wichtig?",
-     "Sollten Eltern ihre Kinder selbst zu Hause unterrichten dürfen? Begründen Sie Ihre Meinung."
-    ]
-   },
-   {
-    "who": "C",
-    "themes": [
-     "Stellen Sie eine Landschaft Ihres Heimatlandes vor, die Sie besonders beeindruckt. Was macht sie so besonders?",
-     "Sollten Geschäfte auch an Sonntagen öffnen dürfen? Begründen Sie Ihre Meinung."
-    ]
-   }
-  ],
-  "teil2": [
-   {
-    "no": "1",
-    "text": "„Sieh nach den Sternen! Gib acht auf die Gassen!“",
-    "author": "Wilhelm Raabe, 1831–1910, Schriftsteller"
-   },
-   {
-    "no": "2",
-    "text": "„Die Politik bedeutet ein starkes langsames Bohren von harten Brettern mit Leidenschaft und Augenmaß zugleich.“",
-    "author": "Max Weber, 1864–1920, Soziologe"
-   },
-   {
-    "no": "3",
-    "text": "„Nicht das Wissen, sondern das Lernen gewährt den größten Genuss.“",
-    "author": "nach Carl Friedrich Gauß, 1777–1855, Mathematiker"
-   }
-  ]
- },
- "notes": "Das Quell-PDF ist an drei Seitenumbrüchen abgeschnitten (Text fehlt im Textlayer und im Bild); an diesen Stellen wurde rekonstruiert. (1) LV 2, Abschnitt d: Die letzte Zeile von S. 4 bricht nach „zum Min“ ab, S. 5 beginnt mit „weit darf es bei uns nicht kommen.“; ergänzt wurde „Mindestlohn ausgleicht. Aus dem Dankeschön ist dort ein Teil des Gehalts geworden. So“ (die Sätze „Aus dem Dankeschön …“ und „So weit darf es bei uns nicht kommen.“ nach dem Kommentar S. 31, Aufgabe 10; „ausgleicht“ ist eine Vermutung; weitere im Kommentar zitierte Wörter wie „nimmt der Kellnerin ihren Lohn“ fehlen vermutlich ebenfalls). (2) LV 3, Ende S. 6: Die letzte Zeile bricht nach „erkennen sie diese wo“ ab; ergänzt „möglich nicht wieder.“ (Vermutung). Ob dahinter weiterer Text fehlt, ist unbekannt; Absatz 8 beginnt auf S. 7 mit „Doch auch Menschen …“. (3) LV 3, Aussagen: Aussage 14 steht am Seitenende von S. 7 nur als angeschnittene Zeile (Text vollständig, ohne Punkt, wie gedruckt); die Aussagen 15 und 16 fehlen im PDF ganz. Rekonstruiert nach dem Kommentar S. 31 (15 f: „Unterscheiden können wir Gesichter vor der Geburt aber noch nicht“; 16 –: Affen sehen Gesichter in Gegenständen): 15 „Ungeborene können Gesichter bereits voneinander unterscheiden.“, 16 „Auch Affen sehen in Gegenständen Gesichter.“ Diese Formulierungen sind nicht der Originaltext; die Antworten (15 f, 16 –) stammen aus S. 20. Im Lösungsschlüssel S. 20 ist Hören Teil 3 mit „mögliche Lösungen (sinngemäß)“ überschrieben. Sprecher-Bezeichnungen in Hören Teil 1 wie gedruckt (Sprecher 1, 2, 6, 7; Sprecherin 3, 4, 5, 8). Musterlösung Schreiben: Thema 1 auf S. 21 mit Hinweis auf S. 22, Thema 2 auf S. 22 mit Hinweis auf S. 23. Die Validierung warnt zusätzlich bei dem Hinweis zu Thema 2 (steht auf S. 23, außerhalb des von validate.py geprüften Bereichs S. 2–22); der Text wurde von Hand mit S. 23 abgeglichen und stimmt.",
- "index": {
-  "short": "Wie das Händewaschen Leben rettete · Trinkgeld auf Knopfdruck · Der Mann, der die Dinge festhielt",
+  "id": 7,
+  "roman": "VII",
   "lesen": {
-   "t1": "Wie das Händewaschen Leben rettete",
-   "t2": "Trinkgeld auf Knopfdruck",
-   "t3": "Gesichter erkennen – eine sehr ungleich verteilte Gabe",
-   "sb": "Der Mann, der die Dinge festhielt"
+    "t1": {
+      "instruction": "Lesen Sie den folgenden Text. Welche der Sätze a–h gehören in die Lücken 1–6? Es gibt jeweils nur eine richtige Lösung. Zwei Sätze können nicht zugeordnet werden. Markieren Sie Ihre Lösungen für die Aufgaben 1–6 auf dem Antwortbogen. Lücke (0) ist ein Beispiel.",
+      "intro": "Im Wissenschaftsteil einer Zeitung lesen Sie den folgenden Artikel:",
+      "title": "Wie das Händewaschen Leben rettete",
+      "paragraphs": [
+        "Mitte des 19. Jahrhunderts war eine Geburt für viele Frauen lebensgefährlich, denn in Europas großen Kliniken starben zahlreiche Mütter kurz nach der Entbindung am sogenannten Kindbettfieber. {{0}} Dass diese Krankheit eine vermeidbare Ursache hatte, wies in Wien ein junger ungarischer Mediziner nach.",
+        "Ignaz Semmelweis wurde 1846 Assistent an der Wiener Geburtsklinik, die in zwei Abteilungen gegliedert war: In der einen wurden Medizinstudenten ausgebildet, in der anderen Hebammen. Bei den Ärzten war die Sterblichkeit weitaus höher: 1846 starben 11,4 Prozent der Mütter, bei den Hebammen lediglich 2,8 Prozent. {{1}} Manche entbanden sogar lieber auf der Straße und erkrankten anschließend auffallend selten.",
+        "Semmelweis überprüfte systematisch eine Erklärung nach der anderen: Am Wetter konnte es nicht liegen, da sich beide Abteilungen unmittelbar nebeneinander befanden, und auch eine Überbelegung schied aus, weil bei den Hebammen noch mehr Frauen untergebracht waren. {{2}} Doch auch das senkte die Zahl der Todesfälle nicht.",
+        "Die entscheidende Spur lieferte im Frühjahr 1847 ein Unglück: Sein Kollege Jakob Kolletschka wurde bei einer Leichenöffnung vom Messer eines Studenten verletzt und starb wenige Tage später. {{3}} Semmelweis schloss daraus, dass winzige „Leichenteilchen“ die Krankheit übertrugen, denn Ärzte und Studenten kamen häufig mit ungewaschenen Händen aus dem Sektionssaal zu den Schwangeren, wohingegen die Hebammen mit Verstorbenen nichts zu tun hatten.",
+        "Mitte Mai 1847 ordnete Semmelweis deshalb an, dass sich ausnahmslos alle vor jeder Untersuchung die Hände in einer Chlorlösung desinfizieren mussten. {{4}} Der Erfolg war verblüffend: Während im April in der ärztlichen Abteilung noch 18,3 Prozent der Mütter gestorben waren, betrug die Sterblichkeit im Juli nur noch 1,2 Prozent.",
+        "Trotzdem stieß Semmelweis bei vielen Kollegen auf Ablehnung: Sie empfanden die Vorstellung, gerade Ärzte könnten ihre Patientinnen anstecken, als Beleidigung, und worum es sich bei diesen „Leichenteilchen“ handeln sollte, konnte er nicht erklären. {{5}} Als sein Anstellungsvertrag 1849 auslief, wurde dieser nicht verlängert, und im Herbst 1850 verließ er Wien.",
+        "In Pest, dem heutigen Budapest, senkte er an seiner neuen Klinik ebenfalls die Sterblichkeit, und 1861 erschien endlich sein Buch, doch Anerkennung blieb ihm auch dort weitgehend versagt. 1865 wurde er in eine Wiener Nervenheilanstalt eingewiesen, wo er zwei Wochen später an einer Blutvergiftung verstarb. {{6}} Wissenschaftlich erklärt wurden seine Beobachtungen erst durch Louis Pasteurs Lehre von den Krankheitserregern; heute gilt Semmelweis als Wegbereiter der Krankenhaushygiene, und in Ungarn nennt man ihn den „Retter der Mütter“."
+      ],
+      "sentences": [
+        {
+          "letter": "a",
+          "text": "Bei der Obduktion des Kollegen zeigten sich dieselben krankhaften Veränderungen wie bei den verstorbenen Müttern."
+        },
+        {
+          "letter": "b",
+          "text": "Damit erlag er ausgerechnet einer Infektion, wie er sie sein Leben lang bekämpft hatte."
+        },
+        {
+          "letter": "c",
+          "text": "Unter den Schwangeren hatte sich das längst herumgesprochen, weshalb viele die Abteilung der Ärzte fürchteten."
+        },
+        {
+          "letter": "d",
+          "text": "Hinzu kam, dass er selbst jahrelang nichts über seine Entdeckung veröffentlichte."
+        },
+        {
+          "letter": "e",
+          "text": "Frauen, die unterwegs entbunden hatten, wurden anschließend dennoch in der Geburtsklinik aufgenommen und dort versorgt."
+        },
+        {
+          "letter": "f",
+          "text": "Das Chlor wählte er, weil es den typischen Leichengeruch am gründlichsten von den Händen entfernte."
+        },
+        {
+          "letter": "g",
+          "text": "Seine Wiener Kollegen übernahmen die Händedesinfektion deshalb bereitwillig und ohne Widerspruch."
+        },
+        {
+          "letter": "h",
+          "text": "Versuchsweise ließ er die Frauen sogar in Seitenlage entbinden."
+        }
+      ],
+      "example": {
+        "letter": "z",
+        "text": "Verantwortlich machten die meisten Ärzte dafür schlechte Luft, Witterungseinflüsse oder die Angst der Gebärenden."
+      },
+      "items": [
+        {
+          "no": "1",
+          "answer": "c"
+        },
+        {
+          "no": "2",
+          "answer": "h"
+        },
+        {
+          "no": "3",
+          "answer": "a"
+        },
+        {
+          "no": "4",
+          "answer": "f"
+        },
+        {
+          "no": "5",
+          "answer": "d"
+        },
+        {
+          "no": "6",
+          "answer": "b"
+        }
+      ]
+    },
+    "t2": {
+      "instruction": "Lesen Sie den folgenden Text. In welchem Textabsatz a–e finden Sie die Antworten auf die Fragen 7–12? Es gibt jeweils nur eine richtige Lösung. Jeder Absatz kann Antworten auf mehrere Fragen enthalten. Markieren Sie Ihre Lösungen für die Aufgaben 7–12 auf dem Antwortbogen.",
+      "title": "Trinkgeld auf Knopfdruck",
+      "sections": [
+        {
+          "letter": "a",
+          "text": "Kürzlich wollte ich mir in einer Hamburger Bäckerei einen Kaffee zum Mitnehmen kaufen, der 3,40 Euro kostete und dessen Pappbecher ich mir selbst vom Tresen nehmen musste. Als ich meine Bankkarte an das Lesegerät hielt, erschien auf dem Bildschirm unvermittelt die Frage, ob ich zehn, fünfzehn oder zwanzig Prozent Trinkgeld hinzufügen wolle. Die Schaltfläche „Kein Trinkgeld“ war klein und unscheinbar grau, hinter mir warteten zahlreiche weitere Kunden, und die Verkäuferin blickte mich freundlich an. Ich entschied mich für fünfzehn Prozent und ärgerte mich noch auf dem Weg zum Bahnhof. Mein Ärger galt allerdings nicht den 51 Cent, sondern der Tatsache, dass ich mich zu etwas hatte drängen lassen, das eigentlich ein freiwilliges Dankeschön sein sollte. Seither beschäftigt mich, wofür wir überhaupt Trinkgeld geben und ob die neuen digitalen Kassensysteme diesen sympathischen Brauch nicht allmählich verderben."
+        },
+        {
+          "letter": "b",
+          "text": "Damit kein falscher Eindruck entsteht: Ich gebe bereitwillig Trinkgeld, in der Gastronomie meist sogar großzügig, und halte diese Sitte grundsätzlich für sinnvoll. In Restaurants, Taxis und Friseursalons verdient man häufig kaum mehr als den gesetzlichen Mindestlohn, und für viele Beschäftigte ist das Trinkgeld ein fester Bestandteil ihres Einkommens. Selbst der Gesetzgeber erkennt das an: Solange ein Gast es freiwillig gibt, ist es für Angestellte steuerfrei. Eine Kellnerin aus meiner Nachbarschaft berichtete mir einmal, ohne das Trinkgeld könne sie ihre Miete kaum aufbringen. Schon der Begriff selbst verrät den ursprünglichen Zweck: Man gab dem Kutscher oder dem Hausdiener ein paar Münzen, damit er sich ein Getränk kaufen konnte. Im Französischen heißt das Trinkgeld bis heute „pourboire“, wörtlich „zum Trinken“. Wer aufmerksam bedient wurde, signalisiert mit einem Trinkgeld, dass er die Bemühungen des Personals bemerkt hat, und dagegen ist nichts einzuwenden."
+        },
+        {
+          "letter": "c",
+          "text": "Gerecht ist dieses System jedoch keineswegs, denn amerikanische Untersuchungen belegen, dass die Höhe des Trinkgelds nur wenig mit der Qualität der Bedienung zu tun hat. Weitaus stärker hängt sie von der Stimmung der Gäste, von der Witterung, vom Rechnungsbetrag oder vom äußeren Erscheinungsbild des Personals ab. In Experimenten genügte bereits eine Blume im Haar einer Kellnerin, um die Kundschaft spürbar großzügiger zu stimmen. Junge und sympathisch wirkende Beschäftigte erhalten höhere Beträge, unabhängig davon, ob das Essen zügig serviert wurde – mit Leistungsgerechtigkeit hat das wenig zu tun. Während die Bedienung die Trinkgelder entgegennimmt, gehen zudem die Köchin und der Spüler, ohne die kein Teller den Tisch erreichen würde, oft leer aus. Zahlreiche Betriebe verteilen das Trinkgeld deshalb auf sämtliche Mitarbeiter, die an diesem Tag gearbeitet haben, was ich ausdrücklich begrüße. Vorgeschrieben ist eine solche Aufteilung allerdings nicht, und wo sie fehlt, bleibt die Küche außen vor."
+        },
+        {
+          "letter": "d",
+          "text": "Die digitalen Bezahlterminals verschärfen dieses Problem erheblich, denn während man früher im Café um ein paar Cent aufrundete, schlagen sie heute Prozentsätze vor, wie man sie aus den USA kennt. Das geschieht zunehmend auch dort, wo überhaupt niemand bedient, etwa an Verkaufstheken, an Kiosken oder sogar bei Onlinebestellungen. Viele Amerikaner beklagen bereits eine regelrechte Trinkgeldinflation, weil inzwischen auch Selbstbedienungskassen um einen Aufschlag bitten. Wer auf „Kein Trinkgeld“ tippt, tut das zudem unter den Augen der Person, die er gerade nicht belohnt. Wohin das führen kann, zeigt ein Blick über den Atlantik: In vielen Bundesstaaten dürfen Restaurants ihren Bedienungen einen Stundenlohn von lediglich 2,13 Dollar zahlen, sofern das Trinkgeld die Differenz zum Mindestlohn ausgleicht. Aus dem Dankeschön ist dort ein Teil des Gehalts geworden, und wer nichts gibt, nimmt der Kellnerin ihren Lohn. So weit darf es bei uns nicht kommen."
+        },
+        {
+          "letter": "e",
+          "text": "Gefordert sind deshalb vor allem Gastronomie und Einzelhandel, denn wer bedient, kassiert oder ausliefert, muss von seinem Lohn angemessen leben können, auch wenn die Preise dadurch geringfügig steigen. In Japan etwa ist das selbstverständlich, und ein Trinkgeld kann dort sogar als unhöflich gelten, ohne dass man deswegen schlechter bedient wird. Mir wären ehrliche Preise lieber, in denen der Service bereits steckt; schließlich ist gute Bedienung kein Luxus, sondern gehört zu dem, wofür man bezahlt. Abschaffen möchte ich das Trinkgeld trotzdem nicht; es sollte aber wieder werden, was es einmal war: eine freiwillige Anerkennung für eine tatsächlich erhaltene Leistung und keine Gebühr, die ein Bildschirm einfordert. Meinen Kaffee bezahle ich seitdem wieder mit Bargeld, und was ich geben möchte, lege ich in die Trinkgelddose auf dem Tresen – ganz ohne Publikum."
+        }
+      ],
+      "exampleLead": "In welchem Abschnitt …",
+      "example": {
+        "stem": "erwähnt der Autor, wie viel sein Kaffee gekostet hat?",
+        "answer": "a"
+      },
+      "itemsLead": "In welchem Abschnitt …",
+      "items": [
+        {
+          "no": "7",
+          "stem": "bezweifelt der Autor, dass Trinkgeld vor allem gute Bedienung belohnt?",
+          "answer": "c"
+        },
+        {
+          "no": "8",
+          "stem": "schlägt der Autor vor, die Kosten für die Bedienung in die Preise einzurechnen?",
+          "answer": "e"
+        },
+        {
+          "no": "9",
+          "stem": "räumt der Autor ein, dass viele Arbeitnehmer hierzulande auf Trinkgeld angewiesen sind?",
+          "answer": "b"
+        },
+        {
+          "no": "10",
+          "stem": "warnt der Autor davor, dass Trinkgeld an die Stelle des Lohns treten könnte?",
+          "answer": "d"
+        },
+        {
+          "no": "11",
+          "stem": "gibt der Autor zu, unter Druck nachgegeben zu haben?",
+          "answer": "a"
+        },
+        {
+          "no": "12",
+          "stem": "kritisiert der Autor, dass nicht alle Mitarbeiter etwas vom Trinkgeld erhalten?",
+          "answer": "c"
+        }
+      ]
+    },
+    "t3": {
+      "instruction": "Lesen Sie den folgenden Text und die Aussagen 13–23. Welche der Aussagen sind richtig (r), falsch (f) oder gar nicht im Text enthalten (–)? Es gibt jeweils nur eine richtige Lösung. Markieren Sie Ihre Lösungen für die Aufgaben 13–23 auf dem Antwortbogen.",
+      "title": "",
+      "paragraphs": [
+        "Im Großraumbüro einer Polizeidirektion sitzt eine Beamtin vor zwei Bildschirmen, während um sie herum Tastaturen klappern und irgendwo ein Telefon klingelt. Auf dem einen Monitor läuft eine unscharfe Videoaufzeichnung aus einer U-Bahn-Station, auf dem anderen sind Fotos gesuchter Personen zu sehen. Nach wenigen Sekunden hält sie das Video an und zeigt auf einen Mann mit Kapuze, der sich gerade an einer Frau vorbeischiebt. „Den kenne ich“, sagt sie ruhig. Gesehen hat sie ihn vor einem halben Jahr auf einem einzigen Bild, das eine Überwachungskamera bei einem Taschendiebstahl am Hauptbahnhof aufgenommen hatte.",
+        "Die Beamtin gehört zu den sogenannten Super-Recognizern. Diesen Begriff prägten amerikanische Psychologen 2009 für Menschen, die sich Gesichter außergewöhnlich gut merken können, selbst wenn sie diese nur kurz und unter schlechten Bedingungen gesehen haben. Schätzungen zufolge besitzen ein bis zwei Prozent der Bevölkerung diese Fähigkeit. Die Londoner Polizei setzt solche Spezialisten schon seit Jahren ein; bekannt wurde die Methode nach den Ausschreitungen in London im Sommer 2011, als einzelne Beamte auf Videoaufnahmen zahlreiche Verdächtige identifizierten. In München arbeitet seit 2018 eine eigene Einheit, deren Mitglieder anhand von Tests ausgewählt wurden, bei denen sie unter vielen ähnlichen Fotos dasselbe Gesicht wiederfinden mussten.",
+        "„Gesichter sind für unser Gehirn etwas ganz Besonderes“, sagt der Kognitionspsychologe Daniel Hofer, der an einer Universität erforscht, wie Menschen einander erkennen. In den Neunzigerjahren entdeckten Forscher an der Unterseite des Schläfenlappens ein Areal, das auf Gesichter weit stärker reagiert als auf Häuser, Autos oder Werkzeuge. Wird diese Hirnregion geschädigt, etwa durch einen Schlaganfall, erkennen Betroffene mitunter nicht einmal ihre engsten Angehörigen am Gesicht. Anders als bei Gegenständen achte das Gehirn bei Gesichtern weniger auf einzelne Merkmale wie Nase oder Augen als auf deren Zusammenspiel. Deshalb fällt es uns erstaunlich schwer, selbst ein vertrautes Gesicht zu erkennen, wenn das Foto auf dem Kopf steht.",
+        "Diese Vorliebe für Gesichter zeigt sich außerordentlich früh. Bereits Neugeborene folgen einem einfachen Muster aus drei Punkten, das an zwei Augen und einen Mund erinnert, länger mit dem Blick als demselben Muster in umgekehrter Anordnung. Britische Forscher projizierten 2017 sogar Lichtpunkte durch die Bauchdecke schwangerer Frauen und beobachteten mit Ultraschall, dass die Ungeborenen den Kopf häufiger dem gesichtsähnlichen Muster zuwandten. „Unterscheiden können wir Gesichter vor der Geburt aber noch nicht“, betont Hofer, „offenbar sind wir jedoch von Anfang an darauf vorbereitet, ihnen besondere Aufmerksamkeit zu schenken.“",
+        "Dieselbe Bereitschaft führt dazu, dass wir Gesichter auch dort wahrnehmen, wo keine sind, etwa in Steckdosen, in der Frontpartie eines Autos oder in einer Wolke – ein Phänomen, das Fachleute als Pareidolie bezeichnen. „Ein Gesicht zu übersehen konnte für unsere Vorfahren gefährlich sein, eines zu viel zu sehen dagegen kaum“, erklärt Hofer, der diese Neigung für den Nebeneffekt eines überaus nützlichen Systems hält. Lieber erschrickt das Gehirn also einmal zu oft vor einem Schatten, als einen Menschen im Gebüsch nicht zu bemerken.",
+        "Für manche Menschen ist schon das Erkennen vertrauter Gesichter eine tägliche Herausforderung, weil sie an Prosopagnosie leiden, der sogenannten Gesichtsblindheit. Eine Untersuchung aus Münster gelangte vor rund zwanzig Jahren zu dem Ergebnis, dass etwa zweieinhalb Prozent der Bevölkerung von Geburt an betroffen sind.",
+        "Viele Betroffene ahnen lange nichts von ihrer Beeinträchtigung und halten sich einfach für unaufmerksam oder vergesslich. Sie orientieren sich an der Stimme, am Gang oder an der Frisur ihrer Mitmenschen – lässt sich eine gute Freundin die Haare kurz schneiden, erkennen sie diese womöglich tagelang nicht.",
+        "Doch auch Menschen ohne diese Störung erkennen Gesichter schlechter, als sie glauben, zumindest wenn es sich um Fremde handelt. In einer australischen Studie sollten Beschäftigte einer Passbehörde entscheiden, ob das Foto auf einem Ausweis tatsächlich die Person vor ihnen zeigte. Rund jedes siebte falsche Foto hielten sie irrtümlich für echt. Langjährige Mitarbeiter schnitten dabei nicht besser ab als Neulinge. „Vertraute Gesichter erkennen wir selbst auf schlechten Fotos sofort“, so Hofer, „bei Fremden vergleichen wir dagegen lediglich Bilder miteinander.“",
+        "Wie gut jemand Gesichter erkennt, ist zu einem großen Teil genetisch bedingt. Zwillingsstudien belegen, dass die Ergebnisse eineiiger Zwillinge in Gesichtertests einander weit stärker ähneln als die zweieiiger. Gezieltes Training bringt hingegen erstaunlich wenig. Man könne zwar lernen, genauer hinzusehen, etwa auf die Form der Ohren, erläutert Hofer; aus einem durchschnittlichen Menschen werde dadurch aber kein Super-Recognizer. Die Polizei setzt deshalb nicht auf Schulungen, sondern sucht ihre Spezialisten mithilfe von Tests unter den eigenen Beschäftigten.",
+        "Auch das Alter spielt eine Rolle, allerdings anders, als man vermuten könnte. Während bei vielen Gedächtnisaufgaben der Höhepunkt bereits in den frühen Zwanzigern liegt, wird das Lernen neuer Gesichter einer Online-Studie mit Zehntausenden Teilnehmenden zufolge bis Anfang dreißig immer besser und lässt erst danach allmählich nach. Worauf diese Entwicklung zurückzuführen ist, weiß man bislang nicht, doch vertraute Gesichter erkennen auch ältere Menschen meist noch sehr zuverlässig.",
+        "Die Fähigkeit, Gesichter zu unterscheiden, ist nicht auf den Menschen beschränkt: Schafe etwa können sich die Gesichter von rund fünfzig Artgenossen über zwei Jahre hinweg merken. In einem Versuch an der Universität Cambridge erkannten Schafe sogar Prominente wieder, die sie zuvor nur auf Fotos gesehen hatten. Das gelang ihnen auch dann, wenn ein neues Bild die Person aus einem anderen Blickwinkel zeigte. Derartige Experimente helfen der Forschung zudem, Erkrankungen des Gehirns zu untersuchen, die beim Menschen ähnlich verlaufen.",
+        "Ersetzt werden die menschlichen Spezialisten so bald wohl nicht, obwohl Computerprogramme in den vergangenen Jahren enorm aufgeholt haben: In einer amerikanischen Vergleichsstudie lagen die leistungsfähigsten Programme etwa gleichauf mit geschulten Gesichtsexperten der Behörden. Am zuverlässigsten war das Ergebnis jedoch, wenn man das Urteil eines Menschen mit dem einer Maschine kombinierte. Auch Super-Recognizer schnitten in dieser Studie gut ab, obwohl sie keinerlei Ausbildung erhalten hatten. Hinzu kommt, dass der Einsatz solcher Software im öffentlichen Raum rechtlich umstritten ist.",
+        "Für den Alltag hat Hofer einen einfachen Rat: Wer jemanden nicht erkennt, sollte das offen zugeben, statt so zu tun, als ob. „Die meisten reagieren verständnisvoll, wenn man fragt, woher man sich kennt“, sagt er. Umgekehrt helfe es, sich zur Begrüßung mit Namen vorzustellen, wenn man selbst nicht sofort erkannt wird. Gerade an der Universität, wo man in jeder Lehrveranstaltung neuen Menschen begegnet, erspare das beiden Seiten viel Verlegenheit. Namensschilder bei Einführungsveranstaltungen seien deshalb keine Spielerei, sondern eine echte Hilfe.",
+        "Im Großraumbüro hat die Beamtin ihren Fund inzwischen an die Kollegen weitergegeben, und ein Abgleich mit älteren Aufnahmen bestätigt ihren Verdacht. Erklären kann sie ihre außergewöhnliche Begabung selbst nicht: „Ich sehe ein Gesicht, und es ist einfach da.“",
+        "Im Privatleben sei diese Fähigkeit allerdings nicht immer angenehm. Im Supermarkt erkenne sie regelmäßig Menschen, die sie vor Jahren einmal flüchtig in der Bahn gesehen habe – und die sich natürlich nicht an sie erinnern. Ihre Kollegen nennen sie halb im Scherz ihr „Gedächtnis auf zwei Beinen“."
+      ],
+      "itemsLead": "Aussagen 13–23",
+      "items": [
+        {
+          "no": "13",
+          "text": "Super-Recognizer behalten auch flüchtig gesehene Gesichter; diese Gabe hat etwa jeder Zehnte.",
+          "answer": "f"
+        },
+        {
+          "no": "14",
+          "text": "Ein um 180 Grad gedrehtes Foto erschwert es, bekannte Personen zu erkennen.",
+          "answer": "r"
+        },
+        {
+          "no": "15",
+          "text": "Schon vor der Geburt können Kinder die Gesichter ihrer Eltern auseinanderhalten.",
+          "answer": "f"
+        },
+        {
+          "no": "16",
+          "text": "Affen sehen in Gegenständen genauso Gesichter wie Menschen.",
+          "answer": "n"
+        },
+        {
+          "no": "17",
+          "text": "Gesichtsblinde erkennen Bekannte oft an anderen Merkmalen als dem Gesicht.",
+          "answer": "r"
+        },
+        {
+          "no": "18",
+          "text": "Mehr Berufserfahrung machte die Mitarbeiter nicht treffsicherer.",
+          "answer": "r"
+        },
+        {
+          "no": "19",
+          "text": "Durch Übung lässt sich die Fähigkeit nur wenig verbessern.",
+          "answer": "r"
+        },
+        {
+          "no": "20",
+          "text": "Neue Gesichter prägt man sich mit Anfang zwanzig am besten ein.",
+          "answer": "f"
+        },
+        {
+          "no": "21",
+          "text": "Hunde erkennen ihre Besitzer selbst auf Fotos am Gesicht.",
+          "answer": "n"
+        },
+        {
+          "no": "22",
+          "text": "Hofer selbst fällt es schwer, sich die Gesichter seiner Studierenden zu merken.",
+          "answer": "n"
+        },
+        {
+          "no": "23",
+          "text": "Die Beamtin kann recht gut beschreiben, woran sie Gesichter wiedererkennt.",
+          "answer": "f"
+        }
+      ],
+      "headline": {
+        "instruction": "Welche der Überschriften a, b oder c trifft die Aussage des Textes am besten? Markieren Sie Ihre Lösung für die Aufgabe 24 auf dem Antwortbogen.",
+        "no": "24",
+        "options": {
+          "a": "Warum Computer Gesichter besser erkennen als Menschen",
+          "b": "Leben mit Gesichtsblindheit: wenn Vertraute fremd wirken",
+          "c": "Gesichter erkennen – eine sehr ungleich verteilte Gabe"
+        },
+        "answer": "c"
+      }
+    },
+    "sb": {
+      "instruction": "Lesen Sie den folgenden Text. Welche Lösung (a, b, c oder d) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 25–46 auf dem Antwortbogen. Lücke (0) ist ein Beispiel.",
+      "title": "Der Mann, der die Dinge festhielt",
+      "paragraphs": [
+        "Artur Fischer wurde am 31. Dezember 1919 in Tumlingen im Schwarzwald geboren. Seine Mutter erkannte frühzeitig, {{0}} geschickt der Junge mit Werkzeugen umging, und richtete ihm eine kleine Werkbank ein; nach der Volksschule absolvierte er eine Schlosserlehre.",
+        "Nach Kriegsende kehrte er in seinen Geburtsort zurück und {{25}} dort 1948 ein eigenes Unternehmen, in dem er zunächst aus Restbeständen von Militärmaterial Feuerzeuge und Schalter für Webstühle herstellte. 1949 gelang ihm eine Erfindung, {{26}} Fotoaufnahmen in Innenräumen wesentlich erleichterte: ein Blitzlicht, das genau beim Öffnen des Kameraverschlusses {{27}} wurde. Auf diesen Einfall war er gekommen, weil er seine kleine Tochter in der Wohnung nicht fotografieren {{28}}.",
+        "Berühmt wurde Fischer {{29}} durch ein Produkt, das heute in nahezu jedem Werkzeugkasten liegt. Während man Schrauben bis dahin üblicherweise mit Holzpflöcken oder Gips in der Wand verankerte, entwickelte er 1958 einen grauen Kunststoffdübel, der sich beim Eindrehen der Schraube {{30}} und dadurch fest im Bohrloch sitzt. Kleine Sperrzungen verhindern, {{31}} er sich dabei mitdreht. Der Spreizdübel war so {{32}}, dass das Unternehmen ihn schon bald in zahlreiche Länder exportierte.",
+        "Im {{33}} seines Lebens brachte es Fischer auf über 1100 Patente – mehr {{34}} Thomas Edison in den Vereinigten Staaten. Zu seinen Erfindungen zählen Spezialdübel zur Behandlung von Knochenbrüchen {{35}} ein Küchengerät, mit dem sich gekochte Eier jeder Größe mühelos köpfen lassen. Angeregt {{36}} er dazu von einem Hotelbesitzer, der sich darüber beklagt hatte, dass seine Gäste beim Frühstück ständig Eierschalen verstreuten.",
+        "Auch Kinder {{37}} ihm einiges, denn Mitte der Sechzigerjahre brachte er einen Baukasten auf den Markt, dessen Bauteile sich auf vielfältige Weise {{38}} lassen. Mit diesem Konstruktionssystem lernen bis heute zahlreiche Schülerinnen und Schüler, wie Technik {{39}}.",
+        "Fischer arbeitete bis ins hohe Alter an neuen Entwicklungen und {{40}} noch mit 94 Jahren den Europäischen Erfinderpreis für sein Lebenswerk. Das Unternehmen, das seinen Namen trägt, {{41}} heute weltweit Tausende Mitarbeiter. {{42}} seines Ruhms blieb Fischer seinem Heimatort treu: Er verstarb im Januar 2016 im Alter {{43}} 96 Jahren in Tumlingen. Wer schon einmal ein Bücherregal an der Wand befestigen musste, {{44}} Fischers Erfindung vermutlich bereits in der Hand gehalten – auch wenn er den Namen des {{45}} gar nicht {{46}}."
+      ],
+      "example": {
+        "options": {
+          "a": "als",
+          "b": "so",
+          "c": "solange",
+          "d": "wie"
+        },
+        "answer": "d"
+      },
+      "items": [
+        {
+          "no": "25",
+          "options": {
+            "a": "ergründete",
+            "b": "gründelte",
+            "c": "gründete",
+            "d": "grundierte"
+          },
+          "answer": "c"
+        },
+        {
+          "no": "26",
+          "options": {
+            "a": "das",
+            "b": "der",
+            "c": "deren",
+            "d": "die"
+          },
+          "answer": "d"
+        },
+        {
+          "no": "27",
+          "options": {
+            "a": "ausgelöst",
+            "b": "ausgelöste",
+            "c": "auslösen",
+            "d": "auslöste"
+          },
+          "answer": "a"
+        },
+        {
+          "no": "28",
+          "options": {
+            "a": "gekonnt",
+            "b": "kann",
+            "c": "kannte",
+            "d": "konnte"
+          },
+          "answer": "d"
+        },
+        {
+          "no": "29",
+          "options": {
+            "a": "jedoch",
+            "b": "sondern",
+            "c": "sowohl",
+            "d": "weder"
+          },
+          "answer": "a"
+        },
+        {
+          "no": "30",
+          "options": {
+            "a": "spart",
+            "b": "speist",
+            "c": "spreizt",
+            "d": "sprudelt"
+          },
+          "answer": "c"
+        },
+        {
+          "no": "31",
+          "options": {
+            "a": "damit",
+            "b": "dass",
+            "c": "ob",
+            "d": "wenn"
+          },
+          "answer": "b"
+        },
+        {
+          "no": "32",
+          "options": {
+            "a": "erfolgreich",
+            "b": "Erfolgreich",
+            "c": "erfolgreig",
+            "d": "erfolkreich"
+          },
+          "answer": "a"
+        },
+        {
+          "no": "33",
+          "options": {
+            "a": "Laufe",
+            "b": "Läufe",
+            "c": "Laufen",
+            "d": "Läufen"
+          },
+          "answer": "a"
+        },
+        {
+          "no": "34",
+          "options": {
+            "a": "als",
+            "b": "dass",
+            "c": "ob",
+            "d": "wie"
+          },
+          "answer": "a"
+        },
+        {
+          "no": "35",
+          "options": {
+            "a": "sobald",
+            "b": "sodass",
+            "c": "sondern",
+            "d": "sowie"
+          },
+          "answer": "d"
+        },
+        {
+          "no": "36",
+          "options": {
+            "a": "geworden",
+            "b": "wird",
+            "c": "wurde",
+            "d": "würde"
+          },
+          "answer": "c"
+        },
+        {
+          "no": "37",
+          "options": {
+            "a": "verdächtigen",
+            "b": "verdanken",
+            "c": "verdauen",
+            "d": "verdienen"
+          },
+          "answer": "b"
+        },
+        {
+          "no": "38",
+          "options": {
+            "a": "zusammen stecken",
+            "b": "zusammenstecken",
+            "c": "Zusammenstecken",
+            "d": "zusammenstekken"
+          },
+          "answer": "b"
+        },
+        {
+          "no": "39",
+          "options": {
+            "a": "Funktion",
+            "b": "funktional",
+            "c": "funktionieren",
+            "d": "funktioniert"
+          },
+          "answer": "d"
+        },
+        {
+          "no": "40",
+          "options": {
+            "a": "behielt",
+            "b": "enthielt",
+            "c": "erhielt",
+            "d": "verhielt"
+          },
+          "answer": "c"
+        },
+        {
+          "no": "41",
+          "options": {
+            "a": "beschädigt",
+            "b": "beschäftigt",
+            "c": "beschwichtigt",
+            "d": "bestätigt"
+          },
+          "answer": "b"
+        },
+        {
+          "no": "42",
+          "options": {
+            "a": "Obgleich",
+            "b": "Obwohl",
+            "c": "Trotz",
+            "d": "Trotzdem"
+          },
+          "answer": "c"
+        },
+        {
+          "no": "43",
+          "options": {
+            "a": "an",
+            "b": "nach",
+            "c": "von",
+            "d": "zu"
+          },
+          "answer": "c"
+        },
+        {
+          "no": "44",
+          "options": {
+            "a": "habe",
+            "b": "hat",
+            "c": "hätte",
+            "d": "ist"
+          },
+          "answer": "b"
+        },
+        {
+          "no": "45",
+          "options": {
+            "a": "Erfinder",
+            "b": "Erfinderin",
+            "c": "Erfindern",
+            "d": "Erfinders"
+          },
+          "answer": "d"
+        },
+        {
+          "no": "46",
+          "options": {
+            "a": "kenne",
+            "b": "kennt",
+            "c": "kennte",
+            "d": "könnt"
+          },
+          "answer": "b"
+        }
+      ]
+    }
   },
   "hoeren": {
-   "t1": "Das akademische Viertel – noch zeitgemäß?",
-   "t2": "Vulkane",
-   "t3": "Mikroplastik – unsichtbar und überall?"
+    "t1": {
+      "instruction": "Sie hören die Meinungen von acht Personen. Sie hören die Meinungen nur einmal. Entscheiden Sie beim Hören, welche Aussage (a–j) zu welcher Person (Sprecher/in 1–8) passt. Zwei Aussagen passen nicht. Markieren Sie Ihre Lösungen für die Aufgaben 47–54 auf dem Antwortbogen.",
+      "readNote": "Lesen Sie jetzt die Aussagen a–j. Sie haben dazu eine Minute Zeit.",
+      "title": "Das akademische Viertel – noch zeitgemäß?",
+      "statements": [
+        {
+          "letter": "a",
+          "text": "Ohne die Viertelstunde wäre der Lehrbetrieb kaum zu organisieren."
+        },
+        {
+          "letter": "b",
+          "text": "In der Arbeitswelt wird einem später nicht so viel Spielraum zugestanden."
+        },
+        {
+          "letter": "c",
+          "text": "Inzwischen weiß ich die Viertelstunde zu schätzen."
+        },
+        {
+          "letter": "d",
+          "text": "In Schweden gibt es die Regel an keiner Hochschule mehr."
+        },
+        {
+          "letter": "e",
+          "text": "Mir ist gleich, welche Regel gilt – Hauptsache, sie gilt überall."
+        },
+        {
+          "letter": "f",
+          "text": "Internationale Studierende werden schon vor Semesterbeginn über die Regel informiert."
+        },
+        {
+          "letter": "g",
+          "text": "Mich stört nicht die Viertelstunde, sondern wer noch später kommt."
+        },
+        {
+          "letter": "h",
+          "text": "Die Viertelstunde wäre ideal, um etwas für den Körper zu tun."
+        },
+        {
+          "letter": "i",
+          "text": "Dass eine Regel alt ist, macht sie noch nicht sinnvoll."
+        },
+        {
+          "letter": "j",
+          "text": "Eine Abschaffung hätte unter den Studierenden kaum Rückhalt."
+        }
+      ],
+      "items": [
+        {
+          "no": "47",
+          "label": "Sprecher 1",
+          "answer": "c"
+        },
+        {
+          "no": "48",
+          "label": "Sprecher 2",
+          "answer": "i"
+        },
+        {
+          "no": "49",
+          "label": "Sprecherin 3",
+          "answer": "a"
+        },
+        {
+          "no": "50",
+          "label": "Sprecherin 4",
+          "answer": "g"
+        },
+        {
+          "no": "51",
+          "label": "Sprecherin 5",
+          "answer": "e"
+        },
+        {
+          "no": "52",
+          "label": "Sprecher 6",
+          "answer": "j"
+        },
+        {
+          "no": "53",
+          "label": "Sprecher 7",
+          "answer": "b"
+        },
+        {
+          "no": "54",
+          "label": "Sprecherin 8",
+          "answer": "h"
+        }
+      ]
+    },
+    "t2": {
+      "instruction": "Sie hören eine Radiosendung. Sie hören die Sendung nur einmal. Entscheiden Sie beim Hören, welche Aussage (a, b oder c) am besten passt. Markieren Sie Ihre Lösungen für die Aufgaben 55–64 auf dem Antwortbogen.",
+      "readNote": "Lesen Sie jetzt die Aufgaben 55–64. Sie haben dazu drei Minuten Zeit.",
+      "items": [
+        {
+          "no": "55",
+          "stem": "Die Vulkane der Eifel sind nach Dr. Keller",
+          "options": {
+            "a": "nach dem letzten großen Ausbruch erloschen.",
+            "b": "kurz vor einem erneuten Ausbruch.",
+            "c": "bis heute nicht völlig zur Ruhe gekommen."
+          },
+          "answer": "c"
+        },
+        {
+          "no": "56",
+          "stem": "Beim Ausbruch des Laacher-See-Vulkans",
+          "options": {
+            "a": "staute sich der Rhein zeitweise auf.",
+            "b": "gelangte die Asche bis nach Nordafrika.",
+            "c": "floss die Lava bis weit ins Rheintal."
+          },
+          "answer": "a"
+        },
+        {
+          "no": "57",
+          "stem": "Bei Vulkanausbrüchen sterben die meisten Menschen durch",
+          "options": {
+            "a": "rasend schnelle Glutwolken.",
+            "b": "langsam fließende Lavaströme.",
+            "c": "durch Asche einstürzende Dächer."
+          },
+          "answer": "a"
+        },
+        {
+          "no": "58",
+          "stem": "Über die Vorhersage von Ausbrüchen sagt Dr. Keller, dass",
+          "options": {
+            "a": "es vorher kaum Warnzeichen gibt.",
+            "b": "sie heute meist auf den Tag genau gelingt.",
+            "c": "sich nur das Risiko einschätzen lässt."
+          },
+          "answer": "c"
+        },
+        {
+          "no": "59",
+          "stem": "Am Beispiel des Pinatubo zeigt Dr. Keller, dass",
+          "options": {
+            "a": "es vor dem Ausbruch jahrelang ruhig blieb.",
+            "b": "rechtzeitige Warnungen Leben retten.",
+            "c": "eine Räumung dort nichts nützte."
+          },
+          "answer": "b"
+        },
+        {
+          "no": "60",
+          "stem": "Drohnen werden vor allem eingesetzt, um",
+          "options": {
+            "a": "verunglückte Forscher am Kraterrand zu bergen.",
+            "b": "die Zusammensetzung der Gase zu messen.",
+            "c": "Verformungen des Bodens zu erkennen."
+          },
+          "answer": "b"
+        },
+        {
+          "no": "61",
+          "stem": "Für Flugzeuge ist Vulkanasche vor allem gefährlich, weil sie",
+          "options": {
+            "a": "aus weichem, feinem Staub besteht.",
+            "b": "die Scheiben im Cockpit stark zerkratzt.",
+            "c": "in den Triebwerken zu Glas schmilzt."
+          },
+          "answer": "c"
+        },
+        {
+          "no": "62",
+          "stem": "Zum Einfluss von Vulkanen auf das Klima sagt Dr. Keller, dass",
+          "options": {
+            "a": "sie mehr Kohlendioxid freisetzen als wir.",
+            "b": "große Ausbrüche die Erde zeitweise abkühlen.",
+            "c": "ihr Schwefel die Erderwärmung dauerhaft bremst."
+          },
+          "answer": "b"
+        },
+        {
+          "no": "63",
+          "stem": "Viele Menschen leben in der Nähe von Vulkanen vor allem, weil",
+          "options": {
+            "a": "die Erde dort sehr fruchtbar ist.",
+            "b": "sie sich nichts anderes leisten können.",
+            "c": "es dort viele heiße Quellen gibt."
+          },
+          "answer": "a"
+        },
+        {
+          "no": "64",
+          "stem": "Grindavík und ein nahes Kraftwerk hat man vor allem geschützt, indem man",
+          "options": {
+            "a": "die Lava mit Meerwasser abgekühlt hat.",
+            "b": "die Glutlawinen umgelenkt hat.",
+            "c": "Dämme aus Erde aufgeschüttet hat."
+          },
+          "answer": "c"
+        }
+      ]
+    },
+    "t3": {
+      "instruction": "Sie hören einen Vortrag. Sie hören den Vortrag nur einmal. Sie haben Handzettel mit den Folien der Präsentation erhalten. Schreiben Sie die fehlenden Informationen stichwortartig in die freien Zeilen 65–74 in der rechten Spalte.",
+      "exampleNote": "Die Lösung 0 ist ein Beispiel.",
+      "readNote": "Lesen Sie jetzt die Stichworte. Sie haben dazu eine Minute Zeit.",
+      "finalNote": "Sie haben jetzt fünf Minuten Zeit, Ihre Antworten zu den Aufgaben 65–74 auf den Antwortbogen zu übertragen.",
+      "exampleAnswer": "Umwelt im Wandel",
+      "slides": [
+        {
+          "title": "Ringvorlesung",
+          "lines": [
+            {
+              "no": "0",
+              "bullet": false,
+              "dash": false,
+              "text": "„…“"
+            },
+            {
+              "no": "",
+              "bullet": false,
+              "dash": false,
+              "text": "Thema heute: Mikroplastik – unsichtbar und überall?"
+            },
+            {
+              "no": "",
+              "bullet": false,
+              "dash": false,
+              "text": "Referentin: Dr. Clara Engel, Umweltchemikerin"
+            }
+          ]
+        },
+        {
+          "title": "Was ist Mikroplastik?",
+          "lines": [
+            {
+              "no": "",
+              "bullet": true,
+              "dash": false,
+              "text": "Kunststoffteilchen kleiner als fünf Millimeter"
+            },
+            {
+              "no": "",
+              "bullet": true,
+              "dash": false,
+              "text": "Kügelchen in Kosmetik: absichtlich so klein hergestellt"
+            },
+            {
+              "no": "65",
+              "bullet": true,
+              "dash": false,
+              "text": "Fachbegriff für Teilchen aus zerfallenem Kunststoff: …"
+            }
+          ]
+        },
+        {
+          "title": "Quellen in Deutschland",
+          "lines": [
+            {
+              "no": "",
+              "bullet": true,
+              "dash": false,
+              "text": "insgesamt gut vier Kilogramm pro Kopf und Jahr"
+            },
+            {
+              "no": "66",
+              "bullet": true,
+              "dash": false,
+              "text": "Hauptverursacher: …"
+            },
+            {
+              "no": "67",
+              "bullet": true,
+              "dash": false,
+              "text": "Bedeutung der Kosmetik: …"
+            }
+          ]
+        },
+        {
+          "title": "Verbreitung",
+          "lines": [
+            {
+              "no": "68",
+              "bullet": true,
+              "dash": false,
+              "text": "Fundorte fern von Städten (zwei Beispiele): …"
+            },
+            {
+              "no": "",
+              "bullet": true,
+              "dash": false,
+              "text": "Kläranlagen halten über 90 Prozent zurück"
+            },
+            {
+              "no": "69",
+              "bullet": true,
+              "dash": false,
+              "text": "Problem dabei: …"
+            }
+          ]
+        },
+        {
+          "title": "Mikroplastik im Menschen",
+          "lines": [
+            {
+              "no": "",
+              "bullet": true,
+              "dash": false,
+              "text": "Blutproben von 22 Spendern, 2022"
+            },
+            {
+              "no": "70",
+              "bullet": true,
+              "dash": false,
+              "text": "Anteil der Spender mit Kunststoff im Blut: …"
+            },
+            {
+              "no": "71",
+              "bullet": true,
+              "dash": false,
+              "text": "Bewertung der Behauptung „eine Kreditkarte pro Woche“: …"
+            },
+            {
+              "no": "72",
+              "bullet": true,
+              "dash": false,
+              "text": "Gesundheitsfolgen – Stand der Forschung: …"
+            }
+          ]
+        },
+        {
+          "title": "Maßnahmen",
+          "lines": [
+            {
+              "no": "",
+              "bullet": true,
+              "dash": false,
+              "text": "EU-Beschränkung seit Oktober 2023"
+            },
+            {
+              "no": "73",
+              "bullet": true,
+              "dash": false,
+              "text": "ohne Übergangsfrist verboten (Beispiel): …"
+            }
+          ]
+        },
+        {
+          "title": "Fazit",
+          "lines": [
+            {
+              "no": "74",
+              "bullet": true,
+              "dash": false,
+              "text": "Was am meisten hilft: …"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "no": "65",
+          "solution": "sekundäres Mikroplastik (Oberbegriff erforderlich)"
+        },
+        {
+          "no": "66",
+          "solution": "Abrieb von Autoreifen / Reifenabrieb (etwa ein Drittel)"
+        },
+        {
+          "no": "67",
+          "solution": "sehr gering (ca. 19 g pro Kopf und Jahr, nur Platz 17)"
+        },
+        {
+          "no": "68",
+          "solution": "Meereis der Arktis, Mount Everest, Tiefsee / Marianengraben (zwei von drei erforderlich)"
+        },
+        {
+          "no": "69",
+          "solution": "Klärschlamm wird auf Felder ausgebracht → Mikroplastik gelangt in die Böden"
+        },
+        {
+          "no": "70",
+          "solution": "bei etwa drei von vier Spendern („Plastik im Blut“ ohne Anteil genügt nicht)"
+        },
+        {
+          "no": "71",
+          "solution": "stark übertrieben / viel zu hoch („etwa fünf Gramm“ allein genügt nicht)"
+        },
+        {
+          "no": "72",
+          "solution": "noch weitgehend unklar / Zusammenhang nicht als Ursache belegt (Entzündungen oder Herzinfarkte als gesicherte Folge genügen nicht)"
+        },
+        {
+          "no": "73",
+          "solution": "loser Glitzer"
+        },
+        {
+          "no": "74",
+          "solution": "Kunststoff gar nicht erst in die Umwelt gelangen lassen / Vermeidung an der Quelle („weniger Plastik kaufen“ allein genügt nicht)"
+        }
+      ]
+    }
   },
   "schreiben": {
-   "t1": "Forschung allgemeinverständlich vermitteln – Pflicht?",
-   "t2": "Abschlussfeiern an Hochschulen"
+    "instruction": "Wählen Sie eines der folgenden zwei Themen. Schreiben Sie einen Text, in dem Sie Ihren eigenen Standpunkt dazu erarbeiten und argumentativ darlegen. Ihr Text soll mindestens 350 Wörter umfassen. Sie haben 70 Minuten Zeit.",
+    "minWords": 350,
+    "minutes": 70,
+    "themes": [
+      {
+        "no": "1",
+        "paragraphs": [
+          "In einem Seminar zum Thema „Wissenschaft und Öffentlichkeit“ wird diskutiert, ob Forschende verpflichtet werden sollten, ihre Ergebnisse allgemeinverständlich zu vermitteln.",
+          "Erörtern Sie Vor- und Nachteile einer solchen Pflicht, greifen Sie die Zitate auf und beziehen Sie eigene Erfahrungen ein. Ziehen Sie ein begründetes Fazit."
+        ],
+        "quoteLead": "Die folgenden Zitate geben Ihnen erste Ideen:",
+        "quotes": [
+          "„Wer mit öffentlichem Geld forscht, schuldet der Öffentlichkeit eine verständliche Antwort.“",
+          "„Gute Forschung braucht Zeit im Labor, nicht auf der Bühne.“"
+        ],
+        "model": {
+          "title": "Forschung erklären – eine Pflicht?",
+          "paragraphs": [
+            "Spätestens seit der Corona-Pandemie ist deutlich geworden, wie sehr politische Entscheidungen von wissenschaftlichen Erkenntnissen abhängen und wie wenig viele Menschen über die Arbeitsweise der Forschung wissen. In unserem Seminar stellt sich deshalb die Frage, ob Forschende verpflichtet werden sollten, ihre Ergebnisse regelmäßig allgemeinverständlich zu vermitteln. Im Folgenden werden die wichtigsten Argumente beider Seiten gegeneinander abgewogen.",
+            "Für eine solche Pflicht spricht zunächst, dass ein großer Teil der Forschung aus Steuermitteln finanziert wird. Das erste Zitat bringt diesen Gedanken auf den Punkt: Wer mit öffentlichem Geld arbeitet, sollte auch erklären können, was mit diesem Geld geschieht. Hinzu kommt, dass Vertrauen in die Wissenschaft nur entsteht, wenn Menschen nachvollziehen können, wie Ergebnisse zustande kommen. Wo Forschende schweigen, füllen oft andere die Lücke, nicht selten mit Halbwahrheiten oder gezielten Falschmeldungen. Gerade junge Menschen informieren sich heute kaum noch aus Zeitungen, sondern aus Videos und Podcasts, und dort sollten auch seriöse Stimmen zu hören sein.",
+            "Andererseits ist der Einwand, der im zweiten Zitat zum Ausdruck kommt, ernst zu nehmen. Wissenschaftliche Arbeit ist zeitaufwendig, und viele Nachwuchskräfte haben ohnehin befristete Verträge, unterrichten und schreiben Anträge. Eine zusätzliche Pflicht würde diese Belastung weiter erhöhen. Außerdem ist nicht jeder begabte Forscher auch ein guter Vermittler. Wer gezwungen wird, komplizierte Zusammenhänge in wenigen Sätzen darzustellen, läuft Gefahr, sie so stark zu vereinfachen, dass am Ende ein falsches Bild entsteht. Nicht zuletzt erleben manche Forschende, die sich öffentlich äußern, Anfeindungen bis hin zu Drohungen.",
+            "Ich habe im vergangenen Semester einen Science-Slam an unserer Universität besucht, bei dem junge Forschende ihre Projekte in jeweils zehn Minuten vorstellten. Einige Beiträge waren witzig und gleichzeitig präzise, andere blieben oberflächlich. Ein Doktorand erzählte mir danach, er habe zwei Wochen an seinem Auftritt gearbeitet, aber auch selbst viel dabei gelernt, weil er sein Thema zum ersten Mal von außen betrachten musste. Diese Erfahrung hat mir gezeigt, dass Vermittlung gelingen kann, wenn man ihr ausreichend Zeit gibt.",
+            "Insgesamt halte ich eine Pflicht für jeden einzelnen Forschenden nicht für sinnvoll. Wohl aber sollten Hochschulen die Vermittlung als Teil der wissenschaftlichen Arbeit anerkennen, etwa durch Schulungen, durch eigene Stellen für Wissenschaftskommunikation und dadurch, dass solche Leistungen bei Bewerbungen zählen. So würde die Vermittlung nicht erzwungen, aber gezielt gefördert. Vermutlich würden dann gerade diejenigen öfter vor Publikum treten, die das gut können und gern tun."
+          ],
+          "hint": "Textsorte Erörterung für ein Seminar. Aufbau: Einleitung mit aktuellem Anlass und Leitfrage – Argumente für eine Pflicht mit Bezug auf Zitat 1 – Argumente dagegen mit Bezug auf Zitat 2 – eigene Erfahrung, die beide Seiten aufgreift – Fazit mit einem Gegenvorschlag. Sprachliche Mittel: überwiegend sachlicher, unpersönlicher Stil (Im Folgenden werden … abgewogen; ist … ernst zu nehmen), Ich-Form nur bei der eigenen Erfahrung und im Fazit, Passiv (finanziert wird), Nominalstil (Vermittlung, Belastung), Konjunktiv II (würde … erhöhen, würde … gefördert), Konnektoren der Abwägung (zunächst, hinzu kommt, andererseits, außerdem, insgesamt, wohl aber). Umfang: 376 Wörter."
+        }
+      },
+      {
+        "no": "2",
+        "paragraphs": [
+          "Eine Hochschulzeitschrift fragt, ob Hochschulen ihre Absolventinnen und Absolventen mit einer Feier verabschieden sollten.",
+          "Nehmen Sie persönlich Stellung: Legen Sie dar, was für und was gegen solche Feiern spricht, beziehen Sie die Zitate ein und begründen Sie Ihre Meinung."
+        ],
+        "quoteLead": "Die folgenden Zitate geben Ihnen erste Ideen:",
+        "quotes": [
+          "„Ein Studienabschluss ist ein Meilenstein im Leben und verdient einen festlichen Rahmen.“",
+          "„Das Geld für Talare und Bühnen wäre in besseren Lernräumen sinnvoller angelegt.“"
+        ],
+        "model": {
+          "title": "Ein Abschied mit Hut?",
+          "paragraphs": [
+            "Als ich meinen Bachelor abgeschlossen hatte, kam das Zeugnis mit der Post. Ich öffnete den Umschlag in meiner Küche, rief meine Eltern an, und das war alles. Ein paar Monate später sah ich die Fotos von der Abschlussfeier meiner Cousine in Seoul: Talar, Hut, stolze Familien und eine Rede der Präsidentin. Seitdem beschäftigt mich die Frage, ob auch deutsche Hochschulen ihre Absolventinnen und Absolventen feierlich verabschieden sollten.",
+            "Für solche Feiern spricht aus meiner Sicht vor allem, dass ein Studienabschluss tatsächlich ein Einschnitt im Leben ist. Das erste Zitat hat deshalb einen wahren Kern. Hinter einem Abschluss stecken Jahre voller Prüfungen, Nebenjobs und Zweifel, und viele Familien haben dafür große Opfer gebracht. Eine Feier würdigt diese Leistung und gibt auch den Eltern die Gelegenheit, stolz zu sein. Außerdem stärkt sie die Bindung an die Hochschule. Wer gern an seinen Abschied zurückdenkt, bleibt ihr eher als Ehemaliger verbunden. In vielen Ländern gehört die Feier fest zur Studienkultur, und internationale Studierende vermissen sie an deutschen Hochschulen.",
+            "Gleichzeitig verstehe ich alle, die wie im zweiten Zitat lieber in bessere Lernräume investieren würden. An meiner Hochschule fehlen Arbeitsplätze in der Bibliothek, und in manchen Seminarräumen funktioniert die Technik nur mit Glück. Eine aufwendige Zeremonie mit gemieteten Talaren und Bühnentechnik wirkt da wie eine falsche Prioritätensetzung. Für manche Feiern werden Teilnahmegebühren verlangt, die sich nicht alle leisten können. Hinzu kommt die Geschichte: Nach den Studentenprotesten der späten Sechzigerjahre sind Talare aus deutschen Hörsälen fast vollständig verschwunden, weil sie für veraltete Hierarchien standen.",
+            "Ich bin trotzdem für Abschlussfeiern, allerdings in einer bescheidenen Form. Die Fachbereiche könnten einmal im Semester eine Feier im eigenen Hörsaal veranstalten, mit kurzen Reden, Musik von Studierenden und einem Empfang, zu dem man die Familie mitbringen darf. Talare halte ich für überflüssig. Wer möchte, kann sich festlich kleiden, aber niemand sollte für die Teilnahme Geld ausgeben müssen. So stünde die Feier allen offen, und die Ausgaben würden überschaubar bleiben. Dennoch würde sie zeigen, dass die Hochschule ihre Absolventen nicht einfach vergisst.",
+            "Mein Zeugnis liegt heute in einer Mappe im Schrank. Ich bin stolz darauf, doch an den Tag, an dem ich es bekommen habe, erinnere ich mich kaum. Für meinen Masterabschluss wünsche ich mir etwas anderes: keinen Hut, aber einen Moment, in dem man gemeinsam feiert, was man geschafft hat."
+          ],
+          "hint": "Textsorte persönliche Stellungnahme für eine Hochschulzeitschrift. Aufbau: persönlicher Einstieg mit einem Erlebnis – Argumente dafür mit Bezug auf Zitat 1 – Einwände mit Bezug auf Zitat 2 und auf die Geschichte der Talare – eigene Position mit einem konkreten Vorschlag – Rückgriff auf den Einstieg im Schluss. Sprachliche Mittel: Ich-Perspektive und wertende Ausdrücke (aus meiner Sicht, Ich bin trotzdem für …, halte ich für überflüssig), Konjunktiv II für Vorschläge (könnten, stünde, würden … bleiben), Gegenüberstellung (gleichzeitig), Ergänzung (hinzu kommt), Rückgriff auf den Einstieg im Schlusssatz. Umfang: 377 Wörter."
+        }
+      }
+    ]
   },
-  "sprechen": {
-   "t1": [
-    {
-     "who": "A",
-     "topics": [
-      "Traditionelles Handwerk",
-      "Smartphones an Schulen"
-     ]
+  "muendlich": {
+    "teil1": [
+      {
+        "who": "A",
+        "themes": [
+          "Stellen Sie ein traditionelles Handwerk aus Ihrem Heimatland vor. Wie wird es ausgeübt, und hat es heute noch eine Zukunft?",
+          "Sollten Smartphones an Schulen verboten werden? Begründen Sie Ihre Meinung und gehen Sie auch auf Gegenargumente ein."
+        ]
+      },
+      {
+        "who": "B",
+        "themes": [
+          "Beschreiben Sie, wie man sich in Ihrem Heimatland um eine Arbeitsstelle bewirbt. Was ist dabei besonders wichtig?",
+          "Sollten Eltern ihre Kinder selbst zu Hause unterrichten dürfen? Begründen Sie Ihre Meinung."
+        ]
+      },
+      {
+        "who": "C",
+        "themes": [
+          "Stellen Sie eine Landschaft Ihres Heimatlandes vor, die Sie besonders beeindruckt. Was macht sie so besonders?",
+          "Sollten Geschäfte auch an Sonntagen öffnen dürfen? Begründen Sie Ihre Meinung."
+        ]
+      }
+    ],
+    "teil2": [
+      {
+        "no": "1",
+        "text": "„Sieh nach den Sternen! Gib acht auf die Gassen!“",
+        "author": "Wilhelm Raabe, 1831–1910, Schriftsteller"
+      },
+      {
+        "no": "2",
+        "text": "„Die Politik bedeutet ein starkes langsames Bohren von harten Brettern mit Leidenschaft und Augenmaß zugleich.“",
+        "author": "Max Weber, 1864–1920, Soziologe"
+      },
+      {
+        "no": "3",
+        "text": "„Nicht das Wissen, sondern das Lernen gewährt den größten Genuss.“",
+        "author": "nach Carl Friedrich Gauß, 1777–1855, Mathematiker"
+      }
+    ]
+  },
+  "notes": "Die PDF-Vorlage ist an einigen Seitenenden abgeschnitten; die fehlenden Textstellen (Lesen 2 d, Lesen 3 Absatz 7, Aussagen 15·16) wurden aus der HTML-Vorlage des Modelltests ergänzt. Sprecher-Bezeichnungen in Hören Teil 1 wie gedruckt (Sprecher 1, 2, 6, 7; Sprecherin 3, 4, 5, 8). Musterlösung Schreiben: Thema 1 auf S. 21, Thema 2 auf S. 22.",
+  "index": {
+    "short": "Wie das Händewaschen Leben rettete · Trinkgeld auf Knopfdruck · Der Mann, der die Dinge festhielt",
+    "lesen": {
+      "t1": "Wie das Händewaschen Leben rettete",
+      "t2": "Trinkgeld auf Knopfdruck",
+      "t3": "Gesichter erkennen – eine sehr ungleich verteilte Gabe",
+      "sb": "Der Mann, der die Dinge festhielt"
     },
-    {
-     "who": "B",
-     "topics": [
-      "Bewerbung im Heimatland",
-      "Unterricht zu Hause"
-     ]
+    "hoeren": {
+      "t1": "Das akademische Viertel – noch zeitgemäß?",
+      "t2": "Vulkane",
+      "t3": "Mikroplastik – unsichtbar und überall?"
     },
-    {
-     "who": "C",
-     "topics": [
-      "Beeindruckende Landschaft",
-      "Sonntagsöffnung von Geschäften"
-     ]
+    "schreiben": {
+      "t1": "Forschung allgemeinverständlich vermitteln – Pflicht?",
+      "t2": "Abschlussfeiern an Hochschulen"
+    },
+    "sprechen": {
+      "t1": [
+        {
+          "who": "A",
+          "topics": [
+            "Traditionelles Handwerk",
+            "Smartphones an Schulen"
+          ]
+        },
+        {
+          "who": "B",
+          "topics": [
+            "Bewerbung im Heimatland",
+            "Unterricht zu Hause"
+          ]
+        },
+        {
+          "who": "C",
+          "topics": [
+            "Beeindruckende Landschaft",
+            "Sonntagsöffnung von Geschäften"
+          ]
+        }
+      ],
+      "t2": [
+        {
+          "no": "1",
+          "author": "Wilhelm Raabe"
+        },
+        {
+          "no": "2",
+          "author": "Max Weber"
+        },
+        {
+          "no": "3",
+          "author": "Carl Friedrich Gauß"
+        }
+      ]
     }
-   ],
-   "t2": [
-    {
-     "no": "1",
-     "author": "Wilhelm Raabe"
-    },
-    {
-     "no": "2",
-     "author": "Max Weber"
-    },
-    {
-     "no": "3",
-     "author": "Carl Friedrich Gauß"
-    }
-   ]
   }
- }
 }
