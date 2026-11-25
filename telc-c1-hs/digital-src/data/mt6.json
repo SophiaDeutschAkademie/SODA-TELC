@@ -1,0 +1,1022 @@
+{
+  "id": 6,
+  "roman": "VI",
+  "lesen": {
+    "t1": {
+      "instruction": "Lesen Sie den folgenden Text. Welche der Sätze a–h gehören in die Lücken 1–6? Es gibt jeweils nur eine richtige Lösung. Zwei Sätze können nicht zugeordnet werden. Markieren Sie Ihre Lösungen für die Aufgaben 1–6 auf dem Antwortbogen. Lücke (0) ist ein Beispiel.",
+      "intro": "In einem Wissenschaftsmagazin lesen Sie den folgenden Artikel:",
+      "title": "Wie das Wetter berechenbar wurde",
+      "paragraphs": [
+        "Bis weit ins 19. Jahrhundert galt das Wetter als unberechenbar: Seeleute und Bauern verließen sich auf überlieferte Regeln, und viele Gelehrte hielten Vorhersagen für unmöglich. {{0}} Erst der Telegraf änderte das, denn nun ließen sich Beobachtungen aus weit entfernten Gegenden binnen Stunden an einer Stelle sammeln.",
+        "Als einer der Ersten nutzte diese Möglichkeit der britische Marineoffizier Robert FitzRoy, der seit 1854 eine neue Wetterbehörde leitete. Im Oktober 1859 sank vor der Küste von Wales das Passagierschiff „Royal Charter“ in einem schweren Sturm; rund 450 Menschen starben. {{1}} Ab 1861 ließ er deshalb Sturmwarnungen an die Häfen telegrafieren, und im August desselben Jahres druckte die Londoner „Times“ erstmals eine Vorhersage für die folgenden Tage.",
+        "Beim Publikum waren die Vorhersagen sofort beliebt, in der Wissenschaft dagegen umstritten. {{2}} Ein Jahr nach FitzRoys Tod wurden sie 1866 tatsächlich eingestellt; erst 1879 kehrten sie in die Zeitungen zurück.",
+        "Eine wissenschaftliche Grundlage schuf schließlich der norwegische Forscher Vilhelm Bjerknes, der 1904 vorschlug, die Atmosphäre wie jedes andere physikalische System zu behandeln. Ist ihr Zustand zu einem bestimmten Zeitpunkt bekannt, lässt sich mit den Gesetzen der Physik berechnen, wie sie sich weiterentwickelt. {{3}} Bjerknes selbst hielt es deshalb für aussichtslos, auf diesem Weg rechtzeitig zu einer Vorhersage zu gelangen, und arbeitete lieber mit Wetterkarten.",
+        "Der Brite Lewis Fry Richardson wagte den Versuch trotzdem: Als Sanitätsfahrer an der Westfront des Ersten Weltkriegs wählte er einen Tag aus dem Jahr 1910, für den genaue Messdaten vorlagen, und berechnete das Wetter der folgenden sechs Stunden. {{4}} Für einen Ort in Mitteleuropa sagte er eine Änderung des Luftdrucks voraus, die rund hundertmal größer war als in Wirklichkeit.",
+        "Richardson gab dennoch nicht auf und entwarf 1922 in einem Buch eine „Rechenfabrik“, in der 64 000 Menschen gleichzeitig rechnen sollten, jeder für einen kleinen Teil der Erde. {{5}} Erst mit elektronischen Rechnern wurde seine Idee Wirklichkeit: 1950 erstellte ein Team um Jule Charney auf dem amerikanischen Computer ENIAC die erste Vorhersage dieser Art – für 24 Stunden Wetter brauchte die Maschine fast 24 Stunden.",
+        "Heute verarbeiten Supercomputer täglich Hunderte Millionen Messwerte von Satelliten, Wetterstationen und Flugzeugen. {{6}} Über etwa zwei Wochen hinaus wird sich das Wetter allerdings wohl nie verlässlich vorhersagen lassen, denn schon winzige Messfehler wachsen in der Atmosphäre mit der Zeit immer weiter an."
+      ],
+      "sentences": [
+        {
+          "letter": "a",
+          "text": "Viele Fachleute hielten sie für unwissenschaftliches Raten und forderten, sie einzustellen."
+        },
+        {
+          "letter": "b",
+          "text": "Bjerknes gelang es kurz darauf, seine Gleichungen mithilfe einfacher Tabellen in wenigen Stunden zu lösen."
+        },
+        {
+          "letter": "c",
+          "text": "Zwischen seinen Einsätzen saß er wochenlang über endlosen Zahlenkolonnen, doch das Ergebnis war ernüchternd."
+        },
+        {
+          "letter": "d",
+          "text": "FitzRoy war überzeugt, dass sich viele dieser Opfer durch eine rechtzeitige Warnung hätten vermeiden lassen."
+        },
+        {
+          "letter": "e",
+          "text": "Die Vorhersagen werden dadurch stetig genauer: Pro Jahrzehnt reichen sie ungefähr einen Tag weiter in die Zukunft."
+        },
+        {
+          "letter": "f",
+          "text": "Vor allem die Bauern, die ihre Ernte vor Unwettern schützen wollten, sahen in den neuen Vorhersagen einen großen Fortschritt."
+        },
+        {
+          "letter": "g",
+          "text": "Die Gleichungen, die diese Gesetze beschreiben, ließen sich allerdings kaum von Hand lösen."
+        },
+        {
+          "letter": "h",
+          "text": "Eine solche Fabrik wurde jedoch nie gebaut."
+        }
+      ],
+      "example": {
+        "letter": "z",
+        "text": "Ihnen fehlte vor allem ein Überblick darüber, wie das Wetter gleichzeitig an anderen Orten war."
+      },
+      "items": [
+        {
+          "no": "1",
+          "answer": "d"
+        },
+        {
+          "no": "2",
+          "answer": "a"
+        },
+        {
+          "no": "3",
+          "answer": "g"
+        },
+        {
+          "no": "4",
+          "answer": "c"
+        },
+        {
+          "no": "5",
+          "answer": "h"
+        },
+        {
+          "no": "6",
+          "answer": "e"
+        }
+      ]
+    },
+    "t2": {
+      "instruction": "Lesen Sie den folgenden Text. In welchem Textabsatz a–e finden Sie die Antworten auf die Fragen 7–12? Es gibt jeweils nur eine richtige Lösung. Jeder Absatz kann Antworten auf mehrere Fragen enthalten. Markieren Sie Ihre Lösungen für die Aufgaben 7–12 auf dem Antwortbogen.",
+      "title": "Wenn Gäste zur Last werden",
+      "sections": [
+        {
+          "letter": "a",
+          "text": "Als ich im vergangenen Mai an einem Samstagvormittag die Rialtobrücke in Venedig überqueren wollte, kam ich minutenlang weder vor noch zurück. Um mich herum schoben sich Reisegruppen mit Selfiestangen und Rollkoffern durch die verwinkelten Gassen, während die wenigen Einheimischen, denen ich begegnete, wie Fremde in ihrer eigenen Stadt wirkten. Verwunderlich ist das nicht: In der Altstadt leben heute weniger als 50 000 Menschen, jährlich kommen aber Schätzungen zufolge weit über 20 Millionen Besucher. Auf jeden Einwohner entfallen somit mehrere Hundert Touristen. Für dieses Missverhältnis hat sich der Begriff „Overtourism“ eingebürgert, der längst nicht nur auf Venedig zutrifft. Ich nehme mich dabei selbst nicht aus. Auch ich reise leidenschaftlich gern und häufig, und auch ich stand an diesem Tag mit meiner Kamera anderen im Weg. Gerade deshalb lohnt es sich, genauer hinzusehen: Wer leidet eigentlich unter dem Ansturm, und welche Maßnahmen helfen wirklich?"
+        },
+        {
+          "letter": "b",
+          "text": "Eines muss man allerdings deutlich festhalten: Für zahlreiche Regionen ist der Tourismus kein Übel, sondern die wichtigste Einnahmequelle. Hotels, Restaurants, Museen und unzählige kleine Geschäfte sind auf die Gäste angewiesen, und in manchen Gegenden Südeuropas gäbe es ohne Urlauber für junge Menschen kaum noch Beschäftigung. Auch die Reisenden selbst profitieren, denn wer fremde Orte kennenlernt, erweitert seinen Horizont und baut im besten Fall Vorurteile ab. Den Tourismus pauschal zu verdammen, wäre also eine unzulässige Vereinfachung. Umso mehr irritieren mich manche Proteste der vergangenen Jahre, obwohl ich durchaus nachvollziehen kann, dass Einheimische in Barcelona oder auf Mallorca demonstrieren. Wenn aber Urlauber mit Wasserpistolen bespritzt werden oder an Hauswänden „Tourists go home“ steht, trifft die Wut die Falschen. Eine Familie, die ein Jahr lang für ihre Urlaubsreise gespart hat, ist schließlich nicht verantwortlich für eine Politik, die den Ansturm jahrzehntelang begrüßt hat."
+        },
+        {
+          "letter": "c",
+          "text": "Das eigentliche Problem sind weniger die Menschenmassen auf den Plätzen als die Wohnungen. In vielen beliebten Städten vermieten Eigentümer nicht mehr an Einheimische, sondern tageweise an Feriengäste, weil sich damit ein Vielfaches verdienen lässt. In Barcelona etwa sind die Mieten innerhalb von zehn Jahren um fast 70 Prozent gestiegen. Infolgedessen ziehen Lehrerinnen, Pflegekräfte und Studierende an den Stadtrand, während in den Altstädten Schlüsselkästen an den Haustüren zurückbleiben. Wer einmal in einem Mehrfamilienhaus gelebt hat, in dem Woche für Woche andere Gäste ihre Koffer durchs Treppenhaus schleppen, weiß, wie schnell eine gewachsene Nachbarschaft verschwindet. Deshalb halte ich es für richtig, dass Barcelona die Genehmigungen für rund 10 000 Ferienwohnungen nicht über 2028 hinaus verlängern will, auch wenn die Vermieter dagegen Sturm laufen. Wohnraum ist kein Hotelzimmer, und eine Stadt, in der niemand mehr wohnen kann, verliert genau das, was ihre Besucher an ihr schätzen."
+        },
+        {
+          "letter": "d",
+          "text": "Skeptisch bin ich dagegen, wenn Städte in erster Linie auf Eintrittsgelder setzen. Venedig verlangt seit 2024 an ausgewählten Tagen von Tagesgästen eine Gebühr, die nur tagsüber fällig ist und inzwischen fünf oder zehn Euro beträgt, je nachdem, wie frühzeitig man bucht. In diesem Jahr wurden fast 680 000 Eintrittskarten verkauft, wodurch die Stadt über fünf Millionen Euro eingenommen hat. Dass deshalb deutlich weniger Menschen kommen, kann ich mir allerdings kaum vorstellen. Ausflügler, die eigens aus Mailand oder vom Gardasee anreisen, lassen sich von ein paar zusätzlichen Euro nicht abschrecken. Ich befürchte viel[…] sie beispielsweise im österreichischen Hallstatt bereits gibt."
+        },
+        {
+          "letter": "e",
+          "text": "Letztlich sind aber auch wir Reisenden gefragt, denn niemand muss im August nach Dubrovnik oder zu Ostern nach Venedig fahren, nur weil alle anderen es ebenfalls tun. Wer außerhalb der Hauptsaison reist, kleinere Ortschaften entdeckt oder länger an einem Ort bleibt, statt in drei Tagen fünf Städte abzuhaken, erlebt nicht nur mehr, sondern lässt sein Geld auch dort, wo es den Menschen nützt. Mit Verzicht hat das wenig zu tun, vielmehr mit vorausschauender Planung. Ich habe mir deshalb vorgenommen, Venedig das nächste Mal im November zu besuchen und eine ganze Woche dort zu verbringen. Ob die Rialtobrücke dann weniger überlaufen ist, weiß ich nicht; ich möchte eine Stadt jedoch nicht nur bewundern, sondern so besuchen, dass die Menschen auch künftig gern in ihr leben."
+        }
+      ],
+      "exampleLead": "In welchem Abschnitt …",
+      "example": {
+        "stem": "nennt der Autor die Zahl der Menschen, die in der Altstadt Venedigs wohnen?",
+        "answer": "a"
+      },
+      "itemsLead": "In welchem Abschnitt …",
+      "items": [
+        {
+          "no": "7",
+          "stem": "bezweifelt der Autor, dass eine Abgabe die Besucherzahlen spürbar senkt?",
+          "answer": "d"
+        },
+        {
+          "no": "8",
+          "stem": "räumt der Autor ein, selbst Teil des Problems zu sein?",
+          "answer": "a"
+        },
+        {
+          "no": "9",
+          "stem": "kritisiert der Autor, dass Wohnraum zunehmend an Kurzurlauber vergeben wird?",
+          "answer": "c"
+        },
+        {
+          "no": "10",
+          "stem": "hält der Autor es für ungerecht, dass sich der Unmut gegen einzelne Reisende richtet?",
+          "answer": "b"
+        },
+        {
+          "no": "11",
+          "stem": "rät der Autor, sich für ein Reiseziel mehr Zeit zu nehmen?",
+          "answer": "e"
+        },
+        {
+          "no": "12",
+          "stem": "erkennt der Autor an, dass vielerorts Arbeitsplätze von den Gästen abhängen?",
+          "answer": "b"
+        }
+      ]
+    },
+    "t3": {
+      "instruction": "Lesen Sie den folgenden Text und die Aussagen 13–23. Welche der Aussagen sind richtig (r), falsch (f) oder gar nicht im Text enthalten (–)? Es gibt jeweils nur eine richtige Lösung. Markieren Sie Ihre Lösungen für die Aufgaben 13–23 auf dem Antwortbogen.",
+      "title": "",
+      "paragraphs": [
+        "Im Regionalzug von Hannover nach Bremen herrscht Stille, während draußen weitläufige Felder vorbeiziehen. Eine junge Frau mit Kopfhörern schaut konzentriert auf ihr Smartphone. Plötzlich prustet sie los, hält sich die Hand vor den Mund und lacht dann umso lauter. Der ältere Herr ihr gegenüber blickt zunächst irritiert von seiner Zeitung auf, beginnt dann aber zu schmunzeln. Wenig später kichern auch zwei Jugendliche auf der anderen Seite des Gangs, obwohl keiner von ihnen weiß, worüber eigentlich gelacht wird.",
+        "Derartige Szenen hat der amerikanische Psychologe Robert Provine jahrzehntelang systematisch beobachtet. Gemeinsam mit seinen Studierenden notierte er Tausende Situationen, in denen Menschen auf Fluren, in Cafés oder Einkaufszentren lachten, und hielt jeweils fest, was unmittelbar davor gesagt worden war. Das Ergebnis überraschte: Lediglich zehn bis fünfzehn Prozent der Bemerkungen waren auch nur entfernt witzig. Überwiegend ging es um Belanglosigkeiten, etwa um eine Verabschiedung oder eine Frage nach der Uhrzeit – Äußerungen, über die niemand lachen würde, wenn man sie aufschriebe. Außerdem lachten Menschen in Gesellschaft rund dreißigmal häufiger als allein.",
+        "„Lachen ist in erster Linie ein soziales Signal und erst in zweiter Linie eine Reaktion auf Komik“, sagt die Psychologin Anja Reimers, die an einer Universität die Übertragung von Gefühlen zwischen Menschen erforscht. Mit einem Lachen zeige man seinem Gegenüber, dass man ihm wohlgesinnt sei und die Situation nicht allzu ernst nehme. Darüber hinaus stifte Lachen Verbundenheit und entschärfe Spannungen, bevor daraus ein Konflikt werde. Dazu passt eine weitere Beobachtung Provines: Wer gerade spricht, lacht deutlich häufiger als diejenigen, die zuhören. Das Lachen unterbricht dabei fast nie einen Gedanken, sondern setzt am Ende eines Satzes ein – ähnlich wie ein Satzzeichen.",
+        "Ebenfalls gut belegt ist die ansteckende Wirkung des Lachens: Hört man jemanden lachen, werden Hirnregionen aktiv, die auch die eigenen Gesichtsmuskeln steuern, sodass sich der Körper gewissermaßen darauf vorbereitet, mitzulachen. Diesen Effekt machen sich Fernsehsender seit Jahrzehnten zunutze. Zwar empfinden viele Zuschauer eingespielte Lacher in Comedyserien als albern oder sogar störend, doch Versuche zeigen, dass dieselben Witze mit Gelächter im Hintergrund als lustiger bewertet werden. „Oft lachen wir weniger über etwas Komisches als darüber, dass andere lachen“, erklärt Reimers.",
+        "Das Lachen ist sogar älter als der Mensch. Junge Schimpansen, Gorillas und Orang-Utans geben beim Spielen und Kitzeln keuchende Laute von sich, die an ein heiseres Hecheln erinnern und dem menschlichen Lachen erstaunlich ähneln. Eine Forscherin, die diese Laute mit denen von Kleinkindern verglich, gelangte 2009 zu dem Schluss, dass bereits die gemeinsamen Vorfahren von Menschen und Menschenaffen vor mindestens zehn Millionen Jahren gelacht haben dürften. Einen Unterschied gibt es allerdings: Affen lachen beim Ein- und beim Ausatmen, erwachsene Menschen fast nur beim Ausatmen, wohingegen Säuglinge in den ersten Lebensmonaten noch ähnlich lachen wie die Menschenaffen.",
+        "Selbst Ratten scheinen zu lachen: Der amerikanische Neurowissenschaftler Jaak Panksepp kitzelte die Tiere um die Jahrtausendwende am Bauch und zeichnete dabei Laute im Ultraschallbereich auf, die für das menschliche Gehör nicht wahrnehmbar sind. Dieselben Laute gaben die Ratten auch beim Spielen von sich, nicht aber in Situationen, in denen sie sich fürchteten. Für Reimers ist das ein Hinweis darauf, dass die Wurzeln des Lachens im Spiel liegen: „Ursprünglich bedeutet Lachen wohl: Das ist nicht ernst gemeint, wir spielen nur.“",
+        "Warum man sich nicht selbst kitzeln kann, untersuchten britische Forscher bereits Ende der […] Kitzeln ausbleibt. Wer sich selbst über die Fußsohle streicht, spürt zwar die Berührung, aber kaum ein Kribbeln. Mit der Empfindlichkeit der Haut hat das nichts zu tun: Dieselbe Stelle reagiert unmittelbar, sobald eine andere Person sie berührt.",
+        "„Lachen ist die beste Medizin“, behauptet ein Sprichwort, und tatsächlich gibt es Hinweise auf eine schmerzlindernde Wirkung. In einer Studie des britischen Anthropologen Robin Dunbar sahen Versuchspersonen entweder Ausschnitte aus Comedyshows oder Dokumentarfilme. Wer gelacht hatte, ertrug danach Kälte oder den Druck einer Blutdruckmanschette länger, insbesondere dann, wenn die Filme in Gruppen angeschaut wurden. Dunbar vermutet, dass beim Lachen körpereigene Schmerzmittel, sogenannte Endorphine, ausgeschüttet werden. Reimers warnt jedoch davor, solche Befunde zu überschätzen: Lachyoga-Kurse, in denen Menschen ohne Anlass gemeinsam lachen, mögen Vergnügen bereiten und die Stimmung heben. „Eine Behandlung ersetzen sie aber nicht.“",
+        "Skeptisch ist Reimers auch gegenüber einer Zahl, die seit Jahren durch Ratgeber und Zeitschriften geistert: Kinder lachen angeblich rund 400-mal am Tag, Erwachsene dagegen nur 15-mal. „Ich habe lange nach der Quelle gesucht und keine seriöse Studie gefunden“, versichert die Psychologin. Ohnehin lasse sich Lachen nur schwer erfassen, da ein kurzes Auflachen leicht übersehen werde; wie häufig jemand lacht, hänge zudem stark davon ab, mit wem er seine Zeit verbringt. Wer vorwiegend allein arbeitet, lacht schon deshalb seltener, weil ihm die Gelegenheiten fehlen.",
+        "Nicht jeder empfindet Lachen als angenehm: Manche Menschen fürchten ständig, ausgelacht zu werden, und interpretieren selbst ein freundliches Lächeln als Spott. Der Fachbegriff dafür lautet Gelotophobie, abgeleitet vom griechischen Wort für Lachen; geprägt hat ihn in den Neunzigerjahren ein deutscher Psychotherapeut. In einer Befragung mit Teilnehmenden aus über 70 Ländern zeigte sich, dass diese Angst überall vorkommt, aber unterschiedlich häufig: In westlichen Industrieländern betraf sie zwischen zwei und dreizehn Prozent der Befragten, am seltensten war sie in Dänemark. Betroffene meiden oft Gesellschaft – und damit ausgerechnet die Situationen, in denen andere am meisten lachen.",
+        "Lachen ist allerdings nicht gleich Lachen: Ein spontanes Lachen klingt höher und unregelmäßiger als ein höfliches, das man bewusst erzeugt, und lässt sich kaum willentlich steuern. In Experimenten erkennen die meisten Zuhörer den Unterschied, ohne lange darüber nachzudenken. Im Alltag ist das höfliche Lachen dennoch unverzichtbar, etwa im Gespräch mit Vorgesetzten oder Unbekannten, denn es signalisiert Zustimmung, selbst wenn ein Witz misslungen ist. „Es wirkt wie ein sozialer Kitt“, sagt Reimers.",
+        "Wie tief das Lachen in uns verankert ist, belegte bereits in den Siebzigerjahren der Verhaltensforscher Irenäus Eibl-Eibesfeldt, der beobachtete, dass taubblind geborene Kinder lachen, obwohl sie das Lachen anderer nie gesehen oder gehört haben. Auch ihr Lächeln und ihr Weinen unterschieden sich kaum von denen sehender und hörender Kinder. Erlernen muss man das Lachen demnach nicht, wohl aber ein Gespür dafür, wann es angebracht ist und wann nicht.",
+        "Im Zug nach Bremen hat die junge Frau inzwischen ihre Kopfhörer abgenommen. Sie entschuldigt sich lächelnd und zeigt dem älteren Herrn das Video, in dem ein Hund versucht, einen viel zu langen Ast durch eine schmale Tür zu tragen, und dabei immer wieder hängen bleibt. Der Mann lacht jetzt schallend und wischt sich eine Träne aus dem Augenwinkel, während sich die beiden Jugendlichen neugierig herüberbeugen. Bis Bremen sind es noch zwanzig Minuten, doch nach einer ruhigen Fahrt sieht es nicht aus."
+      ],
+      "itemsLead": "Aussagen 13–23",
+      "items": [
+        {
+          "no": "13",
+          "text": "Unter Leuten lacht man viel öfter als allein, meist über gelungene Pointen.",
+          "answer": "f"
+        },
+        {
+          "no": "14",
+          "text": "Im Gespräch lacht, wer gerade erzählt, öfter als sein Gegenüber.",
+          "answer": "r"
+        },
+        {
+          "no": "15",
+          "text": "Lachkonserven im Fernsehen verfehlen ihre Wirkung, weil sie das Publikum nerven.",
+          "answer": "f"
+        },
+        {
+          "no": "16",
+          "text": "Vermutlich konnten schon unsere frühen Vorfahren lachen",
+          "answer": "r"
+        },
+        {
+          "no": "17",
+          "text": "[Text in der PDF-Vorlage nicht enthalten]",
+          "answer": "n"
+        },
+        {
+          "no": "18",
+          "text": "[Text in der PDF-Vorlage nicht enthalten]",
+          "answer": "f"
+        },
+        {
+          "no": "19",
+          "text": "Lachen über Comedy erhöhte bei den Teilnehmenden die Schmerzgrenze.",
+          "answer": "r"
+        },
+        {
+          "no": "20",
+          "text": "Lachyoga wurde in den Neunzigerjahren von einem indischen Arzt entwickelt.",
+          "answer": "n"
+        },
+        {
+          "no": "21",
+          "text": "Für Reimers ist erwiesen, dass Kinder rund 400-mal am Tag lachen.",
+          "answer": "f"
+        },
+        {
+          "no": "22",
+          "text": "Die Furcht, verspottet zu werden, ist von Land zu Land unterschiedlich häufig.",
+          "answer": "r"
+        },
+        {
+          "no": "23",
+          "text": "Eibl-Eibesfeldt machte seine Beobachtungen auf mehreren Kontinenten.",
+          "answer": "n"
+        }
+      ],
+      "headline": {
+        "instruction": "Welche der Überschriften a, b oder c trifft die Aussage des Textes am besten? Markieren Sie Ihre Lösung für die Aufgabe 24 auf dem Antwortbogen.",
+        "no": "24",
+        "options": {
+          "a": "Lachen als Medizin: Was die Forschung beweist",
+          "b": "Lachen – vor allem ein Signal an andere",
+          "c": "Warum Kitzeln nur durch andere wirkt"
+        },
+        "answer": "b"
+      }
+    },
+    "sb": {
+      "instruction": "Lesen Sie den folgenden Text. Welche Lösung (a, b, c oder d) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 25–46 auf dem Antwortbogen. Lücke (0) ist ein Beispiel.",
+      "title": "Der Bär mit dem Knopf im Ohr",
+      "paragraphs": [
+        "Margarete Steiff wurde 1847 in Giengen an der Brenz geboren. Mit anderthalb Jahren {{0}} sie an Kinderlähmung und war seitdem auf den Rollstuhl angewiesen; dennoch ließ sie sich nicht davon {{25}}, eine Ausbildung zur Schneiderin zu absolvieren. Weil ihr die rechte Hand Schmerzen bereitete, drehte sie die Nähmaschine kurzerhand um und nähte von der anderen Seite {{26}}.",
+        "1877 eröffnete sie ein kleines Geschäft für Filzbekleidung, und zwei Jahre später entdeckte sie in einer Modezeitschrift einen Elefanten aus Stoff, {{27}} sie als Nadelkissen nachnähte. Allerdings zeigte sich bald, dass Kinder die kleinen Filztiere viel {{28}} zum Spielen benutzten als zum Aufbewahren von Nähnadeln. Die Nachfrage wuchs so schnell, dass Steiff ihr Angebot um Affen, Pferde und Hunde {{29}}; 1893 wurde die „Filzspielwarenfabrik“ schließlich ins Handelsregister {{30}}.",
+        "Ihren größten Erfolg verdankte das Unternehmen jedoch Margaretes Neffen Richard: Er hatte im Stuttgarter Zoo {{31}} Bären gezeichnet und entwarf 1902 einen Plüschbären, {{32}} Arme und Beine sich bewegen ließen. Seine Tante war zunächst wenig {{33}}, präsentierte das Tier aber 1903 auf der Leipziger Spielwarenmesse. Tagelang {{34}} sich niemand dafür; erst am letzten Messetag bestellte ein amerikanischer Händler 3000 Stück.",
+        "Benannt ist der Bär nach dem amerikanischen Präsidenten Theodore „Teddy“ Roosevelt, {{35}} sich 1902 bei einer Jagd {{36}} hatte, einen angebundenen Bären zu erschießen. Eine in Zeitungen veröffentlichte Karikatur dieser Szene machte die Geschichte im {{37}} Land bekannt. Um sich von billigen Nachahmungen {{38}}, ließ die Firma ab 1904 jedem Stofftier einen kleinen Metallknopf ins Ohr setzen; dieser „Knopf im Ohr“ ist {{39}} das unverwechselbare Markenzeichen von Steiff.",
+        "1907 stellte Steiff fast eine Million Teddybären her; rund 400 Angestellte und 1800 Heimnäherinnen {{40}} damals für das Unternehmen. Die Gründerin starb 1909 {{41}} den Folgen einer Lungenentzündung, doch ihre Neffen führten den Betrieb weiter und machten ihn zu einer der {{42}} Spielzeugmarken der Welt.",
+        "Heute gilt der Teddybär als zeitloser Klassiker: Viele Erwachsene {{43}} ihren ersten Bären lebenslang auf, und alte Exemplare erzielen bei Versteigerungen Preise, {{44}} sonst nur Kunstwerke erreichen. Wer das Firmenmuseum in Giengen besucht, {{45}} dort, wie viel Handarbeit noch immer in jedem einzelnen Tier steckt. Und er {{46}} eine Unternehmerin kennen, die sich von ihrer Krankheit nie hat entmutigen lassen."
+      ],
+      "example": {
+        "options": {
+          "a": "erkranken",
+          "b": "erkrankt",
+          "c": "erkrankte",
+          "d": "erkrankten"
+        },
+        "answer": "c"
+      },
+      "items": [
+        {
+          "no": "25",
+          "options": {
+            "a": "abbestellen",
+            "b": "abbilden",
+            "c": "abbrechen",
+            "d": "abbringen"
+          },
+          "answer": "d"
+        },
+        {
+          "no": "26",
+          "options": {
+            "a": "aus",
+            "b": "außer",
+            "c": "bis",
+            "d": "über"
+          },
+          "answer": "a"
+        },
+        {
+          "no": "27",
+          "options": {
+            "a": "den",
+            "b": "der",
+            "c": "deren",
+            "d": "dessen"
+          },
+          "answer": "a"
+        },
+        {
+          "no": "28",
+          "options": {
+            "a": "gerner",
+            "b": "lieber",
+            "c": "lieberer",
+            "d": "liebsten"
+          },
+          "answer": "b"
+        },
+        {
+          "no": "29",
+          "options": {
+            "a": "erwarb",
+            "b": "erwartete",
+            "c": "erweiterte",
+            "d": "erwirtschaftete"
+          },
+          "answer": "c"
+        },
+        {
+          "no": "30",
+          "options": {
+            "a": "eingetragen",
+            "b": "eingetragene",
+            "c": "eintragend",
+            "d": "einträgt"
+          },
+          "answer": "a"
+        },
+        {
+          "no": "31",
+          "options": {
+            "a": "stunden lang",
+            "b": "stundenlang",
+            "c": "Stundenlang",
+            "d": "stundenlank"
+          },
+          "answer": "b"
+        },
+        {
+          "no": "32",
+          "options": {
+            "a": "dem",
+            "b": "deren",
+            "c": "derjenigen",
+            "d": "dessen"
+          },
+          "answer": "d"
+        },
+        {
+          "no": "33",
+          "options": {
+            "a": "begehrt",
+            "b": "begeistert",
+            "c": "begleitet",
+            "d": "begutachtet"
+          },
+          "answer": "b"
+        },
+        {
+          "no": "34",
+          "options": {
+            "a": "interessant",
+            "b": "interessiert",
+            "c": "interessierte",
+            "d": "interessierten"
+          },
+          "answer": "c"
+        },
+        {
+          "no": "35",
+          "options": {
+            "a": "dem",
+            "b": "den",
+            "c": "denen",
+            "d": "der"
+          },
+          "answer": "d"
+        },
+        {
+          "no": "36",
+          "options": {
+            "a": "gewagt",
+            "b": "geweigert",
+            "c": "gewöhnt",
+            "d": "gezweifelt"
+          },
+          "answer": "b"
+        },
+        {
+          "no": "37",
+          "options": {
+            "a": "ganze",
+            "b": "ganzem",
+            "c": "ganzen",
+            "d": "ganzheitlichen"
+          },
+          "answer": "c"
+        },
+        {
+          "no": "38",
+          "options": {
+            "a": "abzuheben",
+            "b": "abzuholen",
+            "c": "abzulegen",
+            "d": "abzuwenden"
+          },
+          "answer": "a"
+        },
+        {
+          "no": "39",
+          "options": {
+            "a": "bis heute",
+            "b": "bis Heute",
+            "c": "Bis heute",
+            "d": "bisheute"
+          },
+          "answer": "a"
+        },
+        {
+          "no": "40",
+          "options": {
+            "a": "arbeiten",
+            "b": "arbeitenden",
+            "c": "arbeitete",
+            "d": "arbeiteten"
+          },
+          "answer": "d"
+        },
+        {
+          "no": "41",
+          "options": {
+            "a": "an",
+            "b": "aus",
+            "c": "durch",
+            "d": "von"
+          },
+          "answer": "a"
+        },
+        {
+          "no": "42",
+          "options": {
+            "a": "am bekanntesten",
+            "b": "bekannteste",
+            "c": "bekanntesten",
+            "d": "bekanntester"
+          },
+          "answer": "c"
+        },
+        {
+          "no": "43",
+          "options": {
+            "a": "geben",
+            "b": "haben",
+            "c": "halten",
+            "d": "heben"
+          },
+          "answer": "d"
+        },
+        {
+          "no": "44",
+          "options": {
+            "a": "dem",
+            "b": "den",
+            "c": "denen",
+            "d": "die"
+          },
+          "answer": "d"
+        },
+        {
+          "no": "45",
+          "options": {
+            "a": "erfährd",
+            "b": "erfährt",
+            "c": "erfärt",
+            "d": "erfehrt"
+          },
+          "answer": "b"
+        },
+        {
+          "no": "46",
+          "options": {
+            "a": "lehrt",
+            "b": "lernen",
+            "c": "lernt",
+            "d": "lernte"
+          },
+          "answer": "c"
+        }
+      ]
+    }
+  },
+  "hoeren": {
+    "t1": {
+      "instruction": "Sie hören die Meinungen von acht Personen. Sie hören die Meinungen nur einmal. Entscheiden Sie beim Hören, welche Aussage (a–j) zu welcher Person (Sprecher/in 1–8) passt. Zwei Aussagen passen nicht. Markieren Sie Ihre Lösungen für die Aufgaben 47–54 auf dem Antwortbogen.",
+      "readNote": "Lesen Sie jetzt die Aussagen a–j. Sie haben dazu eine Minute Zeit.",
+      "title": "Du oder Sie an der Hochschule?",
+      "statements": [
+        {
+          "letter": "a",
+          "text": "Die Hochschule sollte die Anrede für alle Fächer verbindlich regeln."
+        },
+        {
+          "letter": "b",
+          "text": "Wer andere bewerten muss, sollte zu ihnen Abstand halten."
+        },
+        {
+          "letter": "c",
+          "text": "Wenn ich das Du anbiete, beteiligen sich mehr Studierende am Gespräch."
+        },
+        {
+          "letter": "d",
+          "text": "Inzwischen verstehe ich das Sie eher als Zeichen von Respekt."
+        },
+        {
+          "letter": "e",
+          "text": "In anderen Ländern ist es an Hochschulen überall selbstverständlich, Lehrende zu duzen."
+        },
+        {
+          "letter": "f",
+          "text": "Ein freundlicher Umgangston ändert nichts an bestehenden Abhängigkeiten."
+        },
+        {
+          "letter": "g",
+          "text": "Wichtiger als Du oder Sie ist mir ein höflicher Ton."
+        },
+        {
+          "letter": "h",
+          "text": "Das Du hat es mir schwerer gemacht, Kritik zu äußern."
+        },
+        {
+          "letter": "i",
+          "text": "Mit dem Du der Jüngeren habe ich mich mittlerweile angefreundet."
+        },
+        {
+          "letter": "j",
+          "text": "Eine gemeinsame Regel für alle Fachbereiche ist nicht nötig."
+        }
+      ],
+      "items": [
+        {
+          "no": "47",
+          "label": "Sprecherin 1",
+          "answer": "d"
+        },
+        {
+          "no": "48",
+          "label": "Sprecher 2",
+          "answer": "b"
+        },
+        {
+          "no": "49",
+          "label": "Sprecherin 3",
+          "answer": "f"
+        },
+        {
+          "no": "50",
+          "label": "Sprecher 4",
+          "answer": "h"
+        },
+        {
+          "no": "51",
+          "label": "Sprecherin 5",
+          "answer": "g"
+        },
+        {
+          "no": "52",
+          "label": "Sprecher 6",
+          "answer": "c"
+        },
+        {
+          "no": "53",
+          "label": "Sprecherin 7",
+          "answer": "j"
+        },
+        {
+          "no": "54",
+          "label": "Sprecher 8",
+          "answer": "i"
+        }
+      ]
+    },
+    "t2": {
+      "instruction": "Sie hören eine Radiosendung. Sie hören die Sendung nur einmal. Entscheiden Sie beim Hören, welche Aussage (a, b oder c) am besten passt. Markieren Sie Ihre Lösungen für die Aufgaben 55–64 auf dem Antwortbogen.",
+      "readNote": "Lesen Sie jetzt die Aufgaben 55–64. Sie haben dazu drei Minuten Zeit.",
+      "items": [
+        {
+          "no": "55",
+          "stem": "Den eigentlichen Grund für den Vogelzug sieht Dr. Lindner in",
+          "options": {
+            "a": "der Kälte des Winters.",
+            "b": "dem Mangel an Nahrung.",
+            "c": "den kürzer werdenden Tagen."
+          },
+          "answer": "b"
+        },
+        {
+          "no": "56",
+          "stem": "Der Storch aus Mecklenburg, von dem Dr. Lindner erzählt,",
+          "options": {
+            "a": "belegte, wie weit Störche ziehen.",
+            "b": "trug als erster Vogel einen Metallring.",
+            "c": "hatte im Schlamm überwintert."
+          },
+          "answer": "a"
+        },
+        {
+          "no": "57",
+          "stem": "Junge Kuckucke finden ihr Winterquartier, weil sie",
+          "options": {
+            "a": "sich älteren Kuckucken anschließen.",
+            "b": "mit ihren Pflegeeltern fliegen.",
+            "c": "den Weg von Geburt an kennen."
+          },
+          "answer": "c"
+        },
+        {
+          "no": "58",
+          "stem": "Zur Orientierung nutzen Zugvögel nach Dr. Lindner",
+          "options": {
+            "a": "hauptsächlich den Stand des Mondes.",
+            "b": "mehrere Methoden gleichzeitig.",
+            "c": "allein das Magnetfeld der Erde."
+          },
+          "answer": "b"
+        },
+        {
+          "no": "59",
+          "stem": "Viele Singvögel ziehen nachts, unter anderem weil sie",
+          "options": {
+            "a": "nachts sicherer vor Feinden sind.",
+            "b": "sich am Mond orientieren können.",
+            "c": "tagsüber ruhen und schlafen müssen."
+          },
+          "answer": "a"
+        },
+        {
+          "no": "60",
+          "stem": "Kleine Singvögel konnte man lange nicht mit Sendern ausstatten, weil",
+          "options": {
+            "a": "die Ringe die Sender störten.",
+            "b": "es noch keine Satelliten gab.",
+            "c": "die Geräte zu viel wogen."
+          },
+          "answer": "c"
+        },
+        {
+          "no": "61",
+          "stem": "Die junge Pfuhlschnepfe, von der Dr. Lindner erzählt,",
+          "options": {
+            "a": "rastete unterwegs auf mehreren Inseln.",
+            "b": "lebte unterwegs von ihren Reserven.",
+            "c": "war bereits ein erfahrener Vogel."
+          },
+          "answer": "b"
+        },
+        {
+          "no": "62",
+          "stem": "Für den Trauerschnäpper hat der Klimawandel zur Folge, dass der Vogel",
+          "options": {
+            "a": "das größte Nahrungsangebot verpasst.",
+            "b": "den Winter in Europa verbringen kann.",
+            "c": "einen kürzeren Weg nach Afrika hat."
+          },
+          "answer": "a"
+        },
+        {
+          "no": "63",
+          "stem": "Über die Weißstörche sagt Dr. Lindner, dass",
+          "options": {
+            "a": "wieder mehr Tiere nach Afrika fliegen.",
+            "b": "ihre Zahl wegen der Deponien abnimmt.",
+            "c": "viele in Südeuropa überwintern."
+          },
+          "answer": "c"
+        },
+        {
+          "no": "64",
+          "stem": "Gegen Zusammenstöße mit Fensterscheiben helfen nach Dr. Lindner vor allem",
+          "options": {
+            "a": "einzelne Aufkleber in Vogelform.",
+            "b": "Markierungen auf dem gesamten Glas.",
+            "c": "unsichtbare Markierungen im UV-Bereich."
+          },
+          "answer": "b"
+        }
+      ]
+    },
+    "t3": {
+      "instruction": "Sie hören einen Vortrag. Sie hören den Vortrag nur einmal. Sie haben Handzettel mit den Folien der Präsentation erhalten. Schreiben Sie die fehlenden Informationen stichwortartig in die freien Zeilen 65–74 in der rechten Spalte.",
+      "exampleNote": "Die Lösung 0 ist ein Beispiel.",
+      "readNote": "Lesen Sie jetzt die Stichworte. Sie haben dazu eine Minute Zeit.",
+      "finalNote": "Sie haben jetzt fünf Minuten Zeit, Ihre Antworten zu den Aufgaben 65–74 auf den Antwortbogen zu übertragen.",
+      "exampleAnswer": "Physik im Alltag",
+      "slides": [
+        {
+          "title": "Ringvorlesung",
+          "lines": [
+            {
+              "no": "0",
+              "bullet": false,
+              "dash": false,
+              "text": "„…“"
+            },
+            {
+              "no": "",
+              "bullet": false,
+              "dash": false,
+              "text": "Thema heute: Stau aus dem Nichts"
+            },
+            {
+              "no": "",
+              "bullet": false,
+              "dash": false,
+              "text": "Referent: Dr. Tobias Brandt, Verkehrsphysiker"
+            }
+          ]
+        },
+        {
+          "title": "Entstehung",
+          "lines": [
+            {
+              "no": "",
+              "bullet": true,
+              "dash": false,
+              "text": "Auslöser: ein einzelnes, etwas zu starkes Bremsen"
+            },
+            {
+              "no": "65",
+              "bullet": true,
+              "dash": false,
+              "text": "Verkehr wird instabil ab …"
+            },
+            {
+              "no": "66",
+              "bullet": true,
+              "dash": false,
+              "text": "Richtung der Stauwelle: …"
+            }
+          ]
+        },
+        {
+          "title": "Experiment 2008",
+          "lines": [
+            {
+              "no": "",
+              "bullet": true,
+              "dash": false,
+              "text": "22 Autos auf einer Kreisbahn in Japan"
+            },
+            {
+              "no": "67",
+              "bullet": true,
+              "dash": false,
+              "text": "Anweisung an die Fahrer: …"
+            },
+            {
+              "no": "68",
+              "bullet": true,
+              "dash": false,
+              "text": "Beobachtung nach wenigen Minuten: …"
+            }
+          ]
+        },
+        {
+          "title": "Mehr Straßen – weniger Stau?",
+          "lines": [
+            {
+              "no": "",
+              "bullet": true,
+              "dash": false,
+              "text": "Mathematiker Dietrich Braess, 1968"
+            },
+            {
+              "no": "69",
+              "bullet": true,
+              "dash": false,
+              "text": "Name des Effekts: …"
+            },
+            {
+              "no": "70",
+              "bullet": true,
+              "dash": false,
+              "text": "Seoul, Verkehr nach dem Abriss einer Stadtautobahn: …"
+            }
+          ]
+        },
+        {
+          "title": "Neue Fahrspuren",
+          "lines": [
+            {
+              "no": "",
+              "bullet": true,
+              "dash": false,
+              "text": "US-Studie von 2011"
+            },
+            {
+              "no": "71",
+              "bullet": true,
+              "dash": false,
+              "text": "Autobahnnetz um zehn Prozent erweitert: …"
+            }
+          ]
+        },
+        {
+          "title": "Was hilft",
+          "lines": [
+            {
+              "no": "72",
+              "bullet": true,
+              "dash": false,
+              "text": "Variable Tempolimits: …"
+            },
+            {
+              "no": "73",
+              "bullet": true,
+              "dash": false,
+              "text": "Ampeln an Auffahrten: …"
+            },
+            {
+              "no": "",
+              "bullet": true,
+              "dash": false,
+              "text": "Reißverschluss erst am Ende der Spur"
+            }
+          ]
+        },
+        {
+          "title": "Fazit",
+          "lines": [
+            {
+              "no": "74",
+              "bullet": true,
+              "dash": false,
+              "text": "Wichtigster Rat an die Autofahrer: …"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "no": "65",
+          "solution": "ca. 1500–1800 Fahrzeugen pro Stunde (und Fahrstreifen) (die Zahl ohne Bezugsgröße genügt nicht)"
+        },
+        {
+          "no": "66",
+          "solution": "rückwärts, entgegen der Fahrtrichtung (mit ca. 15 km/h)"
+        },
+        {
+          "no": "67",
+          "solution": "möglichst gleichmäßig mit 30 km/h fahren"
+        },
+        {
+          "no": "68",
+          "solution": "Stau / Stop-and-go-Welle ohne äußere Ursache (auch „Autos schieben sich zusammen, müssen anhalten“)"
+        },
+        {
+          "no": "69",
+          "solution": "Braess-Paradoxon (auch „Paradoxon“)"
+        },
+        {
+          "no": "70",
+          "solution": "Verkehr floss eher schneller / kein Verkehrschaos"
+        },
+        {
+          "no": "71",
+          "solution": "etwa zehn Prozent mehr gefahrene Kilometer / Straße bald wieder so voll wie vorher"
+        },
+        {
+          "no": "72",
+          "solution": "gleichen die Geschwindigkeiten an → weniger Bremsen und Überholen → Stau später oder gar nicht (eine der Angaben genügt)"
+        },
+        {
+          "no": "73",
+          "solution": "nur ein Fahrzeug pro Grünphase → keine Pulks beim Einfädeln"
+        },
+        {
+          "no": "74",
+          "solution": "großen Abstand halten und vorausschauend fahren (nur sanft bremsen) („Auto stehen lassen“ genügt nicht)"
+        }
+      ]
+    }
+  },
+  "schreiben": {
+    "instruction": "Wählen Sie eines der folgenden zwei Themen. Schreiben Sie einen Text, in dem Sie Ihren eigenen Standpunkt dazu erarbeiten und argumentativ darlegen. Ihr Text soll mindestens 350 Wörter umfassen. Sie haben 70 Minuten Zeit.",
+    "minWords": 350,
+    "minutes": 70,
+    "themes": [
+      {
+        "no": "1",
+        "paragraphs": [
+          "In einem Seminar zur Wissenschaftsethik wird diskutiert, ob Tierversuche in der Forschung grundsätzlich verboten werden sollten.",
+          "Erörtern Sie Vor- und Nachteile eines solchen Verbots, greifen Sie die Zitate auf und beziehen Sie eigene Erfahrungen ein. Ziehen Sie ein begründetes Fazit."
+        ],
+        "quoteLead": "Die folgenden Zitate geben Ihnen erste Ideen:",
+        "quotes": [
+          "„Ohne Tierversuche gäbe es viele Medikamente nicht, die heute Leben retten.“",
+          "„Eine Maus ist kein kleiner Mensch.“"
+        ],
+        "model": {
+          "title": "Tierversuche verbieten?",
+          "paragraphs": [
+            "Fast jedes Medikament, das wir heute einnehmen, wurde vor seiner Zulassung auch an Tieren getestet. Gleichzeitig wächst das Unbehagen darüber, dass in Deutschland Jahr für Jahr weit über eine Million Tiere für die Forschung eingesetzt werden. In unserem Seminar stellt sich deshalb die Frage, ob Tierversuche grundsätzlich verboten werden sollten. Im Folgenden werden die wichtigsten Argumente beider Seiten erörtert.",
+            "Gegen ein Verbot spricht vor allem der medizinische Nutzen. Das erste Zitat bringt diesen Gedanken auf den Punkt: Viele Behandlungen, von Impfstoffen bis zum Insulin, wären ohne Versuche an Tieren nicht entwickelt worden. So wurde Insulin Anfang der 1920er-Jahre zunächst an Hunden erprobt, bevor es Menschen mit Diabetes das Leben rettete. Hinzu kommt, dass sich ein lebender Organismus mit seinem Kreislauf, seinem Immunsystem und seinen Organen bislang nicht vollständig im Labor nachbilden lässt. Ein generelles Verbot würde die Forschung daher bremsen oder in Länder verlagern, in denen der Tierschutz weniger streng geregelt ist.",
+            "Andererseits ist der Einwand, der im zweiten Zitat zum Ausdruck kommt, ernst zu nehmen. Mäuse und Ratten, die rund vier Fünftel aller Versuchstiere ausmachen, reagieren in vielen Fällen anders als Menschen. Zahlreiche Wirkstoffe, die im Tierversuch vielversprechend erschienen, scheitern später in klinischen Studien. Dazu kommt die ethische Frage, ob der Mensch das Recht hat, Tieren für seinen eigenen Nutzen Leid zuzufügen. Inzwischen gibt es außerdem Alternativen wie Zellkulturen, Computermodelle oder sogenannte Organchips, auf denen menschliches Gewebe nachgebildet wird.",
+            "Ich habe in meinem Biologiestudium selbst ein Praktikum mit Zellkulturen gemacht. Überrascht hat mich, wie viel sich damit bereits untersuchen lässt, etwa die Giftigkeit eines Stoffes für Leberzellen. Gleichzeitig erklärte uns die Betreuerin, dass sich auf diese Weise nicht klären lässt, wie ein Medikament im ganzen Körper verteilt und abgebaut wird. Diese Erfahrung hat mir gezeigt, dass Alternativen viele Tierversuche ersetzen können, aber noch nicht alle. Gerade bei der Frage nach Nebenwirkungen im ganzen Organismus stoßen die Ersatzmethoden an Grenzen.",
+            "Insgesamt halte ich ein sofortiges und vollständiges Verbot für nicht verantwortbar, solange es für bestimmte Fragen keine gleichwertigen Methoden gibt. Wohl aber sollte deutlich mehr Geld in die Entwicklung von Ersatzverfahren fließen, und Tierversuche sollten nur dort erlaubt sein, wo nachweislich keine Alternative besteht. Ziel muss es sein, die Zahl der Versuche Schritt für Schritt zu verringern, sodass Tierversuche eines Tages nicht verboten werden müssen, sondern von selbst überflüssig werden."
+          ],
+          "hint": "Textsorte Erörterung für ein Seminar. Aufbau: Einleitung mit Sachinformation und Leitfrage – Argumente gegen ein Verbot mit Bezug auf Zitat 1 – Argumente für ein Verbot mit Bezug auf Zitat 2 – eigene Erfahrung, die beide Seiten stützt – Fazit mit Bedingungen. Sprachliche Mittel: überwiegend sachlicher, unpersönlicher Stil (Im Folgenden werden … erörtert; ist … ernst zu nehmen), Ich-Form nur bei der eigenen Erfahrung und im Fazit, Passiv (wurde … erprobt), Nominalstil (Zulassung, Ersatzverfahren), Konnektoren der Abwägung (vor allem, hinzu kommt, andererseits, dazu kommt, insgesamt, wohl aber). Umfang: 380 Wörter."
+        }
+      },
+      {
+        "no": "2",
+        "paragraphs": [
+          "Eine Hochschulzeitschrift fragt ihre Leserinnen und Leser, ob Lehrveranstaltungen grundsätzlich erst um zehn Uhr beginnen sollten.",
+          "Nehmen Sie persönlich Stellung: Legen Sie dar, was für und was gegen einen späteren Beginn spricht, beziehen Sie die Zitate ein und begründen Sie Ihre Meinung."
+        ],
+        "quoteLead": "Die folgenden Zitate geben Ihnen erste Ideen:",
+        "quotes": [
+          "„Morgenstund hat Gold im Mund.“",
+          "„Um acht Uhr sitzen im Hörsaal die Körper, aber nicht die Köpfe.“"
+        ],
+        "model": {
+          "title": "Lernen mit wachem Kopf",
+          "paragraphs": [
+            "In meinem ersten Semester hatte ich jeden Montag um acht Uhr eine Vorlesung in Statistik. Ich bin regelmäßig hingegangen, aber ehrlich gesagt habe ich in der ersten halben Stunde kaum etwas verstanden. Neben mir saßen Kommilitoninnen und Kommilitonen mit Kaffeebechern und halb geschlossenen Augen, und einige verpassten den Anfang ganz. Deshalb kann ich gut nachvollziehen, warum nun gefragt wird, ob Lehrveranstaltungen grundsätzlich erst um zehn Uhr beginnen sollten.",
+            "Für einen späteren Beginn spricht aus meiner Sicht vor allem die Biologie. Die innere Uhr junger Erwachsener ist im Durchschnitt später eingestellt als die von Kindern oder älteren Menschen. Wer um acht Uhr im Hörsaal sitzen muss, schläft deshalb oft zu wenig. Müdigkeit schwächt Konzentration und Gedächtnis, und genau das ist im Studium fatal. Eine umfangreiche Untersuchung aus Singapur hat ergeben, dass Studierende mit frühen Lehrveranstaltungen seltener anwesend waren, rund eine Stunde weniger schliefen und schlechtere Noten hatten. Das zweite Zitat ist also mehr als ein Scherz: Um acht Uhr sitzen tatsächlich oft die Körper im Saal, die Köpfe aber noch im Bett.",
+            "Andererseits steckt auch in dem Sprichwort aus dem ersten Zitat ein wahrer Kern. Es gibt Menschen, die morgens am konzentriertesten sind, und viele Studierende haben gute Gründe für einen frühen Start: Wer nachmittags arbeitet, ein Kind aus der Kita abholen muss oder lange pendelt, ist auf frühe Termine angewiesen. Außerdem sind Hörsäle knapp. Darf keine Veranstaltung vor zehn Uhr beginnen, verschieben sich viele Kurse in den späten Nachmittag und Abend, und der Tag wird für alle länger.",
+            "Ich bin trotzdem für einen späteren Beginn, allerdings nicht als starre Regel. Pflichtveranstaltungen sollten möglichst nicht vor zehn Uhr liegen. Wo es Parallelkurse gibt, könnten die Hochschulen einen frühen und einen späten Termin anbieten, damit jeder nach seinem eigenen Rhythmus wählen kann. So bliebe die Wahlfreiheit erhalten, und niemand würde zu einem Tagesablauf gezwungen, der ihm nicht liegt. Hilfreich wären außerdem Aufzeichnungen der großen Vorlesungen, mit denen man Verpasstes bei Bedarf nachholen kann.",
+            "Die Statistikvorlesung, die ich damals besucht habe, beginnt inzwischen übrigens um elf Uhr. Im letzten Jahr haben deutlich mehr Erstsemester die Klausur bestanden als früher. Ob das allein an der Uhrzeit liegt, kann ich nicht beurteilen. Aber ich bin ziemlich sicher, dass die Köpfe jetzt öfter mit im Saal sitzen."
+          ],
+          "hint": "Textsorte persönliche Stellungnahme für eine Hochschulzeitschrift. Aufbau: persönlicher Einstieg mit einem Erlebnis – Argumente dafür mit Bezug auf Zitat 2 – Einwände mit Bezug auf Zitat 1 – eigene Position mit abgestuften Vorschlägen – Rückgriff auf den Einstieg im Schluss. Sprachliche Mittel: Ich-Perspektive und wertende Ausdrücke (ehrlich gesagt, aus meiner Sicht, Ich bin trotzdem für …), Konjunktiv II für Vorschläge (sollten, wären), Gegenüberstellung (andererseits, außerdem), Bezug auf eine Studie, Rückgriff auf ein Zitat im Schlusssatz. Umfang: 371 Wörter."
+        }
+      }
+    ]
+  },
+  "muendlich": {
+    "teil1": [
+      {
+        "who": "A",
+        "themes": [
+          "Stellen Sie ein Hobby vor, das Sie anderen empfehlen würden. Was braucht man dafür, und was macht es besonders?",
+          "Sollte die Vier-Tage-Woche bei gleichem Lohn eingeführt werden? Begründen Sie Ihre Meinung und gehen Sie auch auf Gegenargumente ein."
+        ]
+      },
+      {
+        "who": "B",
+        "themes": [
+          "Beschreiben Sie, welche Rolle Großeltern in den Familien Ihres Heimatlandes spielen. Hat sich daran in den letzten Jahrzehnten etwas verändert?",
+          "Sollten an Schulen Uniformen eingeführt werden? Begründen Sie Ihre Meinung."
+        ]
+      },
+      {
+        "who": "C",
+        "themes": [
+          "Stellen Sie ein Sprichwort aus Ihrem Heimatland vor. Was bedeutet es, und in welchen Situationen verwendet man es?",
+          "Sollte privates Feuerwerk an Silvester verboten werden? Begründen Sie Ihre Meinung."
+        ]
+      }
+    ],
+    "teil2": [
+      {
+        "no": "1",
+        "text": "„Erst der Ernst macht den Mann, erst der Fleiß das Genie.“",
+        "author": "Theodor Fontane, 1819–1898, Schriftsteller"
+      },
+      {
+        "no": "2",
+        "text": "„Man kann eine Sache auch zwanzig Jahre lang falsch machen.“",
+        "author": "Kurt Tucholsky, 1890–1935, Schriftsteller und Journalist"
+      },
+      {
+        "no": "3",
+        "text": "„Wenn jemand eine Reise tut, so kann er was erzählen.“",
+        "author": "nach Matthias Claudius, 1740–1815, Dichter"
+      }
+    ]
+  },
+  "notes": "Die PDF-Vorlage ist an Seitenenden abgeschnitten (Chromium-Druck; der Text fehlt auch im Textlayer, nicht nur optisch). 1) Lesen 2, Abschnitt d: zwischen 'Ich befürchte viel' (S. 4 unten) und 'sie beispielsweise im österreichischen Hallstatt bereits gibt.' (S. 5 oben) fehlt Text; als […] markiert. 2) Lesen 3, Text: zwischen 'untersuchten britische Forscher bereits Ende der' (S. 6 unten, Zeile nur angeschnitten) und 'Kitzeln ausbleibt.' (S. 7 oben) fehlt Text; als […] markiert. 3) Lesen 3, Aussagen: Nr. 16 steht nur bis 'Vermutlich konnten schon unsere frühen Vorfahren lachen' (ohne Punkt); Nr. 17 und 18 fehlen ganz (Lösungen: 17 nicht im Text, 18 falsch); in den Daten steht der Platzhalter '[Text in der PDF-Vorlage nicht enthalten]'. Auch im Kommentar (S. 31/32) fehlen die Erläuterungen zu 16 (Rest), 17, 18 und der Anfang von 19. Die PDF-Vorlage muss neu erzeugt werden; danach diese Stellen aus dem PDF nachtragen. Seitenabweichung: Musterlösungen Schreiben S. 21 (Thema 1) und S. 22 (Thema 2), mündliche Musterlösungen S. 22–24 (nicht nur S. 23). Lesen 3 Verteilung laut Kommentar 4 r, 4 f, 3 –; die Lösungen im Schlüssel ergeben 4 r (14, 16, 19, 22), 4 f (13, 15, 18, 21), 3 – (17, 20, 23).",
+  "index": {
+    "short": "Wie das Wetter berechenbar wurde · Wenn Gäste zur Last werden · Der Bär mit dem Knopf im Ohr",
+    "lesen": {
+      "t1": "Wie das Wetter berechenbar wurde",
+      "t2": "Wenn Gäste zur Last werden",
+      "t3": "Lachen – vor allem ein Signal an andere",
+      "sb": "Der Bär mit dem Knopf im Ohr"
+    },
+    "hoeren": {
+      "t1": "Du oder Sie an der Hochschule?",
+      "t2": "Vogelzug",
+      "t3": "Stau aus dem Nichts"
+    },
+    "schreiben": {
+      "t1": "Tierversuche verbieten?",
+      "t2": "Lehrveranstaltungen erst ab zehn Uhr?"
+    },
+    "sprechen": {
+      "t1": [
+        {
+          "who": "A",
+          "topics": [
+            "Hobby zum Empfehlen",
+            "Vier-Tage-Woche"
+          ]
+        },
+        {
+          "who": "B",
+          "topics": [
+            "Großeltern im Heimatland",
+            "Schuluniformen"
+          ]
+        },
+        {
+          "who": "C",
+          "topics": [
+            "Sprichwort aus dem Heimatland",
+            "Privates Silvesterfeuerwerk"
+          ]
+        }
+      ],
+      "t2": [
+        {
+          "no": "1",
+          "author": "Theodor Fontane"
+        },
+        {
+          "no": "2",
+          "author": "Kurt Tucholsky"
+        },
+        {
+          "no": "3",
+          "author": "Matthias Claudius"
+        }
+      ]
+    }
+  }
+}

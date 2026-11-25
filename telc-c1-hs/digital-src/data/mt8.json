@@ -1,0 +1,1036 @@
+{
+  "id": 8,
+  "roman": "VIII",
+  "lesen": {
+    "t1": {
+      "instruction": "Lesen Sie den folgenden Text. Welche der Sätze a–h gehören in die Lücken 1–6? Es gibt jeweils nur eine richtige Lösung. Zwei Sätze können nicht zugeordnet werden. Markieren Sie Ihre Lösungen für die Aufgaben 1–6 auf dem Antwortbogen. Lücke (0) ist ein Beispiel.",
+      "intro": "In einer populärwissenschaftlichen Zeitschrift lesen Sie den folgenden Artikel:",
+      "title": "Ein Planet, gefunden am Schreibtisch",
+      "paragraphs": [
+        "Im März 1781 entdeckte der Musiker und Astronom Wilhelm Herschel mit einem selbst gebauten Teleskop ein schwach leuchtendes Scheibchen, das er zunächst für einen Kometen hielt, bis Berechnungen seiner Umlaufbahn bewiesen, dass er einen Planeten gefunden hatte: den Uranus. {{0}} Damit verdoppelte sich der Durchmesser des bekannten Sonnensystems.",
+        "Später bemerkten die Astronomen, dass sich Uranus nicht an die von der Himmelsmechanik vorgeschriebene Bahn hielt, sondern mal zu schnell, mal zu langsam war, und manche vermuteten, ein unbekannter Planet bringe ihn mit seiner Anziehungskraft aus dem Takt. {{1}} Solange unklar blieb, wo man suchen sollte, war das Unterfangen nämlich aussichtslos.",
+        "1845 nahm sich der französische Mathematiker Urbain Le Verrier des Rätsels an und versuchte, aus den Abweichungen die Position des unsichtbaren Störenfrieds zurückzurechnen, wobei er sämtliche Berechnungen von Hand ausführen und jeden Rechenschritt mehrfach überprüfen musste. {{2}} Im Sommer 1846 präsentierte er der Pariser Akademie schließlich sein Ergebnis: die Stelle am Himmel, wo der Planet stehen müsse.",
+        "Da in Paris niemand bereit war, ernsthaft danach zu suchen – der Aufwand erschien zu groß, die Vorhersage zu unsicher –, wandte sich Le Verrier brieflich an Johann Gottfried Galle von der Berliner Sternwarte. {{3}} Noch am selben Abend bat dieser seinen Direktor um Erlaubnis, das große Fernrohr zu benutzen.",
+        "Gemeinsam mit dem Studenten Heinrich d’Arrest zog Galle eine neue Sternkarte heran, auf der alle Sterne dieses Himmelsabschnitts bis zu einer bestimmten Helligkeit verzeichnet waren. {{4}} Kurz nach Mitternacht stießen die beiden auf einen Stern achter Größe, den die Karte nicht enthielt und der sich bis zum folgenden Abend ein Stück weiterbewegte: Es war der gesuchte Planet, weniger als einen Grad von der vorausberechneten Position entfernt.",
+        "Bald stellte sich heraus, dass der junge britische Mathematiker John Couch Adams bereits früher eine ähnliche Position berechnet hatte. {{5}} Als man in Cambridge im Sommer 1846 doch noch suchte, beobachtete man den Planeten sogar zweimal, hielt ihn aber für einen Fixstern. Daraufhin entbrannte zwischen Briten und Franzosen ein Streit um den Ruhm.",
+        "Mit derselben Methode fahndete Le Verrier später nach einem weiteren Planeten, da auch der Merkur geringfügig von der berechneten Bahn abwich. 1859 meldete ein Landarzt, er habe einen dunklen Punkt vor der Sonnenscheibe vorbeiziehen sehen, und der vermutete Planet erhielt den Namen Vulkan. {{6}} Die Abweichung des Merkurs erklärte erst 1915 Albert Einstein mit seiner Allgemeinen Relativitätstheorie – ganz ohne zusätzlichen Planeten."
+      ],
+      "sentences": [
+        {
+          "letter": "a",
+          "text": "Seine Ergebnisse waren aber unveröffentlicht geblieben und in England kaum beachtet worden."
+        },
+        {
+          "letter": "b",
+          "text": "Auf ihr war der Planet sogar schon als unscheinbarer Stern eingetragen."
+        },
+        {
+          "letter": "c",
+          "text": "Monatelang füllte der Franzose dafür Seite um Seite mit Gleichungen und Tabellen."
+        },
+        {
+          "letter": "d",
+          "text": "Spätere Beobachter konnten die Meldung jedoch nie bestätigen, auch nicht bei Sonnenfinsternissen."
+        },
+        {
+          "letter": "e",
+          "text": "Gesehen hatte diesen Planeten allerdings noch niemand, nicht einmal mit den besten Fernrohren."
+        },
+        {
+          "letter": "f",
+          "text": "Aus der Nähe sah man den fernen Planeten erst 1989, als die amerikanische Raumsonde Voyager 2 an ihm vorbeiflog."
+        },
+        {
+          "letter": "g",
+          "text": "Sein Brief traf am 23. September 1846 in Berlin ein, und Galle zögerte keinen Augenblick."
+        },
+        {
+          "letter": "h",
+          "text": "Jeder Lichtpunkt, der auf ihr fehlte, konnte deshalb der neue Planet sein."
+        }
+      ],
+      "example": {
+        "letter": "z",
+        "text": "Es handelte sich um den ersten seit der Antike neu entdeckten Planeten."
+      },
+      "items": [
+        {
+          "no": "1",
+          "answer": "e"
+        },
+        {
+          "no": "2",
+          "answer": "c"
+        },
+        {
+          "no": "3",
+          "answer": "g"
+        },
+        {
+          "no": "4",
+          "answer": "h"
+        },
+        {
+          "no": "5",
+          "answer": "a"
+        },
+        {
+          "no": "6",
+          "answer": "d"
+        }
+      ]
+    },
+    "t2": {
+      "instruction": "Lesen Sie den folgenden Text. In welchem Textabsatz a–e finden Sie die Antworten auf die Fragen 7–12? Es gibt jeweils nur eine richtige Lösung. Jeder Absatz kann Antworten auf mehrere Fragen enthalten. Markieren Sie Ihre Lösungen für die Aufgaben 7–12 auf dem Antwortbogen.",
+      "title": "Ruhe, bitte – aber für wen?",
+      "sections": [
+        {
+          "letter": "a",
+          "text": "Kürzlich reiste ich mit dem ICE von Köln nach München, wo ich eine alte Freundin besuchen wollte. Um unterwegs einen Fachvortrag vorzubereiten, hatte ich mir eigens einen Sitzplatz im Ruhebereich reserviert. Zwei Reihen vor mir saß jedoch eine junge Mutter mit ihrem Kleinkind, das zunächst lautstark sang, anschließend herzzerreißend weinte und schließlich mit erstaunlicher Ausdauer gegen die Rückenlehne trommelte. Ich gebe zu: Nach einer Stunde war ich ziemlich gereizt und hätte mir ein Abteil gewünscht, das Kindern grundsätzlich verschlossen bleibt. Irgendwann sprach ein älterer Herr aus, was ich nur gedacht hatte, und zwar so vernehmlich, dass der halbe Großraumwagen mithörte. Daraufhin entschuldigte sich die Mutter, packte ihre Siebensachen zusammen und suchte sich einen anderen Platz. Erst nachträglich wurde mir bewusst, wie sehr mich dieser Augenblick beschämt hatte, gerade weil ich dem Herrn insgeheim zugestimmt hatte."
+        },
+        {
+          "letter": "b",
+          "text": "Ich will das Bedürfnis nach Ruhe keineswegs kleinreden. Wer täglich pendelt, im Zug arbeiten muss oder nach einer anstrengenden Arbeitswoche im Restaurant einfach ungestört essen möchte, hat ein berechtigtes Anliegen, das niemand belächeln sollte. Auch Eltern wissen aus eigener Erfahrung, wie zermürbend ein quengelndes Kind sein kann, zumal gerade sie sich dem kaum entziehen können. Die Bahn trägt dem seit Langem Rechnung: In zahlreichen Fernzügen stehen Ruhebereiche zur Verfügung, in denen man nicht telefonieren und sich nur gedämpft unterhalten soll, sowie gesonderte Familienbereiche, in denen Kinder spielen dürfen. Diese Aufteilung halte ich für vernünftig, weil sie niemanden aussperrt und dennoch sämtlichen Reisenden die freie Wahl des passenden Bereichs überlässt. Die Mutter in meinem Zug hatte allerdings keinen Platz mehr im Familienbereich ergattert, da dieser an jenem Tag vollständig ausgebucht war."
+        },
+        {
+          "letter": "c",
+          "text": "Inzwischen haben auch Unternehmen die Sehnsucht nach einer kinderfreien Umgebung entdeckt und daraus ein Geschäftsmodell entwickelt. Hotels werben mit dem Zusatz „Adults only“, Kreuzfahrtschiffe richten separate Decks für Erwachsene ein, und manche Restaurants weisen Familien mit Kleinkindern abends ab. Die Fluggesellschaft Corendon hat 2023 auf ihren Verbindungen von Amsterdam nach Curaçao eine Zone geschaffen, die erst ab 16 Jahren zugänglich und durch Trennwände und Vorhänge vom übrigen Passagierbereich abgeschirmt ist. Wer dort Platz nehmen möchte, bezahlt pro Flug einen Aufpreis von mindestens 45 Euro, für einen Sitz mit größerer Beinfreiheit sogar 100 Euro. Mich stört daran, dass Ruhe so zu einer Ware wird, die man sich leisten können muss. In Südkorea, wo es zahlreiche sogenannte No-Kids-Zonen gibt, hat die nationale Menschenrechtskommission solche Verbote bereits 2017 als Diskriminierung aufgrund des Alters eingestuft."
+        },
+        {
+          "letter": "d",
+          "text": "Bemerkenswert finde ich, dass der Gesetzgeber die Angelegenheit völlig anders beurteilt. 2011 hat der Bundestag ausdrücklich festgelegt, dass Geräusche, die von Kindertagesstätten und Spielplätzen ausgehen, im Regelfall keine schädliche Umwelteinwirkung sind, sodass Nachbarn sie hinnehmen müssen. Vorausgegangen waren Klagen von Anwohnern gegen Kindergärten und Bolzplätze, von denen einige vor Gericht sogar erfolgreich waren. In einer Gesellschaft, in der Frauen durchschnittlich weniger als anderthalb Kinder bekommen und jede fünfte Frau kinderlos bleibt, wird der Anblick spielender Jungen und Mädchen ohnehin seltener. Wenn wir sie nun zusätzlich aus Zügen, Restaurants und Hotels verbannen, gewöhnen wir uns allmählich daran, dass Kinder ausschließlich an eigens für sie vorgesehenen Orten vorkommen. Ich fürchte, dass sie so nach und nach aus dem gemeinsamen Alltag"
+        },
+        {
+          "letter": "e",
+          "text": "Welche Schlussfolgerung ziehe ich daraus? Ruhe herzustellen, indem man eine komplette Altersgruppe ausschließt, halte ich für einen Irrweg. Wer im Flugzeug lautstark telefoniert oder im Restaurant ausgelassen mit Arbeitskollegen feiert, stört schließlich nicht weniger als ein weinendes Kleinkind, doch niemand käme auf den Gedanken, Erwachsenen deshalb den Zutritt zu verwehren. Sinnvoller wären Ruhezonen, in denen für alle Anwesenden dieselben Regeln gelten, ob sie nun sechs oder sechzig Jahre alt sind, sowie mehr Gelassenheit auf allen Seiten. Unterwegs muss man nun einmal mit Geräuschen rechnen, auch mit denen der Jüngsten. Sollte ich das nächste Mal wieder neben einem müden Kleinkind sitzen, werde ich jedenfalls nicht schweigend die Augen verdrehen. Stattdessen biete ich der Mutter oder dem Vater an, kurz auf das Gepäck aufzupassen, damit sie oder er mit dem Kind ein paar Schritte durch den Mittelgang gehen kann."
+        }
+      ],
+      "exampleLead": "In welchem Abschnitt …",
+      "example": {
+        "stem": "nennt der Autor das Ziel seiner Reise?",
+        "answer": "a"
+      },
+      "itemsLead": "In welchem Abschnitt …",
+      "items": [
+        {
+          "no": "7",
+          "stem": "verweist der Autor auf eine Vorschrift, die Kinderlärm in Schutz nimmt?",
+          "answer": "d"
+        },
+        {
+          "no": "8",
+          "stem": "gesteht der Autor, selbst die Geduld verloren zu haben?",
+          "answer": "a"
+        },
+        {
+          "no": "9",
+          "stem": "kündigt der Autor an, wie er sich in einer ähnlichen Lage verhalten will?",
+          "answer": "e"
+        },
+        {
+          "no": "10",
+          "stem": "kritisiert der Autor, dass Ruhe vom Geldbeutel abhängt?",
+          "answer": "c"
+        },
+        {
+          "no": "11",
+          "stem": "warnt der Autor vor einer schleichenden Ausgrenzung von Kindern?",
+          "answer": "d"
+        },
+        {
+          "no": "12",
+          "stem": "räumt der Autor ein, dass viele Menschen gute Gründe haben, Ruhe zu suchen?",
+          "answer": "b"
+        }
+      ]
+    },
+    "t3": {
+      "instruction": "Lesen Sie den folgenden Text und die Aussagen 13–23. Welche der Aussagen sind richtig (r), falsch (f) oder gar nicht im Text enthalten (–)? Es gibt jeweils nur eine richtige Lösung. Markieren Sie Ihre Lösungen für die Aufgaben 13–23 auf dem Antwortbogen.",
+      "title": "",
+      "paragraphs": [
+        "Im Seminarraum eines psychologischen Instituts ist es still geworden. Auf der Leinwand schildert eine junge Frau, wie sie ihr vergangenes Wochenende verbracht hat: ein Ausflug an einen See, ein verpasster Bus, ein Abendessen bei ihrer Schwester. Die zwanzig Studierenden verfolgen die Erzählung aufmerksam und machen sich Notizen, wobei ihre Aufgabe zunächst einfach klingt: Sie sollen entscheiden, ob die Frau die Wahrheit sagt. Insgesamt zehn solcher Videoaufnahmen präsentiert die Rechtspsychologin Katrin Seidel an diesem Vormittag, und in der Hälfte davon wird gelogen.",
+        "Nach einer halben Stunde wertet Seidel die Antwortbögen aus: Im Durchschnitt hat die Gruppe nur etwas mehr als die Hälfte der Videos richtig eingeschätzt. Mit Blick auf die enttäuschten Gesichter sagt Seidel: „Das ist ein ganz typisches Ergebnis.“ Zwei amerikanische Psychologen haben 2006 über 200 Untersuchungen mit insgesamt rund 24 000 Versuchspersonen ausgewertet, die ohne Hilfsmittel Lügen von wahren Aussagen unterscheiden sollten. Über sämtliche Studien hinweg lagen die Teilnehmenden in 54 Prozent der Fälle richtig – kaum besser, als hätten sie eine Münze geworfen.",
+        "Auffällig ist dabei ein bestimmtes Muster: Wahre Aussagen werden deutlich häufiger richtig erkannt als Lügen, weil die meisten Menschen dazu neigen, ihrem Gegenüber zu glauben – ein Phänomen, das Fachleute als Wahrheitsbias bezeichnen. Seidel hält diese Neigung keineswegs für eine Schwäche. „Wer jeden Satz anzweifelt, kann weder Freundschaften schließen noch einen Mietvertrag unterschreiben“, argumentiert sie. „Im Alltag sagen die anderen ja meistens die Wahrheit, und deshalb ist es durchaus vernünftig, zunächst einmal zu vertrauen.“",
+        "Hinzu kommt, dass sich viele Menschen an den falschen Signalen orientieren. Bei einer Erhebung in 58 Ländern nannten die Befragten nahezu überall dasselbe Merkmal an erster Stelle: Wer lüge, weiche dem Blick seines Gegenübers aus. Für diese Annahme gibt es jedoch kaum Belege. „Lügner wissen ja selbst, dass man ihnen in die Augen schaut“, erklärt Seidel. „Gerade geübte Lügner halten den Blickkontakt deshalb oft besonders bewusst aufrecht.“ Auch das Zupfen an der Kleidung oder unruhige Hände verraten nach heutigem Forschungsstand wenig.",
+        "Denn nervös sind keineswegs nur Lügner: Wer von der Polizei verdächtigt wird, eine Straftat begangen zu haben, schwitzt häufig, stottert oder rutscht auf dem Stuhl hin und her, auch wenn er völlig unschuldig ist. Für den daraus resultierenden Fehlschluss hat der amerikanische Psychologe Paul Ekman den Begriff „Othello-Fehler“ geprägt. In Shakespeares gleichnamigem Drama deutet Othello die Verzweiflung seiner Frau als Schuldeingeständnis, obwohl sie lediglich befürchtet, ihre Unschuld nicht mehr beweisen zu können. „Die Aufregung eines Menschen sagt nichts darüber, warum er aufgeregt ist“, betont Seidel.",
+        "Man könnte meinen, dass zumindest Fachleute es besser können: Polizeibeamte, Richterinnen oder Zöllner, die beruflich ständig mit Lügen konfrontiert sind und deshalb einen geschulten Blick besitzen müssten. In den meisten Untersuchungen schneiden sie jedoch kaum besser ab als Laien, wobei sich ein bezeichnender Unterschied zeigt: Die Fachleute sind sich ihres Urteils deutlich sicherer. „Genau das ist das Gefährliche daran“, warnt Seidel. „Berufserfahrung vermittelt einem das Gefühl, Menschen durchschauen zu können, auch wenn die Trefferquote gar nicht steigt.“",
+        "Weil das menschliche Urteilsvermögen so unzuverlässig ist, setzte man lange große Hoffnungen in die Technik.",
+        "Der sogenannte Lügendetektor, fachsprachlich Polygraf genannt, zeichnet während einer Befragung auf, wie sich Atmung, Puls, Blutdruck und Schweißabsonderung verändern.",
+        "Was er misst,",
+        "kommt das Gerät dagegen bis heute zum Einsatz, beispielsweise bei Bewerbungsverfahren für Sicherheitsbehörden.",
+        "Wie oft lügen Menschen eigentlich? Bei einer Befragung von tausend Erwachsenen in den USA ermittelten Forscher 2010 durchschnittlich gut anderthalb Lügen pro Tag, doch dieser Mittelwert täuscht: Sechs von zehn Befragten gaben an, am Vortag kein einziges Mal gelogen zu haben. Die Hälfte aller berichteten Lügen ging auf nur fünf Prozent der Teilnehmenden zurück. „Es gibt also eine kleine Gruppe, die sehr viel lügt, und eine große Mehrheit, die das eher selten tut“, fasst Seidel zusammen.",
+        "Gelernt wird das Lügen früh: Schon zwei- bis dreijährige Kinder versuchen gelegentlich, Erwachsene zu täuschen, etwa wenn sie heimlich in eine verbotene Kiste geschaut haben. Eltern müssen deshalb nicht erschrecken, im Gegenteil: Um lügen zu können, muss ein Kind nämlich verstanden haben, dass andere Menschen etwas anderes wissen und denken können als es selbst. „Die erste Lüge ist eine beachtliche geistige Leistung“, sagt Seidel. Im Laufe ihrer Entwicklung lernen Kinder dann, wann eine Notlüge höflich ist und wann sie Schaden anrichtet.",
+        "Was also hilft tatsächlich weiter? Die Forschung konzentriert sich heute weniger auf Körpersignale als auf den Inhalt einer Aussage und auf die kognitive Belastung, die das Lügen verursacht. Ein Lügner muss sich eine Geschichte ausdenken, sie im Gedächtnis behalten und gleichzeitig beobachten, ob sein Gegenüber sie glaubt. Steigert man diese Belastung zusätzlich, verraten sich Lügner leichter. In Experimenten bat man Versuchspersonen etwa, ihre Geschichte in umgekehrter Reihenfolge zu erzählen, also vom Ende her. Wer die Wahrheit sagt, kann sich dabei auf seine Erinnerung stützen, während derjenige, der lügt, häufiger ins Stocken gerät und sich in Widersprüche verwickelt.",
+        "Vor Gericht zählt bei der Beurteilung der Glaubhaftigkeit von Aussagen in Deutschland ohnehin vor allem, was jemand sagt, und nicht, wie er sich dabei verhält. Hat das Gericht in schwierigen Fällen Zweifel, ob die Schilderung eines Zeugen auf eigenem Erleben beruht, beauftragt es Sachverständige mit einer inhaltlichen Analyse: Ist die Aussage in sich stimmig? Enthält sie zahlreiche Einzelheiten, auch ungewöhnliche oder für den Zeugen selbst ungünstige? Bleibt sie über mehrere Vernehmungen hinweg im Kern konstant, auch wenn sich Nebensächlichkeiten ändern? Für derartige Gutachten hat der Bundesgerichtshof 1999 wissenschaftliche Mindeststandards festgelegt, doch ein richtiges Urteil garantieren auch sie nicht.",
+        "Für den Alltag rät Seidel vor allem zur Vorsicht gegenüber dem eigenen Bauchgefühl. „Wer glaubt, eine Lüge auf den ersten Blick zu erkennen, irrt sich meistens“, sagt sie. Sinnvoller sei es, offene Fragen zu stellen, aufmerksam zuzuhören und Behauptungen, wenn es darauf ankommt, zu überprüfen. Außerdem gibt sie zu bedenken, dass permanentes Misstrauen ebenfalls schaden kann: Einem Partner oder Kollegen bei jeder Kleinigkeit eine Lüge zu unterstellen, zerstört oft mehr, als eine gelegentliche Notlüge es je könnte.",
+        "Abschließend löst Seidel auf, in welchen Videos gelogen wurde. Die junge Frau mit dem verpassten Bus hat die Wahrheit gesagt, doch fast drei Viertel der Studierenden haben ihr nicht geglaubt, weil sie häufig lachte und dabei zur Seite blickte. Ausgerechnet der Student, der sich bei allen zehn Urteilen sehr sicher war, hat das schlechteste Ergebnis der gesamten Gruppe erzielt. Er reagiert gelassen: „Dann vertraue ich meinen Mitmenschen in Zukunft einfach wieder.“ Lächelnd entgegnet Seidel: „Damit liegen Sie statistisch gar nicht so falsch.“"
+      ],
+      "itemsLead": "Aussagen 13–23",
+      "items": [
+        {
+          "no": "13",
+          "text": "Die Gruppe lag kaum über dem Zufall, was Seidel sehr überraschte.",
+          "answer": "f"
+        },
+        {
+          "no": "14",
+          "text": "Seidel bewertet die verbreitete Gutgläubigkeit durchaus positiv.",
+          "answer": "r"
+        },
+        {
+          "no": "15",
+          "text": "Dass Lügner dem Blick ausweichen, ist wissenschaftlich gut belegt.",
+          "answer": "f"
+        },
+        {
+          "no": "16",
+          "text": "Nervosität bei einer Vernehmung ist kein Beweis für Schuld.",
+          "answer": "r"
+        },
+        {
+          "no": "17",
+          "text": "Richterinnen durchschauen Lügen besser als ihre männlichen Kollegen.",
+          "answer": "n"
+        },
+        {
+          "no": "18",
+          "text": "[Aussage 18 fehlt im PDF]",
+          "answer": "n"
+        },
+        {
+          "no": "19",
+          "text": "Mit einem freiwilligen Test kann sich ein Angeklagter vor deutschen Gerichten unter Umständen entlasten.",
+          "answer": "f"
+        },
+        {
+          "no": "20",
+          "text": "Die Mehrheit der Befragten war nach eigener Aussage am Tag zuvor ehrlich.",
+          "answer": "r"
+        },
+        {
+          "no": "21",
+          "text": "Notlügen lernen Kinder vor allem von ihren Eltern.",
+          "answer": "n"
+        },
+        {
+          "no": "22",
+          "text": "Eine ausgedachte Geschichte rückwärts zu erzählen, fällt Lügnern schwerer.",
+          "answer": "r"
+        },
+        {
+          "no": "23",
+          "text": "Seidel empfiehlt, sich bei einem Verdacht auf den ersten Eindruck zu verlassen.",
+          "answer": "f"
+        }
+      ],
+      "headline": {
+        "instruction": "Welche der Überschriften a, b oder c trifft die Aussage des Textes am besten? Markieren Sie Ihre Lösung für die Aufgabe 24 auf dem Antwortbogen.",
+        "no": "24",
+        "options": {
+          "a": "Wie Kinder lernen, die Wahrheit zu verbergen",
+          "b": "Lügen erkennen – schwieriger, als die meisten glauben",
+          "c": "Der Lügendetektor – ein verlässliches Werkzeug der Justiz"
+        },
+        "answer": "b"
+      }
+    },
+    "sb": {
+      "instruction": "Lesen Sie den folgenden Text. Welche Lösung (a, b, c oder d) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 25–46 auf dem Antwortbogen. Lücke (0) ist ein Beispiel.",
+      "title": "Das Pferd frisst keinen Gurkensalat",
+      "paragraphs": [
+        "Johann Philipp Reis, geboren am 7. Januar 1834 im hessischen Gelnhausen, war noch ein Kleinkind, {{0}} seine Mutter starb, und bereits vor seinem zehnten Geburtstag verlor er außerdem den Vater. Auf Wunsch seiner Familie {{25}} er 1850 eine kaufmännische Ausbildung in Frankfurt. {{26}} seiner Freizeit besuchte er jedoch physikalische und chemische Vorlesungen, und bald stand für ihn {{27}}, dass er den Lehrerberuf ergreifen wollte.",
+        "Ende der 1850er-Jahre übernahm er eine Lehrerstelle an einem Internat in Friedrichsdorf im Taunus, wo ihn neben dem Unterricht insbesondere die Frage beschäftigte, wie der Schall im menschlichen Ohr {{28}} wird. Dabei gelangte er zu einer kühnen Überlegung: Wenn sich Töne in elektrische Signale umwandeln {{29}}, müsste man sie über einen Draht {{30}} weit übertragen können.",
+        "Zu Versuchszwecken schnitzte er ein Ohr aus Eichenholz, in {{31}} eine dünne Haut das Trommelfell ersetzte. Diese Haut {{32}} beim Sprechen und öffnete und schloss dabei im Rhythmus der Schallwellen einen Stromkreis. Als Empfänger diente ihm eine Stricknadel, die mit Draht {{33}} und auf einer Geige befestigt war, deren Resonanzkörper den Klang verstärkte. Sein Gerät, das er „Telephon“ {{34}}, {{35}} er im Oktober 1861 erstmals öffentlich dem Physikalischen Verein in Frankfurt vor.",
+        "Melodien ließen sich damit ziemlich zuverlässig wiedergeben, gesprochene Wörter {{36}} nur undeutlich. Überliefert ist ein Experiment, bei dem jemand einen absichtlich unsinnigen Satz in das Gerät sprach, damit der Zuhörer den Wortlaut nicht einfach erraten konnte: „Das Pferd frisst keinen Gurkensalat.“ Am anderen Ende der Leitung soll der Satz tatsächlich verstanden worden {{37}}. {{38}} stieß die Erfindung bei zahlreichen Fachleuten auf geringes Interesse, und eine renommierte Fachzeitschrift lehnte es sogar ab, einen Aufsatz von Reis zu {{39}}.",
+        "Reis selbst konnte seinen Apparat nicht mehr lange weiterentwickeln, denn er erkrankte schwer an Tuberkulose und starb im Januar 1874, kurz nach seinem vierzigsten Geburtstag. Zwei Jahre später {{40}} in den Vereinigten Staaten Alexander Graham Bell ein Telefon zum {{41}} an, das Sprache wesentlich verständlicher übermittelte. Ob Reis als Erfinder des Telefons {{42}} darf, ist unter Historikern bis heute umstritten. Unbestritten ist, {{43}} er als einer der Ersten Töne mithilfe elektrischen Stroms über eine Leitung schickte. In Friedrichsdorf, {{44}} er begraben liegt, erinnert heutzutage ein Museum an den Lehrer, {{45}} Name im Ausland nur wenigen {{46}} ist."
+      ],
+      "example": {
+        "options": {
+          "a": "als",
+          "b": "nachdem",
+          "c": "wenn",
+          "d": "wie"
+        },
+        "answer": "a"
+      },
+      "items": [
+        {
+          "no": "25",
+          "options": {
+            "a": "begann",
+            "b": "beging",
+            "c": "begrub",
+            "d": "begrüßte"
+          },
+          "answer": "a"
+        },
+        {
+          "no": "26",
+          "options": {
+            "a": "Bei",
+            "b": "In",
+            "c": "Mit",
+            "d": "Zu"
+          },
+          "answer": "b"
+        },
+        {
+          "no": "27",
+          "options": {
+            "a": "fast",
+            "b": "feige",
+            "c": "fest",
+            "d": "fett"
+          },
+          "answer": "c"
+        },
+        {
+          "no": "28",
+          "options": {
+            "a": "weitergeleitet",
+            "b": "weitergeleitete",
+            "c": "weiterleiten",
+            "d": "weiterleitet"
+          },
+          "answer": "a"
+        },
+        {
+          "no": "29",
+          "options": {
+            "a": "gelassen",
+            "b": "lässt",
+            "c": "ließe",
+            "d": "ließen"
+          },
+          "answer": "d"
+        },
+        {
+          "no": "30",
+          "options": {
+            "a": "belibich",
+            "b": "belibig",
+            "c": "beliebich",
+            "d": "beliebig"
+          },
+          "answer": "d"
+        },
+        {
+          "no": "31",
+          "options": {
+            "a": "dem",
+            "b": "den",
+            "c": "der",
+            "d": "dessen"
+          },
+          "answer": "a"
+        },
+        {
+          "no": "32",
+          "options": {
+            "a": "schwand",
+            "b": "schwang",
+            "c": "schwenkte",
+            "d": "schwieg"
+          },
+          "answer": "b"
+        },
+        {
+          "no": "33",
+          "options": {
+            "a": "umwickeln",
+            "b": "umwickelnd",
+            "c": "umwickelt",
+            "d": "umwickelte"
+          },
+          "answer": "c"
+        },
+        {
+          "no": "34",
+          "options": {
+            "a": "genannt",
+            "b": "nannte",
+            "c": "nannten",
+            "d": "nennt"
+          },
+          "answer": "b"
+        },
+        {
+          "no": "35",
+          "options": {
+            "a": "förderte",
+            "b": "fügte",
+            "c": "fuhr",
+            "d": "führte"
+          },
+          "answer": "d"
+        },
+        {
+          "no": "36",
+          "options": {
+            "a": "entgegen",
+            "b": "gegenüber",
+            "c": "hingegen",
+            "d": "zugegen"
+          },
+          "answer": "c"
+        },
+        {
+          "no": "37",
+          "options": {
+            "a": "gewesen",
+            "b": "haben",
+            "c": "sein",
+            "d": "werden"
+          },
+          "answer": "c"
+        },
+        {
+          "no": "38",
+          "options": {
+            "a": "Demnach",
+            "b": "Dennoch",
+            "c": "Ebenfalls",
+            "d": "Nämlich"
+          },
+          "answer": "b"
+        },
+        {
+          "no": "39",
+          "options": {
+            "a": "verabschieden",
+            "b": "veranschaulichen",
+            "c": "vereinheitlichen",
+            "d": "veröffentlichen"
+          },
+          "answer": "d"
+        },
+        {
+          "no": "40",
+          "options": {
+            "a": "mahnte",
+            "b": "meinte",
+            "c": "meisterte",
+            "d": "meldete"
+          },
+          "answer": "d"
+        },
+        {
+          "no": "41",
+          "options": {
+            "a": "Pakt",
+            "b": "Patent",
+            "c": "Pathos",
+            "d": "Patient"
+          },
+          "answer": "b"
+        },
+        {
+          "no": "42",
+          "options": {
+            "a": "gegolten",
+            "b": "gelte",
+            "c": "gelten",
+            "d": "gilt"
+          },
+          "answer": "c"
+        },
+        {
+          "no": "43",
+          "options": {
+            "a": "dass",
+            "b": "ob",
+            "c": "obwohl",
+            "d": "weil"
+          },
+          "answer": "a"
+        },
+        {
+          "no": "44",
+          "options": {
+            "a": "wo",
+            "b": "woher",
+            "c": "wohin",
+            "d": "womit"
+          },
+          "answer": "a"
+        },
+        {
+          "no": "45",
+          "options": {
+            "a": "dem",
+            "b": "deren",
+            "c": "desselben",
+            "d": "dessen"
+          },
+          "answer": "d"
+        },
+        {
+          "no": "46",
+          "options": {
+            "a": "bekannt",
+            "b": "bekant",
+            "c": "bekkannt",
+            "d": "bekkant"
+          },
+          "answer": "a"
+        }
+      ]
+    }
+  },
+  "hoeren": {
+    "t1": {
+      "instruction": "Sie hören die Meinungen von acht Personen. Sie hören die Meinungen nur einmal. Entscheiden Sie beim Hören, welche Aussage (a–j) zu welcher Person (Sprecher/in 1–8) passt. Zwei Aussagen passen nicht. Markieren Sie Ihre Lösungen für die Aufgaben 47–54 auf dem Antwortbogen.",
+      "readNote": "Lesen Sie jetzt die Aussagen a–j. Sie haben dazu eine Minute Zeit.",
+      "title": "Hunde auf dem Campus – Bereicherung oder Belastung?",
+      "statements": [
+        {
+          "letter": "a",
+          "text": "Mit einem Hund im Raum fällt vielen der erste Schritt leichter."
+        },
+        {
+          "letter": "b",
+          "text": "Wo alle zusammenkommen, hat mein Hund nichts zu suchen."
+        },
+        {
+          "letter": "c",
+          "text": "Wer gesundheitlich unter Hunden leidet, findet zu wenig Gehör."
+        },
+        {
+          "letter": "d",
+          "text": "Die Wirkung der Hundebesuche wird häufig überschätzt."
+        },
+        {
+          "letter": "e",
+          "text": "Mein Hund sorgt dafür, dass ich im Studium allein zurechtkomme."
+        },
+        {
+          "letter": "f",
+          "text": "Kurze Begegnungen mit Hunden haben mir in einer harten Zeit geholfen."
+        },
+        {
+          "letter": "g",
+          "text": "Viele, die Angst vor Hunden haben, behalten das für sich."
+        },
+        {
+          "letter": "h",
+          "text": "Hundebesuche in der Prüfungszeit sollten für alle Studierenden verpflichtend sein."
+        },
+        {
+          "letter": "i",
+          "text": "Hunde dürfen an unserer Hochschule in kein Gebäude."
+        },
+        {
+          "letter": "j",
+          "text": "Für Probleme sorgen eher die Besitzer als die Hunde."
+        }
+      ],
+      "items": [
+        {
+          "no": "47",
+          "label": "Sprecherin 1",
+          "answer": "f"
+        },
+        {
+          "no": "48",
+          "label": "Sprecher 2",
+          "answer": "j"
+        },
+        {
+          "no": "49",
+          "label": "Sprecher 3",
+          "answer": "b"
+        },
+        {
+          "no": "50",
+          "label": "Sprecherin 4",
+          "answer": "c"
+        },
+        {
+          "no": "51",
+          "label": "Sprecher 5",
+          "answer": "g"
+        },
+        {
+          "no": "52",
+          "label": "Sprecherin 6",
+          "answer": "a"
+        },
+        {
+          "no": "53",
+          "label": "Sprecher 7",
+          "answer": "e"
+        },
+        {
+          "no": "54",
+          "label": "Sprecherin 8",
+          "answer": "d"
+        }
+      ]
+    },
+    "t2": {
+      "instruction": "Sie hören eine Radiosendung. Sie hören die Sendung nur einmal. Entscheiden Sie beim Hören, welche Aussage (a, b oder c) am besten passt. Markieren Sie Ihre Lösungen für die Aufgaben 55–64 auf dem Antwortbogen.",
+      "readNote": "Lesen Sie jetzt die Aufgaben 55–64. Sie haben dazu drei Minuten Zeit.",
+      "items": [
+        {
+          "no": "55",
+          "stem": "Über die Zahl der Sprachen sagt Prof. Lorenz, dass",
+          "options": {
+            "a": "sie sich nicht genau angeben lässt.",
+            "b": "fast jede Millionen Sprecher hat.",
+            "c": "es heute nur noch einige Hundert gibt."
+          },
+          "answer": "a"
+        },
+        {
+          "no": "56",
+          "stem": "Die Angabe, alle zwei Wochen sterbe eine Sprache, ist nach Prof. Lorenz",
+          "options": {
+            "a": "das Ergebnis genauer Zählungen.",
+            "b": "eine Übertreibung der Medien.",
+            "c": "lediglich ein ungefährer Wert."
+          },
+          "answer": "c"
+        },
+        {
+          "no": "57",
+          "stem": "Die meisten Sprachen verschwinden nach Prof. Lorenz, weil",
+          "options": {
+            "a": "ihre letzten Sprecher plötzlich sterben.",
+            "b": "Familien sie nicht mehr weitergeben.",
+            "c": "Schulen ihren Gebrauch verbieten."
+          },
+          "answer": "b"
+        },
+        {
+          "no": "58",
+          "stem": "Ob eine Sprache bedroht ist, hängt nach Prof. Lorenz vor allem davon ab, ob",
+          "options": {
+            "a": "sie mehr als tausend Sprecher hat.",
+            "b": "es Wörterbücher und Grammatiken gibt.",
+            "c": "der Nachwuchs mit ihr aufwächst."
+          },
+          "answer": "c"
+        },
+        {
+          "no": "59",
+          "stem": "Über kleine Sprachen in Deutschland sagt Prof. Lorenz, dass",
+          "options": {
+            "a": "es sie nur in alten Texten gibt.",
+            "b": "der Staat sie kaum unterstützt.",
+            "c": "einige stark gefährdet sind."
+          },
+          "answer": "c"
+        },
+        {
+          "no": "60",
+          "stem": "Das Verschwinden einer Sprache ist nach Prof. Lorenz vor allem",
+          "options": {
+            "a": "ein Verlust für ihre Sprecher.",
+            "b": "ein Problem der Forschung.",
+            "c": "ein Vorteil für die Verständigung."
+          },
+          "answer": "a"
+        },
+        {
+          "no": "61",
+          "stem": "Bei ihrer Arbeit ist es Prof. Lorenz besonders wichtig, dass",
+          "options": {
+            "a": "alle Aufnahmen frei zugänglich sind.",
+            "b": "die Sprecher das letzte Wort haben.",
+            "c": "sie in kurzer Zeit viel sammelt."
+          },
+          "answer": "b"
+        },
+        {
+          "no": "62",
+          "stem": "Als besonders wirksam, um eine Sprache zu retten, bezeichnet Prof. Lorenz",
+          "options": {
+            "a": "Kurse und Apps für Erwachsene.",
+            "b": "einsprachige Kindergärten.",
+            "c": "Studiengänge an Hochschulen."
+          },
+          "answer": "b"
+        },
+        {
+          "no": "63",
+          "stem": "Nach Prof. Lorenz ist die Pfeifsprache von La Gomera entstanden, weil",
+          "options": {
+            "a": "Rufe nicht weit genug trugen.",
+            "b": "sie Schulfach geworden ist.",
+            "c": "die Bewohner kein Spanisch konnten."
+          },
+          "answer": "a"
+        },
+        {
+          "no": "64",
+          "stem": "Über das Internet sagt Prof. Lorenz, dass es",
+          "options": {
+            "a": "das Aus kleiner Sprachen besiegelt.",
+            "b": "kleinen Sprachen auch nützen kann.",
+            "c": "vor allem Ältere zum Lernen bringt."
+          },
+          "answer": "b"
+        }
+      ]
+    },
+    "t3": {
+      "instruction": "Sie hören einen Vortrag. Sie hören den Vortrag nur einmal. Sie haben Handzettel mit den Folien der Präsentation erhalten. Schreiben Sie die fehlenden Informationen stichwortartig in die freien Zeilen 65–74 in der rechten Spalte.",
+      "exampleNote": "Die Lösung 0 ist ein Beispiel.",
+      "readNote": "Lesen Sie jetzt die Stichworte. Sie haben dazu eine Minute Zeit.",
+      "finalNote": "Sie haben jetzt fünf Minuten Zeit, Ihre Antworten zu den Aufgaben 65–74 auf den Antwortbogen zu übertragen.",
+      "exampleAnswer": "Mensch und Technik",
+      "slides": [
+        {
+          "title": "Ringvorlesung",
+          "lines": [
+            {
+              "no": "0",
+              "bullet": false,
+              "dash": false,
+              "text": "„…“"
+            },
+            {
+              "no": "",
+              "bullet": false,
+              "dash": false,
+              "text": "Thema heute: Geheime Botschaften – eine kurze Geschichte der Verschlüsselung"
+            },
+            {
+              "no": "",
+              "bullet": false,
+              "dash": false,
+              "text": "Referent: Dr. Jonas Wendt, Informatiker"
+            }
+          ]
+        },
+        {
+          "title": "Die Anfänge",
+          "lines": [
+            {
+              "no": "",
+              "bullet": true,
+              "dash": false,
+              "text": "Caesar: jeder Buchstabe um drei Stellen verschoben"
+            },
+            {
+              "no": "65",
+              "bullet": true,
+              "dash": false,
+              "text": "Schwäche dieses Verfahrens: …"
+            },
+            {
+              "no": "66",
+              "bullet": true,
+              "dash": false,
+              "text": "Name der Methode, mit der al-Kindi (9. Jh.) Geheimtexte knackte: …"
+            }
+          ]
+        },
+        {
+          "title": "Das Vigenère-Verfahren",
+          "lines": [
+            {
+              "no": "",
+              "bullet": true,
+              "dash": false,
+              "text": "Verschiebung wechselt mit jedem Buchstaben des Schlüsselworts"
+            },
+            {
+              "no": "",
+              "bullet": true,
+              "dash": false,
+              "text": "galt fast 300 Jahre lang als sicher"
+            },
+            {
+              "no": "67",
+              "bullet": true,
+              "dash": false,
+              "text": "erste veröffentlichte Methode zum Knacken (wer, wann?): …"
+            }
+          ]
+        },
+        {
+          "title": "Die Enigma",
+          "lines": [
+            {
+              "no": "",
+              "bullet": true,
+              "dash": false,
+              "text": "über 150 Trillionen mögliche Einstellungen"
+            },
+            {
+              "no": "68",
+              "bullet": true,
+              "dash": false,
+              "text": "zuerst entschlüsselt von: …"
+            },
+            {
+              "no": "69",
+              "bullet": true,
+              "dash": false,
+              "text": "Schwäche der Maschine selbst: …"
+            }
+          ]
+        },
+        {
+          "title": "Das Schlüsselproblem",
+          "lines": [
+            {
+              "no": "",
+              "bullet": true,
+              "dash": false,
+              "text": "Wie tauscht man den Schlüssel sicher aus?"
+            },
+            {
+              "no": "70",
+              "bullet": true,
+              "dash": false,
+              "text": "neue Idee von Diffie und Hellman (1976): …"
+            },
+            {
+              "no": "71",
+              "bullet": true,
+              "dash": false,
+              "text": "Sicherheit von RSA beruht auf: …"
+            }
+          ]
+        },
+        {
+          "title": "Verschlüsselung heute",
+          "lines": [
+            {
+              "no": "",
+              "bullet": true,
+              "dash": false,
+              "text": "Messenger-Dienste"
+            },
+            {
+              "no": "72",
+              "bullet": true,
+              "dash": false,
+              "text": "Wer die Nachrichten lesen kann: …"
+            }
+          ]
+        },
+        {
+          "title": "Ausblick",
+          "lines": [
+            {
+              "no": "73",
+              "bullet": true,
+              "dash": false,
+              "text": "Bedrohung für heutige Verfahren: …"
+            },
+            {
+              "no": "",
+              "bullet": true,
+              "dash": false,
+              "text": "seit 2024 erste neue Standards"
+            },
+            {
+              "no": "74",
+              "bullet": true,
+              "dash": false,
+              "text": "Grund, schon jetzt umzustellen: …"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "no": "65",
+          "solution": "nur 25 mögliche Verschiebungen → alle durchprobieren („leicht zu knacken“ ohne Begründung genügt nicht)"
+        },
+        {
+          "no": "66",
+          "solution": "Häufigkeitsanalyse (Oberbegriff erforderlich)"
+        },
+        {
+          "no": "67",
+          "solution": "Friedrich Kasiski, 1863 (Name und Jahr erforderlich; „Babbage“ ist falsch)"
+        },
+        {
+          "no": "68",
+          "solution": "polnische Mathematiker (um Marian Rejewski), Anfang der 1930er-Jahre (Zeitangabe nicht erforderlich; „Alan Turing“ ist falsch)"
+        },
+        {
+          "no": "69",
+          "solution": "kein Buchstabe wurde in sich selbst verschlüsselt (Gewohnheiten der Funker genügen nicht)"
+        },
+        {
+          "no": "70",
+          "solution": "zwei Schlüssel: öffentlicher zum Verschlüsseln, privater zum Entschlüsseln („zwei Schlüssel“ ohne Aufgabenteilung genügt nicht)"
+        },
+        {
+          "no": "71",
+          "solution": "große Zahlen lassen sich kaum in Primfaktoren zerlegen"
+        },
+        {
+          "no": "72",
+          "solution": "nur Absender und Empfänger (nicht der Anbieter)"
+        },
+        {
+          "no": "73",
+          "solution": "Quantencomputer"
+        },
+        {
+          "no": "74",
+          "solution": "Daten werden heute abgefangen und gespeichert, später entschlüsselt („Quantencomputer“ allein genügt nicht)"
+        }
+      ]
+    }
+  },
+  "schreiben": {
+    "instruction": "Wählen Sie eines der folgenden zwei Themen. Schreiben Sie einen Text, in dem Sie Ihren eigenen Standpunkt dazu erarbeiten und argumentativ darlegen. Ihr Text soll mindestens 350 Wörter umfassen. Sie haben 70 Minuten Zeit.",
+    "minWords": 350,
+    "minutes": 70,
+    "themes": [
+      {
+        "no": "1",
+        "paragraphs": [
+          "In einem Seminar zum wissenschaftlichen Arbeiten wird diskutiert, ob Fachzeitschriften auch Studien veröffentlichen sollten, deren Ergebnisse eine Vermutung nicht bestätigen.",
+          "Erörtern Sie Vor- und Nachteile einer solchen Praxis, greifen Sie die Zitate auf und beziehen Sie eigene Erfahrungen ein. Ziehen Sie ein begründetes Fazit."
+        ],
+        "quoteLead": "Die folgenden Zitate geben Ihnen erste Ideen:",
+        "quotes": [
+          "„Auch ein gescheiterter Versuch ist ein Ergebnis, das anderen Umwege erspart.“",
+          "„Fachzeitschriften sollten Entdeckungen zeigen, nicht Sackgassen.“"
+        ],
+        "model": {
+          "title": "Auch Sackgassen gehören zur Wissenschaft",
+          "paragraphs": [
+            "Wer eine wissenschaftliche Zeitschrift aufschlägt, liest fast nur von Erfolgen: Ein Medikament wirkt, eine Methode funktioniert, eine Vermutung bestätigt sich. Studien, die nichts Neues gefunden haben, verschwinden dagegen häufig in der Schublade. In unserem Seminar stellt sich daher die Frage, ob Fachzeitschriften auch solche sogenannten Nullergebnisse veröffentlichen sollten. Im Folgenden werden die wichtigsten Argumente beider Seiten gegeneinander abgewogen.",
+            "Für eine Veröffentlichung spricht zunächst, dass auch ein gescheiterter Versuch Wissen hervorbringt. Das erste Zitat bringt diesen Gedanken auf den Punkt: Wer erfährt, dass ein Weg nicht zum Ziel führt, muss ihn nicht noch einmal gehen. Bleiben solche Ergebnisse unveröffentlicht, wiederholen andere Forschungsgruppen dieselben Versuche und verschwenden Zeit und Geld. Hinzu kommt ein ernsteres Problem: Erscheinen nur positive Befunde, entsteht ein verzerrtes Bild. In der Medizin hält man ein Mittel dadurch womöglich für wirksamer, als es tatsächlich ist, weil niemand die Studien kennt, in denen es versagt hat.",
+            "Andererseits ist der Einwand, der im zweiten Zitat zum Ausdruck kommt, nicht von der Hand zu weisen. Zeitschriften leben davon, dass sie gelesen und zitiert werden, und Studien ohne klares Ergebnis finden meist wenig Beachtung. Für junge Forschende, die auf Veröffentlichungen angewiesen sind, lohnt sich der Aufwand daher oft kaum. Außerdem ist ein Nullergebnis nicht immer aussagekräftig. Manchmal findet eine Studie nichts, weil sie zu klein war oder schlecht geplant wurde. Würden all diese Arbeiten gedruckt, müssten Gutachterinnen und Gutachter noch mehr Texte prüfen, und die wirklich wichtigen Befunde gingen in der Masse unter.",
+            "In meiner Bachelorarbeit habe ich untersucht, ob Hintergrundmusik beim Lernen von Vokabeln hilft. Zu meiner Enttäuschung fand ich keinen Unterschied zwischen den Gruppen. Meine Betreuerin meinte jedoch, dieses Ergebnis sei genauso wertvoll wie ein Erfolg, sofern die Studie sauber durchgeführt worden sei. Später entdeckte ich in einem Online-Archiv zwei ähnliche Arbeiten, die ebenfalls nichts gefunden hatten. Hätte ich sie früher gekannt, hätte ich meine Fragestellung anders gewählt.",
+            "Insgesamt überwiegen aus meiner Sicht die Argumente für eine Veröffentlichung. Allerdings muss nicht jede Studie in einer großen Fachzeitschrift erscheinen. Sinnvoll wären eigene Rubriken oder frei zugängliche Archive, in denen gut geplante Studien unabhängig von ihrem Ergebnis Platz finden. Manche Zeitschriften entscheiden bereits anhand des Forschungsplans, ob sie eine Arbeit annehmen, noch bevor die Daten erhoben sind. So würde die Wissenschaft nicht nur ihre Erfolge zeigen, sondern auch ihre Irrwege, aus denen man oft am meisten lernt."
+          ],
+          "hint": "Textsorte Erörterung für ein Seminar. Aufbau: Einleitung mit einer Beobachtung und der Leitfrage – Argumente für eine Veröffentlichung mit Bezug auf Zitat 1 – Einwände mit Bezug auf Zitat 2 – eigene Erfahrung aus der Bachelorarbeit – Fazit mit einem Vorschlag. Sprachliche Mittel: überwiegend sachlicher, unpersönlicher Stil (Im Folgenden werden … abgewogen; ist … nicht von der Hand zu weisen), Ich-Form nur bei der eigenen Erfahrung und im Fazit, Passiv (gedruckt würden, durchgeführt worden sei), Konjunktiv I und II (sei, müssten, hätte … gewählt), Nominalstil (Veröffentlichung, Beachtung), Konnektoren der Abwägung (zunächst, hinzu kommt, andererseits, außerdem, insgesamt, allerdings). Umfang: 384 Wörter."
+        }
+      },
+      {
+        "no": "2",
+        "paragraphs": [
+          "Die Studierendenvertretung schlägt vor, dass alle Erstsemester einen Erste-Hilfe-Kurs besuchen müssen. Die Hochschulzeitung bittet um Beiträge.",
+          "Nehmen Sie persönlich Stellung: Legen Sie dar, was für und was gegen eine solche Pflicht spricht, beziehen Sie die Zitate ein und begründen Sie Ihre Meinung."
+        ],
+        "quoteLead": "Die folgenden Zitate geben Ihnen erste Ideen:",
+        "quotes": [
+          "„Wer helfen kann, rettet im Ernstfall Leben – das sollte jeder können.“",
+          "„Erwachsene muss man nicht zu jedem sinnvollen Kurs verpflichten.“"
+        ],
+        "model": {
+          "title": "Zehn Minuten, die ich nicht vergesse",
+          "paragraphs": [
+            "Im vergangenen Winter brach in unserer Bibliothek ein älterer Mann zusammen. Mehrere Studierende standen um ihn herum, doch niemand wusste, was zu tun war. Erst eine Medizinstudentin begann mit der Herzdruckmassage und hielt durch, bis nach etwa zehn Minuten der Rettungsdienst eintraf. Seitdem frage ich mich, ob ich hätte helfen können. Deshalb begrüße ich grundsätzlich den Vorschlag unserer Studierendenvertretung, alle Erstsemester zu einem Erste-Hilfe- Kurs zu verpflichten.",
+            "Für eine solche Pflicht spricht vor allem, dass im Notfall jede Minute zählt. Dem ersten Zitat kann ich deshalb nur zustimmen: Wer die Handgriffe geübt hat, zögert weniger. Viele von uns haben ihren letzten Kurs vor der Führerscheinprüfung besucht, und das liegt oft Jahre zurück. Ein Kurs zu Beginn des Studiums würde dieses Wissen auffrischen. Außerdem verbringen wir viel Zeit in Hörsälen, Laboren und Sporthallen, wo jederzeit etwas passieren kann. Je mehr Menschen dort helfen können, desto sicherer wird der Campus für alle.",
+            "Gleichzeitig verstehe ich alle, die wie im zweiten Zitat Bedenken gegen eine Pflicht haben. Studierende sind erwachsen und sollten selbst entscheiden, welche Kurse sie besuchen. Gerade im ersten Semester ist der Stundenplan ohnehin voll, und wer neben dem Studium arbeitet, hat wenig Zeit. Manche haben im Rahmen einer Ausbildung oder eines Ehrenamts längst einen Kurs absolviert. Zudem stellt sich die Frage, wer die Kurse bezahlt und wie man kontrollieren will, ob alle teilnehmen. Eine Pflicht, die nur auf dem Papier steht, nützt niemandem.",
+            "Ich bin trotzdem für einen verbindlichen Kurs, allerdings in einer praktischen Form. Die Hochschule könnte ihn gemeinsam mit Hilfsorganisationen kostenlos anbieten, an mehreren Terminen und auch am Wochenende. Statt eines ganzen Tages würden vier Stunden genügen, in denen vor allem die Wiederbelebung geübt wird. Für internationale Studierende könnte es Termine auf Englisch geben. Ein aktueller Nachweis sollte von der Pflicht befreien. So bliebe der Aufwand gering, und dennoch wären im Ernstfall deutlich mehr Menschen vorbereitet.",
+            "Die Medizinstudentin aus der Bibliothek habe ich einige Wochen später zufällig wiedergetroffen. Sie erzählte mir, dass der Mann überlebt hat und längst wieder spazieren geht. Ich habe mich mittlerweile selbst zu einem Kurs angemeldet, und zwar freiwillig. Trotzdem wünsche ich mir, dass es nicht vom Zufall abhängt, ob im entscheidenden Moment jemand im Raum ist, der weiß, was zu tun ist."
+          ],
+          "hint": "Textsorte persönliche Stellungnahme für eine Hochschulzeitung. Aufbau: persönlicher Einstieg mit einem Erlebnis – Argumente dafür mit Bezug auf Zitat 1 – Einwände mit Bezug auf Zitat 2 – eigene Position mit einem konkreten Vorschlag – Rückgriff auf den Einstieg im Schluss. Sprachliche Mittel: Ich-Perspektive und wertende Ausdrücke (Deshalb begrüße ich …, Ich bin trotzdem für …), Konjunktiv II für Vorschläge (könnte, würden … genügen, bliebe, wären), irreale Vergangenheit (ob ich hätte helfen können), Vergleich mit je … desto, Gegenüberstellung (gleichzeitig), Rückgriff auf den Einstieg im Schlusssatz. Umfang: 368 Wörter."
+        }
+      }
+    ]
+  },
+  "muendlich": {
+    "teil1": [
+      {
+        "who": "A",
+        "themes": [
+          "Stellen Sie eine Musikrichtung oder ein Musikinstrument aus Ihrem Heimatland vor. Welche Rolle spielt sie bzw. es heute?",
+          "Sollte das Tragen eines Fahrradhelms Pflicht werden? Begründen Sie Ihre Meinung und gehen Sie auch auf Gegenargumente ein."
+        ]
+      },
+      {
+        "who": "B",
+        "themes": [
+          "Stellen Sie eine bekannte Sage oder ein Märchen aus Ihrem Heimatland vor. Was erzählt die Geschichte über die Menschen dort?",
+          "Sollten Museen ihre Ausstellungen kostenlos zugänglich machen? Begründen Sie Ihre Meinung."
+        ]
+      },
+      {
+        "who": "C",
+        "themes": [
+          "Beschreiben Sie, wie die Menschen in Ihrem Heimatland ihre Zeit zwischen Arbeit und Freizeit aufteilen. Was hat sich in den letzten Jahren verändert?",
+          "Sollte die Zeitumstellung zwischen Sommer- und Winterzeit abgeschafft werden? Begründen Sie Ihre Meinung."
+        ]
+      }
+    ],
+    "teil2": [
+      {
+        "no": "1",
+        "text": "„Der Mensch ist, was er isst.“",
+        "author": "Ludwig Feuerbach, 1804–1872, Philosoph"
+      },
+      {
+        "no": "2",
+        "text": "„Die Gedanken entstehen erst beim Reden.“",
+        "author": "nach Heinrich von Kleist, 1777–1811, Schriftsteller"
+      },
+      {
+        "no": "3",
+        "text": "„Lieber Geld verlieren als Vertrauen.“",
+        "author": "Robert Bosch, 1861–1942, Unternehmer"
+      }
+    ]
+  },
+  "notes": "PDF-Defekte (im PDF selbst, auch im Seitenbild, nicht im Textlayer): (1) Lesen 3: Zwischen Seite 6 und 7 fehlt Text; Seite 6 endet mit „Was er misst,“, Seite 7 beginnt mit „kommt das Gerät dagegen bis heute zum Einsatz, …“. Beide Teile stehen als eigene Absätze wie gedruckt. (2) Lesen 3: Aussage 18 fehlt im PDF (Seite 7 endet mit 17, Seite 8 beginnt mit 19). Der Schlüssel (18 = n) und der Kommentar (S. 32) nennen sie; der Text ist daher ein Platzhalter „[Aussage 18 fehlt im PDF]“ und muss aus der Vorlage des Tests nachgetragen werden. (3) Lesen 2, Abschnitt d endet auf Seite 4 mitten im Satz („… aus dem gemeinsamen Alltag“); laut Kommentar (S. 32) lautet das Ende „verschwinden“. Wie gedruckt übernommen. Sprachbausteine: Beispiellücke 0 ist im Schlüssel nicht aufgeführt; Antwort a (als) laut Kommentar. Hören Teil 3: Beispiel 0 = „Mensch und Technik“ (Seite 13). Schriftlicher Ausdruck: Hinweise (hint) stammen von Seite 22 (Thema 1) und Seite 23 (Thema 2). Die Validator-Warnung zum hint von Thema 2 ist ein Fehlalarm (Zeilenumbruch „gleich‐/zeitig“ in Klammern).",
+  "index": {
+    "short": "Ein Planet, gefunden am Schreibtisch · Ruhe, bitte – aber für wen? · Das Pferd frisst keinen Gurkensalat",
+    "lesen": {
+      "t1": "Ein Planet, gefunden am Schreibtisch",
+      "t2": "Ruhe, bitte – aber für wen?",
+      "t3": "Lügen erkennen – schwieriger, als die meisten glauben",
+      "sb": "Das Pferd frisst keinen Gurkensalat"
+    },
+    "hoeren": {
+      "t1": "Hunde auf dem Campus – Bereicherung oder Belastung?",
+      "t2": "Bedrohte Sprachen",
+      "t3": "Geheime Botschaften – eine kurze Geschichte der Verschlüsselung"
+    },
+    "schreiben": {
+      "t1": "Veröffentlichung von Studien ohne bestätigendes Ergebnis",
+      "t2": "Erste-Hilfe-Kurs für alle Erstsemester?"
+    },
+    "sprechen": {
+      "t1": [
+        {
+          "who": "A",
+          "topics": [
+            "Musikrichtung oder Musikinstrument im Heimatland",
+            "Fahrradhelmpflicht"
+          ]
+        },
+        {
+          "who": "B",
+          "topics": [
+            "Sage oder Märchen im Heimatland",
+            "Kostenloser Museumseintritt"
+          ]
+        },
+        {
+          "who": "C",
+          "topics": [
+            "Zeit zwischen Arbeit und Freizeit",
+            "Abschaffung der Zeitumstellung"
+          ]
+        }
+      ],
+      "t2": [
+        {
+          "no": "1",
+          "author": "Ludwig Feuerbach"
+        },
+        {
+          "no": "2",
+          "author": "Heinrich von Kleist"
+        },
+        {
+          "no": "3",
+          "author": "Robert Bosch"
+        }
+      ]
+    }
+  }
+}
