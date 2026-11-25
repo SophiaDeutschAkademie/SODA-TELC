@@ -1,0 +1,725 @@
+{
+ "id": 8,
+ "roman": "VIII",
+ "lesen": {
+  "t1": {
+   "instruction": "Lesen Sie die Überschriften a–j und die Texte 1–5. Finden Sie für jeden Text die passende Überschrift. Sie können jede Überschrift nur einmal benutzen. Markieren Sie Ihre Lösungen für die Aufgaben 1–5 auf dem Antwortbogen.",
+   "headlines": [
+    {
+     "letter": "a",
+     "text": "Auch mit wenig Geld bleibt die Haut gesund"
+    },
+    {
+     "letter": "b",
+     "text": "Was vor hundert Jahren beliebt war, ist es wieder"
+    },
+    {
+     "letter": "c",
+     "text": "Standesamt meldet mehr Geburten als im Vorjahr"
+    },
+    {
+     "letter": "d",
+     "text": "Für viele Autofahrer läuft eine Frist ab"
+    },
+    {
+     "letter": "e",
+     "text": "Babelsberger Bolzplatz schließt bald schon um 18 Uhr"
+    },
+    {
+     "letter": "f",
+     "text": "Nachbarin ist auf der Seite der jungen Sportler"
+    },
+    {
+     "letter": "g",
+     "text": "Stadt pflanzt 300 Bäume in privaten Gärten"
+    },
+    {
+     "letter": "h",
+     "text": "Test: Teure Sonnencreme schützt am besten"
+    },
+    {
+     "letter": "i",
+     "text": "Wer hilft, wenn es wochenlang nicht regnet?"
+    },
+    {
+     "letter": "j",
+     "text": "Stadt verlangt neue Fahrprüfung für ältere Autofahrer"
+    }
+   ],
+   "texts": [
+    {
+     "no": "1",
+     "paragraphs": [
+      "Die Führerscheinstelle der Stadt Potsdam weist darauf hin, dass ältere Führerscheine schrittweise ihre Gültigkeit verlieren. Wer seinen Führerschein in den Jahren 2005 bis 2007 als Plastikkarte erhalten hat, muss ihn spätestens bis zum 19. Januar 2028 umtauschen. Eine erneute Prüfung ist dafür nicht notwendig; mitzubringen sind lediglich der Personalausweis, das bisherige Dokument und ein aktuelles Passfoto. Der Umtausch kostet 25,30 Euro, und wegen der langen Wartezeiten sollten Betroffene möglichst frühzeitig einen Termin vereinbaren."
+     ]
+    },
+    {
+     "no": "2",
+     "paragraphs": [
+      "Rund 300 junge Straßenbäume hat die Stadt Potsdam im vergangenen Jahr gepflanzt, und in trockenen Sommerwochen brauchen sie dringend zusätzliches Wasser. Weil die Stadtgärtnerei diese Aufgabe allein nicht schafft, sucht sie Anwohner, die einen Baum vor ihrer Haustür regelmäßig gießen. Jeder Baum benötigt 80 Liter pro Woche; Gießkannen und einen Wassersack, der sich langsam leert, verleiht die Stadt kostenlos. Bisher haben sich 120 Freiwillige gemeldet."
+     ]
+    },
+    {
+     "no": "3",
+     "paragraphs": [
+      "Viele Verbraucher sind überzeugt, dass teure Sonnencreme zuverlässiger schützt als günstige. Ein aktueller Test von zwanzig Produkten kommt jedoch zu einem anderen Ergebnis: Die drei Testsieger kosten weniger als fünf Euro, während zwei der teuersten Cremes durchgefallen sind. Genauso wichtig wie das Produkt ist die Menge, denn ein Erwachsener braucht für den ganzen Körper etwa drei Esslöffel. Geöffnete Tuben aus dem Vorjahr sollte man nur verwenden, wenn der Inhalt normal riecht und aussieht."
+     ]
+    },
+    {
+     "no": "4",
+     "paragraphs": [
+      "Zum Artikel „Streit um den Bolzplatz“ vom 12. Juni: Seit Wochen sammeln einige Anwohner in Babelsberg Unterschriften, damit der Bolzplatz neben der Grundschule künftig schon um 18 Uhr geschlossen wird. Ich wohne seit dreißig Jahren direkt gegenüber und kann diese Forderung überhaupt nicht verstehen. Selbstverständlich wird es dort an Sommerabenden laut, aber Kinder, die draußen Fußball spielen, sind mir lieber als Kinder, die stundenlang vor einem Bildschirm sitzen.",
+      "Edith Paschke, Potsdam-Babelsberg"
+     ]
+    },
+    {
+     "no": "5",
+     "paragraphs": [
+      "Das Potsdamer Standesamt hat ausgewertet, welche Vornamen Eltern im letzten Jahr für ihre Neugeborenen ausgesucht haben. An der Spitze stehen Oskar und Mathilda, dicht gefolgt von Anton und Ida – Namen also, die bereits die Urgroßeltern dieser Kinder trugen. Moderne Namen aus bekannten Fernsehserien landen dagegen nur auf den hinteren Plätzen. Insgesamt wurden 1.840 Geburten gemeldet, etwas weniger als im Jahr zuvor."
+     ]
+    }
+   ],
+   "items": [
+    {
+     "no": "1",
+     "answer": "d"
+    },
+    {
+     "no": "2",
+     "answer": "i"
+    },
+    {
+     "no": "3",
+     "answer": "a"
+    },
+    {
+     "no": "4",
+     "answer": "f"
+    },
+    {
+     "no": "5",
+     "answer": "b"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Lesen Sie den Text und die Aufgaben 6–10. Welche Lösung (a, b oder c) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 6–10 auf dem Antwortbogen.",
+   "kind": "article",
+   "title": "Erst vorspielen, dann auftreten",
+   "lead": "Wer in der Potsdamer Fußgängerzone Musik machen möchte, braucht seit drei Jahren eine Erlaubnis der Stadt – und bekommt sie nicht ohne Weiteres.",
+   "paragraphs": [
+    "An einem Montagmorgen kurz vor acht warten vor einem Büro im Potsdamer Rathaus elf Menschen mit Gitarren, Geigen und einem Akkordeon, die alle in dieser Woche in der Brandenburger Straße, der beliebtesten Einkaufsstraße der Stadt, auftreten wollen. Voraussetzung ist eine Genehmigung, und die erhält nur, wer einer Mitarbeiterin des Ordnungsamts drei Minuten lang vorgespielt hat.",
+    "Eingeführt wurde die Regel, nachdem sich Geschäftsleute und Anwohner mehrfach beschwert hatten. „Manche Musiker beherrschten gerade einmal drei Lieder, die sie von morgens bis abends wiederholten“, erinnert sich Kirsten Noack vom Ordnungsamt. Ein Musikstudium verlangt sie von niemandem; ihr genügt es, wenn jemand sein Instrument sicher spielt und wenigstens zehn verschiedene Stücke vortragen kann.",
+    "Pro Tag vergibt die Stadt höchstens acht Genehmigungen, die jeweils zehn Euro kosten. Musiziert werden darf zwischen 10 und 20 Uhr, allerdings nie länger als eine halbe Stunde an derselben Stelle; anschließend müssen die Künstler mindestens 200 Meter weiterziehen. Verstärker und Lautsprecher sind in jedem Fall verboten, und wer ohne Genehmigung spielt, muss mit einem Bußgeld von 50 Euro rechnen.",
+    "Der Gitarrist Camilo Reyes, der aus Chile stammt und in Potsdam studiert, hält das Verfahren für gerecht. „Seit es das Vorspielen gibt, bleiben deutlich mehr Leute stehen, weil sie wissen, dass hier niemand schlecht spielt“, sagt der Student, der an sonnigen Samstagen beinahe doppelt so viel verdient wie früher.",
+    "Weniger zufrieden ist der Akkordeonspieler Bogdan Ilić, den vor allem ärgert, dass die Gebühr auch dann fällig wird, wenn es den ganzen Tag regnet und kaum jemand unterwegs ist. Die Stadtverwaltung will daher im Herbst prüfen, ob sie in Zukunft günstigere Wochenkarten anbietet; die Zahl der Beschwerden von Anwohnern ist jedenfalls um mehr als die Hälfte zurückgegangen."
+   ],
+   "source": "Straßenmusik in der Brandenburger Straße · täglich höchstens acht Genehmigungen · Gebühr: 10 Euro",
+   "taskInstruction": "",
+   "items": [
+    {
+     "no": "6",
+     "stem": "Eine Genehmigung für die Brandenburger Straße erhält,",
+     "options": {
+      "a": "wer vor einer Angestellten der Stadt Musik gemacht hat.",
+      "b": "wer ein Musikstudium abgeschlossen hat.",
+      "c": "wer sich am Montagmorgen als Erster im Rathaus anmeldet."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "7",
+     "stem": "Die Regel wurde eingeführt, weil",
+     "options": {
+      "a": "zu viele Musiker gleichzeitig in der Straße gestanden hatten.",
+      "b": "sich Musiker über zu wenig Publikum beschwert hatten.",
+      "c": "einige Musiker ständig dasselbe gespielt hatten."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "8",
+     "stem": "Wer eine Genehmigung bekommen hat,",
+     "options": {
+      "a": "darf überall in der Stadt spielen.",
+      "b": "muss nach dreißig Minuten den Ort wechseln.",
+      "c": "darf einen kleinen Lautsprecher benutzen, wenn er leise spielt."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "9",
+     "stem": "Camilo Reyes",
+     "options": {
+      "a": "nimmt heute mehr Geld ein als vor der Einführung der Regel.",
+      "b": "spielt nur noch an Samstagen.",
+      "c": "findet, dass gute Musiker auf das Vorspielen verzichten könnten."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "10",
+     "stem": "Bogdan Ilić kritisiert,",
+     "options": {
+      "a": "dass bei Regen nicht gespielt werden darf.",
+      "b": "dass er immer für eine ganze Woche bezahlen muss.",
+      "c": "dass man auch bei schlechtem Wetter zahlen muss."
+     },
+     "answer": "c"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Lesen Sie die Situationen 11–20 und die Anzeigen a–l. Finden Sie für jede Situation die passende Anzeige. Sie können jede Anzeige nur einmal benutzen. Markieren Sie Ihre Lösungen für die Aufgaben 11–20 auf dem Antwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie ein x.",
+   "items": [
+    {
+     "no": "11",
+     "text": "Sie fliegen um sechs Uhr morgens in den Urlaub und möchten Ihr Auto zu Hause lassen.",
+     "answer": "g"
+    },
+    {
+     "no": "12",
+     "text": "Ihre Waschmaschine ist kaputt. Es ist Sonntagabend, und Sie brauchen morgen früh saubere Arbeitskleidung.",
+     "answer": "a"
+    },
+    {
+     "no": "13",
+     "text": "Sie sind 35 Jahre alt und möchten Schach lernen. Die Regeln kennen Sie noch nicht.",
+     "answer": "x"
+    },
+    {
+     "no": "14",
+     "text": "Sie gehen für drei Monate ins Ausland und geben Ihre Wohnung auf, wollen Ihre Möbel aber unbedingt behalten.",
+     "answer": "b"
+    },
+    {
+     "no": "15",
+     "text": "Ihr Neffe studiert und möchte morgens vor den Vorlesungen etwas Geld verdienen.",
+     "answer": "h"
+    },
+    {
+     "no": "16",
+     "text": "Sie suchen für einen einzigen Tag eine Arbeit, bei der Sie etwas dazuverdienen können.",
+     "answer": "e"
+    },
+    {
+     "no": "17",
+     "text": "Ein wichtiger Vertrag muss heute noch aus Ihrem Büro in Potsdam zu einem Kunden nach Berlin gebracht werden.",
+     "answer": "x"
+    },
+    {
+     "no": "18",
+     "text": "Ihr Großvater zieht ins Seniorenheim. In seiner Wohnung darf nichts zurückbleiben, und die Möbel will keiner haben.",
+     "answer": "c"
+    },
+    {
+     "no": "19",
+     "text": "Ihre vierjährige Enkelin war noch nie im Theater. Am Sonntag möchten Sie das ändern.",
+     "answer": "k"
+    },
+    {
+     "no": "20",
+     "text": "Sie möchten mit zehn Kollegen nach Feierabend etwas Sportliches unternehmen und danach zusammen essen.",
+     "answer": "l"
+    }
+   ],
+   "infos": [
+    {
+     "letter": "a",
+     "header": "Waschsalon Schaumkrone",
+     "tag": "",
+     "title": "",
+     "subtitle": "SELBSTBEDIENUNG",
+     "facts": [],
+     "body": [
+      "Hier waschen und trocknen Sie Ihre Wäsche selbst – täglich von 6 bis 23 Uhr, auch an Sonn- und Feiertagen. Für Bettdecken gibt es besonders große Maschinen."
+     ],
+     "footer": "Zeppelinstraße 41 · Tel. 0331 / 96 02 18"
+    },
+    {
+     "letter": "b",
+     "header": "Lagerhaus Potsdam-Süd",
+     "tag": "",
+     "title": "",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Wir vermieten trockene, beheizte Lagerräume zwischen zwei und zwanzig Quadratmetern, in denen Sie Schränke, Sofas oder Umzugskartons unterbringen; kündigen können Sie jederzeit zum Monatsende."
+     ],
+     "footer": "Beratung: Tel. 0331 / 55 06 17"
+    },
+    {
+     "letter": "c",
+     "header": "Firma Besenrein",
+     "tag": "WOHNUNGSAUFLÖSUNGEN",
+     "title": "",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Wir räumen Wohnungen, Keller und Dachböden vollständig leer und entsorgen sämtliche Gegenstände, die niemand mehr braucht. Nach einer kostenlosen Besichtigung nennen wir Ihnen gleich den Festpreis."
+     ],
+     "footer": "Tel. 0331 / 27 90 44"
+    },
+    {
+     "letter": "d",
+     "header": "",
+     "tag": "ZU VERMIETEN",
+     "title": "Garage in Babelsberg",
+     "subtitle": "",
+     "facts": [
+      "70 € monatlich",
+      "ab 1. März"
+     ],
+     "body": [
+      "Abschließbare Einzelgarage in ruhiger Wohnstraße, nur zum Abstellen eines Pkw und nicht als Lagerraum geeignet; Vertrag für mindestens ein Jahr."
+     ],
+     "footer": "Tel. 0331 / 74 12 05"
+    },
+    {
+     "letter": "e",
+     "header": "Spielwaren Kunterbunt",
+     "tag": "AUSHILFEN GESUCHT",
+     "title": "",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Für die Inventur am Samstag, 2. Januar, suchen wir zuverlässige Aushilfen ab 18 Jahren, die von 7 bis 16 Uhr Waren zählen. Wir zahlen 15 Euro pro Stunde."
+     ],
+     "footer": "Bewerbung: Tel. 0331 / 60 18 30"
+    },
+    {
+     "letter": "f",
+     "header": "Pedalpost",
+     "tag": "FAHRRADKURIERE",
+     "title": "",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Wir holen Briefe, Unterlagen und kleine Pakete bei Ihnen ab und liefern sie innerhalb des Potsdamer Stadtgebiets in höchstens neunzig Minuten aus – umweltfreundlich und ohne Stau."
+     ],
+     "footer": "Mo–Fr 7–19 Uhr · Tel. 0331 / 88 40 22"
+    },
+    {
+     "letter": "g",
+     "header": "Havel-Shuttle",
+     "tag": "FLUGHAFEN",
+     "title": "",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Unsere Fahrer erwarten Sie vor Ihrer Haustür und bringen Sie rund um die Uhr pünktlich zum Flughafen Berlin Brandenburg, auch an Feiertagen; Anmeldung spätestens 24 Stunden vorher."
+     ],
+     "footer": "ab 39 € pro Person · Tel. 0331 / 20 06 60"
+    },
+    {
+     "letter": "h",
+     "header": "Havelbote",
+     "tag": "",
+     "title": "",
+     "subtitle": "Ihre Tageszeitung für Potsdam",
+     "facts": [],
+     "body": [
+      "Für Potsdam-West suchen wir volljährige Zustellerinnen und Zusteller, die montags bis samstags zwischen 4 und 6 Uhr Zeitungen austragen und mindestens ein halbes Jahr bei uns bleiben."
+     ],
+     "footer": "Tel. 0331 / 93 71 15"
+    },
+    {
+     "letter": "i",
+     "header": "Schachfreunde Babelsberg",
+     "tag": "",
+     "title": "Schach lernen!",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Unser Anfängerkurs für Kinder und Jugendliche von 8 bis 16 Jahren beginnt nach den Ferien, immer mittwochs um 16 Uhr. Erwachsene mit Spielerfahrung sind freitags beim Vereinsabend willkommen."
+     ],
+     "footer": "Tel. 0331 / 70 44 39"
+    },
+    {
+     "letter": "j",
+     "header": "",
+     "tag": "April bis Oktober",
+     "title": "Minigolf am Volkspark",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Unsere achtzehn Bahnen sind samstags und sonntags von 11 bis 19 Uhr geöffnet; an den übrigen Wochentagen empfangen wir nur angemeldete Schulklassen."
+     ],
+     "footer": "Eintritt 5 € · Tel. 0331 / 62 62 80"
+    },
+    {
+     "letter": "k",
+     "header": "Kleine Bühne am Kanal",
+     "tag": "PUPPENTHEATER",
+     "title": "",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Jeden Sonntag um 11 und um 15 Uhr spielen wir ein Märchen für Kinder ab drei Jahren. Die Vorstellung ist nach einer Dreiviertelstunde zu Ende."
+     ],
+     "footer": "Eintritt 6 € · Karten: Tel. 0331 / 29 03 51"
+    },
+    {
+     "letter": "l",
+     "header": "Bowling Kugelblitz",
+     "tag": "",
+     "title": "",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Auf zwölf Bahnen spielen Sie täglich von 16 bis 23 Uhr; größere Gruppen bitten wir um eine Reservierung. Anschließend erwartet Sie unser Restaurant mit Pizza und Salaten."
+     ],
+     "footer": "4 € pro Spiel und Person · Tel. 0331 / 81 15 90"
+    }
+   ]
+  },
+  "sb1": {
+   "instruction": "Lesen Sie den Text und schließen Sie die Lücken 21–30. Welche Lösung (a, b oder c) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 21–30 auf dem Antwortbogen.",
+   "paragraphs": [
+    "Liebe Lotta,",
+    "viele Grüße aus dem Zillertal, wo ich seit Samstag meinen ersten Skikurs mache, {{21}} meine Kollegen mich so lange gefragt haben, bis ich endlich zugesagt habe.",
+    "Am ersten Tag bin ich ständig hingefallen, aber unser Skilehrer erklärt jede Bewegung mit unglaublicher Geduld, und dafür bin ich {{22}} wirklich dankbar. Inzwischen schaffe ich sogar {{23}} steilen Hang hinter der Skischule, und gestern {{24}} unsere Gruppe erstmals mit dem Sessellift bis zur Bergstation gebracht. Oben haben wir zunächst die herrliche Aussicht fotografiert, {{25}} wir die Abfahrt gewagt haben, und ich {{26}} niemals gedacht, dass mir Wintersport so viel Freude macht.",
+    "Zu unserem Hotel gehört ein {{27}} Schwimmbad, in dem sich meine müden Muskeln abends erholen können, und seit gestern interessiere ich mich auch {{28}} einen Snowboardkurs. Am {{29}} würde ich eine weitere Woche hierbleiben, und meine Kollegen staunen, dass ich mir bisher {{30}} gebrochen habe.",
+    "Herzliche Grüße\ndein Till"
+   ],
+   "items": [
+    {
+     "no": "21",
+     "options": {
+      "a": "weil",
+      "b": "denn",
+      "c": "deshalb"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "22",
+     "options": {
+      "a": "ihn",
+      "b": "sein",
+      "c": "ihm"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "23",
+     "options": {
+      "a": "dem",
+      "b": "den",
+      "c": "der"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "24",
+     "options": {
+      "a": "wurde",
+      "b": "würde",
+      "c": "worden"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "25",
+     "options": {
+      "a": "nachdem",
+      "b": "während",
+      "c": "bevor"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "26",
+     "options": {
+      "a": "wäre",
+      "b": "hätte",
+      "c": "würde"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "27",
+     "options": {
+      "a": "kleines",
+      "b": "kleinen",
+      "c": "kleine"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "28",
+     "options": {
+      "a": "an",
+      "b": "für",
+      "c": "über"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "29",
+     "options": {
+      "a": "lieber",
+      "b": "schönsten",
+      "c": "liebsten"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "30",
+     "options": {
+      "a": "nichts",
+      "b": "nicht",
+      "c": "niemand"
+     },
+     "answer": "a"
+    }
+   ]
+  },
+  "sb2": {
+   "instruction": "Lesen Sie den Text und schließen Sie die Lücken 31–40. Benutzen Sie die Wörter a–o. Jedes Wort passt nur einmal. Markieren Sie Ihre Lösungen für die Aufgaben 31–40 auf dem Antwortbogen.",
+   "title": "",
+   "paragraphs": [
+    "Wandern mit Alpakas\nWir bieten geführte Wanderungen für Familien, Vereine und Firmen an. Jeder Gast führt ein eigenes Tier; zum Abschluss gibt es Kaffee im Hofcafé.",
+    "Alpakahof Wiesengrund · Familie Lehnert · 14552 Michendorf",
+    "Sehr geehrte Familie Lehnert,",
+    "durch eine Kollegin habe ich von Ihrem Alpakahof {{31}}, und da unsere Abteilung für Freitag, den 18. Juni, einen Betriebsausflug mit vierzehn Personen plant, möchte ich Sie um einige Auskünfte bitten.",
+    "Die meisten Teilnehmenden begegnen solchen Tieren zum ersten Mal. {{32}} wäre uns eine gründliche Einführung wichtig, und ich wüsste gern, wie viel eine geführte Wanderung insgesamt kostet und wie lange sie ungefähr {{33}}. Außerdem interessiert uns, ob wir unterwegs eine {{34}} einlegen können und ob auf Ihrem Hof die {{35}} besteht, nach der Rückkehr gemeinsam zu grillen. Einige Kolleginnen machen sich {{36}}, weil sie selten wandern; ist die Strecke auch für Ungeübte geeignet?",
+    "Könnten Sie mir bitte auch mitteilen, bis wann wir die Tour verbindlich {{37}} müssen und ob wir den Termin kostenlos {{38}} können, falls es an diesem Freitag kräftig regnet?",
+    "Über eine baldige {{39}} würde ich mich sehr freuen; tagsüber erreichen Sie mich telefonisch unter der {{40}} 0331 / 55 01 23.",
+    "Mit freundlichen Grüßen\nAgnieszka Wrona"
+   ],
+   "words": {
+    "a": "ANGST",
+    "b": "ANTWORT",
+    "c": "BUCHEN",
+    "d": "DAGEGEN",
+    "e": "DAUER",
+    "f": "DAUERT",
+    "g": "DESHALB",
+    "h": "ERFAHREN",
+    "i": "ERFAHRUNG",
+    "j": "MÖGLICHKEIT",
+    "k": "NUMMER",
+    "l": "PAUSE",
+    "m": "RUHE",
+    "n": "SORGEN",
+    "o": "VERSCHIEBEN"
+   },
+   "items": [
+    {
+     "no": "31",
+     "answer": "h"
+    },
+    {
+     "no": "32",
+     "answer": "g"
+    },
+    {
+     "no": "33",
+     "answer": "f"
+    },
+    {
+     "no": "34",
+     "answer": "l"
+    },
+    {
+     "no": "35",
+     "answer": "j"
+    },
+    {
+     "no": "36",
+     "answer": "n"
+    },
+    {
+     "no": "37",
+     "answer": "c"
+    },
+    {
+     "no": "38",
+     "answer": "o"
+    },
+    {
+     "no": "39",
+     "answer": "b"
+    },
+    {
+     "no": "40",
+     "answer": "k"
+    }
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. Sie hören diese Texte nur einmal. Entscheiden Sie beim Hören, ob die Aussagen 41–45 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 41–45. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 41–45. Sie haben dazu 30 Sekunden Zeit.",
+   "items": [
+    {
+     "no": "41",
+     "text": "Die Sprecherin fühlt sich nur wohl, wenn zu Hause alles aufgeräumt ist.",
+     "answer": "R"
+    },
+    {
+     "no": "42",
+     "text": "Der Sprecher räumt regelmäßig auf, weil seine Freundin das möchte.",
+     "answer": "F"
+    },
+    {
+     "no": "43",
+     "text": "Die Sprecherin nimmt die Unordnung zu Hause inzwischen nicht mehr so ernst.",
+     "answer": "R"
+    },
+    {
+     "no": "44",
+     "text": "Der Sprecher hebt alte Sachen auf, weil er sie vielleicht noch braucht.",
+     "answer": "F"
+    },
+    {
+     "no": "45",
+     "text": "Die Sprecherin findet einen Putzplan für eine Wohngemeinschaft zu streng.",
+     "answer": "F"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen. Sie hören das Gespräch zweimal. Entscheiden Sie beim Hören, ob die Aussagen 46–55 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 46–55. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 46–55. Sie haben dazu eine Minute Zeit.",
+   "items": [
+    {
+     "no": "46",
+     "text": "Frau Clausen wollte schon als Kind Schauspielerin werden.",
+     "answer": "F"
+    },
+    {
+     "no": "47",
+     "text": "In fast allen Filmen hatte Frau Clausen keinen Text zu sprechen.",
+     "answer": "R"
+    },
+    {
+     "no": "48",
+     "text": "Bei der Arbeit wartet Frau Clausen die meiste Zeit.",
+     "answer": "R"
+    },
+    {
+     "no": "49",
+     "text": "Für längere Arbeitstage bekommt sie mehr Geld als für kürzere.",
+     "answer": "F"
+    },
+    {
+     "no": "50",
+     "text": "Das Geld vom Film reicht Frau Clausen nicht zum Leben.",
+     "answer": "R"
+    },
+    {
+     "no": "51",
+     "text": "In den Pausen darf sie sich mit den Stars unterhalten.",
+     "answer": "F"
+    },
+    {
+     "no": "52",
+     "text": "Am anstrengendsten fand sie die Arbeit bei großer Kälte.",
+     "answer": "F"
+    },
+    {
+     "no": "53",
+     "text": "Manche ihrer Szenen kommen im fertigen Film gar nicht vor.",
+     "answer": "R"
+    },
+    {
+     "no": "54",
+     "text": "Wer mitspielen will, muss eine Schauspielschule besucht haben.",
+     "answer": "F"
+    },
+    {
+     "no": "55",
+     "text": "Manchmal erfährt man erst einen Tag vorher, dass man gebraucht wird.",
+     "answer": "R"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. Sie hören jeden Text zweimal. Entscheiden Sie beim Hören, ob die Aussagen 56–60 richtig oder falsch sind. Markieren Sie Ihre Lösungen für die Aufgaben 56–60 auf dem Antwortbogen. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch.",
+   "readNote": "",
+   "items": [
+    {
+     "no": "56",
+     "text": "Der Museumsladen schließt gleichzeitig mit dem Museum.",
+     "answer": "F"
+    },
+    {
+     "no": "57",
+     "text": "Fiete besorgt für Samstag etwas zu trinken.",
+     "answer": "R"
+    },
+    {
+     "no": "58",
+     "text": "Nicht jeder, der die Lösung weiß, bekommt auch Karten.",
+     "answer": "R"
+    },
+    {
+     "no": "59",
+     "text": "Am Freitag können die Kinder nirgends betreut werden.",
+     "answer": "F"
+    },
+    {
+     "no": "60",
+     "text": "Das Flugzeug ist schneller in Berlin als erwartet.",
+     "answer": "R"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "intro": "",
+  "task": {
+   "lead": "Sie haben von Ihrer neuen Nachbarin folgende E-Mail erhalten:",
+   "mail": [
+    "Guten Tag, Frau/Herr ______,",
+    "seit letzter Woche wohne ich in der Wohnung neben Ihnen. Unser Vermieter hat mir Ihre E-Mail-Adresse gegeben und gesagt, dass Sie sich im Haus gut auskennen.",
+    "Darf ich Sie um ein paar Auskünfte bitten? Ich weiß zum Beispiel nicht, wohin der Müll kommt, und auch die Waschküche im Keller habe ich noch nicht benutzt. Außerdem suche ich einen guten Hausarzt in der Nähe.",
+    "Vielleicht haben Sie ja Lust, am Wochenende auf einen Kaffee vorbeizukommen? Dann könnten wir uns kennenlernen.",
+    "Mit freundlichen Grüßen\nTabea Meinert"
+   ],
+   "instruction": "Antworten Sie auf die E-Mail. Schreiben Sie etwas zu allen vier Punkten:",
+   "points": [
+    "was Frau Meinert über den Müll im Haus wissen muss",
+    "wie man die Waschküche benutzt",
+    "welchen Arzt Sie empfehlen und warum",
+    "ob und wann Sie zum Kaffee kommen"
+   ],
+   "closing": "Überlegen Sie sich vor dem Schreiben eine passende Reihenfolge der Punkte, einen passenden Betreff, eine passende Anrede, Einleitung und einen passenden Schluss.",
+   "model": {
+    "label": "Beispiel für eine Antwort, die alle vier Leitpunkte behandelt (ca. 150 Wörter)",
+    "text": "Betreff: Willkommen im Haus\n\nLiebe Frau Meinert,\n\nherzlich willkommen in unserem Haus! Vielen Dank für Ihre Nachricht, ich helfe Ihnen gern.\n\nDie Mülltonnen stehen im Hof hinter den Fahrrädern. Bitte trennen Sie Papier, Verpackungen und Bioabfall, denn darauf achtet unser Vermieter genau. Der Restmüll wird jeden Donnerstag abgeholt.\n\nDie Waschküche können Sie jeden Tag von 7 bis 21 Uhr benutzen. An der Tür hängt eine Liste, in die Sie Ihren Namen eintragen. Jede Wäsche kostet zwei Euro, die man direkt in die Maschine wirft.\n\nAls Hausarzt empfehle ich Ihnen Dr. Kranz in der Kastanienallee. Er nimmt sich viel Zeit für seine Patienten, und man bekommt bei ihm schnell einen Termin.\n\nIhre Einladung nehme ich sehr gern an. Am Samstag um 15 Uhr hätte ich Zeit. Passt Ihnen das? Ich bringe einen Kuchen mit, dann können wir in Ruhe über alles sprechen.\n\nIch freue mich, Sie kennenzulernen.\n\nViele Grüße\nCarlos Mendes",
+    "marks": [
+     "",
+     "",
+     "",
+     "1",
+     "2",
+     "3",
+     "4",
+     "",
+     ""
+    ],
+    "notes": "Leitpunkte\n1 Müll? → Tonnen im Hof, trennen, Restmüll donnerstags\n2 Waschküche? → 7–21 Uhr, Liste, zwei Euro\n3 Arzt, warum? → Dr. Kranz: viel Zeit, schnell ein Termin\n4 Kaffee, wann? → ja, Samstag um 15 Uhr\nAufbau Betreff · Anrede in der Sie-Form (Nachbarin, halbformell) · Einleitung mit Begrüßung · Schluss · Grußformel und Name\nBewertung\nI Inhalt: alle vier Leitpunkte, passend zur Situation. Jeder fehlende Leitpunkt kostet eine Stufe.\nII Kommunikative Gestaltung: Register (Sie), Aufbau, Verknüpfungen wie denn, und, dann, in die.\nIII Formale Richtigkeit: Fehler dürfen das Verständnis nicht stören.\nTypische Fehler: den Arzt nennen, aber nicht begründen (Leitpunkt 3) · bei der Einladung keinen Termin vorschlagen (Leitpunkt 4) · du statt Sie gegenüber einer Nachbarin, die man noch nicht kennt · Anrede wie an eine Freundin (Liebe Tabea)."
+   }
+  }
+ },
+ "notes": "Quelle: PDF mit Textebene, Text parallel aus dem Quell-HTML. Alle Antworten stammen aus dem Lösungsschlüssel (S. 19). Sprachbausteine Teil 2: Der Anzeigenkasten 'Wandern mit Alpakas' und die Adresszeile stehen als erste beiden Absätze (title bleibt leer). Leseverstehen Teil 1, Text 4: Leserbrief, Name 'Edith Paschke, Potsdam-Babelsberg' als eigener Absatz. Anzeige i: Kopf 'Schachfreunde Babelsberg', Titel 'Schach lernen!'. Anzeige j: tag 'April bis Oktober'.",
+ "index": {
+  "short": "Erst vorspielen, dann auftreten · Alltag in Unordnung · Frau Clausen: Statistin beim Film",
+  "hoeren": {
+   "t1": "Fünf Stellungnahmen: Ordnung zu Hause",
+   "t2": "Gespräch mit Frau Clausen: Statistin beim Film",
+   "t3": "Fünf kurze Texte"
+  },
+  "sb1": "Postkarte aus dem Zillertal: Skikurs",
+  "sb2": "Anfrage an den Alpakahof: Betriebsausflug",
+  "schreiben": "Antwort an Frau Meinert: Neue Nachbarin",
+  "sprechen": {
+   "t2": "Privates Feuerwerk an Silvester verbieten?",
+   "t3": "Lerngruppe für die Prüfung"
+  }
+ }
+}

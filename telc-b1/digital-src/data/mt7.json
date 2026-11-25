@@ -1,0 +1,728 @@
+{
+ "id": 7,
+ "roman": "VII",
+ "lesen": {
+  "t1": {
+   "instruction": "Lesen Sie die Überschriften a–j und die Texte 1–5. Finden Sie für jeden Text die passende Überschrift. Sie können jede Überschrift nur einmal benutzen. Markieren Sie Ihre Lösungen für die Aufgaben 1–5 auf dem Antwortbogen.",
+   "headlines": [
+    {
+     "letter": "a",
+     "text": "Stadt baut 24 neue Toiletten in der Altstadt"
+    },
+    {
+     "letter": "b",
+     "text": "Vier Abende für alle, die gern nach oben schauen"
+    },
+    {
+     "letter": "c",
+     "text": "Polizei nimmt Betrüger nach vierzig Anrufen fest"
+    },
+    {
+     "letter": "d",
+     "text": "Mit Papier und Stift zu Freunden im Ausland"
+    },
+    {
+     "letter": "e",
+     "text": "Neues Vormittagsprogramm: Kino zeigt Kinderfilme"
+    },
+    {
+     "letter": "f",
+     "text": "Falsche Helfer wollen an das Geld älterer Leute"
+    },
+    {
+     "letter": "g",
+     "text": "Sternwarte sagt Abendkurs wegen schlechten Wetters ab"
+    },
+    {
+     "letter": "h",
+     "text": "Hier dürfen die Kleinsten auch einmal schreien"
+    },
+    {
+     "letter": "i",
+     "text": "Siebtklässler fahren im Juni nach Cambridge"
+    },
+    {
+     "letter": "j",
+     "text": "Ohne Bestellung willkommen – die Stadt zahlt"
+    }
+   ],
+   "texts": [
+    {
+     "no": "1",
+     "paragraphs": [
+      "Die Polizei warnt erneut vor Betrügern, die sich am Telefon als Kriminalbeamte ausgeben. In den vergangenen zwei Wochen meldeten sich in Heidelberg mehr als vierzig hauptsächlich ältere Menschen, die einen solchen Anruf erhalten hatten. Die Täter behaupten, dass in der Nachbarschaft eingebrochen wurde, und bieten an, Bargeld und Schmuck sicher aufzubewahren. Echte Polizeibeamte verlangen jedoch niemals Wertsachen; wer unsicher ist, sollte sofort auflegen und selbst die Nummer 110 wählen."
+     ]
+    },
+    {
+     "no": "2",
+     "paragraphs": [
+      "Wer in der Heidelberger Altstadt dringend eine Toilette braucht, hat es künftig leichter. Ab dem 1. Mai öffnen 24 Cafés und Gaststätten ihre Toiletten kostenlos für alle Passanten, auch wenn diese nichts bestellen; ein Aufkleber an der Eingangstür zeigt, welche Betriebe sich beteiligen. Die Stadtverwaltung überweist jedem Gastwirt dafür monatlich 80 Euro. Das ist deutlich günstiger, als zusätzliche öffentliche Toiletten zu bauen und täglich zu reinigen."
+     ]
+    },
+    {
+     "no": "3",
+     "paragraphs": [
+      "Wie man Sternbilder am Nachthimmel erkennt, zeigt ab dem 1. Oktober ein Kurs der Sternwarte auf dem Königstuhl. An vier Freitagabenden lernen die Teilnehmenden, einzelne Sterne zu finden und ein Fernrohr richtig einzustellen. Bei bewölktem Himmel fällt der Abend nicht aus, sondern findet im Vortragsraum statt. Die Teilnahme kostet 40 Euro; warme Kleidung ist unbedingt notwendig, weil der Beobachtungsraum nicht geheizt wird."
+     ]
+    },
+    {
+     "no": "4",
+     "paragraphs": [
+      "Junge Eltern brauchen auf aktuelle Kinofilme nicht zu verzichten. Das Kino Luna veranstaltet jeden ersten Donnerstag im Monat um 10.30 Uhr eine Vorstellung, zu der Babys ausdrücklich mitgebracht werden dürfen. Der Ton ist leiser als gewöhnlich, die Beleuchtung bleibt teilweise eingeschaltet, und im Eingangsbereich stehen ein Wickeltisch sowie Abstellplätze für Kinderwagen bereit. Gezeigt werden normale Spielfilme für Erwachsene, keine Kinderfilme; der Eintritt kostet sechs Euro."
+     ]
+    },
+    {
+     "no": "5",
+     "paragraphs": [
+      "Seit Januar schreibt die Klasse 7c des Neckar-Gymnasiums Briefe an gleichaltrige Schülerinnen und Schüler in der englischen Partnerstadt Cambridge – mit der Hand und auf Deutsch, denn die Engländer lernen die Sprache seit zwei Jahren. Die Antworten kommen auf Englisch zurück. „Auf einen Brief wartet man länger als auf eine Handynachricht, aber er macht mehr Freude“, sagt die Lehrerin Annette Wirth. Im Juni besuchen die englischen Jugendlichen ihre neuen Brieffreunde in Heidelberg."
+     ]
+    }
+   ],
+   "items": [
+    {
+     "no": "1",
+     "answer": "f"
+    },
+    {
+     "no": "2",
+     "answer": "j"
+    },
+    {
+     "no": "3",
+     "answer": "b"
+    },
+    {
+     "no": "4",
+     "answer": "h"
+    },
+    {
+     "no": "5",
+     "answer": "d"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Lesen Sie den Text und die Aufgaben 6–10. Welche Lösung (a, b oder c) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 6–10 auf dem Antwortbogen.",
+   "kind": "article",
+   "title": "Schwarz gekleidet, gern gesehen",
+   "lead": "Ronja Eberle ist Schornsteinfegerin in Heidelberg – ein Beruf, der sich stark verändert und trotzdem seinen guten Ruf behalten hat.",
+   "paragraphs": [
+    "Morgens um halb sieben ist Ronja Eberle in Neuenheim schon unterwegs, über der Schulter die Leiter, in der Hand den Koffer mit den Messgeräten. Die 27-Jährige gehört zu den wenigen Frauen in ihrem Handwerk, und wer ihr in der schwarzen Arbeitskleidung begegnet, bleibt häufig stehen. „Manche Leute möchten mir die Hand geben oder einen Knopf an meiner Jacke berühren, weil das angeblich Glück bringt“, erzählt sie.",
+    "Eigentlich hatte sie nach dem Schulabschluss eine Ausbildung zur Bürokauffrau geplant, doch ein zweiwöchiges Praktikum bei einem Schornsteinfeger, das ihr eine Lehrerin empfohlen hatte, änderte alles. „Bereits am dritten Tag wusste ich, dass ich nicht jahrelang am Schreibtisch sitzen möchte“, berichtet Eberle. Ihre Eltern waren anfangs wenig begeistert, inzwischen sind sie jedoch stolz auf ihre Tochter.",
+    "Auf Dächer steigt sie seltener, als die meisten vermuten, denn den größten Teil ihrer Arbeitszeit verbringt sie in Kellern, wo sie Heizungen überprüft und misst, ob die Abgase den gesetzlichen Vorschriften entsprechen. Außerdem berät sie Hausbesitzer, die Energie sparen möchten, während das klassische Kehren der Schornsteine nur noch etwa ein Drittel ihrer Aufträge ausmacht.",
+    "Anstrengend findet sie weniger die körperliche Arbeit als die Terminplanung. Weil zahlreiche Kunden berufstätig sind, traf Eberle früher tagsüber oft niemanden an und musste ein zweites Mal vorbeikommen. Seit einem Jahr kündigt sie ihre Besuche deshalb per Textnachricht an und vergibt zusätzlich Termine am frühen Abend, wodurch sich die Zahl der unnötigen Fahrten halbiert hat.",
+    "Im Frühjahr legt Eberle die Meisterprüfung ab. Danach könnte sie einen eigenen Bezirk übernehmen, doch damit will sie sich Zeit lassen, weil sie zunächst bei ihrem bisherigen Chef angestellt bleiben und selbst Lehrlinge ausbilden möchte. „Ich hoffe, dass sich in Zukunft mehr Mädchen für diesen Beruf interessieren“, sagt sie, „denn schmutzig wird man zwar, aber langweilig ist es nie.“"
+   ],
+   "source": "Schornsteinfeger-Handwerk · Ausbildung: drei Jahre · Abschluss: Gesellenprüfung",
+   "taskInstruction": "",
+   "items": [
+    {
+     "no": "6",
+     "stem": "Wenn Ronja Eberle in ihrer Arbeitskleidung unterwegs ist,",
+     "options": {
+      "a": "wird sie oft gebeten, ihre Messgeräte zu erklären.",
+      "b": "wollen einige Menschen sie anfassen, um Glück zu haben.",
+      "c": "wundern sich viele, dass sie so früh am Morgen arbeitet."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "7",
+     "stem": "Für ihren Beruf entschied sich Ronja Eberle,",
+     "options": {
+      "a": "weil ihre Eltern ihr dazu geraten hatten.",
+      "b": "nachdem sie eine Ausbildung im Büro abgebrochen hatte.",
+      "c": "als sie ihn zwei Wochen lang ausprobierte."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "8",
+     "stem": "In ihrem Arbeitsalltag",
+     "options": {
+      "a": "kontrolliert sie vor allem Heizungen.",
+      "b": "ist das Reinigen der Schornsteine die wichtigste Aufgabe.",
+      "c": "steigt sie häufiger auf Dächer als in Keller."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "9",
+     "stem": "Damit sie seltener umsonst zu den Kunden fährt,",
+     "options": {
+      "a": "kommt Ronja Eberle nur noch abends vorbei.",
+      "b": "meldet sich Ronja Eberle vorher schriftlich an.",
+      "c": "ruft Ronja Eberle jeden Kunden am Tag vorher noch einmal an."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "10",
+     "stem": "Nach der Meisterprüfung",
+     "options": {
+      "a": "wechselt sie die Stelle erst einmal nicht.",
+      "b": "wird sie sofort Chefin in einem eigenen Bezirk.",
+      "c": "will sie nur noch ausbilden und nicht mehr zu Kunden fahren."
+     },
+     "answer": "a"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Lesen Sie die Situationen 11–20 und die Anzeigen a–l. Finden Sie für jede Situation die passende Anzeige. Sie können jede Anzeige nur einmal benutzen. Markieren Sie Ihre Lösungen für die Aufgaben 11–20 auf dem Antwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie ein x.",
+   "items": [
+    {
+     "no": "11",
+     "text": "Sie möchten jetzt gleich zum Friseur gehen, ohne vorher einen Termin zu machen.",
+     "answer": "x"
+    },
+    {
+     "no": "12",
+     "text": "Sie müssen heute Abend nach 20 Uhr noch ein Paket abschicken.",
+     "answer": "b"
+    },
+    {
+     "no": "13",
+     "text": "Ihre Mutter hat seit heute Morgen Fieber und kann das Haus nicht verlassen. Sie braucht dringend ihre Tabletten.",
+     "answer": "a"
+    },
+    {
+     "no": "14",
+     "text": "Die alte Armbanduhr Ihres Großvaters läuft nicht mehr. Sie möchten sie wieder in Ordnung bringen lassen.",
+     "answer": "h"
+    },
+    {
+     "no": "15",
+     "text": "Es ist zehn Uhr morgens. Ihre Tante hat Geburtstag und soll noch heute Blumen bekommen.",
+     "answer": "l"
+    },
+    {
+     "no": "16",
+     "text": "Ihr Bruder studiert und sucht ein günstiges Zimmer in einer Wohngemeinschaft.",
+     "answer": "x"
+    },
+    {
+     "no": "17",
+     "text": "Ein Kollege aus Indien arbeitet ein halbes Jahr in Heidelberg und braucht dafür eine Wohnung mit Möbeln.",
+     "answer": "g"
+    },
+    {
+     "no": "18",
+     "text": "Ihre Nichte hat gerade die Realschule abgeschlossen und möchte einen Beruf in einer Arztpraxis lernen.",
+     "answer": "e"
+    },
+    {
+     "no": "19",
+     "text": "Sie wandern gern, kennen aber in der neuen Stadt noch niemanden, der mitkommt.",
+     "answer": "j"
+    },
+    {
+     "no": "20",
+     "text": "Sie möchten mit Ihren Kolleginnen für einen Tag nach Frankreich fahren, ohne selbst am Steuer zu sitzen.",
+     "answer": "i"
+    }
+   ],
+   "infos": [
+    {
+     "letter": "a",
+     "header": "Linden-Apotheke",
+     "tag": "",
+     "title": "",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Wer krank im Bett liegt, muss seine Medikamente nicht selbst abholen, denn unser Botendienst liefert Bestellungen, die bis 15 Uhr bei uns ankommen, noch am selben Tag kostenlos nach Hause."
+     ],
+     "footer": "Botendienst: Tel. 06221 / 40 30 20"
+    },
+    {
+     "letter": "b",
+     "header": "Kiosk Schloss-Eck",
+     "tag": "PAKETSHOP",
+     "title": "",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Wir verkaufen Zeitungen, Getränke und Fahrkarten und nehmen täglich bis 23 Uhr Pakete für alle großen Paketdienste an – auch an Sonn- und Feiertagen."
+     ],
+     "footer": "Am Kornmarkt · Tel. 06221 / 71 82 93"
+    },
+    {
+     "letter": "c",
+     "header": "Salon Haarmonie",
+     "tag": "",
+     "title": "",
+     "subtitle": "Heidelberg-Wieblingen",
+     "facts": [],
+     "body": [
+      "Damen, Herren und Kinder bekommen bei uns den passenden Haarschnitt. Damit niemand warten muss, arbeiten wir nur nach vorheriger Terminvereinbarung, die telefonisch oder online möglich ist."
+     ],
+     "footer": "Tel. 06221 / 65 43 21"
+    },
+    {
+     "letter": "d",
+     "header": "ALLES FÜR DRAUSSEN",
+     "tag": "",
+     "title": "Sporthaus Gipfelglück",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Wanderschuhe, Regenjacken und Rucksäcke finden Sie bei uns in großer Auswahl, und unsere Fachleute beraten Sie ausführlich. Wanderkarten für den Odenwald und das Neckartal haben wir ebenfalls."
+     ],
+     "footer": "Tel. 06221 / 33 44 55"
+    },
+    {
+     "letter": "e",
+     "header": "Kinderarztpraxis Dr. Hauck",
+     "tag": "AUSBILDUNG",
+     "title": "",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Zum 1. September bieten wir einen Ausbildungsplatz zur Medizinischen Fachangestellten an, für den wir einen Realschulabschluss, gute Deutschkenntnisse und Freude an der Arbeit mit Kindern erwarten."
+     ],
+     "footer": "Tel. 06221 / 28 19 37"
+    },
+    {
+     "letter": "f",
+     "header": "Zimmer frei!",
+     "tag": "",
+     "title": "",
+     "subtitle": "WG in Neuenheim",
+     "facts": [],
+     "body": [
+      "In unserer Dreier-WG wird zum 1. April ein helles Zimmer für 420 Euro warm frei – da wir zwei Studentinnen sind, vermieten wir ausschließlich an eine weitere Frau."
+     ],
+     "footer": "Tel. 0171 / 392 00 71"
+    },
+    {
+     "letter": "g",
+     "header": "WOHNEN AUF ZEIT",
+     "tag": "",
+     "title": "",
+     "subtitle": "Möbliert in Bergheim",
+     "facts": [
+      "1.150 € warm",
+      "sofort frei"
+     ],
+     "body": [
+      "Komplett eingerichtete Zweizimmerwohnung mit Küche und Internetanschluss für Berufstätige, die nur für eine bestimmte Zeit in Heidelberg arbeiten – zu mieten für drei bis zwölf Monate."
+     ],
+     "footer": "Tel. 06221 / 90 80 70"
+    },
+    {
+     "letter": "h",
+     "header": "Uhren Zeitlos",
+     "tag": "MEISTERWERKSTATT",
+     "title": "",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Wir reparieren Armbanduhren, Wecker und Wanduhren jeden Alters in unserer eigenen Werkstatt. Batterien wechseln wir sofort, und bei größeren Reparaturen nennen wir Ihnen vorher den Preis."
+     ],
+     "footer": "Hauptstraße 112 · Tel. 06221 / 12 21 12"
+    },
+    {
+     "letter": "i",
+     "header": "Tagesfahrt ins Elsass",
+     "tag": "",
+     "title": "",
+     "subtitle": "",
+     "facts": [
+      "49 €"
+     ],
+     "body": [
+      "Jeden zweiten Samstag bringt Sie unser moderner Reisebus ohne Umsteigen ins französische Straßburg, wo Sie eine deutschsprachige Stadtführung erwartet. Abfahrt ist um 7 Uhr am Hauptbahnhof."
+     ],
+     "footer": "Reisebüro Fernweh · Tel. 06221 / 58 58 10"
+    },
+    {
+     "letter": "j",
+     "header": "Wandern im Odenwald",
+     "tag": "WANDERFREUNDE E. V.",
+     "title": "",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Jeden Sonntag unternehmen wir eine geführte Tour von zwölf bis achtzehn Kilometern. Gäste dürfen jederzeit kostenlos mitlaufen; eine Anmeldung ist nicht erforderlich."
+     ],
+     "footer": "Treffpunkt 9 Uhr am Bismarckplatz · Tel. 06221 / 77 61 40"
+    },
+    {
+     "letter": "k",
+     "header": "Kosmetikstudio Lavendel",
+     "tag": "",
+     "title": "",
+     "subtitle": "Gesicht · Hände · Füße",
+     "facts": [],
+     "body": [
+      "Erholen Sie sich bei einer Gesichtsbehandlung, Maniküre oder Fußpflege – kommen Sie einfach vorbei, denn einen Termin brauchen Sie nicht."
+     ],
+     "footer": "Tel. 06221 / 24 68 10"
+    },
+    {
+     "letter": "l",
+     "header": "LIEFERSERVICE",
+     "tag": "",
+     "title": "Blumenhaus Rosenrot",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Sträuße, die Sie bis 12 Uhr bestellen, liefern wir noch am selben Nachmittag im gesamten Stadtgebiet aus. Auf Wunsch gestalten wir auch den Blumenschmuck für Hochzeiten und Trauerfeiern."
+     ],
+     "footer": "Tel. 06221 / 52 63 74"
+    }
+   ]
+  },
+  "sb1": {
+   "instruction": "Lesen Sie den Text und schließen Sie die Lücken 21–30. Welche Lösung (a, b oder c) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 21–30 auf dem Antwortbogen.",
+   "paragraphs": [
+    "Liebe Selin,",
+    "vielen Dank für deine Ansichtskarte, über die ich mich besonders gefreut habe, denn {{21}} ich sie im Briefkasten entdeckt habe, musste ich an unseren gemeinsamen Sommerurlaub denken.",
+    "Seit Jahresbeginn mache ich {{22}} einer Theatergruppe mit, die jeden Mittwochabend im Kulturzentrum probt. Zur Gruppe gehören dreizehn weitere Mitglieder, mit {{23}} ich mich ausgezeichnet verstehe, und unser Regisseur ist zwar ziemlich streng, aber durch ihn bin ich deutlich selbstbewusster {{24}}. Bei der {{25}} Probe habe ich vor Aufregung keinen einzigen Satz herausgebracht, {{26}} ich meine gesamte Rolle auswendig gelernt hatte, doch glücklicherweise hat {{27}} eine erfahrene Mitspielerin beruhigt.",
+    "Inzwischen macht mir das Theaterspielen {{28}} Spaß als früher der Tanzunterricht, und für unsere Premiere am 13. März reserviere ich dir natürlich einen Sitzplatz in der vordersten Reihe. {{29}} mir bitte rechtzeitig Bescheid, ob du kommen kannst, denn ich freue mich riesig {{30}}, dich endlich wiederzusehen.",
+    "Herzliche Grüße\ndeine Nele"
+   ],
+   "items": [
+    {
+     "no": "21",
+     "options": {
+      "a": "wann",
+      "b": "wenn",
+      "c": "als"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "22",
+     "options": {
+      "a": "an",
+      "b": "bei",
+      "c": "mit"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "23",
+     "options": {
+      "a": "denen",
+      "b": "deren",
+      "c": "die"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "24",
+     "options": {
+      "a": "werden",
+      "b": "geworden",
+      "c": "worden"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "25",
+     "options": {
+      "a": "erste",
+      "b": "erster",
+      "c": "ersten"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "26",
+     "options": {
+      "a": "obwohl",
+      "b": "weil",
+      "c": "sodass"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "27",
+     "options": {
+      "a": "mir",
+      "b": "mich",
+      "c": "mein"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "28",
+     "options": {
+      "a": "sehr",
+      "b": "viel",
+      "c": "mehr"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "29",
+     "options": {
+      "a": "Gib",
+      "b": "Gibst",
+      "c": "Geben"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "30",
+     "options": {
+      "a": "darüber",
+      "b": "darauf",
+      "c": "dafür"
+     },
+     "answer": "b"
+    }
+   ]
+  },
+  "sb2": {
+   "instruction": "Lesen Sie den Text und schließen Sie die Lücken 31–40. Benutzen Sie die Wörter a–o. Jedes Wort passt nur einmal. Markieren Sie Ihre Lösungen für die Aufgaben 31–40 auf dem Antwortbogen.",
+   "title": "",
+   "paragraphs": [
+    "Aushilfen für die Weinlese gesucht",
+    "Unser Weingut sucht für September und Oktober Verstärkung für die Arbeit im Weinberg. Erfahrung ist nicht erforderlich, Bezahlung pro Stunde.",
+    "Weingut Rebenhof · Familie Seitz · 69198 Schriesheim",
+    "Sehr geehrte Familie Seitz,",
+    "auf Ihrer Internetseite habe ich gelesen, dass Sie für die kommende Weinlese noch Aushilfen suchen, und da ich gern im Freien arbeite, möchte ich mich um eine dieser Stellen {{31}}.",
+    "Ich bin 24 Jahre alt, stamme aus Kroatien und studiere zurzeit Biologie an der Universität Heidelberg, wo die Vorlesungen erst Mitte Oktober wieder anfangen. Meine Großeltern besitzen selbst einen kleinen Weinberg, in dem ich als Jugendliche jeden Herbst mitgeholfen habe, sodass ich {{32}}, wie anstrengend diese Tätigkeit ist. Frühes Aufstehen fällt mir überhaupt nicht {{33}}, und {{34}} der Semesterferien könnte ich Sie an sechs Tagen pro Woche unterstützen.",
+    "Gern würde ich noch erfahren, wie hoch der Stundenlohn ist und {{35}} die Arbeit morgens beginnt. {{36}} interessiert mich, ob Sie den Helfern eine {{37}} anbieten oder ob ich täglich mit dem Bus {{38}} muss.",
+    "Über eine {{39}} zu einem persönlichen Gespräch würde ich mich sehr freuen; für Rückfragen stehe ich Ihnen selbstverständlich jederzeit zur {{40}}.",
+    "Mit freundlichen Grüßen\nIvana Marković"
+   ],
+   "words": {
+    "a": "ANMELDEN",
+    "b": "AUSSERDEM",
+    "c": "BEWERBEN",
+    "d": "DENNOCH",
+    "e": "EINLADUNG",
+    "f": "KENNE",
+    "g": "KOMMEN",
+    "h": "SCHWER",
+    "i": "SCHWIERIG",
+    "j": "UNTERKUNFT",
+    "k": "VERFÜGUNG",
+    "l": "WÄHREND",
+    "m": "WANN",
+    "n": "WEISS",
+    "o": "WOFÜR"
+   },
+   "items": [
+    {
+     "no": "31",
+     "answer": "c"
+    },
+    {
+     "no": "32",
+     "answer": "n"
+    },
+    {
+     "no": "33",
+     "answer": "h"
+    },
+    {
+     "no": "34",
+     "answer": "l"
+    },
+    {
+     "no": "35",
+     "answer": "m"
+    },
+    {
+     "no": "36",
+     "answer": "b"
+    },
+    {
+     "no": "37",
+     "answer": "j"
+    },
+    {
+     "no": "38",
+     "answer": "g"
+    },
+    {
+     "no": "39",
+     "answer": "e"
+    },
+    {
+     "no": "40",
+     "answer": "k"
+    }
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. Sie hören diese Texte nur einmal. Entscheiden Sie beim Hören, ob die Aussagen 41–45 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 41–45. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 41–45. Sie haben dazu 30 Sekunden Zeit.",
+   "items": [
+    {
+     "no": "41",
+     "text": "Der Sprecher ärgert sich noch genauso wie früher, wenn andere zu spät kommen.",
+     "answer": "F"
+    },
+    {
+     "no": "42",
+     "text": "Die Sprecherin ist mit ihrer eigenen Unpünktlichkeit nicht zufrieden.",
+     "answer": "R"
+    },
+    {
+     "no": "43",
+     "text": "Der Sprecher findet es auch privat wichtig, auf die Minute pünktlich zu sein.",
+     "answer": "F"
+    },
+    {
+     "no": "44",
+     "text": "Die Sprecherin findet, dass sie an den Verspätungen nicht schuld ist.",
+     "answer": "R"
+    },
+    {
+     "no": "45",
+     "text": "Der Sprecher sagt den anderen Bescheid, wenn er sich verspätet.",
+     "answer": "R"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen. Sie hören das Gespräch zweimal. Entscheiden Sie beim Hören, ob die Aussagen 46–55 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 46–55. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 46–55. Sie haben dazu eine Minute Zeit.",
+   "items": [
+    {
+     "no": "46",
+     "text": "Herr Bender ist umgezogen, weil seine frühere Wohnung teurer werden sollte.",
+     "answer": "R"
+    },
+    {
+     "no": "47",
+     "text": "Für den Bau seines Hauses hat er mehrere Jahre gebraucht.",
+     "answer": "F"
+    },
+    {
+     "no": "48",
+     "text": "Beim Bau hat ihm ein Verwandter geholfen.",
+     "answer": "R"
+    },
+    {
+     "no": "49",
+     "text": "Das Grundstück, auf dem das Haus steht, gehört Herrn Bender.",
+     "answer": "F"
+    },
+    {
+     "no": "50",
+     "text": "Im Winter lässt sich das Haus nur schwer heizen.",
+     "answer": "F"
+    },
+    {
+     "no": "51",
+     "text": "Für eine Waschmaschine ist in dem Haus kein Platz.",
+     "answer": "F"
+    },
+    {
+     "no": "52",
+     "text": "Seine Gäste können nicht bei ihm im Haus übernachten.",
+     "answer": "R"
+    },
+    {
+     "no": "53",
+     "text": "Von seinen Büchern hat er sich ohne Probleme getrennt.",
+     "answer": "F"
+    },
+    {
+     "no": "54",
+     "text": "Finanziell lohnt sich das Haus für Herrn Bender nach einigen Jahren.",
+     "answer": "R"
+    },
+    {
+     "no": "55",
+     "text": "Herr Bender plant, bald in eine größere Wohnung zu ziehen.",
+     "answer": "F"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. Sie hören jeden Text zweimal. Entscheiden Sie beim Hören, ob die Aussagen 56–60 richtig oder falsch sind. Markieren Sie Ihre Lösungen für die Aufgaben 56–60 auf dem Antwortbogen. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch.",
+   "readNote": "",
+   "items": [
+    {
+     "no": "56",
+     "text": "Heute fährt keine Bahn bis ganz nach oben.",
+     "answer": "R"
+    },
+    {
+     "no": "57",
+     "text": "Herr Amato muss für die Torte nichts mehr bezahlen.",
+     "answer": "R"
+    },
+    {
+     "no": "58",
+     "text": "Der Zirkus spielt an jedem Tag der Woche.",
+     "answer": "F"
+    },
+    {
+     "no": "59",
+     "text": "Am Dienstag hat ganz Rohrbach keinen Strom.",
+     "answer": "F"
+    },
+    {
+     "no": "60",
+     "text": "Kletterschuhe muss man nicht selbst mitbringen.",
+     "answer": "R"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "intro": "",
+  "task": {
+   "lead": "Sie haben von Ihrer Freundin Marit folgende E-Mail erhalten:",
+   "mail": [
+    "Hallo ______,",
+    "in diesem Jahr habe ich noch drei Wochen Urlaub, und ich möchte endlich dein Heimatland kennenlernen! Du hast mir schon so viel davon erzählt, dass ich richtig neugierig bin.",
+    "Jetzt brauche ich deine Hilfe: Wann ist die beste Reisezeit, und was sollte ich mir unbedingt ansehen? Ich habe auch noch keine Ahnung, wo ich übernachten soll – im Hotel oder vielleicht lieber privat?",
+    "Und noch etwas: Was muss ich als Gast bei euch beachten? Ich möchte auf keinen Fall etwas falsch machen.",
+    "Schreib mir bitte bald, damit ich den Flug buchen kann!",
+    "Liebe Grüße\nMarit"
+   ],
+   "instruction": "Antworten Sie auf die E-Mail. Schreiben Sie etwas zu allen vier Punkten:",
+   "points": [
+    "wann Marit am besten reisen sollte und warum",
+    "was sie sich unbedingt ansehen sollte",
+    "wo sie übernachten kann",
+    "was Gäste in Ihrem Heimatland beachten sollten"
+   ],
+   "closing": "Überlegen Sie sich vor dem Schreiben eine passende Reihenfolge der Punkte, einen passenden Betreff, eine passende Anrede, Einleitung und einen passenden Schluss.",
+   "model": {
+    "label": "Beispiel für eine Antwort, die alle vier Leitpunkte behandelt (ca. 150 Wörter)",
+    "text": "Betreff: Deine Reise nach Georgien\n\nHallo Marit,\n\ndas ist ja eine tolle Nachricht! Wie schön, dass du mein Land besuchen willst.\n\nAm besten kommst du im September. Dann ist es nicht mehr so heiß wie im Sommer, und in den Bergen liegt noch kein Schnee. Im Winter sind dort viele Straßen gesperrt.\n\nDu solltest dir unbedingt die Altstadt von Tiflis ansehen. Danach würde ich ein paar Tage in den Kaukasus fahren, zum Beispiel nach Kasbegi. Die Landschaft dort ist wunderschön, und man kann gut wandern.\n\nIn Tiflis kannst du bei meinen Eltern wohnen. Sie haben ein Gästezimmer und freuen sich schon auf dich. In den Bergen gibt es viele kleine Pensionen, die nicht teuer sind.\n\nWichtig ist: Bei uns bekommen Gäste immer sehr viel zu essen. Probier bitte von allem ein bisschen, sonst sind die Gastgeber traurig. Und bring für meine Mutter eine Kleinigkeit aus Deutschland mit.\n\nSag mir Bescheid, wann du fliegst!\n\nLiebe Grüße\nNino",
+    "marks": [
+     "",
+     "",
+     "",
+     "1",
+     "2",
+     "3",
+     "4",
+     "",
+     ""
+    ],
+    "notes": "Leitpunkte\n1 Wann reisen, warum? → September: nicht so heiß, noch kein Schnee\n2 Was ansehen? → Altstadt von Tiflis, Kaukasus\n3 Wo übernachten? → bei den Eltern, Pensionen\n4 Was beachten? → von allem probieren, Kleinigkeit mitbringen\nAufbau\nBetreff · Anrede in der du-Form (Freundin, persönlich) · Einleitung mit Reaktion auf die Nachricht · Schluss · Grußformel und Name\nBewertung\nI Inhalt: alle vier Leitpunkte, passend zur Situation. Jeder fehlende Leitpunkt kostet eine Stufe.\nII Kommunikative Gestaltung: Register (du), Aufbau, Verknüpfungen wie dann, danach, sonst, zum Beispiel.\nIII Formale Richtigkeit: Fehler dürfen das Verständnis nicht stören.\nTypische Fehler: die Reisezeit nennen, aber nicht begründen (Leitpunkt 1) · Sehenswürdigkeiten nur aufzählen · Leitpunkt 4 vergessen · Sie statt du gegenüber einer Freundin."
+   }
+  }
+ },
+ "notes": "Neu erstellt aus der neu erzeugten PDF (Textebene) und dem Quell-HTML /home/claude/tb1/mt7.html; Silbentrennung (weiche Trennstriche, z. B. Heidel­berg) entfernt. Antworten aus dem Lösungsschlüssel (S. 19). Sprachbausteine Teil 2: Der Anzeigenkasten 'Aushilfen für die Weinlese gesucht' (Titel, Text, Adresszeile) steht als die ersten drei Absätze vor dem Brief, weil B1 kein title-Feld anzeigt. Lesen Teil 2: Fußzeile 'Schornsteinfeger-Handwerk · …' steht in source.",
+ "index": {
+  "short": "Schwarz gekleidet, gern gesehen · Tiny House: Kilian Bender · Reise nach Georgien",
+  "hoeren": {
+   "t1": "Pünktlichkeit: Fünf Stimmen",
+   "t2": "Gespräch mit Kilian Bender: Leben im Holzhaus",
+   "t3": "Fünf kurze Texte: Bergbahn, Torte, Zirkus"
+  },
+  "sb1": "Brief an Selin: Theatergruppe",
+  "sb2": "Bewerbung: Aushilfe bei der Weinlese",
+  "schreiben": "Antwort an Marit: Reise ins Heimatland",
+  "sprechen": {
+   "t2": "Taschengeld nur für Mithilfe im Haushalt?",
+   "t3": "Filmabend im Deutschkurs"
+  }
+ }
+}

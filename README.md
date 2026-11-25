@@ -6,7 +6,7 @@ telc Deutsch B1, B2, C1 Hochschule 모의고사(Modelltest)입니다. 페이퍼 
 
 | 폴더 | 내용 |
 |---|---|
-| `telc-b1/` | telc Deutsch B1, Modelltest 5개, 쓰기·말하기 시험 대비 가이드 |
+| `telc-b1/` | telc Deutsch B1, Modelltest 8개, 쓰기·말하기 시험 대비 가이드 |
 | `telc-b2/` | telc Deutsch B2, Modelltest 7개 (페이퍼·디지털 모두), 쓰기·말하기 시험 대비 가이드, Modelltest I–V 작문 연습(`… 작문 연습.html`, B1 답안을 B2 표현으로 고쳐 쓰기) |
 | `telc-c1-hs/` | telc Deutsch C1 Hochschule, Modelltest 5개 (Mündlich는 PDF로만, 디지털 화면 없음), 쓰기·말하기 시험 대비 가이드 |
 | `tools/` | 다크 모드 스위치와 「목차」 버튼을 넣는 `soda-theme.py` |

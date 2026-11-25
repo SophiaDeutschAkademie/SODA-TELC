@@ -1,0 +1,720 @@
+{
+ "id": 6,
+ "roman": "VI",
+ "lesen": {
+  "t1": {
+   "instruction": "Lesen Sie die Überschriften a–j und die Texte 1–5. Finden Sie für jeden Text die passende Überschrift. Sie können jede Überschrift nur einmal benutzen. Markieren Sie Ihre Lösungen für die Aufgaben 1–5 auf dem Antwortbogen.",
+   "headlines": [
+    {
+     "letter": "a",
+     "text": "Bezahlte Lernzeit, auf die fast alle verzichten"
+    },
+    {
+     "letter": "b",
+     "text": "Tierhäuser bleiben ab Mai zwei Stunden länger geöffnet"
+    },
+    {
+     "letter": "c",
+     "text": "Ratgeber zeigt, was auf dem Elektroroller erlaubt ist"
+    },
+    {
+     "letter": "d",
+     "text": "Wer mit Karte zahlt, gibt besonders viel Trinkgeld"
+    },
+    {
+     "letter": "e",
+     "text": "Was liegen blieb, sucht neue Besitzer"
+    },
+    {
+     "letter": "f",
+     "text": "Bildungsurlaub: Sprachkurse werden nicht mehr anerkannt"
+    },
+    {
+     "letter": "g",
+     "text": "Großzügig am Tisch, sparsam nach dem Haarschnitt"
+    },
+    {
+     "letter": "h",
+     "text": "Stadt verschenkt Fundsachen an arme Familien"
+    },
+    {
+     "letter": "i",
+     "text": "Elektroroller bald nur noch mit Führerschein"
+    },
+    {
+     "letter": "j",
+     "text": "Am späten Nachmittag günstiger zu Löwen und Giraffen"
+    }
+   ],
+   "texts": [
+    {
+     "no": "1",
+     "paragraphs": [
+      "Im Restaurant runden die meisten Deutschen die Rechnung bereitwillig auf, beim Friseur dagegen halten sie sich auffallend zurück. Das zeigt eine Umfrage des Meinungsforschungsinstituts Publica unter 2.000 Erwachsenen. Neun von zehn Befragten geben der Bedienung regelmäßig Trinkgeld, durchschnittlich zehn Prozent des Rechnungsbetrags. Im Friseursalon gibt nur jeder Dritte etwas, dem Paketboten sogar nur jeder Zwanzigste. Jüngere Gäste zahlen inzwischen häufig mit Karte – und vergessen das Trinkgeld dabei öfter als ältere, die bar bezahlen."
+     ]
+    },
+    {
+     "no": "2",
+     "paragraphs": [
+      "Ob man mit dem E-Scooter auf dem Gehweg fahren darf und ab welchem Alter die Nutzung erlaubt ist, erklärt die kostenlose Broschüre „Sicher rollen“ des Verkehrsclubs Nord. Auf 16 Seiten fasst sie die wichtigsten Vorschriften verständlich zusammen – etwa, dass Fahrten zu zweit verboten sind, ein Führerschein dagegen nicht erforderlich ist. Erhältlich ist das Heft in allen Bürgerämtern."
+     ]
+    },
+    {
+     "no": "3",
+     "paragraphs": [
+      "Wer den Tierpark Wiesental erst am späten Nachmittag besucht, zahlt ab dem 1. Mai nur noch den halben Eintrittspreis. Das neue „Feierabendticket“ gilt täglich ab 16.30 Uhr und kostet für erwachsene Besucher 9 statt 18 Euro. Zu beachten ist allerdings, dass die Tierhäuser unverändert um 18 Uhr schließen, während das Außengelände bis 20 Uhr zugänglich bleibt. Mit dem Angebot möchte der Tierpark hauptsächlich Berufstätige ansprechen, die tagsüber keine Gelegenheit zu einem Besuch finden."
+     ]
+    },
+    {
+     "no": "4",
+     "paragraphs": [
+      "In fast allen Bundesländern dürfen Beschäftigte jedes Jahr fünf Tage zusätzlich freinehmen, um sich weiterzubilden – bei vollem Gehalt. Genutzt wird dieser sogenannte Bildungsurlaub jedoch kaum: Schätzungen zufolge beantragen ihn nur ein bis zwei von hundert Berechtigten. Viele wissen gar nicht, dass ihnen diese Zeit zusteht, andere befürchten Ärger mit dem Vorgesetzten. Anerkannt werden keineswegs nur berufliche Seminare, sondern ebenso Sprachkurse oder Veranstaltungen zur politischen Bildung. Der Antrag muss in der Regel mehrere Wochen vor Kursbeginn beim Arbeitgeber vorliegen."
+     ]
+    },
+    {
+     "no": "5",
+     "paragraphs": [
+      "Fahrräder, Regenschirme, Kopfhörer und sogar ein Kinderwagen: Rund 300 Fundsachen, die seit über sechs Monaten niemand abgeholt hat, versteigert das städtische Fundbüro am kommenden Samstag ab 10 Uhr im Rathaushof. Besichtigen lassen sich die Gegenstände bereits eine Stunde vorher. Bezahlt wird ausschließlich bar; der Erlös fließt in die Stadtkasse."
+     ]
+    }
+   ],
+   "items": [
+    {
+     "no": "1",
+     "answer": "g"
+    },
+    {
+     "no": "2",
+     "answer": "c"
+    },
+    {
+     "no": "3",
+     "answer": "j"
+    },
+    {
+     "no": "4",
+     "answer": "a"
+    },
+    {
+     "no": "5",
+     "answer": "e"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Lesen Sie den Text und die Aufgaben 6–10. Welche Lösung (a, b oder c) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 6–10 auf dem Antwortbogen.",
+   "kind": "article",
+   "title": "Essen ohne Preisschild",
+   "lead": "Im Rostocker Mittagslokal „Löffelweise“ entscheiden die Gäste selbst, wie viel ihnen eine warme Mahlzeit wert ist.",
+   "paragraphs": [
+    "Kurz nach zwölf sind im „Löffelweise“ sämtliche Plätze besetzt, doch eine Preisangabe sucht man auf der Tafel mit den drei Tagesgerichten vergeblich. Wer gegessen hat, wirft beim Hinausgehen so viel Geld in eine Holzkiste neben der Tür, wie er für angemessen hält – beobachtet wird dabei grundsätzlich niemand.",
+    "Inhaberin Jette Paulsen, 41, kochte früher in der Kantine einer Versicherung. „Dort habe ich täglich erlebt, wie Auszubildende aus Kostengründen auf das Mittagessen verzichteten“, berichtet sie. Auf den Gedanken, die Preise einfach wegzulassen, brachte sie allerdings erst ein Lokal in Wien, das sie während eines Urlaubs kennengelernt hatte. Weil ihre Bank den Plan für leichtsinnig hielt und den Kredit verweigerte, lieh ihr schließlich ihr Bruder das Startkapital.",
+    "Ganz ohne Orientierung bleiben die Gäste trotzdem nicht, denn neben jedem Gericht ist vermerkt, was Zutaten, Miete und Löhne pro Portion ausmachen – derzeit durchschnittlich 6,50 Euro. Eine Verpflichtung, mindestens diesen Betrag zu bezahlen, besteht aber ausdrücklich nicht.",
+    "Nach zwei Jahren zieht Paulsen eine erfreuliche Bilanz, denn im Durchschnitt landen 7,80 Euro pro Mahlzeit in der Kiste. Studierende geben zwar meist weniger, Angestellte aus den umliegenden Büros gleichen das jedoch aus, und dass jemand überhaupt nichts hinterlässt, kommt höchstens zweimal wöchentlich vor. Bei den Getränken ging die Rechnung dagegen nicht auf, denn für Kaffee und Limonade zahlten viele lediglich ein paar Cent, weshalb dafür seit einem Jahr wieder feste Preise gelten.",
+    "Obwohl sich inzwischen Gastronomen aus anderen Städten regelmäßig nach dem Konzept erkundigen, kommt ein zweites Lokal für Paulsen nicht in Frage, weil sie weiterhin selbst am Herd stehen möchte. „Sobald ich nur noch organisiere, geht verloren, was den Laden ausmacht“, begründet sie ihre Entscheidung. Stattdessen empfängt sie ihre Mittagsgäste vom Herbst an zusätzlich samstags."
+   ],
+   "source": "Löffelweise · Rostock, Östliche Altstadt · Montag bis Freitag 11.30–14.30 Uhr",
+   "taskInstruction": "",
+   "items": [
+    {
+     "no": "6",
+     "stem": "Auf die Idee, keine Preise zu nennen, kam Jette Paulsen,",
+     "options": {
+      "a": "nachdem Auszubildende sie in der Kantine darum gebeten hatten.",
+      "b": "weil ihre Bank ihr dieses Konzept empfohlen hatte.",
+      "c": "als sie auf einer Reise ein solches Restaurant entdeckte."
+     },
+     "answer": "c"
+    },
+    {
+     "no": "7",
+     "stem": "Wer im „Löffelweise“ isst,",
+     "options": {
+      "a": "erfährt, welche Kosten für sein Essen entstehen.",
+      "b": "muss mindestens die Kosten für sein Gericht bezahlen.",
+      "c": "gibt sein Geld beim Hinausgehen der Inhaberin persönlich."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "8",
+     "stem": "Nach zwei Jahren zeigt sich, dass",
+     "options": {
+      "a": "Studierende in der Regel überhaupt nichts in die Kiste werfen.",
+      "b": "im Schnitt mehr gezahlt wird, als ein Essen kostet.",
+      "c": "Angestellte aus den Büros ebenso wenig geben wie Studierende."
+     },
+     "answer": "b"
+    },
+    {
+     "no": "9",
+     "stem": "Für Getränke",
+     "options": {
+      "a": "entscheidet inzwischen wieder die Inhaberin, was sie kosten.",
+      "b": "gilt bis heute dieselbe Regel wie für das Essen.",
+      "c": "werfen viele Gäste freiwillig besonders viel Geld in die Kiste."
+     },
+     "answer": "a"
+    },
+    {
+     "no": "10",
+     "stem": "In Zukunft",
+     "options": {
+      "a": "will Frau Paulsen woanders ein zweites Lokal eröffnen.",
+      "b": "möchte Frau Paulsen nicht mehr selbst kochen.",
+      "c": "können Gäste an einem weiteren Wochentag kommen."
+     },
+     "answer": "c"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Lesen Sie die Situationen 11–20 und die Anzeigen a–l. Finden Sie für jede Situation die passende Anzeige. Sie können jede Anzeige nur einmal benutzen. Markieren Sie Ihre Lösungen für die Aufgaben 11–20 auf dem Antwortbogen. Wenn Sie zu einer Situation keine Anzeige finden, markieren Sie ein x.",
+   "items": [
+    {
+     "no": "11",
+     "text": "Ihre Eltern möchten den Hafen vom Wasser aus sehen. Ihr Vater sitzt im Rollstuhl.",
+     "answer": "e"
+    },
+    {
+     "no": "12",
+     "text": "Ihre Tochter ist 16 und möchte in den Sommerferien etwas Geld verdienen.",
+     "answer": "g"
+    },
+    {
+     "no": "13",
+     "text": "Sie wollen mit Ihrem Hund einige Tage am Meer verbringen und suchen dafür eine Unterkunft.",
+     "answer": "a"
+    },
+    {
+     "no": "14",
+     "text": "Am Montagvormittag möchten Sie mit Ihren Kindern eine Ausstellung über Schiffe besuchen.",
+     "answer": "x"
+    },
+    {
+     "no": "15",
+     "text": "Ihr Bruder hat Koch gelernt und möchte den Sommer über an der Küste arbeiten. Eine Unterkunft hat er dort nicht.",
+     "answer": "b"
+    },
+    {
+     "no": "16",
+     "text": "Ein Freund hat eine Woche Urlaub und will in dieser Zeit segeln lernen. Erfahrung hat er keine.",
+     "answer": "h"
+    },
+    {
+     "no": "17",
+     "text": "Weil Sie nachmittags Ihre Kinder betreuen, suchen Sie eine Arbeit nur für die Vormittage.",
+     "answer": "j"
+    },
+    {
+     "no": "18",
+     "text": "Ein Bekannter möchte abends als Pizzafahrer arbeiten. Den Führerschein hat er, ein eigenes Auto aber nicht.",
+     "answer": "x"
+    },
+    {
+     "no": "19",
+     "text": "Sie möchten an einem Sonntag aufs Meer hinausfahren und angeln. Eine eigene Angel haben Sie nicht.",
+     "answer": "c"
+    },
+    {
+     "no": "20",
+     "text": "Eine Kollegin aus Spanien versteht noch wenig Deutsch und möchte die Altstadt bei einer Führung kennenlernen.",
+     "answer": "l"
+    }
+   ],
+   "infos": [
+    {
+     "letter": "a",
+     "header": "Pension Dünenblick",
+     "tag": "",
+     "title": "",
+     "subtitle": "Warnemünde",
+     "facts": [],
+     "body": [
+      "Unsere zwölf gemütlichen Gästezimmer liegen nur 200 Meter vom Strand entfernt und sind ganzjährig buchbar. Auch Vierbeiner heißen wir gegen einen Aufpreis von 8 € pro Übernachtung herzlich willkommen."
+     ],
+     "footer": "Doppelzimmer ab 79 € · Tel. 0381 / 54 32 10"
+    },
+    {
+     "letter": "b",
+     "header": "Hotel Strandperle",
+     "tag": "STELLENANGEBOT",
+     "title": "",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Für die Sommersaison von Mai bis September suchen wir eine Köchin oder einen Koch mit abgeschlossener Berufsausbildung. Neben angemessener Bezahlung erhalten Sie kostenlose Verpflegung sowie ein eigenes Zimmer im Personalhaus."
+     ],
+     "footer": "Frau Thiessen · Tel. 0381 / 50 60 70"
+    },
+    {
+     "letter": "c",
+     "header": "",
+     "tag": "",
+     "title": "Hochseeangeln",
+     "subtitle": "MS DORSCHKÖNIG",
+     "facts": [],
+     "body": [
+      "Unsere siebenstündigen Ausfahrten beginnen jeden Samstag und Sonntag frühmorgens in Warnemünde. Angelruten und Köder können Sie an Bord ausleihen, Anfängern hilft unsere erfahrene Mannschaft gern."
+     ],
+     "footer": "45 € pro Person · Tel. 0381 / 51 91 12"
+    },
+    {
+     "letter": "d",
+     "header": "Strandbar Sandkorn",
+     "tag": "",
+     "title": "Aushilfen gesucht!",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Für die Sommersaison suchen wir freundliche Servicekräfte, gern auch ohne Erfahrung in der Gastronomie. Die Schichten dauern von 15 bis 23 Uhr; wegen des Alkoholausschanks beträgt das Mindestalter 18 Jahre."
+     ],
+     "footer": "Strandaufgang 6, Warnemünde"
+    },
+    {
+     "letter": "e",
+     "header": "",
+     "tag": "",
+     "title": "Hafenrundfahrten",
+     "subtitle": "MS OSTSEEPERLE",
+     "facts": [],
+     "body": [
+      "Unsere neunzigminütigen Rundfahrten starten täglich um 11, 13 und 15 Uhr am Stadthafen. Der Einstieg ist ebenerdig, auch eine barrierefreie Toilette befindet sich an Bord."
+     ],
+     "footer": "Erwachsene 14 €, Kinder 7 € · Tel. 0381 / 20 30 40"
+    },
+    {
+     "letter": "f",
+     "header": "Museum für Seefahrt",
+     "tag": "",
+     "title": "",
+     "subtitle": "am Stadthafen",
+     "facts": [],
+     "body": [
+      "Schiffsmodelle, historische Seekarten und ein begehbarer Fischkutter begeistern Besucher jeden Alters. Geöffnet ist dienstags bis sonntags von 10 bis 18 Uhr, montags bleibt das Museum geschlossen."
+     ],
+     "footer": "Eintritt 6 €, Kinder bis 14 Jahre frei"
+    },
+    {
+     "letter": "g",
+     "header": "Eiscafé Dolomiti",
+     "tag": "FERIENJOB",
+     "title": "",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Für Juli und August suchen wir Schülerinnen und Schüler ab 16 Jahren für den Eisverkauf. Gearbeitet wird an fünf Nachmittagen pro Woche von 13 bis 17 Uhr, der Stundenlohn beträgt 13 €."
+     ],
+     "footer": "Tel. 0381 / 51 42 70"
+    },
+    {
+     "letter": "h",
+     "header": "Segelschule Backbord",
+     "tag": "",
+     "title": "",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Unser fünftägiger Anfängerkurs findet von Montag bis Freitag jeweils vormittags statt, Vorkenntnisse brauchen Sie nicht. Im Preis von 290 € sind Schwimmweste und Abschlussprüfung enthalten."
+     ],
+     "footer": "Anmeldung: Tel. 0381 / 44 77 00"
+    },
+    {
+     "letter": "i",
+     "header": "Pizzeria Bella Napoli",
+     "tag": "FAHRER/IN GESUCHT",
+     "title": "",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Für unseren Lieferdienst suchen wir zuverlässige Verstärkung, jeweils abends zwischen 17 und 22 Uhr. Voraussetzung sind der Führerschein Klasse B sowie ein eigener Pkw; die Benzinkosten übernehmen selbstverständlich wir."
+     ],
+     "footer": "Tel. 0381 / 77 88 99"
+    },
+    {
+     "letter": "j",
+     "header": "",
+     "tag": "REINIGUNGSKRAFT GESUCHT",
+     "title": "Ferienwohnungen Küstenglück",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Sie arbeiten montags bis samstags von 8 bis 13 Uhr, die Nachmittage bleiben frei. Bewerberinnen und Bewerber müssen volljährig sein, Deutschkenntnisse sind nicht erforderlich."
+     ],
+     "footer": "15,50 € pro Stunde · Tel. 0171 / 392 00 56"
+    },
+    {
+     "letter": "k",
+     "header": "",
+     "tag": "",
+     "title": "Tagestörn auf dem Zweimaster „Seeadler“",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "Jeden Samstag segeln wir von 10 bis 17 Uhr hinaus auf die Ostsee. Segelunterricht bieten wir nicht an, und wegen der steilen Treppen ist das historische Schiff für Rollstuhlfahrer ungeeignet."
+     ],
+     "footer": "65 € · Tel. 0381 / 60 70 80"
+    },
+    {
+     "letter": "l",
+     "header": "",
+     "tag": "STADTRUNDGANG",
+     "title": "Rostock zu Fuß entdecken",
+     "subtitle": "",
+     "facts": [],
+     "body": [
+      "In zwei Stunden zeigen wir Ihnen Altstadt, Marienkirche, Universität und Stadthafen. Deutschsprachige Rundgänge beginnen täglich um 11 Uhr, englische und spanische jeden Samstag um 14 Uhr."
+     ],
+     "footer": "Treffpunkt Rathaus · 12 € · ohne Anmeldung"
+    }
+   ]
+  },
+  "sb1": {
+   "instruction": "Lesen Sie den Text und schließen Sie die Lücken 21–30. Welche Lösung (a, b oder c) ist jeweils richtig? Markieren Sie Ihre Lösungen für die Aufgaben 21–30 auf dem Antwortbogen.",
+   "paragraphs": [
+    "Lieber Hannes,",
+    "entschuldige bitte, dass ich mich {{21}} jetzt melde, aber in den vergangenen Wochen bin ich kaum zum Schreiben gekommen. Nachdem wir drei Jahre lang auf der Warteliste {{22}} hatten, haben wir nämlich endlich einen Kleingarten bekommen, der nur zehn Fahrradminuten von {{23}} Wohnung entfernt liegt!",
+    "Das Grundstück war jedoch völlig verwildert; {{24}} mussten wir zunächst tagelang Unkraut entfernen, bevor wir die Bank unter dem {{25}} Apfelbaum überhaupt benutzen konnten. Anfangs hatten wir weder Werkzeug {{26}} Erfahrung, doch ein hilfsbereites Ehepaar aus dem Nachbargarten hat uns eine Schubkarre geliehen und gezeigt, {{27}} man im Frühjahr am besten anfängt. {{28}} der anstrengenden Arbeit macht uns der Garten riesigen Spaß.",
+    "Hättest du Lust, uns im Juli zu besuchen? Dann {{29}} wir gemeinsam grillen und die ersten Himbeeren probieren. Sag mir bitte rechtzeitig Bescheid, denn je früher ich es weiß, {{30}} besser kann ich alles vorbereiten.",
+    "Herzliche Grüße\ndeine Greta"
+   ],
+   "items": [
+    {
+     "no": "21",
+     "options": {
+      "a": "erst",
+      "b": "nur",
+      "c": "schon"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "22",
+     "options": {
+      "a": "gestanden",
+      "b": "gestellt",
+      "c": "gewesen"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "23",
+     "options": {
+      "a": "unsere",
+      "b": "unserem",
+      "c": "unserer"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "24",
+     "options": {
+      "a": "daher",
+      "b": "trotzdem",
+      "c": "weil"
+     },
+     "answer": "a"
+    },
+    {
+     "no": "25",
+     "options": {
+      "a": "alte",
+      "b": "alten",
+      "c": "alter"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "26",
+     "options": {
+      "a": "auch",
+      "b": "oder",
+      "c": "noch"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "27",
+     "options": {
+      "a": "wofür",
+      "b": "womit",
+      "c": "worauf"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "28",
+     "options": {
+      "a": "Statt",
+      "b": "Trotz",
+      "c": "Wegen"
+     },
+     "answer": "b"
+    },
+    {
+     "no": "29",
+     "options": {
+      "a": "gekonnt",
+      "b": "konnten",
+      "c": "könnten"
+     },
+     "answer": "c"
+    },
+    {
+     "no": "30",
+     "options": {
+      "a": "als",
+      "b": "desto",
+      "c": "so"
+     },
+     "answer": "b"
+    }
+   ]
+  },
+  "sb2": {
+   "instruction": "Lesen Sie den Text und schließen Sie die Lücken 31–40. Benutzen Sie die Wörter a–o. Jedes Wort passt nur einmal. Markieren Sie Ihre Lösungen für die Aufgaben 31–40 auf dem Antwortbogen.",
+   "title": "",
+   "paragraphs": [
+    "Vereinsheim zu vermieten",
+    "Der Ruderclub Warnow vermietet seinen Saal direkt am Fluss für private Feiern bis 60 Personen. Küche und Terrasse gehören dazu.",
+    "Auskunft: Herr Lüders · Am Bootshaus 3 · 18057 Rostock",
+    "Sehr geehrter Herr Lüders,",
+    "durch Ihre Anzeige im Wochenblatt bin ich auf Ihren Veranstaltungsraum {{31}} geworden, der sich für unsere geplante Familienfeier hervorragend eignen würde. Meine Mutter feiert im September ihren siebzigsten Geburtstag; {{32}} diesem Grund suchen wir derzeit einen Festsaal für ungefähr 45 Personen. Am besten passt uns Samstag, der 18. September, doch der darauffolgende Samstag käme für uns {{33}} in Frage.",
+    "{{34}} wir uns endgültig entscheiden, wüsste ich allerdings gern, ob wir Speisen und Getränke selbst mitbringen dürfen {{35}} beides über den Verein bestellen müssen und {{36}} wann abends Tanzmusik gespielt werden darf. Außerdem möchte ich erfahren, wie {{37}} die Saalmiete ist und ob die Reinigungskosten bereits im Mietpreis {{38}} sind. Da zahlreiche Verwandte mit dem eigenen Auto anreisen, benötigen wir zudem ausreichend Parkmöglichkeiten in unmittelbarer Nähe.",
+    "Falls es möglich ist, würde ich die Räumlichkeiten vorher gern besichtigen; dafür {{39}} ich werktags nach 17 Uhr Zeit. Über eine baldige Rückmeldung würde ich mich sehr {{40}}.",
+    "Mit freundlichen Grüßen\nRegina Thomsen"
+   ],
+   "words": {
+    "a": "AUFMERKSAM",
+    "b": "AUS",
+    "c": "BEVOR",
+    "d": "BIS",
+    "e": "EBENFALLS",
+    "f": "ENTHALTEN",
+    "g": "ERLAUBT",
+    "h": "FREUEN",
+    "i": "HÄTTE",
+    "j": "HOCH",
+    "k": "INTERESSIERT",
+    "l": "NACHDEM",
+    "m": "ODER",
+    "n": "WÄRE",
+    "o": "ZU"
+   },
+   "items": [
+    {
+     "no": "31",
+     "answer": "a"
+    },
+    {
+     "no": "32",
+     "answer": "b"
+    },
+    {
+     "no": "33",
+     "answer": "e"
+    },
+    {
+     "no": "34",
+     "answer": "c"
+    },
+    {
+     "no": "35",
+     "answer": "m"
+    },
+    {
+     "no": "36",
+     "answer": "d"
+    },
+    {
+     "no": "37",
+     "answer": "j"
+    },
+    {
+     "no": "38",
+     "answer": "f"
+    },
+    {
+     "no": "39",
+     "answer": "i"
+    },
+    {
+     "no": "40",
+     "answer": "h"
+    }
+   ]
+  }
+ },
+ "hoeren": {
+  "t1": {
+   "instruction": "Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. Sie hören diese Texte nur einmal. Entscheiden Sie beim Hören, ob die Aussagen 41–45 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 41–45. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 41–45. Sie haben dazu 30 Sekunden Zeit.",
+   "items": [
+    {
+     "no": "41",
+     "text": "Trotz ihres Tablets liest die Sprecherin die Zeitung weiter auf Papier.",
+     "answer": "R"
+    },
+    {
+     "no": "42",
+     "text": "Dem Sprecher genügt es, von den Nachrichten die Überschriften zu kennen.",
+     "answer": "F"
+    },
+    {
+     "no": "43",
+     "text": "Die Sprecherin informiert sich heute häufiger als noch vor einigen Jahren.",
+     "answer": "F"
+    },
+    {
+     "no": "44",
+     "text": "Der Sprecher vertraut nicht allem, was er in sozialen Netzwerken liest.",
+     "answer": "R"
+    },
+    {
+     "no": "45",
+     "text": "Die Sprecherin interessiert sich vor allem für Nachrichten aus ihrer Umgebung.",
+     "answer": "R"
+    }
+   ]
+  },
+  "t2": {
+   "instruction": "Sie hören nun ein Gespräch. Dazu sollen Sie zehn Aufgaben lösen. Sie hören das Gespräch zweimal. Entscheiden Sie beim Hören, ob die Aussagen 46–55 richtig oder falsch sind. Markieren Sie Ihre Lösungen auf dem Antwortbogen bei den Aufgaben 46–55. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch auf dem Antwortbogen.",
+   "readNote": "Lesen Sie jetzt die Aufgaben 46–55. Sie haben dazu eine Minute Zeit.",
+   "items": [
+    {
+     "no": "46",
+     "text": "Die Badesaison in Warnemünde hat vor zwei Wochen begonnen.",
+     "answer": "F"
+    },
+    {
+     "no": "47",
+     "text": "Die Rettungsschwimmer arbeiten, ohne dafür bezahlt zu werden.",
+     "answer": "R"
+    },
+    {
+     "no": "48",
+     "text": "Die meisten Helfer sind Studierende, die in Rostock wohnen.",
+     "answer": "F"
+    },
+    {
+     "no": "49",
+     "text": "Manche Helfer kommen seit vielen Jahren jeden Sommer wieder.",
+     "answer": "R"
+    },
+    {
+     "no": "50",
+     "text": "Mit 16 Jahren darf man einen Turm schon allein besetzen.",
+     "answer": "F"
+    },
+    {
+     "no": "51",
+     "text": "Rettungen aus dem Wasser sind eher selten nötig.",
+     "answer": "R"
+    },
+    {
+     "no": "52",
+     "text": "Bei roter Flagge holen die Helfer alle Badegäste aus dem Wasser.",
+     "answer": "F"
+    },
+    {
+     "no": "53",
+     "text": "Die Stadt bezahlt die ganze Ausrüstung der Station.",
+     "answer": "F"
+    },
+    {
+     "no": "54",
+     "text": "Ein Betrieb aus dem Ort hat das neue Boot gespendet.",
+     "answer": "R"
+    },
+    {
+     "no": "55",
+     "text": "Der Station fehlen junge Leute, die bei ihr mitmachen wollen.",
+     "answer": "F"
+    }
+   ]
+  },
+  "t3": {
+   "instruction": "Sie hören nun fünf kurze Texte. Dazu sollen Sie fünf Aufgaben lösen. Sie hören jeden Text zweimal. Entscheiden Sie beim Hören, ob die Aussagen 56–60 richtig oder falsch sind. Markieren Sie Ihre Lösungen für die Aufgaben 56–60 auf dem Antwortbogen. Markieren Sie PLUS (+) gleich richtig und MINUS (–) gleich falsch.",
+   "readNote": "",
+   "items": [
+    {
+     "no": "56",
+     "text": "Tina soll anrufen, wenn sie vor dem Haus steht.",
+     "answer": "R"
+    },
+    {
+     "no": "57",
+     "text": "Das Schiff ist heute länger unterwegs als sonst.",
+     "answer": "R"
+    },
+    {
+     "no": "58",
+     "text": "Dienstags kann man ohne Termin einen Ausweis beantragen.",
+     "answer": "F"
+    },
+    {
+     "no": "59",
+     "text": "Besucher können gegen Gebühr selbst mitpaddeln.",
+     "answer": "R"
+    },
+    {
+     "no": "60",
+     "text": "Diese Woche erhält jeder Kunde kostenlos Blumenerde.",
+     "answer": "F"
+    }
+   ]
+  }
+ },
+ "schreiben": {
+  "intro": "",
+  "task": {
+   "lead": "Sie haben von der Klassenlehrerin Ihres Sohnes folgende E-Mail erhalten:",
+   "mail": [
+    "Liebe Eltern der Klasse 6b,",
+    "vom 14. bis 18. Juni findet an unserer Schule die Projektwoche „Berufe entdecken“ statt. Die Kinder sollen in dieser Woche möglichst viele verschiedene Berufe kennenlernen. Deshalb suchen wir Mütter und Väter, die ihren Beruf an einem Vormittag etwa 30 Minuten lang in der Klasse vorstellen.",
+    "Hätten Sie Lust mitzumachen? Dann schreiben Sie mir bitte bis zum 28. Mai, an welchem Tag Sie Zeit hätten. Über viele Zusagen würde ich mich sehr freuen.",
+    "Mit freundlichen Grüßen\nDörte Ahrens\nKlassenlehrerin der 6b"
+   ],
+   "instruction": "Antworten Sie auf die E-Mail. Schreiben Sie etwas zu allen vier Punkten:",
+   "points": [
+    "ob Sie mitmachen und an welchem Tag Sie kommen können",
+    "welchen Beruf Sie vorstellen und was Sie zeigen möchten",
+    "was Sie für Ihren Besuch in der Klasse brauchen",
+    "eine Frage, die Sie zur Projektwoche haben"
+   ],
+   "closing": "Überlegen Sie sich vor dem Schreiben eine passende Reihenfolge der Punkte, einen passenden Betreff, eine passende Anrede, Einleitung und einen passenden Schluss.",
+   "model": {
+    "label": "Beispiel für eine Antwort, die alle vier Leitpunkte behandelt (ca. 150 Wörter)",
+    "text": "Betreff: Projektwoche „Berufe entdecken“ – meine Zusage\n\nSehr geehrte Frau Ahrens,\n\nvielen Dank für Ihre E-Mail. Die Projektwoche halte ich für eine sehr gute Idee.\n\nIch mache gern mit. Am besten passt mir Mittwoch, der 16. Juni, weil ich an diesem Tag erst nachmittags arbeiten muss. Wenn das nicht geht, kann ich auch am Freitag kommen.\n\nIch bin Krankenpfleger und arbeite auf einer Kinderstation. Ich möchte den Kindern erzählen, wie mein Arbeitstag aussieht, und ihnen zeigen, wie man den Puls misst und einen Verband anlegt. Das dürfen sie danach selbst ausprobieren.\n\nFür meinen Besuch brauche ich nur einen Tisch und etwas Platz, damit die Kinder zu zweit üben können. Verbände und Geräte bringe ich selbst mit.\n\nEine Frage habe ich noch: Besuchen die Kinder in dieser Woche auch Betriebe? Unsere Station zeigt Schulklassen gern, wie ein Krankenhaus arbeitet.\n\nIch freue mich auf den Vormittag in der Klasse und auf Ihre Antwort.\n\nMit freundlichen Grüßen\nTariq Rahimi",
+    "marks": [
+     "",
+     "",
+     "",
+     "1",
+     "2",
+     "3",
+     "4",
+     "",
+     ""
+    ],
+    "notes": "Leitpunkte\n1 Mitmachen? Tag? → ja, Mittwoch, 16. Juni; Ersatz: Freitag\n2 Beruf und Inhalt → Krankenpfleger; Arbeitstag, Puls, Verband\n3 Was brauchen Sie? → Tisch und Platz; Material bringt er mit\n4 Eigene Frage → Besuch von Betrieben?\nAufbau\nBetreff · Anrede in der Sie-Form (Lehrerin, halbformell) · Einleitung mit Dank · Schluss · Grußformel und Name\nBewertung\nI Inhalt: alle vier Leitpunkte, passend zur Situation. Jeder fehlende Leitpunkt kostet eine Stufe.\nII Kommunikative Gestaltung: Register (Sie), Aufbau, Verknüpfungen wie weil, wenn, damit, danach.\nIII Formale Richtigkeit: Fehler dürfen das Verständnis nicht stören.\nTypische Fehler: Leitpunkt 3 (was Sie brauchen) vergessen, weil die Lehrerin nur nach dem Tag fragt · den Beruf nur nennen, ohne zu sagen, was man zeigt · keine eigene Frage stellen (Leitpunkt 4) · du statt Sie gegenüber der Lehrerin."
+   }
+  }
+ },
+ "notes": "Quelle: neue PDF (18:50) und /home/claude/tb1/txt6.txt, die beide übereinstimmen; der erste Entwurf nach der alten PDF wurde verworfen. Alle Antworten aus dem Lösungsschlüssel Seite 19 (gegen den Kommentar Seite 24 gegengeprüft). Anzeigen a–l nach den Seitenbildern; Preiszeilen stehen im footer, Dekor (Pfeil, Barcode) weggelassen. Der Kasten 'Vereinsheim zu vermieten' über dem Brief in Sprachbausteine Teil 2 steht als drei eigene Absätze vor der Anrede, da das Schema dafür kein Feld hat. Weiche Trennstriche der Textebene entfernt.",
+ "index": {
+  "short": "Essen ohne Preisschild · Leute von der Küste: Rettungsschwimmer · Hochzeit von Linh",
+  "hoeren": {
+   "t1": "Nachrichten – wie informieren Sie sich?",
+   "t2": "Leute von der Küste: Rettungsschwimmer in Warnemünde",
+   "t3": "Fünf kurze Texte"
+  },
+  "sb1": "Brief an Hannes: Der neue Kleingarten",
+  "sb2": "Anfrage: Vereinsheim für eine Geburtstagsfeier",
+  "schreiben": "Antwort an die Klassenlehrerin: Projektwoche Berufe",
+  "sprechen": {
+   "t2": "Sprachen lernen: im Kurs oder mit einer App?",
+   "t3": "Hochzeit von Linh"
+  }
+ }
+}
